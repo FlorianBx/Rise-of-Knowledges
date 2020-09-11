@@ -2,6 +2,7 @@ const express = require('express');
 const router = express.Router();
 const bcrypt = require('bcrypt'); // <-- is used to hash the password !
 const User = require('../modele/Users');
+const jwt = require('jsonwebtoken');
 
 router.post('/register', async (req, res) => {
     const {username, email, password} = req.body;
@@ -27,13 +28,22 @@ router.post('/register', async (req, res) => {
 router.post('/login', async (req, res) => {
     const {username, password} = req.body;
     const user = await User.findOne({username: username});
+
     if (!user || typeof user === 'undefined')
         return res.status(500).json({error: 'cannot find a user with that username !'});
+
     const verifPassword = await bcrypt.compare(password, user.password);
     if (verifPassword === false || typeof verifPassword === 'undefined')
         return res.status(400).json({error: 'invalid username or password'});
-    // jwt auth part
-    return res.status(200).json({message: 'you are now logged'});
+    const token = await jwt.sign({username: username},
+        process.env.ACCESS_TOKEN_SECRET, {
+            algorithm: "HS256",
+            expiresIn: process.env.ACCESS_TOKEN_LIFE
+        });
+    
+    return res.status(200)
+    .cookie("token", token, { maxAge: 3600, secure: true, httpOnly: true })
+    .json({message: 'you are now logged'});
 })
 
 module.exports = router;

@@ -1,10 +1,8 @@
-const express = require('express');
-const router = express.Router();
-const bcrypt = require('bcrypt'); // <-- is used to hash the password !
-const User = require('../modele/Users');
-const jwt = require('jsonwebtoken');
+import bcrypt from 'bcrypt';
+import User from '../modele/Users';
+import jwt from 'jsonwebtoken';
 
-router.post('/register', async (req, res) => {
+const register = async function (req, res) {
     const {username, email, password} = req.body;
     const hashPassword = await bcrypt.hash(password, 12);
     
@@ -16,16 +14,23 @@ router.post('/register', async (req, res) => {
         email: email,
         password: hashPassword
     })
-    
     const register = await user.save()
     .then(resolve => console.log('user successfully registered !' + resolve))
     .catch(error => console.log('cannot register the user ' + error));
-    // ici mettre en place une authentification !
-    return !register ? res.status(500).json({error: 'cannot register the user'})
-    : res.status(200).json({message: 'user successfully registered !'})
-})
 
-router.post('/login', async (req, res) => {
+    const token = await jwt.sign({username: username},
+        process.env.ACCESS_TOKEN_SECRET, {
+            algorithm: "HS256",
+            expiresIn: process.env.ACCESS_TOKEN_LIFE
+        });
+    
+    return !register ? res.status(500).json({error: 'cannot register the user'})
+    : res.status(200).cookie("token", token, { maxAge: 604800000 }) // 604800000 == 7day
+    .json({message: 'you are now logged'});
+};
+
+const login = async function (req, res, next) {
+
     const {username, password} = req.body;
     const user = await User.findOne({username: username});
 
@@ -40,10 +45,9 @@ router.post('/login', async (req, res) => {
             algorithm: "HS256",
             expiresIn: process.env.ACCESS_TOKEN_LIFE
         });
-    
     return res.status(200)
-    .cookie("token", token, { maxAge: 3600, secure: true, httpOnly: true })
+    .cookie("token", token, { maxAge: 604800000 })
     .json({message: 'you are now logged'});
-})
+};
 
-module.exports = router;
+module.exports = {login, register};

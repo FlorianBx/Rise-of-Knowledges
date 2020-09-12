@@ -1,21 +1,23 @@
-const app = require('express')();
-const bodyParser = require('body-parser');
-const morgan = require('morgan');
-const cookieParser = require('cookie-parser');
+import express from 'express';
+import bodyParser from 'body-parser';
+import morgan from 'morgan';
+import cookieParser from 'cookie-parser';
 
-// setting up morgan for debuggin will not be present in production
+const app = express();
+
+// setting up morgan for debugin will not be present in production
 
 morgan('dev');
 
 // setting up bodyParser and cookieParser
 
 app.use(bodyParser.urlencoded({ extended: true }));
-app.use(bodyParser.json())
+app.use(bodyParser.json());
 app.use(cookieParser());
 
 // require the routes
 
-const users = require('./api/routes/users');
+const {login, register} = require('./api/routes/users');
 
 // require dotenv to use env variable
 
@@ -27,9 +29,13 @@ require('./database/config.js');
 
 // routes
 
-app.use('/', users);
+app.post('/login', login);
+app.post('/register', register);
+
+
 app.get('/', (req, res) => {
     // route de test
+    console.log(req.cookies)
     res.send('<h1>Welcome</h1>')
 })
 

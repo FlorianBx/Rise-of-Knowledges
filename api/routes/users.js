@@ -29,8 +29,7 @@ const register = async function (req, res) {
     .json({message: 'you are now logged'});
 };
 
-const login = async function (req, res, next) {
-
+const login = async function (req, res) {
     const {username, password} = req.body;
     const user = await User.findOne({username: username});
 

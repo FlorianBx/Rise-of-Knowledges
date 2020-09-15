@@ -19,15 +19,38 @@ struct ContentView: View {
                 .frame(width: 250, height: 250)
                 .padding(.bottom, 50)
                 .padding(.top, 100)
-            
-            TextField("Username", text: self.$username)
+
+            HStack (alignment: .center) {
+                TextField("Username", text: $username)
+                    .foregroundColor(.white)
+                    .frame(width: 270, height: 50)
+                if username != "" {
+                    Image(systemName: "xmark.circle.fill")
+                        .imageScale(.large)
+                        .foregroundColor(Color(.systemGray6))
+                        .onTapGesture {
+                            self.username = ""
+                    }
+                }
+            }
                 .padding()
-                .background(Color.gray)
+                .background(Color("DarkBlue"))
                 .cornerRadius(20.0)
-//                .frame(width: 300, height: 50)
-//            Text(username)
-            
-            Button(action: {}) {
+                .padding(.vertical, 10)
+                .frame(minWidth: 0, maxWidth: .infinity, minHeight: 0, maxHeight: 100, alignment: .center)
+
+            Button(action: {
+                guard let encoded = try? JSONEncoder().encode(self.username)
+                    else {
+                        print("Error: Failed to encode username")
+                        return
+                }
+                let url = URL(string: "https://apiDeBod")!
+                var request = URLRequest(url: url)
+                request.setValue("application/json", forHTTPHeaderField: "Content-Type")
+                request.httpMethod = "POST"
+                request.httpBody = encoded
+            }) {
                 Text("Play")
                     .font(.headline)
                     .foregroundColor(.white)
@@ -39,7 +62,7 @@ struct ContentView: View {
             }
             Spacer()
         }
-        .background(Color(red: 0, green: 0, blue: 0.3, opacity: 0.9))
+        .background(Color("NightBlue"))
         .edgesIgnoringSafeArea(.all)
     }
     

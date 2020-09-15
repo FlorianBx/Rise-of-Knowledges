@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		17373BE025103B8300D324BB /* Colors.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 17373BDF25103B8300D324BB /* Colors.xcassets */; };
 		17E7B6F0250F98DC006DF039 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17E7B6EF250F98DC006DF039 /* AppDelegate.swift */; };
 		17E7B6F2250F98DC006DF039 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17E7B6F1250F98DC006DF039 /* SceneDelegate.swift */; };
 		17E7B6F5250F98DC006DF039 /* riseOfKnowledges.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 17E7B6F3250F98DC006DF039 /* riseOfKnowledges.xcdatamodeld */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		17373BDF25103B8300D324BB /* Colors.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Colors.xcassets; sourceTree = "<group>"; };
 		17E7B6EC250F98DC006DF039 /* riseOfKnowledges.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = riseOfKnowledges.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		17E7B6EF250F98DC006DF039 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		17E7B6F1250F98DC006DF039 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -109,6 +111,7 @@
 				17E7B700250F98DF006DF039 /* Info.plist */,
 				17E7B6F3250F98DC006DF039 /* riseOfKnowledges.xcdatamodeld */,
 				17E7B6FA250F98DF006DF039 /* Preview Content */,
+				17373BDF25103B8300D324BB /* Colors.xcassets */,
 			);
 			path = riseOfKnowledges;
 			sourceTree = "<group>";
@@ -244,6 +247,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				17E7B6FF250F98DF006DF039 /* LaunchScreen.storyboard in Resources */,
+				17373BE025103B8300D324BB /* Colors.xcassets in Resources */,
 				17E7B6FC250F98DF006DF039 /* Preview Assets.xcassets in Resources */,
 				17E7B6F9250F98DF006DF039 /* Assets.xcassets in Resources */,
 			);

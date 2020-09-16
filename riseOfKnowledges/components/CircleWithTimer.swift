@@ -10,7 +10,6 @@ import SwiftUI
 
 struct CircleWithTimer: View {
     
-//    let timer: String
     @Binding var value: Int
     
     var body: some View {

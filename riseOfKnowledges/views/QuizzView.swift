@@ -23,6 +23,7 @@ struct QuizzView: View {
         }
         .background(Color("NightBlue"))
         .edgesIgnoringSafeArea(.all)
+        .navigationBarBackButtonHidden(true)
     }
 }
 

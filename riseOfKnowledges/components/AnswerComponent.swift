@@ -12,32 +12,23 @@ struct AnswerComponent: View {
     
     @Binding var answers: Array<String>
     
-    private func showAnswers() {
-        
-    }
-    
     var body: some View {
         VStack {
             ForEach(answers, id: \.self) { item in
-            ZStack {
-                Rectangle()
-                    .fill(Color.blue)
-                    .frame(width: 300, height: 100, alignment: .center)
+                ZStack {
+                    Button(action: {
+                        print(item)
+                    }) {
+                        Text(item)
+                            .foregroundColor(.white)
+                            .frame(width: 300, height: 80, alignment: .center)
+                            .background(Color.pink)
+                    }
                     .cornerRadius(15)
                     .opacity(0.2)
-                    .frame(minWidth: 0, maxWidth: .infinity, minHeight: 0, maxHeight: 200)
-                Text(item)
-                    .foregroundColor(.white)
+                    }.frame(width: 300, height: 100)
+                    .padding(.bottom, -10)
             }
-        }
-            
         }
     }
 }
-
-//struct AnswerComponent_Previews: PreviewProvider {
-//    
-//    static var previews: some View {
-//        AnswerComponent()
-//    }
-//}

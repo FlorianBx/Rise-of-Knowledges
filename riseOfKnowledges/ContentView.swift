@@ -31,7 +31,9 @@ struct ContentView: View {
     var body: some View {
         NavigationView {
             VStack(alignment: .center, spacing: 15) {
-                NavigationLink(destination: QuizzView(), isActive: $showQuizzView) {EmptyView() }
+                NavigationLink(destination: QuizzView(), isActive: $showQuizzView) {
+                    EmptyView()
+                }
                 Image("rok")
                     .resizable()
                     .frame(width: 250, height: 250)

@@ -1,8 +1,9 @@
 import Quizz from '../modele/Quizz';
 
 const getQuizz = async (req, res) => {
-    const {lang} = req.params;
-
+    let {lang} = req.params
+    
+    lang = typeof lang === 'undefined' || !['fr', 'en', 'de', 'it', 'nl'].includes(lang) ? 'en' : lang;
     const queryHelper = [
         {difficulty: 'débutant', qty: 8},
         {difficulty: 'confirmé', qty: 8},
@@ -19,7 +20,8 @@ const getQuizz = async (req, res) => {
         return getQuestion;
     });
     Promise.all(quizz).then(resolve => {
-        res.status(200).json(resolve.flat())
+        console.log(resolve.flat());
+        return res.status(200).json(resolve.flat())
     })
     .catch(error => { return res.status(500).json({error: 'no quizz available ' + error }) });
 }

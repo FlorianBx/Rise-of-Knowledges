@@ -2,7 +2,6 @@ import express from 'express';
 import bodyParser from 'body-parser';
 import morgan from 'morgan';
 import cookieParser from 'cookie-parser';
-
 const app = express();
 
 // setting up morgan for debugin will not be present in production
@@ -14,10 +13,12 @@ morgan('dev');
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 app.use(cookieParser());
-
 // require the routes
 
-const {login, register} = require('./api/routes/users');
+
+import {login, register} from './api/routes/users';
+import getAllData from './database/create_quizz';
+import getQuizz from './api/routes/quizz';
 
 // require dotenv to use env variable
 
@@ -31,7 +32,8 @@ require('./database/config.js');
 
 app.post('/login', login);
 app.post('/register', register);
-
+app.get('/getAllData', getAllData);
+app.get('/getQuizz/:lang', getQuizz);
 
 app.get('/', (req, res) => {
     // route de test

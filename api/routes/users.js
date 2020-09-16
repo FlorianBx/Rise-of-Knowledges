@@ -2,7 +2,7 @@ import bcrypt from 'bcrypt';
 import User from '../modele/Users';
 import jwt from 'jsonwebtoken';
 
-const register = async function (req, res) {
+const register = async (req, res) => {
     const {username, email, password} = req.body;
     const hashPassword = await bcrypt.hash(password, 12);
     
@@ -29,7 +29,7 @@ const register = async function (req, res) {
     .json({message: 'you are now logged'});
 };
 
-const login = async function (req, res) {
+const login = async (req, res) => {
     const {username, password} = req.body;
     const user = await User.findOne({username: username});
 

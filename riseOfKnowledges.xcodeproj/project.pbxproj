@@ -8,6 +8,10 @@
 
 /* Begin PBXBuildFile section */
 		17373BE025103B8300D324BB /* Colors.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 17373BDF25103B8300D324BB /* Colors.xcassets */; };
+		175172112510C29C00446E14 /* QuizzView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 175172102510C29C00446E14 /* QuizzView.swift */; };
+		175172142510C32800446E14 /* CircleWithTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 175172132510C32800446E14 /* CircleWithTimer.swift */; };
+		175172162510FEBC00446E14 /* AnswerComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 175172152510FEBC00446E14 /* AnswerComponent.swift */; };
+		1751721A25110B9300446E14 /* QuestionComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1751721925110B9300446E14 /* QuestionComponent.swift */; };
 		17E7B6F0250F98DC006DF039 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17E7B6EF250F98DC006DF039 /* AppDelegate.swift */; };
 		17E7B6F2250F98DC006DF039 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17E7B6F1250F98DC006DF039 /* SceneDelegate.swift */; };
 		17E7B6F5250F98DC006DF039 /* riseOfKnowledges.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 17E7B6F3250F98DC006DF039 /* riseOfKnowledges.xcdatamodeld */; };
@@ -38,6 +42,10 @@
 
 /* Begin PBXFileReference section */
 		17373BDF25103B8300D324BB /* Colors.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Colors.xcassets; sourceTree = "<group>"; };
+		175172102510C29C00446E14 /* QuizzView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizzView.swift; sourceTree = "<group>"; };
+		175172132510C32800446E14 /* CircleWithTimer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleWithTimer.swift; sourceTree = "<group>"; };
+		175172152510FEBC00446E14 /* AnswerComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnswerComponent.swift; sourceTree = "<group>"; };
+		1751721925110B9300446E14 /* QuestionComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionComponent.swift; sourceTree = "<group>"; };
 		17E7B6EC250F98DC006DF039 /* riseOfKnowledges.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = riseOfKnowledges.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		17E7B6EF250F98DC006DF039 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		17E7B6F1250F98DC006DF039 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -80,6 +88,31 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		17373BE125104FAF00D324BB /* models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = models;
+			sourceTree = "<group>";
+		};
+		17373BE225104FC200D324BB /* views */ = {
+			isa = PBXGroup;
+			children = (
+				175172102510C29C00446E14 /* QuizzView.swift */,
+			);
+			path = views;
+			sourceTree = "<group>";
+		};
+		175172122510C2CA00446E14 /* components */ = {
+			isa = PBXGroup;
+			children = (
+				175172132510C32800446E14 /* CircleWithTimer.swift */,
+				175172152510FEBC00446E14 /* AnswerComponent.swift */,
+				1751721925110B9300446E14 /* QuestionComponent.swift */,
+			);
+			path = components;
+			sourceTree = "<group>";
+		};
 		17E7B6E3250F98DC006DF039 = {
 			isa = PBXGroup;
 			children = (
@@ -103,6 +136,9 @@
 		17E7B6EE250F98DC006DF039 /* riseOfKnowledges */ = {
 			isa = PBXGroup;
 			children = (
+				175172122510C2CA00446E14 /* components */,
+				17373BE225104FC200D324BB /* views */,
+				17373BE125104FAF00D324BB /* models */,
 				17E7B6EF250F98DC006DF039 /* AppDelegate.swift */,
 				17E7B6F1250F98DC006DF039 /* SceneDelegate.swift */,
 				17E7B6F6250F98DC006DF039 /* ContentView.swift */,
@@ -274,10 +310,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				175172162510FEBC00446E14 /* AnswerComponent.swift in Sources */,
+				175172112510C29C00446E14 /* QuizzView.swift in Sources */,
+				175172142510C32800446E14 /* CircleWithTimer.swift in Sources */,
 				17E7B6F0250F98DC006DF039 /* AppDelegate.swift in Sources */,
 				17E7B6F2250F98DC006DF039 /* SceneDelegate.swift in Sources */,
 				17E7B6F7250F98DC006DF039 /* ContentView.swift in Sources */,
 				17E7B6F5250F98DC006DF039 /* riseOfKnowledges.xcdatamodeld in Sources */,
+				1751721A25110B9300446E14 /* QuestionComponent.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

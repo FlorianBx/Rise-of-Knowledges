@@ -10,7 +10,8 @@ const Quizz = mongoose.Schema({
     suggestion: { type: [String] },
     answer: { type: String },
     anecdote: { type: String },
-    rand: { type: Number }
+    rand: { type: Number },
+    extra: {_id: false},
 })
 
 module.exports = mongoose.model('QuizzSchema', Quizz);

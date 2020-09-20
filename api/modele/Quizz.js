@@ -1,6 +1,7 @@
 import mongoose from 'mongoose';
 
 const Quizz = mongoose.Schema({
+    id: {type: ObjectId},
     key: { type: Number },
     lang: { type: String},
     difficulty: { type: String },

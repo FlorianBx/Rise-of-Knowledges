@@ -10,7 +10,11 @@ import SwiftUI
 
 struct QuestionComponent: View {
     
+<<<<<<< HEAD
     @State private var question :String = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s?"
+=======
+    @Binding var question :String
+>>>>>>> dfa9614089c24b76da4727b2e44fbea7c977b744
     
     var body: some View {
         ZStack {
@@ -31,9 +35,12 @@ struct QuestionComponent: View {
         .padding(.bottom, -40)
     }
 }
+<<<<<<< HEAD
 //
 //struct QuestionComponent_Previews: PreviewProvider {
 //    static var previews: some View {
 //        QuestionComponent()
 //    }
 //}
+=======
+>>>>>>> dfa9614089c24b76da4727b2e44fbea7c977b744

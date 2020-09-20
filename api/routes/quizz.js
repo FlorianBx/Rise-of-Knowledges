@@ -20,10 +20,17 @@ const getQuizz = async (req, res) => {
         return getQuestion;
     });
     Promise.all(quizz).then(resolve => {
-        console.log(resolve.flat());
-        return res.status(200).json(resolve.flat())
+        const getQuestion = await Quizz.find(query).limit(value.qty);
+        return getQuestion;
     })
     .catch(error => { return res.status(500).json({error: 'no quizz available ' + error }) });
+}
+
+const postResponse = async (req, res) => {
+    const {lang, username, userData} = req.body;
+    // id difficulty et result
+    
+
 }
 
 module.exports = getQuizz;

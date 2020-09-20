@@ -19,7 +19,7 @@ const getQuizz = async (req, res) => {
         const getQuestion = await Quizz.find(query).limit(value.qty)
         return getQuestion;
     });
-    Promise.all(quizz).then(resolve => {
+    Promise.all(quizz).then(async resolve => {
         const getQuestion = await Quizz.find(query).limit(value.qty);
         return getQuestion;
     })

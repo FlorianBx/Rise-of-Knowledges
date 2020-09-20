@@ -1,6 +1,6 @@
 //Parsing all json file to create a mongo schema
 // require Quizz Schemas
-
+import mongoose from 'mongoose';
 import Quizz from '../api/modele/Quizz';
 
 // getting all datas
@@ -28,6 +28,7 @@ let insertMany = (path, lang, difficulty) => {
     return path.map(async (value, index) => {
         let {question, propositions, réponse, anecdote} = path[index];
         const quizz = new Quizz({
+            id: new mongoose.Types.ObjectId,
             key: index,
             lang: lang,
             difficulty: difficulty,

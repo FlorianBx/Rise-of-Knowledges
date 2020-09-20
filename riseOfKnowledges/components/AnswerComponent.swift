@@ -25,8 +25,9 @@ struct AnswerComponent: View {
                             .background(Color.pink)
                     }
                     .cornerRadius(15)
-                    .opacity(0.2)
-                    }.frame(width: 300, height: 100)
+                    .opacity(0.6)
+                    }
+                    .frame(width: 300, height: 100)
                     .padding(.bottom, -10)
             }
         }

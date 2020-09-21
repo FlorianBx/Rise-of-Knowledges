@@ -13,12 +13,3 @@ struct ContentView: View {
         Home()
     }
 }
-
-
-// ### DEBUG ###
-struct ContentView_Previews: PreviewProvider {
-    static var previews: some View {
-        ContentView()
-    }
-}
-// ############

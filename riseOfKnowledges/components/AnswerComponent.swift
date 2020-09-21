@@ -10,14 +10,14 @@ import SwiftUI
 
 struct AnswerComponent: View {
     
-    @Binding var answers: Array<String>
+    var answers: Array<String>
     
     var body: some View {
         VStack {
             ForEach(answers, id: \.self) { item in
                 ZStack {
                     Button(action: {
-                        print(item)
+                        print(item) // SEND ANSWER HERE !!!!
                     }) {
                         Text(item)
                             .foregroundColor(.white)

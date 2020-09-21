@@ -10,7 +10,7 @@ import SwiftUI
 
 struct QuestionComponent: View {
     
-    @Binding var question :String
+    var question :String
     
     var body: some View {
         ZStack {

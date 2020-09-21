@@ -15,10 +15,6 @@ struct QuizzModel : Decodable, Identifiable {
     var difficulty: String
     var question: String
     var answer: String
+    var suggestion: [String]
     var anecdote: String
-    
-//    var userId: Int
-//    var id: Int
-//    var title: String
-//    var body: String
 }

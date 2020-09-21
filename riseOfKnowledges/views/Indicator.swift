@@ -16,7 +16,5 @@ struct Indicator : UIViewRepresentable {
         return view
     }
     
-    func updateUIView(_ uiView: UIActivityIndicatorView, context: Context) {
-        
-    }
+    func updateUIView(_ uiView: UIActivityIndicatorView, context: Context) { }
 }

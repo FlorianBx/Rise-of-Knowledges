@@ -14,7 +14,6 @@ class FetchQuizz : ObservableObject {
     @Published var quizz: [QuizzModel] = []
     
     let url = "http://localhost:3000/getQuizz/\(Locale.current.languageCode!)"
-//    let url = "https://jsonplaceholder.typicode.com/posts"
     
     func fetchQuizzDatas() {
         let urlSession = URLSession(configuration: .default)

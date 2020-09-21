@@ -13,21 +13,6 @@ struct Home: View {
     @State private var username: String = ""
     @State private var showQuizzView: Bool = false
     
-    private func postName() {
-        guard let encoded = try? JSONEncoder().encode(self.username)
-        else {
-            print("Error: Failed to encode username")
-            return
-        }
-        let url = URL(string: "https://apiDeBod")!
-        var request = URLRequest(url: url)
-        request.setValue("application/json", forHTTPHeaderField: "Content-Type")
-        request.httpMethod = "POST"
-        request.httpBody = encoded
-        print(username)
-        self.showQuizzView = true
-    }
-    
     var body: some View {
         ZStack {
             NavigationView {
@@ -63,8 +48,8 @@ struct Home: View {
                     .padding(.vertical, 10)
                     .frame(minWidth: 0, maxWidth: .infinity, minHeight: 0, maxHeight: 100, alignment: .center)
                     
-                    Button(action: postName) {
-                        Text(Locale.current.languageCode!)
+                    Button(action: { self.showQuizzView = true }) {
+                        Text("Play")
                             .font(.headline)
                             .foregroundColor(.white)
                             .padding()
@@ -75,15 +60,9 @@ struct Home: View {
                     }
                     Spacer()
                 }
+                .background(Color("NightBlue"))
+                .edgesIgnoringSafeArea(.all)
             }
         }
-        .background(Color("NightBlue"))
-        .edgesIgnoringSafeArea(.all)
-    }
-}
-
-struct Home_Previews: PreviewProvider {
-    static var previews: some View {
-        Home()
     }
 }

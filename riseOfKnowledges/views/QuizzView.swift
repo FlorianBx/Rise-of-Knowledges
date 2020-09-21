@@ -11,9 +11,7 @@ import SwiftUI
 struct QuizzView: View {
     
     @ObservedObject var quizzDatas = FetchQuizz()
-    
-    @State private var Questions :String = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s?"
-    @State private var Answers :Array<String> = ["Coucou1", "Hello World", "OhMy GOSH", "What the fuck you doing here !!!"]
+    @State private var questionNumber = 0
     
     var body: some View {
         VStack {
@@ -21,17 +19,15 @@ struct QuizzView: View {
                 Indicator()
             } else {
                 VStack {
-                ForEach(self.quizzDatas.quizz) { quiz in
+                    Spacer()
                     VStack {
-                    Text(quiz.question)
+                        Spacer()
+                        QuestionComponent(question: self.quizzDatas.quizz[questionNumber].question)
+                        Spacer()
+                        AnswerComponent(answers: self.quizzDatas.quizz[questionNumber].suggestion)
+                        Spacer()
                     }
                 }
-            }
-//                Spacer()
-//                QuestionComponent(question: $Questions)
-//                Spacer()
-//                AnswerComponent(answers: $Answers)
-//                Spacer()
             }
         }.onAppear() {
             self.quizzDatas.fetchQuizzDatas()

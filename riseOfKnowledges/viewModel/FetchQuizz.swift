@@ -22,7 +22,7 @@ class FetchQuizz : ObservableObject {
             
             do {
                 let decoder = try JSONDecoder().decode([QuizzModel].self, from: quizzDatas)
-                print("API -> \(decoder)")
+//                print("API -> \(decoder)")
                 DispatchQueue.main.async {
                     self.quizz = decoder
                 }

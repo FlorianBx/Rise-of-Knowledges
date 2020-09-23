@@ -19,6 +19,8 @@
 		1722DDB72512813100300699 /* QuizzView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1722DDB62512813100300699 /* QuizzView.swift */; };
 		1722DDB92512815C00300699 /* AnswerComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1722DDB82512815C00300699 /* AnswerComponent.swift */; };
 		1722DDBB2512817900300699 /* QuestionComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1722DDBA2512817900300699 /* QuestionComponent.swift */; };
+		172CB45A251B973600E589C1 /* ScoreView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 172CB459251B973600E589C1 /* ScoreView.swift */; };
+		174508E32518ECE4008A129B /* ResultView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 174508E22518ECE4008A129B /* ResultView.swift */; };
 		17E3ACD12513880000B8C82F /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17E3ACD02513880000B8C82F /* Home.swift */; };
 		17E3ACD9251388C500B8C82F /* QuizzModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17E3ACD8251388C500B8C82F /* QuizzModel.swift */; };
 		17E3ACDE25138A4900B8C82F /* FetchQuizz.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17E3ACDD25138A4900B8C82F /* FetchQuizz.swift */; };
@@ -61,6 +63,8 @@
 		1722DDB62512813100300699 /* QuizzView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizzView.swift; sourceTree = "<group>"; };
 		1722DDB82512815C00300699 /* AnswerComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnswerComponent.swift; sourceTree = "<group>"; };
 		1722DDBA2512817900300699 /* QuestionComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionComponent.swift; sourceTree = "<group>"; };
+		172CB459251B973600E589C1 /* ScoreView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreView.swift; sourceTree = "<group>"; };
+		174508E22518ECE4008A129B /* ResultView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultView.swift; sourceTree = "<group>"; };
 		17E3ACD02513880000B8C82F /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 		17E3ACD8251388C500B8C82F /* QuizzModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizzModel.swift; sourceTree = "<group>"; };
 		17E3ACDD25138A4900B8C82F /* FetchQuizz.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FetchQuizz.swift; sourceTree = "<group>"; };
@@ -172,6 +176,8 @@
 				1722DDB62512813100300699 /* QuizzView.swift */,
 				17E3ACD02513880000B8C82F /* Home.swift */,
 				17EB070B2514E9C4008B6ECF /* Indicator.swift */,
+				174508E22518ECE4008A129B /* ResultView.swift */,
+				172CB459251B973600E589C1 /* ScoreView.swift */,
 			);
 			path = views;
 			sourceTree = "<group>";
@@ -328,11 +334,13 @@
 				17EB070C2514E9C4008B6ECF /* Indicator.swift in Sources */,
 				17E3ACDE25138A4900B8C82F /* FetchQuizz.swift in Sources */,
 				1722DD7F251280D900300699 /* AppDelegate.swift in Sources */,
+				174508E32518ECE4008A129B /* ResultView.swift in Sources */,
 				1722DDBB2512817900300699 /* QuestionComponent.swift in Sources */,
 				1722DD81251280D900300699 /* SceneDelegate.swift in Sources */,
 				1722DDB92512815C00300699 /* AnswerComponent.swift in Sources */,
 				1722DD86251280D900300699 /* ContentView.swift in Sources */,
 				17E3ACD12513880000B8C82F /* Home.swift in Sources */,
+				172CB45A251B973600E589C1 /* ScoreView.swift in Sources */,
 				1722DD84251280D900300699 /* riseOfKnowledges.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -431,7 +439,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -487,7 +495,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;

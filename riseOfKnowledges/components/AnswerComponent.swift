@@ -10,25 +10,43 @@ import SwiftUI
 
 struct AnswerComponent: View {
     
-    var answers: Array<String>
+    @State private var showResultView: Bool = false
+    
+    var questionNumber: Int
+    var suggestions: Array<String>
+    var question: String
+    var answer: String
+    var anecdote: String
     
     var body: some View {
         VStack {
-            ForEach(answers, id: \.self) { item in
+            ForEach(suggestions, id: \.self) { item in
                 ZStack {
-                    Button(action: {
-                        print(item) // SEND ANSWER HERE !!!!
-                    }) {
-                        Text(item)
-                            .foregroundColor(.white)
-                            .frame(width: 300, height: 80, alignment: .center)
-                            .background(Color.pink)
-                    }
-                    .cornerRadius(15)
-                    .opacity(0.6)
+                    VStack {
+                        Button(action: {
+                            self.showResultView = true
+                        }) {
+                            Text(item)
+                                .foregroundColor(.white)
+                                .frame(width: 300, height: 80, alignment: .center)
+                                .background(Color.pink)
+                        }
+                        .fullScreenCover(isPresented: $showResultView, content: {
+                            ResultView(
+                                question: question,
+                                isCorrect: item == answer ? true : false,
+                                answer: answer,
+                                anecdote: anecdote,
+                                questionNumber: questionNumber
+                            )
+                        })
+                        .cornerRadius(15)
+                        .opacity(0.6)
+                        
                     }
                     .frame(width: 300, height: 100)
                     .padding(.bottom, -10)
+                }
             }
         }
     }

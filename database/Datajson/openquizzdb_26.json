@@ -1,0 +1,2216 @@
+{                                     
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Jeux olympiques (L'important c'est de participer)",         
+  "difficulté": "3 / 5",
+  "quizz": {
+    "fr": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "À quel historien et pédagogue français doit-on les Jeux olympiques modernes ?",
+        "propositions": [
+          "Pierre de Coubertin",
+          "Napoléon Bonaparte",
+          "Pie XI",
+          "Duc de Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La médaille Pierre-de-Coubertin, attribuée par le CIO, démontre aux Jeux olympiques un véritable esprit sportif."
+      },
+      {
+        "id": 2,
+        "question": "Combien y a-t-il de couloirs dans une piscine olympique ?",
+        "propositions": [
+          "10",
+          "12",
+          "14",
+          "6"
+        ],
+        "réponse": "10",
+        "anecdote": "Seules les piscines d'eau douce homologuées conviennent aux compétitions organisées dans ces grands bassins."
+      },
+      {
+        "id": 3,
+        "question": "Qui a été élu journaliste français le plus chauvin des Jeux olympiques de 2012 ?",
+        "propositions": [
+          "Nelson Monfort",
+          "Christian Jeanpierre",
+          "Georges Cazeneuve",
+          "Michel Denisot"
+        ],
+        "réponse": "Nelson Monfort",
+        "anecdote": "Nelson Monfort commente le patinage artistique mais surtout interviewe les sportifs dans de nombreuses disciplines."
+      },
+      {
+        "id": 4,
+        "question": "Dans quelle ville se dérouleront les Jeux olympiques de 2016, malgré son insécurité ?",
+        "propositions": [
+          "Pékin",
+          "Londres",
+          "Rio de Janeiro",
+          "Tokyo"
+        ],
+        "réponse": "Rio de Janeiro",
+        "anecdote": "Ces JO seront les premiers à se dérouler en Amérique du Sud et les premiers à se dérouler dans un pays lusophone."
+      },
+      {
+        "id": 5,
+        "question": "Quelle épreuve olympique commence hors du stade pour se terminer dans ses murs ?",
+        "propositions": [
+          "Le marathon",
+          "Le cross-country",
+          "Le 10 000 m",
+          "Le trail"
+        ],
+        "réponse": "Le marathon",
+        "anecdote": "Le marathon est une épreuve sportive de course à pied qui se dispute généralement sur une distance de 42 kilomètres."
+      },
+      {
+        "id": 6,
+        "question": "Lequel des anneaux du drapeau olympique se retrouve le plus près du mât ?",
+        "propositions": [
+          "Bleu",
+          "Rouge",
+          "Jaune",
+          "Vert"
+        ],
+        "réponse": "Bleu",
+        "anecdote": "Les cinq anneaux entrelacés représentent les cinq continents unis par l'olympisme, et les six couleurs représentent toutes les nations."
+      },
+      {
+        "id": 7,
+        "question": "Quel pongiste belge a participé à ses septièmes Jeux olympiques à l'âge de 42 ans ?",
+        "propositions": [
+          "Grégory Obert",
+          "Martin Bratanov",
+          "Jean-Michel Saive",
+          "Yannick Vostes"
+        ],
+        "réponse": "Jean-Michel Saive",
+        "anecdote": "Jean-Michel Saive a également porté le drapeau de la délégation belge lors des Jeux olympiques de 1996 et 2004."
+      },
+      {
+        "id": 8,
+        "question": "Qui est la première gymnaste à avoir obtenu un 10 aux Jeux olympiques ?",
+        "propositions": [
+          "Diana Mocanu",
+          "Nadia Comaneci",
+          "Doina Ignat",
+          "Tatiana Gutsu"
+        ],
+        "réponse": "Nadia Comaneci",
+        "anecdote": "Nadia Comaneci, qui possède une double nationalité, a donné une dimension populaire et médiatique inégalée à ce sport."
+      },
+      {
+        "id": 9,
+        "question": "Quelle est la couleur de fond du drapeau olympique, célèbre pour ses cinq anneaux ?",
+        "propositions": [
+          "Bleue",
+          "Verte",
+          "Jaune",
+          "Blanche"
+        ],
+        "réponse": "Blanche",
+        "anecdote": "Aux Jeux de 2008, l'association Reporters sans frontières a détourné le drapeau olympique en remplaçant le fond blanc par un fond noir."
+      },
+      {
+        "id": 10,
+        "question": "Qui était Premier ministre britannique lors des Jeux olympiques de Londres en 2012 ?",
+        "propositions": [
+          "Tony Blair",
+          "David Cameron",
+          "Gordon Brown",
+          "James Callaghan"
+        ],
+        "réponse": "David Cameron",
+        "anecdote": "Diplômé du Brasenose College de l'université d'Oxford, il fut conseiller politique de Margaret Thatcher puis de John Major."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Quel athlète Jamaïcain a marqué les Jeux olympiques de 2008 ?",
+        "propositions": [
+          "Lerone Clarke",
+          "Ray Stewart",
+          "Usain Bolt",
+          "Dexter Lee"
+        ],
+        "réponse": "Usain Bolt",
+        "anecdote": "Spécialiste des épreuves de sprint, Usain Bolt est également l'athlète le plus décoré des championnats du monde d'athlétisme."
+      },
+      {
+        "id": 12,
+        "question": "Quelle discipline olympique associe le saut à ski au ski de fond ?",
+        "propositions": [
+          "Le snowboard",
+          "Le biathlon",
+          "Le curling",
+          "Le combiné nordique"
+        ],
+        "réponse": "Le combiné nordique",
+        "anecdote": "Créé en Norvège à la fin du XIXe siècle, le combiné nordique est au programme olympique depuis la première édition."
+      },
+      {
+        "id": 13,
+        "question": "En 2012, quel type de passeport est apparu aux Jeux olympiques de Londres ?",
+        "propositions": [
+          "Thermique",
+          "Automatique",
+          "Biologique",
+          "Télépathique"
+        ],
+        "réponse": "Biologique",
+        "anecdote": "Il permet de déceler des violations de la réglementation antidopage en détectant des variations anormales de marqueurs biologiques."
+      },
+      {
+        "id": 14,
+        "question": "Quelle sportive française a participé à sept éditions des Jeux olympiques ?",
+        "propositions": [
+          "Sophie Creux",
+          "Jeannie Longo",
+          "Marion Rousse",
+          "Sabrina Jonnier"
+        ],
+        "réponse": "Jeannie Longo",
+        "anecdote": "Au total, Jeannie Longo a remporté 9 titres de championne du monde sur route et un titre olympique."
+      },
+      {
+        "id": 15,
+        "question": "Quel objet les femmes ne peuvent-elles jeter aux Jeux olympiques que depuis 1995 ?",
+        "propositions": [
+          "Le poids",
+          "Le javelot",
+          "Le disque",
+          "Le marteau"
+        ],
+        "réponse": "Le marteau",
+        "anecdote": "Le lancer du marteau pour femmes a eu lieu pour la première fois aux Jeux olympiques d'été de 2000 à Sydney."
+      },
+      {
+        "id": 16,
+        "question": "Quel équipement très utilisé en athlétisme doit peser au moins 50 grammes ?",
+        "propositions": [
+          "Le disque",
+          "Le sifflet",
+          "Le javelot",
+          "Le témoin"
+        ],
+        "réponse": "Le témoin",
+        "anecdote": "Le but du relais est de parcourir la distance le plus rapidement possible tout en assurant la transmission d'un témoin."
+      },
+      {
+        "id": 17,
+        "question": "Dans quelle épreuve olympique peut-on trouver des hommes couchés par terre ?",
+        "propositions": [
+          "Le croquet",
+          "Le curling",
+          "Le softball",
+          "Le tir"
+        ],
+        "réponse": "Le tir",
+        "anecdote": "Le tir inclus deux types principaux de compétition, le tir sur cible avec des pistolets ou des carabines et le tir sur plateau."
+      },
+      {
+        "id": 18,
+        "question": "Quel sportif, né le 30 juin 1985 à Towson, est le plus titré des Jeux olympiques ?",
+        "propositions": [
+          "Andriy Serdinov",
+          "Michael Phelps",
+          "Mark Spitz",
+          "Ian Thorpe"
+        ],
+        "réponse": "Michael Phelps",
+        "anecdote": "En grand bassin, l'Américain est le nageur le plus médaillé de l'histoire avec 22 médailles dont 18 d'or."
+      },
+      {
+        "id": 19,
+        "question": "Comment appelle-t-on la période de quatre ans entre deux Jeux olympiques ?",
+        "propositions": [
+          "Une tierce",
+          "Un lustre",
+          "Un quinquennat",
+          "Une olympiade"
+        ],
+        "réponse": "Une olympiade",
+        "anecdote": "L'olympiade est la base de la chronologie du monde grec à partir d'Alexandre le Grand."
+      },
+      {
+        "id": 20,
+        "question": "Quel athlète a été champion olympique du saut en longueur à Atlanta en 1996 ?",
+        "propositions": [
+          "Dwight Phillips",
+          "Carl Lewis",
+          "Michael Johnson",
+          "Linford Christie"
+        ],
+        "réponse": "Carl Lewis",
+        "anecdote": "Sa carrière, plusieurs fois interrompue, a duré de 1979 à 1996, année durant laquelle il a conquis son dernier titre olympique."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "En quelle année les Jeux olympiques se sont-ils déroulés à Paris pour la première fois ?",
+        "propositions": [
+          "1908",
+          "1900",
+          "1928",
+          "1920"
+        ],
+        "réponse": "1900",
+        "anecdote": "Aucune cérémonie d'ouverture ou de fermeture n'a été prévue au programme, mis à part un défilé des gymnastes à Vincennes."
+      },
+      {
+        "id": 22,
+        "question": "Lequel de ces sports ne figure pas parmi les épreuves disputées en pentathlon moderne ?",
+        "propositions": [
+          "Le cyclisme",
+          "La natation",
+          "Le tir au pistolet",
+          "La course à pied"
+        ],
+        "réponse": "Le cyclisme",
+        "anecdote": "Les épreuves du pentathlon moderne sont l'escrime, la natation, l'équitation, le tir au pistolet et la course à pied."
+      },
+      {
+        "id": 23,
+        "question": "Quel chirurgien orthopédiste a été élu en 2001 président du Comité international olympique ?",
+        "propositions": [
+          "Jacques Rogge",
+          "René Fasel",
+          "Marc Hodler",
+          "Jean-Claude Killy"
+        ],
+        "réponse": "Jacques Rogge",
+        "anecdote": "Après une carrière sportive remplie, en voile comme skipper puis au  rugby à XV, Jacques Rogge s'oriente vers l'administration sportive."
+      },
+      {
+        "id": 24,
+        "question": "Quelle est la première ville à avoir accueilli trois fois les Jeux olympiques ?",
+        "propositions": [
+          "Paris",
+          "Athènes",
+          "Londres",
+          "Los Angeles"
+        ],
+        "réponse": "Londres",
+        "anecdote": "Les JO sont un événement international majeur, regroupant les sports d'été et d'hiver, auquel des milliers d'athlètes participent."
+      },
+      {
+        "id": 25,
+        "question": "Dans quelle discipline olympique le parcours est-il toujours triangulaire ?",
+        "propositions": [
+          "Le triathlon",
+          "Le canoë-kayak",
+          "La voile",
+          "L'aviron"
+        ],
+        "réponse": "La voile",
+        "anecdote": "Le plus grand catamaran à voile jamais construit est le Douce France : 42 mètres de grand luxe et de teck."
+      },
+      {
+        "id": 26,
+        "question": "En 1980, lequel de ces pays a totalement boycotté les Jeux olympiques de Moscou ?",
+        "propositions": [
+          "La Norvège",
+          "La Grande-Bretagne",
+          "La Suède",
+          "La France"
+        ],
+        "réponse": "La Norvège",
+        "anecdote": "Une cinquantaine de nations ont boycotté ces Jeux à la suite de l'invasion de l'Afghanistan par l'Union Soviétique en 1979."
+      },
+      {
+        "id": 27,
+        "question": "Quel nageur olympique de Guinée équatoriale a connu une célébrité éphémère ?",
+        "propositions": [
+          "Ian Thorpe",
+          "Éric Moussambani",
+          "Bill Kirby",
+          "Jens Kruppa"
+        ],
+        "réponse": "Éric Moussambani",
+        "anecdote": "Son courage à Sydney en 2000 sera perçu comme un symbole de l'esprit olympique, après un 100 mètres nage libre en 1m 52s."
+      },
+      {
+        "id": 28,
+        "question": "Quel animal a représenté la mascotte des Jeux olympiques de Moscou en 1980 ?",
+        "propositions": [
+          "Un loup",
+          "Un renne",
+          "Un ours",
+          "Un élan"
+        ],
+        "réponse": "Un ours",
+        "anecdote": "La mascotte officielle, l'ours Misha, a été imaginée par Victor Tchijikov, auteur de livres pour enfants."
+      },
+      {
+        "id": 29,
+        "question": "Combien de médailles olympiques ont été distribuées aux Jeux de 2012 ?",
+        "propositions": [
+          "3 500",
+          "5 600",
+          "4 700",
+          "2 900"
+        ],
+        "réponse": "4 700",
+        "anecdote": "Londres est la première ville à accueillir les Jeux olympiques modernes pour la troisième fois."
+      },
+      {
+        "id": 30,
+        "question": "En quelle année les Jeux olympiques ont-ils été télévisés pour la première fois ?",
+        "propositions": [
+          "1936",
+          "1947",
+          "1963",
+          "1952"
+        ],
+        "réponse": "1936",
+        "anecdote": "Pour la première fois, la flamme olympique sera introduite dans une cérémonie d'ouverture de Jeux olympiques."
+      }
+    ]
+    },
+    "en": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "To what French historian and educator do we owe the modern Olympic Games ?",
+        "propositions": [
+          "Pierre de Coubertin",
+          "Pius XI",
+          "Napoleon Bonaparte",
+          "Duke of Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "The Pierre-de-Coubertin medal, awarded by the IOC, demonstrates a real sporting spirit at the Olympic Games."
+      },
+      {
+        "id": 2,
+        "question": "To what French historian and educator do we owe the modern Olympic Games ?",
+        "propositions": [
+          "Duke of Windsor",
+          "Napoleon Bonaparte",
+          "Pius XI",
+          "Pierre de Coubertin"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "The Pierre-de-Coubertin medal, awarded by the IOC, demonstrates a real sporting spirit at the Olympic Games."
+      },
+      {
+        "id": 3,
+        "question": "To what French historian and educator do we owe the modern Olympic Games ?",
+        "propositions": [
+          "Napoleon Bonaparte",
+          "Pierre de Coubertin",
+          "Duke of Windsor",
+          "Pius XI"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "The Pierre-de-Coubertin medal, awarded by the IOC, demonstrates a real sporting spirit at the Olympic Games."
+      },
+      {
+        "id": 4,
+        "question": "To what French historian and educator do we owe the modern Olympic Games ?",
+        "propositions": [
+          "Duke of Windsor",
+          "Napoleon Bonaparte",
+          "Pierre de Coubertin",
+          "Pius XI"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "The Pierre-de-Coubertin medal, awarded by the IOC, demonstrates a real sporting spirit at the Olympic Games."
+      },
+      {
+        "id": 5,
+        "question": "To what French historian and educator do we owe the modern Olympic Games ?",
+        "propositions": [
+          "Pierre de Coubertin",
+          "Pius XI",
+          "Duke of Windsor",
+          "Napoleon Bonaparte"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "The Pierre-de-Coubertin medal, awarded by the IOC, demonstrates a real sporting spirit at the Olympic Games."
+      },
+      {
+        "id": 6,
+        "question": "To what French historian and educator do we owe the modern Olympic Games ?",
+        "propositions": [
+          "Napoleon Bonaparte",
+          "Pius XI",
+          "Duke of Windsor",
+          "Pierre de Coubertin"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "The Pierre-de-Coubertin medal, awarded by the IOC, demonstrates a real sporting spirit at the Olympic Games."
+      },
+      {
+        "id": 7,
+        "question": "To what French historian and educator do we owe the modern Olympic Games ?",
+        "propositions": [
+          "Pierre de Coubertin",
+          "Duke of Windsor",
+          "Napoleon Bonaparte",
+          "Pius XI"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "The Pierre-de-Coubertin medal, awarded by the IOC, demonstrates a real sporting spirit at the Olympic Games."
+      },
+      {
+        "id": 8,
+        "question": "To what French historian and educator do we owe the modern Olympic Games ?",
+        "propositions": [
+          "Pierre de Coubertin",
+          "Pius XI",
+          "Duke of Windsor",
+          "Napoleon Bonaparte"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "The Pierre-de-Coubertin medal, awarded by the IOC, demonstrates a real sporting spirit at the Olympic Games."
+      },
+      {
+        "id": 9,
+        "question": "To what French historian and educator do we owe the modern Olympic Games ?",
+        "propositions": [
+          "Duke of Windsor",
+          "Pius XI",
+          "Napoleon Bonaparte",
+          "Pierre de Coubertin"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "The Pierre-de-Coubertin medal, awarded by the IOC, demonstrates a real sporting spirit at the Olympic Games."
+      },
+      {
+        "id": 10,
+        "question": "To what French historian and educator do we owe the modern Olympic Games ?",
+        "propositions": [
+          "Pius XI",
+          "Napoleon Bonaparte",
+          "Pierre de Coubertin",
+          "Duke of Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "The Pierre-de-Coubertin medal, awarded by the IOC, demonstrates a real sporting spirit at the Olympic Games."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "To what French historian and educator do we owe the modern Olympic Games ?",
+        "propositions": [
+          "Pius XI",
+          "Pierre de Coubertin",
+          "Duke of Windsor",
+          "Napoleon Bonaparte"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "The Pierre-de-Coubertin medal, awarded by the IOC, demonstrates a real sporting spirit at the Olympic Games."
+      },
+      {
+        "id": 12,
+        "question": "To what French historian and educator do we owe the modern Olympic Games ?",
+        "propositions": [
+          "Napoleon Bonaparte",
+          "Pius XI",
+          "Duke of Windsor",
+          "Pierre de Coubertin"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "The Pierre-de-Coubertin medal, awarded by the IOC, demonstrates a real sporting spirit at the Olympic Games."
+      },
+      {
+        "id": 13,
+        "question": "To what French historian and educator do we owe the modern Olympic Games ?",
+        "propositions": [
+          "Napoleon Bonaparte",
+          "Pierre de Coubertin",
+          "Pius XI",
+          "Duke of Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "The Pierre-de-Coubertin medal, awarded by the IOC, demonstrates a real sporting spirit at the Olympic Games."
+      },
+      {
+        "id": 14,
+        "question": "To what French historian and educator do we owe the modern Olympic Games ?",
+        "propositions": [
+          "Duke of Windsor",
+          "Pius XI",
+          "Napoleon Bonaparte",
+          "Pierre de Coubertin"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "The Pierre-de-Coubertin medal, awarded by the IOC, demonstrates a real sporting spirit at the Olympic Games."
+      },
+      {
+        "id": 15,
+        "question": "To what French historian and educator do we owe the modern Olympic Games ?",
+        "propositions": [
+          "Napoleon Bonaparte",
+          "Pierre de Coubertin",
+          "Pius XI",
+          "Duke of Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "The Pierre-de-Coubertin medal, awarded by the IOC, demonstrates a real sporting spirit at the Olympic Games."
+      },
+      {
+        "id": 16,
+        "question": "To what French historian and educator do we owe the modern Olympic Games ?",
+        "propositions": [
+          "Napoleon Bonaparte",
+          "Pierre de Coubertin",
+          "Pius XI",
+          "Duke of Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "The Pierre-de-Coubertin medal, awarded by the IOC, demonstrates a real sporting spirit at the Olympic Games."
+      },
+      {
+        "id": 17,
+        "question": "To what French historian and educator do we owe the modern Olympic Games ?",
+        "propositions": [
+          "Napoleon Bonaparte",
+          "Pierre de Coubertin",
+          "Duke of Windsor",
+          "Pius XI"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "The Pierre-de-Coubertin medal, awarded by the IOC, demonstrates a real sporting spirit at the Olympic Games."
+      },
+      {
+        "id": 18,
+        "question": "To what French historian and educator do we owe the modern Olympic Games ?",
+        "propositions": [
+          "Pius XI",
+          "Duke of Windsor",
+          "Pierre de Coubertin",
+          "Napoleon Bonaparte"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "The Pierre-de-Coubertin medal, awarded by the IOC, demonstrates a real sporting spirit at the Olympic Games."
+      },
+      {
+        "id": 19,
+        "question": "To what French historian and educator do we owe the modern Olympic Games ?",
+        "propositions": [
+          "Duke of Windsor",
+          "Pierre de Coubertin",
+          "Pius XI",
+          "Napoleon Bonaparte"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "The Pierre-de-Coubertin medal, awarded by the IOC, demonstrates a real sporting spirit at the Olympic Games."
+      },
+      {
+        "id": 20,
+        "question": "To what French historian and educator do we owe the modern Olympic Games ?",
+        "propositions": [
+          "Pius XI",
+          "Pierre de Coubertin",
+          "Duke of Windsor",
+          "Napoleon Bonaparte"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "The Pierre-de-Coubertin medal, awarded by the IOC, demonstrates a real sporting spirit at the Olympic Games."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "To what French historian and educator do we owe the modern Olympic Games ?",
+        "propositions": [
+          "Pius XI",
+          "Duke of Windsor",
+          "Pierre de Coubertin",
+          "Napoleon Bonaparte"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "The Pierre-de-Coubertin medal, awarded by the IOC, demonstrates a real sporting spirit at the Olympic Games."
+      },
+      {
+        "id": 22,
+        "question": "To what French historian and educator do we owe the modern Olympic Games ?",
+        "propositions": [
+          "Duke of Windsor",
+          "Pierre de Coubertin",
+          "Pius XI",
+          "Napoleon Bonaparte"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "The Pierre-de-Coubertin medal, awarded by the IOC, demonstrates a real sporting spirit at the Olympic Games."
+      },
+      {
+        "id": 23,
+        "question": "To what French historian and educator do we owe the modern Olympic Games ?",
+        "propositions": [
+          "Duke of Windsor",
+          "Napoleon Bonaparte",
+          "Pierre de Coubertin",
+          "Pius XI"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "The Pierre-de-Coubertin medal, awarded by the IOC, demonstrates a real sporting spirit at the Olympic Games."
+      },
+      {
+        "id": 24,
+        "question": "To what French historian and educator do we owe the modern Olympic Games ?",
+        "propositions": [
+          "Napoleon Bonaparte",
+          "Duke of Windsor",
+          "Pius XI",
+          "Pierre de Coubertin"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "The Pierre-de-Coubertin medal, awarded by the IOC, demonstrates a real sporting spirit at the Olympic Games."
+      },
+      {
+        "id": 25,
+        "question": "To what French historian and educator do we owe the modern Olympic Games ?",
+        "propositions": [
+          "Pius XI",
+          "Pierre de Coubertin",
+          "Duke of Windsor",
+          "Napoleon Bonaparte"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "The Pierre-de-Coubertin medal, awarded by the IOC, demonstrates a real sporting spirit at the Olympic Games."
+      },
+      {
+        "id": 26,
+        "question": "To what French historian and educator do we owe the modern Olympic Games ?",
+        "propositions": [
+          "Pius XI",
+          "Pierre de Coubertin",
+          "Napoleon Bonaparte",
+          "Duke of Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "The Pierre-de-Coubertin medal, awarded by the IOC, demonstrates a real sporting spirit at the Olympic Games."
+      },
+      {
+        "id": 27,
+        "question": "To what French historian and educator do we owe the modern Olympic Games ?",
+        "propositions": [
+          "Pius XI",
+          "Napoleon Bonaparte",
+          "Pierre de Coubertin",
+          "Duke of Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "The Pierre-de-Coubertin medal, awarded by the IOC, demonstrates a real sporting spirit at the Olympic Games."
+      },
+      {
+        "id": 28,
+        "question": "To what French historian and educator do we owe the modern Olympic Games ?",
+        "propositions": [
+          "Napoleon Bonaparte",
+          "Pius XI",
+          "Duke of Windsor",
+          "Pierre de Coubertin"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "The Pierre-de-Coubertin medal, awarded by the IOC, demonstrates a real sporting spirit at the Olympic Games."
+      },
+      {
+        "id": 29,
+        "question": "To what French historian and educator do we owe the modern Olympic Games ?",
+        "propositions": [
+          "Napoleon Bonaparte",
+          "Pius XI",
+          "Pierre de Coubertin",
+          "Duke of Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "The Pierre-de-Coubertin medal, awarded by the IOC, demonstrates a real sporting spirit at the Olympic Games."
+      },
+      {
+        "id": 30,
+        "question": "To what French historian and educator do we owe the modern Olympic Games ?",
+        "propositions": [
+          "Pius XI",
+          "Pierre de Coubertin",
+          "Napoleon Bonaparte",
+          "Duke of Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "The Pierre-de-Coubertin medal, awarded by the IOC, demonstrates a real sporting spirit at the Olympic Games."
+      }
+    ]
+    },
+    "de": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Welchem französischen Historiker und Pädagogen verdanken wir die modernen Olympischen Spiele ?",
+        "propositions": [
+          "Pierre de Coubertin",
+          "Napoleon Bonaparte",
+          "Herzog von Windsor",
+          "Pius XI."
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "Die vom IOC verliehene Pierre-de-Coubertin-Medaille zeigt einen echten Sportgeist bei den Olympischen Spielen."
+      },
+      {
+        "id": 2,
+        "question": "Welchem französischen Historiker und Pädagogen verdanken wir die modernen Olympischen Spiele ?",
+        "propositions": [
+          "Napoleon Bonaparte",
+          "Herzog von Windsor",
+          "Pius XI.",
+          "Pierre de Coubertin"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "Die vom IOC verliehene Pierre-de-Coubertin-Medaille zeigt einen echten Sportgeist bei den Olympischen Spielen."
+      },
+      {
+        "id": 3,
+        "question": "Welchem französischen Historiker und Pädagogen verdanken wir die modernen Olympischen Spiele ?",
+        "propositions": [
+          "Napoleon Bonaparte",
+          "Herzog von Windsor",
+          "Pius XI.",
+          "Pierre de Coubertin"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "Die vom IOC verliehene Pierre-de-Coubertin-Medaille zeigt einen echten Sportgeist bei den Olympischen Spielen."
+      },
+      {
+        "id": 4,
+        "question": "Welchem französischen Historiker und Pädagogen verdanken wir die modernen Olympischen Spiele ?",
+        "propositions": [
+          "Herzog von Windsor",
+          "Napoleon Bonaparte",
+          "Pierre de Coubertin",
+          "Pius XI."
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "Die vom IOC verliehene Pierre-de-Coubertin-Medaille zeigt einen echten Sportgeist bei den Olympischen Spielen."
+      },
+      {
+        "id": 5,
+        "question": "Welchem französischen Historiker und Pädagogen verdanken wir die modernen Olympischen Spiele ?",
+        "propositions": [
+          "Herzog von Windsor",
+          "Pius XI.",
+          "Napoleon Bonaparte",
+          "Pierre de Coubertin"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "Die vom IOC verliehene Pierre-de-Coubertin-Medaille zeigt einen echten Sportgeist bei den Olympischen Spielen."
+      },
+      {
+        "id": 6,
+        "question": "Welchem französischen Historiker und Pädagogen verdanken wir die modernen Olympischen Spiele ?",
+        "propositions": [
+          "Herzog von Windsor",
+          "Pius XI.",
+          "Pierre de Coubertin",
+          "Napoleon Bonaparte"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "Die vom IOC verliehene Pierre-de-Coubertin-Medaille zeigt einen echten Sportgeist bei den Olympischen Spielen."
+      },
+      {
+        "id": 7,
+        "question": "Welchem französischen Historiker und Pädagogen verdanken wir die modernen Olympischen Spiele ?",
+        "propositions": [
+          "Napoleon Bonaparte",
+          "Pierre de Coubertin",
+          "Pius XI.",
+          "Herzog von Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "Die vom IOC verliehene Pierre-de-Coubertin-Medaille zeigt einen echten Sportgeist bei den Olympischen Spielen."
+      },
+      {
+        "id": 8,
+        "question": "Welchem französischen Historiker und Pädagogen verdanken wir die modernen Olympischen Spiele ?",
+        "propositions": [
+          "Pius XI.",
+          "Napoleon Bonaparte",
+          "Pierre de Coubertin",
+          "Herzog von Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "Die vom IOC verliehene Pierre-de-Coubertin-Medaille zeigt einen echten Sportgeist bei den Olympischen Spielen."
+      },
+      {
+        "id": 9,
+        "question": "Welchem französischen Historiker und Pädagogen verdanken wir die modernen Olympischen Spiele ?",
+        "propositions": [
+          "Pierre de Coubertin",
+          "Napoleon Bonaparte",
+          "Pius XI.",
+          "Herzog von Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "Die vom IOC verliehene Pierre-de-Coubertin-Medaille zeigt einen echten Sportgeist bei den Olympischen Spielen."
+      },
+      {
+        "id": 10,
+        "question": "Welchem französischen Historiker und Pädagogen verdanken wir die modernen Olympischen Spiele ?",
+        "propositions": [
+          "Herzog von Windsor",
+          "Pius XI.",
+          "Napoleon Bonaparte",
+          "Pierre de Coubertin"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "Die vom IOC verliehene Pierre-de-Coubertin-Medaille zeigt einen echten Sportgeist bei den Olympischen Spielen."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Welchem französischen Historiker und Pädagogen verdanken wir die modernen Olympischen Spiele ?",
+        "propositions": [
+          "Pius XI.",
+          "Pierre de Coubertin",
+          "Napoleon Bonaparte",
+          "Herzog von Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "Die vom IOC verliehene Pierre-de-Coubertin-Medaille zeigt einen echten Sportgeist bei den Olympischen Spielen."
+      },
+      {
+        "id": 12,
+        "question": "Welchem französischen Historiker und Pädagogen verdanken wir die modernen Olympischen Spiele ?",
+        "propositions": [
+          "Herzog von Windsor",
+          "Pius XI.",
+          "Napoleon Bonaparte",
+          "Pierre de Coubertin"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "Die vom IOC verliehene Pierre-de-Coubertin-Medaille zeigt einen echten Sportgeist bei den Olympischen Spielen."
+      },
+      {
+        "id": 13,
+        "question": "Welchem französischen Historiker und Pädagogen verdanken wir die modernen Olympischen Spiele ?",
+        "propositions": [
+          "Herzog von Windsor",
+          "Pierre de Coubertin",
+          "Pius XI.",
+          "Napoleon Bonaparte"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "Die vom IOC verliehene Pierre-de-Coubertin-Medaille zeigt einen echten Sportgeist bei den Olympischen Spielen."
+      },
+      {
+        "id": 14,
+        "question": "Welchem französischen Historiker und Pädagogen verdanken wir die modernen Olympischen Spiele ?",
+        "propositions": [
+          "Pierre de Coubertin",
+          "Pius XI.",
+          "Napoleon Bonaparte",
+          "Herzog von Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "Die vom IOC verliehene Pierre-de-Coubertin-Medaille zeigt einen echten Sportgeist bei den Olympischen Spielen."
+      },
+      {
+        "id": 15,
+        "question": "Welchem französischen Historiker und Pädagogen verdanken wir die modernen Olympischen Spiele ?",
+        "propositions": [
+          "Herzog von Windsor",
+          "Pius XI.",
+          "Napoleon Bonaparte",
+          "Pierre de Coubertin"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "Die vom IOC verliehene Pierre-de-Coubertin-Medaille zeigt einen echten Sportgeist bei den Olympischen Spielen."
+      },
+      {
+        "id": 16,
+        "question": "Welchem französischen Historiker und Pädagogen verdanken wir die modernen Olympischen Spiele ?",
+        "propositions": [
+          "Napoleon Bonaparte",
+          "Pius XI.",
+          "Pierre de Coubertin",
+          "Herzog von Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "Die vom IOC verliehene Pierre-de-Coubertin-Medaille zeigt einen echten Sportgeist bei den Olympischen Spielen."
+      },
+      {
+        "id": 17,
+        "question": "Welchem französischen Historiker und Pädagogen verdanken wir die modernen Olympischen Spiele ?",
+        "propositions": [
+          "Pius XI.",
+          "Pierre de Coubertin",
+          "Napoleon Bonaparte",
+          "Herzog von Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "Die vom IOC verliehene Pierre-de-Coubertin-Medaille zeigt einen echten Sportgeist bei den Olympischen Spielen."
+      },
+      {
+        "id": 18,
+        "question": "Welchem französischen Historiker und Pädagogen verdanken wir die modernen Olympischen Spiele ?",
+        "propositions": [
+          "Pius XI.",
+          "Napoleon Bonaparte",
+          "Pierre de Coubertin",
+          "Herzog von Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "Die vom IOC verliehene Pierre-de-Coubertin-Medaille zeigt einen echten Sportgeist bei den Olympischen Spielen."
+      },
+      {
+        "id": 19,
+        "question": "Welchem französischen Historiker und Pädagogen verdanken wir die modernen Olympischen Spiele ?",
+        "propositions": [
+          "Napoleon Bonaparte",
+          "Pierre de Coubertin",
+          "Pius XI.",
+          "Herzog von Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "Die vom IOC verliehene Pierre-de-Coubertin-Medaille zeigt einen echten Sportgeist bei den Olympischen Spielen."
+      },
+      {
+        "id": 20,
+        "question": "Welchem französischen Historiker und Pädagogen verdanken wir die modernen Olympischen Spiele ?",
+        "propositions": [
+          "Pierre de Coubertin",
+          "Napoleon Bonaparte",
+          "Pius XI.",
+          "Herzog von Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "Die vom IOC verliehene Pierre-de-Coubertin-Medaille zeigt einen echten Sportgeist bei den Olympischen Spielen."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Welchem französischen Historiker und Pädagogen verdanken wir die modernen Olympischen Spiele ?",
+        "propositions": [
+          "Herzog von Windsor",
+          "Pierre de Coubertin",
+          "Napoleon Bonaparte",
+          "Pius XI."
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "Die vom IOC verliehene Pierre-de-Coubertin-Medaille zeigt einen echten Sportgeist bei den Olympischen Spielen."
+      },
+      {
+        "id": 22,
+        "question": "Welchem französischen Historiker und Pädagogen verdanken wir die modernen Olympischen Spiele ?",
+        "propositions": [
+          "Pius XI.",
+          "Herzog von Windsor",
+          "Napoleon Bonaparte",
+          "Pierre de Coubertin"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "Die vom IOC verliehene Pierre-de-Coubertin-Medaille zeigt einen echten Sportgeist bei den Olympischen Spielen."
+      },
+      {
+        "id": 23,
+        "question": "Welchem französischen Historiker und Pädagogen verdanken wir die modernen Olympischen Spiele ?",
+        "propositions": [
+          "Pius XI.",
+          "Pierre de Coubertin",
+          "Herzog von Windsor",
+          "Napoleon Bonaparte"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "Die vom IOC verliehene Pierre-de-Coubertin-Medaille zeigt einen echten Sportgeist bei den Olympischen Spielen."
+      },
+      {
+        "id": 24,
+        "question": "Welchem französischen Historiker und Pädagogen verdanken wir die modernen Olympischen Spiele ?",
+        "propositions": [
+          "Pierre de Coubertin",
+          "Herzog von Windsor",
+          "Napoleon Bonaparte",
+          "Pius XI."
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "Die vom IOC verliehene Pierre-de-Coubertin-Medaille zeigt einen echten Sportgeist bei den Olympischen Spielen."
+      },
+      {
+        "id": 25,
+        "question": "Welchem französischen Historiker und Pädagogen verdanken wir die modernen Olympischen Spiele ?",
+        "propositions": [
+          "Napoleon Bonaparte",
+          "Pierre de Coubertin",
+          "Pius XI.",
+          "Herzog von Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "Die vom IOC verliehene Pierre-de-Coubertin-Medaille zeigt einen echten Sportgeist bei den Olympischen Spielen."
+      },
+      {
+        "id": 26,
+        "question": "Welchem französischen Historiker und Pädagogen verdanken wir die modernen Olympischen Spiele ?",
+        "propositions": [
+          "Napoleon Bonaparte",
+          "Herzog von Windsor",
+          "Pierre de Coubertin",
+          "Pius XI."
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "Die vom IOC verliehene Pierre-de-Coubertin-Medaille zeigt einen echten Sportgeist bei den Olympischen Spielen."
+      },
+      {
+        "id": 27,
+        "question": "Welchem französischen Historiker und Pädagogen verdanken wir die modernen Olympischen Spiele ?",
+        "propositions": [
+          "Pius XI.",
+          "Pierre de Coubertin",
+          "Herzog von Windsor",
+          "Napoleon Bonaparte"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "Die vom IOC verliehene Pierre-de-Coubertin-Medaille zeigt einen echten Sportgeist bei den Olympischen Spielen."
+      },
+      {
+        "id": 28,
+        "question": "Welchem französischen Historiker und Pädagogen verdanken wir die modernen Olympischen Spiele ?",
+        "propositions": [
+          "Pius XI.",
+          "Pierre de Coubertin",
+          "Napoleon Bonaparte",
+          "Herzog von Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "Die vom IOC verliehene Pierre-de-Coubertin-Medaille zeigt einen echten Sportgeist bei den Olympischen Spielen."
+      },
+      {
+        "id": 29,
+        "question": "Welchem französischen Historiker und Pädagogen verdanken wir die modernen Olympischen Spiele ?",
+        "propositions": [
+          "Herzog von Windsor",
+          "Napoleon Bonaparte",
+          "Pius XI.",
+          "Pierre de Coubertin"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "Die vom IOC verliehene Pierre-de-Coubertin-Medaille zeigt einen echten Sportgeist bei den Olympischen Spielen."
+      },
+      {
+        "id": 30,
+        "question": "Welchem französischen Historiker und Pädagogen verdanken wir die modernen Olympischen Spiele ?",
+        "propositions": [
+          "Pierre de Coubertin",
+          "Napoleon Bonaparte",
+          "Pius XI.",
+          "Herzog von Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "Die vom IOC verliehene Pierre-de-Coubertin-Medaille zeigt einen echten Sportgeist bei den Olympischen Spielen."
+      }
+    ]
+    },
+    "es": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "¿A qué historiador y educador francés le debemos los Juegos Olímpicos modernos ?",
+        "propositions": [
+          "Pío XI",
+          "Pierre de Coubertin",
+          "Duque de Windsor",
+          "Napoleón Bonaparte"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medalla Pierre-de-Coubertin, otorgada por el COI, demuestra un verdadero espíritu deportivo en los Juegos Olímpicos."
+      },
+      {
+        "id": 2,
+        "question": "¿A qué historiador y educador francés le debemos los Juegos Olímpicos modernos ?",
+        "propositions": [
+          "Pierre de Coubertin",
+          "Napoleón Bonaparte",
+          "Pío XI",
+          "Duque de Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medalla Pierre-de-Coubertin, otorgada por el COI, demuestra un verdadero espíritu deportivo en los Juegos Olímpicos."
+      },
+      {
+        "id": 3,
+        "question": "¿A qué historiador y educador francés le debemos los Juegos Olímpicos modernos ?",
+        "propositions": [
+          "Duque de Windsor",
+          "Pío XI",
+          "Pierre de Coubertin",
+          "Napoleón Bonaparte"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medalla Pierre-de-Coubertin, otorgada por el COI, demuestra un verdadero espíritu deportivo en los Juegos Olímpicos."
+      },
+      {
+        "id": 4,
+        "question": "¿A qué historiador y educador francés le debemos los Juegos Olímpicos modernos ?",
+        "propositions": [
+          "Napoleón Bonaparte",
+          "Duque de Windsor",
+          "Pierre de Coubertin",
+          "Pío XI"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medalla Pierre-de-Coubertin, otorgada por el COI, demuestra un verdadero espíritu deportivo en los Juegos Olímpicos."
+      },
+      {
+        "id": 5,
+        "question": "¿A qué historiador y educador francés le debemos los Juegos Olímpicos modernos ?",
+        "propositions": [
+          "Napoleón Bonaparte",
+          "Pierre de Coubertin",
+          "Pío XI",
+          "Duque de Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medalla Pierre-de-Coubertin, otorgada por el COI, demuestra un verdadero espíritu deportivo en los Juegos Olímpicos."
+      },
+      {
+        "id": 6,
+        "question": "¿A qué historiador y educador francés le debemos los Juegos Olímpicos modernos ?",
+        "propositions": [
+          "Duque de Windsor",
+          "Pío XI",
+          "Napoleón Bonaparte",
+          "Pierre de Coubertin"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medalla Pierre-de-Coubertin, otorgada por el COI, demuestra un verdadero espíritu deportivo en los Juegos Olímpicos."
+      },
+      {
+        "id": 7,
+        "question": "¿A qué historiador y educador francés le debemos los Juegos Olímpicos modernos ?",
+        "propositions": [
+          "Pío XI",
+          "Pierre de Coubertin",
+          "Duque de Windsor",
+          "Napoleón Bonaparte"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medalla Pierre-de-Coubertin, otorgada por el COI, demuestra un verdadero espíritu deportivo en los Juegos Olímpicos."
+      },
+      {
+        "id": 8,
+        "question": "¿A qué historiador y educador francés le debemos los Juegos Olímpicos modernos ?",
+        "propositions": [
+          "Pierre de Coubertin",
+          "Pío XI",
+          "Napoleón Bonaparte",
+          "Duque de Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medalla Pierre-de-Coubertin, otorgada por el COI, demuestra un verdadero espíritu deportivo en los Juegos Olímpicos."
+      },
+      {
+        "id": 9,
+        "question": "¿A qué historiador y educador francés le debemos los Juegos Olímpicos modernos ?",
+        "propositions": [
+          "Pierre de Coubertin",
+          "Napoleón Bonaparte",
+          "Pío XI",
+          "Duque de Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medalla Pierre-de-Coubertin, otorgada por el COI, demuestra un verdadero espíritu deportivo en los Juegos Olímpicos."
+      },
+      {
+        "id": 10,
+        "question": "¿A qué historiador y educador francés le debemos los Juegos Olímpicos modernos ?",
+        "propositions": [
+          "Pierre de Coubertin",
+          "Duque de Windsor",
+          "Pío XI",
+          "Napoleón Bonaparte"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medalla Pierre-de-Coubertin, otorgada por el COI, demuestra un verdadero espíritu deportivo en los Juegos Olímpicos."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "¿A qué historiador y educador francés le debemos los Juegos Olímpicos modernos ?",
+        "propositions": [
+          "Pío XI",
+          "Pierre de Coubertin",
+          "Duque de Windsor",
+          "Napoleón Bonaparte"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medalla Pierre-de-Coubertin, otorgada por el COI, demuestra un verdadero espíritu deportivo en los Juegos Olímpicos."
+      },
+      {
+        "id": 12,
+        "question": "¿A qué historiador y educador francés le debemos los Juegos Olímpicos modernos ?",
+        "propositions": [
+          "Duque de Windsor",
+          "Pierre de Coubertin",
+          "Pío XI",
+          "Napoleón Bonaparte"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medalla Pierre-de-Coubertin, otorgada por el COI, demuestra un verdadero espíritu deportivo en los Juegos Olímpicos."
+      },
+      {
+        "id": 13,
+        "question": "¿A qué historiador y educador francés le debemos los Juegos Olímpicos modernos ?",
+        "propositions": [
+          "Pío XI",
+          "Pierre de Coubertin",
+          "Duque de Windsor",
+          "Napoleón Bonaparte"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medalla Pierre-de-Coubertin, otorgada por el COI, demuestra un verdadero espíritu deportivo en los Juegos Olímpicos."
+      },
+      {
+        "id": 14,
+        "question": "¿A qué historiador y educador francés le debemos los Juegos Olímpicos modernos ?",
+        "propositions": [
+          "Pío XI",
+          "Napoleón Bonaparte",
+          "Duque de Windsor",
+          "Pierre de Coubertin"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medalla Pierre-de-Coubertin, otorgada por el COI, demuestra un verdadero espíritu deportivo en los Juegos Olímpicos."
+      },
+      {
+        "id": 15,
+        "question": "¿A qué historiador y educador francés le debemos los Juegos Olímpicos modernos ?",
+        "propositions": [
+          "Napoleón Bonaparte",
+          "Pío XI",
+          "Pierre de Coubertin",
+          "Duque de Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medalla Pierre-de-Coubertin, otorgada por el COI, demuestra un verdadero espíritu deportivo en los Juegos Olímpicos."
+      },
+      {
+        "id": 16,
+        "question": "¿A qué historiador y educador francés le debemos los Juegos Olímpicos modernos ?",
+        "propositions": [
+          "Pío XI",
+          "Napoleón Bonaparte",
+          "Pierre de Coubertin",
+          "Duque de Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medalla Pierre-de-Coubertin, otorgada por el COI, demuestra un verdadero espíritu deportivo en los Juegos Olímpicos."
+      },
+      {
+        "id": 17,
+        "question": "¿A qué historiador y educador francés le debemos los Juegos Olímpicos modernos ?",
+        "propositions": [
+          "Pierre de Coubertin",
+          "Napoleón Bonaparte",
+          "Duque de Windsor",
+          "Pío XI"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medalla Pierre-de-Coubertin, otorgada por el COI, demuestra un verdadero espíritu deportivo en los Juegos Olímpicos."
+      },
+      {
+        "id": 18,
+        "question": "¿A qué historiador y educador francés le debemos los Juegos Olímpicos modernos ?",
+        "propositions": [
+          "Napoleón Bonaparte",
+          "Duque de Windsor",
+          "Pío XI",
+          "Pierre de Coubertin"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medalla Pierre-de-Coubertin, otorgada por el COI, demuestra un verdadero espíritu deportivo en los Juegos Olímpicos."
+      },
+      {
+        "id": 19,
+        "question": "¿A qué historiador y educador francés le debemos los Juegos Olímpicos modernos ?",
+        "propositions": [
+          "Napoleón Bonaparte",
+          "Pierre de Coubertin",
+          "Pío XI",
+          "Duque de Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medalla Pierre-de-Coubertin, otorgada por el COI, demuestra un verdadero espíritu deportivo en los Juegos Olímpicos."
+      },
+      {
+        "id": 20,
+        "question": "¿A qué historiador y educador francés le debemos los Juegos Olímpicos modernos ?",
+        "propositions": [
+          "Pierre de Coubertin",
+          "Pío XI",
+          "Napoleón Bonaparte",
+          "Duque de Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medalla Pierre-de-Coubertin, otorgada por el COI, demuestra un verdadero espíritu deportivo en los Juegos Olímpicos."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "¿A qué historiador y educador francés le debemos los Juegos Olímpicos modernos ?",
+        "propositions": [
+          "Pío XI",
+          "Duque de Windsor",
+          "Napoleón Bonaparte",
+          "Pierre de Coubertin"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medalla Pierre-de-Coubertin, otorgada por el COI, demuestra un verdadero espíritu deportivo en los Juegos Olímpicos."
+      },
+      {
+        "id": 22,
+        "question": "¿A qué historiador y educador francés le debemos los Juegos Olímpicos modernos ?",
+        "propositions": [
+          "Napoleón Bonaparte",
+          "Duque de Windsor",
+          "Pío XI",
+          "Pierre de Coubertin"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medalla Pierre-de-Coubertin, otorgada por el COI, demuestra un verdadero espíritu deportivo en los Juegos Olímpicos."
+      },
+      {
+        "id": 23,
+        "question": "¿A qué historiador y educador francés le debemos los Juegos Olímpicos modernos ?",
+        "propositions": [
+          "Pío XI",
+          "Duque de Windsor",
+          "Napoleón Bonaparte",
+          "Pierre de Coubertin"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medalla Pierre-de-Coubertin, otorgada por el COI, demuestra un verdadero espíritu deportivo en los Juegos Olímpicos."
+      },
+      {
+        "id": 24,
+        "question": "¿A qué historiador y educador francés le debemos los Juegos Olímpicos modernos ?",
+        "propositions": [
+          "Pierre de Coubertin",
+          "Pío XI",
+          "Napoleón Bonaparte",
+          "Duque de Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medalla Pierre-de-Coubertin, otorgada por el COI, demuestra un verdadero espíritu deportivo en los Juegos Olímpicos."
+      },
+      {
+        "id": 25,
+        "question": "¿A qué historiador y educador francés le debemos los Juegos Olímpicos modernos ?",
+        "propositions": [
+          "Duque de Windsor",
+          "Napoleón Bonaparte",
+          "Pío XI",
+          "Pierre de Coubertin"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medalla Pierre-de-Coubertin, otorgada por el COI, demuestra un verdadero espíritu deportivo en los Juegos Olímpicos."
+      },
+      {
+        "id": 26,
+        "question": "¿A qué historiador y educador francés le debemos los Juegos Olímpicos modernos ?",
+        "propositions": [
+          "Duque de Windsor",
+          "Pierre de Coubertin",
+          "Pío XI",
+          "Napoleón Bonaparte"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medalla Pierre-de-Coubertin, otorgada por el COI, demuestra un verdadero espíritu deportivo en los Juegos Olímpicos."
+      },
+      {
+        "id": 27,
+        "question": "¿A qué historiador y educador francés le debemos los Juegos Olímpicos modernos ?",
+        "propositions": [
+          "Pierre de Coubertin",
+          "Duque de Windsor",
+          "Pío XI",
+          "Napoleón Bonaparte"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medalla Pierre-de-Coubertin, otorgada por el COI, demuestra un verdadero espíritu deportivo en los Juegos Olímpicos."
+      },
+      {
+        "id": 28,
+        "question": "¿A qué historiador y educador francés le debemos los Juegos Olímpicos modernos ?",
+        "propositions": [
+          "Napoleón Bonaparte",
+          "Pío XI",
+          "Duque de Windsor",
+          "Pierre de Coubertin"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medalla Pierre-de-Coubertin, otorgada por el COI, demuestra un verdadero espíritu deportivo en los Juegos Olímpicos."
+      },
+      {
+        "id": 29,
+        "question": "¿A qué historiador y educador francés le debemos los Juegos Olímpicos modernos ?",
+        "propositions": [
+          "Pío XI",
+          "Pierre de Coubertin",
+          "Napoleón Bonaparte",
+          "Duque de Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medalla Pierre-de-Coubertin, otorgada por el COI, demuestra un verdadero espíritu deportivo en los Juegos Olímpicos."
+      },
+      {
+        "id": 30,
+        "question": "¿A qué historiador y educador francés le debemos los Juegos Olímpicos modernos ?",
+        "propositions": [
+          "Napoleón Bonaparte",
+          "Pierre de Coubertin",
+          "Duque de Windsor",
+          "Pío XI"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medalla Pierre-de-Coubertin, otorgada por el COI, demuestra un verdadero espíritu deportivo en los Juegos Olímpicos."
+      }
+    ]
+    },
+    "it": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "A quale storico ed educatore francese dobbiamo i moderni Giochi Olimpici ?",
+        "propositions": [
+          "Napoleone Bonaparte",
+          "Pierre de Coubertin",
+          "Pio XI",
+          "Duca di Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medaglia di Pierre-de-Coubertin, assegnata dal CIO, dimostra un vero spirito sportivo ai Giochi Olimpici."
+      },
+      {
+        "id": 2,
+        "question": "A quale storico ed educatore francese dobbiamo i moderni Giochi Olimpici ?",
+        "propositions": [
+          "Napoleone Bonaparte",
+          "Duca di Windsor",
+          "Pio XI",
+          "Pierre de Coubertin"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medaglia di Pierre-de-Coubertin, assegnata dal CIO, dimostra un vero spirito sportivo ai Giochi Olimpici."
+      },
+      {
+        "id": 3,
+        "question": "A quale storico ed educatore francese dobbiamo i moderni Giochi Olimpici ?",
+        "propositions": [
+          "Pio XI",
+          "Duca di Windsor",
+          "Napoleone Bonaparte",
+          "Pierre de Coubertin"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medaglia di Pierre-de-Coubertin, assegnata dal CIO, dimostra un vero spirito sportivo ai Giochi Olimpici."
+      },
+      {
+        "id": 4,
+        "question": "A quale storico ed educatore francese dobbiamo i moderni Giochi Olimpici ?",
+        "propositions": [
+          "Napoleone Bonaparte",
+          "Pio XI",
+          "Duca di Windsor",
+          "Pierre de Coubertin"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medaglia di Pierre-de-Coubertin, assegnata dal CIO, dimostra un vero spirito sportivo ai Giochi Olimpici."
+      },
+      {
+        "id": 5,
+        "question": "A quale storico ed educatore francese dobbiamo i moderni Giochi Olimpici ?",
+        "propositions": [
+          "Napoleone Bonaparte",
+          "Pierre de Coubertin",
+          "Duca di Windsor",
+          "Pio XI"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medaglia di Pierre-de-Coubertin, assegnata dal CIO, dimostra un vero spirito sportivo ai Giochi Olimpici."
+      },
+      {
+        "id": 6,
+        "question": "A quale storico ed educatore francese dobbiamo i moderni Giochi Olimpici ?",
+        "propositions": [
+          "Duca di Windsor",
+          "Napoleone Bonaparte",
+          "Pierre de Coubertin",
+          "Pio XI"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medaglia di Pierre-de-Coubertin, assegnata dal CIO, dimostra un vero spirito sportivo ai Giochi Olimpici."
+      },
+      {
+        "id": 7,
+        "question": "A quale storico ed educatore francese dobbiamo i moderni Giochi Olimpici ?",
+        "propositions": [
+          "Duca di Windsor",
+          "Pio XI",
+          "Napoleone Bonaparte",
+          "Pierre de Coubertin"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medaglia di Pierre-de-Coubertin, assegnata dal CIO, dimostra un vero spirito sportivo ai Giochi Olimpici."
+      },
+      {
+        "id": 8,
+        "question": "A quale storico ed educatore francese dobbiamo i moderni Giochi Olimpici ?",
+        "propositions": [
+          "Pio XI",
+          "Napoleone Bonaparte",
+          "Duca di Windsor",
+          "Pierre de Coubertin"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medaglia di Pierre-de-Coubertin, assegnata dal CIO, dimostra un vero spirito sportivo ai Giochi Olimpici."
+      },
+      {
+        "id": 9,
+        "question": "A quale storico ed educatore francese dobbiamo i moderni Giochi Olimpici ?",
+        "propositions": [
+          "Duca di Windsor",
+          "Pio XI",
+          "Napoleone Bonaparte",
+          "Pierre de Coubertin"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medaglia di Pierre-de-Coubertin, assegnata dal CIO, dimostra un vero spirito sportivo ai Giochi Olimpici."
+      },
+      {
+        "id": 10,
+        "question": "A quale storico ed educatore francese dobbiamo i moderni Giochi Olimpici ?",
+        "propositions": [
+          "Pio XI",
+          "Duca di Windsor",
+          "Pierre de Coubertin",
+          "Napoleone Bonaparte"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medaglia di Pierre-de-Coubertin, assegnata dal CIO, dimostra un vero spirito sportivo ai Giochi Olimpici."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "A quale storico ed educatore francese dobbiamo i moderni Giochi Olimpici ?",
+        "propositions": [
+          "Napoleone Bonaparte",
+          "Pierre de Coubertin",
+          "Pio XI",
+          "Duca di Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medaglia di Pierre-de-Coubertin, assegnata dal CIO, dimostra un vero spirito sportivo ai Giochi Olimpici."
+      },
+      {
+        "id": 12,
+        "question": "A quale storico ed educatore francese dobbiamo i moderni Giochi Olimpici ?",
+        "propositions": [
+          "Napoleone Bonaparte",
+          "Duca di Windsor",
+          "Pierre de Coubertin",
+          "Pio XI"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medaglia di Pierre-de-Coubertin, assegnata dal CIO, dimostra un vero spirito sportivo ai Giochi Olimpici."
+      },
+      {
+        "id": 13,
+        "question": "A quale storico ed educatore francese dobbiamo i moderni Giochi Olimpici ?",
+        "propositions": [
+          "Duca di Windsor",
+          "Napoleone Bonaparte",
+          "Pierre de Coubertin",
+          "Pio XI"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medaglia di Pierre-de-Coubertin, assegnata dal CIO, dimostra un vero spirito sportivo ai Giochi Olimpici."
+      },
+      {
+        "id": 14,
+        "question": "A quale storico ed educatore francese dobbiamo i moderni Giochi Olimpici ?",
+        "propositions": [
+          "Pierre de Coubertin",
+          "Duca di Windsor",
+          "Pio XI",
+          "Napoleone Bonaparte"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medaglia di Pierre-de-Coubertin, assegnata dal CIO, dimostra un vero spirito sportivo ai Giochi Olimpici."
+      },
+      {
+        "id": 15,
+        "question": "A quale storico ed educatore francese dobbiamo i moderni Giochi Olimpici ?",
+        "propositions": [
+          "Pierre de Coubertin",
+          "Duca di Windsor",
+          "Pio XI",
+          "Napoleone Bonaparte"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medaglia di Pierre-de-Coubertin, assegnata dal CIO, dimostra un vero spirito sportivo ai Giochi Olimpici."
+      },
+      {
+        "id": 16,
+        "question": "A quale storico ed educatore francese dobbiamo i moderni Giochi Olimpici ?",
+        "propositions": [
+          "Duca di Windsor",
+          "Pio XI",
+          "Pierre de Coubertin",
+          "Napoleone Bonaparte"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medaglia di Pierre-de-Coubertin, assegnata dal CIO, dimostra un vero spirito sportivo ai Giochi Olimpici."
+      },
+      {
+        "id": 17,
+        "question": "A quale storico ed educatore francese dobbiamo i moderni Giochi Olimpici ?",
+        "propositions": [
+          "Duca di Windsor",
+          "Napoleone Bonaparte",
+          "Pio XI",
+          "Pierre de Coubertin"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medaglia di Pierre-de-Coubertin, assegnata dal CIO, dimostra un vero spirito sportivo ai Giochi Olimpici."
+      },
+      {
+        "id": 18,
+        "question": "A quale storico ed educatore francese dobbiamo i moderni Giochi Olimpici ?",
+        "propositions": [
+          "Napoleone Bonaparte",
+          "Pio XI",
+          "Pierre de Coubertin",
+          "Duca di Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medaglia di Pierre-de-Coubertin, assegnata dal CIO, dimostra un vero spirito sportivo ai Giochi Olimpici."
+      },
+      {
+        "id": 19,
+        "question": "A quale storico ed educatore francese dobbiamo i moderni Giochi Olimpici ?",
+        "propositions": [
+          "Pierre de Coubertin",
+          "Pio XI",
+          "Napoleone Bonaparte",
+          "Duca di Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medaglia di Pierre-de-Coubertin, assegnata dal CIO, dimostra un vero spirito sportivo ai Giochi Olimpici."
+      },
+      {
+        "id": 20,
+        "question": "A quale storico ed educatore francese dobbiamo i moderni Giochi Olimpici ?",
+        "propositions": [
+          "Pierre de Coubertin",
+          "Napoleone Bonaparte",
+          "Duca di Windsor",
+          "Pio XI"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medaglia di Pierre-de-Coubertin, assegnata dal CIO, dimostra un vero spirito sportivo ai Giochi Olimpici."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "A quale storico ed educatore francese dobbiamo i moderni Giochi Olimpici ?",
+        "propositions": [
+          "Pierre de Coubertin",
+          "Duca di Windsor",
+          "Pio XI",
+          "Napoleone Bonaparte"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medaglia di Pierre-de-Coubertin, assegnata dal CIO, dimostra un vero spirito sportivo ai Giochi Olimpici."
+      },
+      {
+        "id": 22,
+        "question": "A quale storico ed educatore francese dobbiamo i moderni Giochi Olimpici ?",
+        "propositions": [
+          "Pio XI",
+          "Napoleone Bonaparte",
+          "Pierre de Coubertin",
+          "Duca di Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medaglia di Pierre-de-Coubertin, assegnata dal CIO, dimostra un vero spirito sportivo ai Giochi Olimpici."
+      },
+      {
+        "id": 23,
+        "question": "A quale storico ed educatore francese dobbiamo i moderni Giochi Olimpici ?",
+        "propositions": [
+          "Napoleone Bonaparte",
+          "Duca di Windsor",
+          "Pierre de Coubertin",
+          "Pio XI"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medaglia di Pierre-de-Coubertin, assegnata dal CIO, dimostra un vero spirito sportivo ai Giochi Olimpici."
+      },
+      {
+        "id": 24,
+        "question": "A quale storico ed educatore francese dobbiamo i moderni Giochi Olimpici ?",
+        "propositions": [
+          "Pierre de Coubertin",
+          "Duca di Windsor",
+          "Napoleone Bonaparte",
+          "Pio XI"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medaglia di Pierre-de-Coubertin, assegnata dal CIO, dimostra un vero spirito sportivo ai Giochi Olimpici."
+      },
+      {
+        "id": 25,
+        "question": "A quale storico ed educatore francese dobbiamo i moderni Giochi Olimpici ?",
+        "propositions": [
+          "Napoleone Bonaparte",
+          "Pio XI",
+          "Pierre de Coubertin",
+          "Duca di Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medaglia di Pierre-de-Coubertin, assegnata dal CIO, dimostra un vero spirito sportivo ai Giochi Olimpici."
+      },
+      {
+        "id": 26,
+        "question": "A quale storico ed educatore francese dobbiamo i moderni Giochi Olimpici ?",
+        "propositions": [
+          "Duca di Windsor",
+          "Pio XI",
+          "Napoleone Bonaparte",
+          "Pierre de Coubertin"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medaglia di Pierre-de-Coubertin, assegnata dal CIO, dimostra un vero spirito sportivo ai Giochi Olimpici."
+      },
+      {
+        "id": 27,
+        "question": "A quale storico ed educatore francese dobbiamo i moderni Giochi Olimpici ?",
+        "propositions": [
+          "Pio XI",
+          "Napoleone Bonaparte",
+          "Duca di Windsor",
+          "Pierre de Coubertin"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medaglia di Pierre-de-Coubertin, assegnata dal CIO, dimostra un vero spirito sportivo ai Giochi Olimpici."
+      },
+      {
+        "id": 28,
+        "question": "A quale storico ed educatore francese dobbiamo i moderni Giochi Olimpici ?",
+        "propositions": [
+          "Pio XI",
+          "Napoleone Bonaparte",
+          "Pierre de Coubertin",
+          "Duca di Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medaglia di Pierre-de-Coubertin, assegnata dal CIO, dimostra un vero spirito sportivo ai Giochi Olimpici."
+      },
+      {
+        "id": 29,
+        "question": "A quale storico ed educatore francese dobbiamo i moderni Giochi Olimpici ?",
+        "propositions": [
+          "Napoleone Bonaparte",
+          "Pierre de Coubertin",
+          "Duca di Windsor",
+          "Pio XI"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medaglia di Pierre-de-Coubertin, assegnata dal CIO, dimostra un vero spirito sportivo ai Giochi Olimpici."
+      },
+      {
+        "id": 30,
+        "question": "A quale storico ed educatore francese dobbiamo i moderni Giochi Olimpici ?",
+        "propositions": [
+          "Napoleone Bonaparte",
+          "Pierre de Coubertin",
+          "Pio XI",
+          "Duca di Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La medaglia di Pierre-de-Coubertin, assegnata dal CIO, dimostra un vero spirito sportivo ai Giochi Olimpici."
+      }
+    ]
+    },
+    "nl": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Aan welke Franse historicus en opvoeder zijn we de moderne Olympische Spelen verschuldigd ?",
+        "propositions": [
+          "Pius XI",
+          "Napoleon Bonaparte",
+          "Pierre de Coubertin",
+          "Hertog van Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "De Pierre-de-Coubertin-medaille, uitgereikt door het IOC, toont een echte sportieve geest op de Olympische Spelen."
+      },
+      {
+        "id": 2,
+        "question": "Aan welke Franse historicus en opvoeder zijn we de moderne Olympische Spelen verschuldigd ?",
+        "propositions": [
+          "Hertog van Windsor",
+          "Pierre de Coubertin",
+          "Pius XI",
+          "Napoleon Bonaparte"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "De Pierre-de-Coubertin-medaille, uitgereikt door het IOC, toont een echte sportieve geest op de Olympische Spelen."
+      },
+      {
+        "id": 3,
+        "question": "Aan welke Franse historicus en opvoeder zijn we de moderne Olympische Spelen verschuldigd ?",
+        "propositions": [
+          "Hertog van Windsor",
+          "Pierre de Coubertin",
+          "Pius XI",
+          "Napoleon Bonaparte"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "De Pierre-de-Coubertin-medaille, uitgereikt door het IOC, toont een echte sportieve geest op de Olympische Spelen."
+      },
+      {
+        "id": 4,
+        "question": "Aan welke Franse historicus en opvoeder zijn we de moderne Olympische Spelen verschuldigd ?",
+        "propositions": [
+          "Pius XI",
+          "Napoleon Bonaparte",
+          "Pierre de Coubertin",
+          "Hertog van Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "De Pierre-de-Coubertin-medaille, uitgereikt door het IOC, toont een echte sportieve geest op de Olympische Spelen."
+      },
+      {
+        "id": 5,
+        "question": "Aan welke Franse historicus en opvoeder zijn we de moderne Olympische Spelen verschuldigd ?",
+        "propositions": [
+          "Pius XI",
+          "Pierre de Coubertin",
+          "Hertog van Windsor",
+          "Napoleon Bonaparte"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "De Pierre-de-Coubertin-medaille, uitgereikt door het IOC, toont een echte sportieve geest op de Olympische Spelen."
+      },
+      {
+        "id": 6,
+        "question": "Aan welke Franse historicus en opvoeder zijn we de moderne Olympische Spelen verschuldigd ?",
+        "propositions": [
+          "Hertog van Windsor",
+          "Pius XI",
+          "Pierre de Coubertin",
+          "Napoleon Bonaparte"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "De Pierre-de-Coubertin-medaille, uitgereikt door het IOC, toont een echte sportieve geest op de Olympische Spelen."
+      },
+      {
+        "id": 7,
+        "question": "Aan welke Franse historicus en opvoeder zijn we de moderne Olympische Spelen verschuldigd ?",
+        "propositions": [
+          "Napoleon Bonaparte",
+          "Pius XI",
+          "Pierre de Coubertin",
+          "Hertog van Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "De Pierre-de-Coubertin-medaille, uitgereikt door het IOC, toont een echte sportieve geest op de Olympische Spelen."
+      },
+      {
+        "id": 8,
+        "question": "Aan welke Franse historicus en opvoeder zijn we de moderne Olympische Spelen verschuldigd ?",
+        "propositions": [
+          "Pius XI",
+          "Napoleon Bonaparte",
+          "Hertog van Windsor",
+          "Pierre de Coubertin"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "De Pierre-de-Coubertin-medaille, uitgereikt door het IOC, toont een echte sportieve geest op de Olympische Spelen."
+      },
+      {
+        "id": 9,
+        "question": "Aan welke Franse historicus en opvoeder zijn we de moderne Olympische Spelen verschuldigd ?",
+        "propositions": [
+          "Pierre de Coubertin",
+          "Napoleon Bonaparte",
+          "Hertog van Windsor",
+          "Pius XI"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "De Pierre-de-Coubertin-medaille, uitgereikt door het IOC, toont een echte sportieve geest op de Olympische Spelen."
+      },
+      {
+        "id": 10,
+        "question": "Aan welke Franse historicus en opvoeder zijn we de moderne Olympische Spelen verschuldigd ?",
+        "propositions": [
+          "Hertog van Windsor",
+          "Pierre de Coubertin",
+          "Pius XI",
+          "Napoleon Bonaparte"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "De Pierre-de-Coubertin-medaille, uitgereikt door het IOC, toont een echte sportieve geest op de Olympische Spelen."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Aan welke Franse historicus en opvoeder zijn we de moderne Olympische Spelen verschuldigd ?",
+        "propositions": [
+          "Pius XI",
+          "Hertog van Windsor",
+          "Pierre de Coubertin",
+          "Napoleon Bonaparte"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "De Pierre-de-Coubertin-medaille, uitgereikt door het IOC, toont een echte sportieve geest op de Olympische Spelen."
+      },
+      {
+        "id": 12,
+        "question": "Aan welke Franse historicus en opvoeder zijn we de moderne Olympische Spelen verschuldigd ?",
+        "propositions": [
+          "Pius XI",
+          "Hertog van Windsor",
+          "Napoleon Bonaparte",
+          "Pierre de Coubertin"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "De Pierre-de-Coubertin-medaille, uitgereikt door het IOC, toont een echte sportieve geest op de Olympische Spelen."
+      },
+      {
+        "id": 13,
+        "question": "Aan welke Franse historicus en opvoeder zijn we de moderne Olympische Spelen verschuldigd ?",
+        "propositions": [
+          "Pius XI",
+          "Pierre de Coubertin",
+          "Hertog van Windsor",
+          "Napoleon Bonaparte"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "De Pierre-de-Coubertin-medaille, uitgereikt door het IOC, toont een echte sportieve geest op de Olympische Spelen."
+      },
+      {
+        "id": 14,
+        "question": "Aan welke Franse historicus en opvoeder zijn we de moderne Olympische Spelen verschuldigd ?",
+        "propositions": [
+          "Pierre de Coubertin",
+          "Pius XI",
+          "Napoleon Bonaparte",
+          "Hertog van Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "De Pierre-de-Coubertin-medaille, uitgereikt door het IOC, toont een echte sportieve geest op de Olympische Spelen."
+      },
+      {
+        "id": 15,
+        "question": "Aan welke Franse historicus en opvoeder zijn we de moderne Olympische Spelen verschuldigd ?",
+        "propositions": [
+          "Pierre de Coubertin",
+          "Pius XI",
+          "Hertog van Windsor",
+          "Napoleon Bonaparte"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "De Pierre-de-Coubertin-medaille, uitgereikt door het IOC, toont een echte sportieve geest op de Olympische Spelen."
+      },
+      {
+        "id": 16,
+        "question": "Aan welke Franse historicus en opvoeder zijn we de moderne Olympische Spelen verschuldigd ?",
+        "propositions": [
+          "Pius XI",
+          "Napoleon Bonaparte",
+          "Pierre de Coubertin",
+          "Hertog van Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "De Pierre-de-Coubertin-medaille, uitgereikt door het IOC, toont een echte sportieve geest op de Olympische Spelen."
+      },
+      {
+        "id": 17,
+        "question": "Aan welke Franse historicus en opvoeder zijn we de moderne Olympische Spelen verschuldigd ?",
+        "propositions": [
+          "Pius XI",
+          "Napoleon Bonaparte",
+          "Hertog van Windsor",
+          "Pierre de Coubertin"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "De Pierre-de-Coubertin-medaille, uitgereikt door het IOC, toont een echte sportieve geest op de Olympische Spelen."
+      },
+      {
+        "id": 18,
+        "question": "Aan welke Franse historicus en opvoeder zijn we de moderne Olympische Spelen verschuldigd ?",
+        "propositions": [
+          "Pierre de Coubertin",
+          "Napoleon Bonaparte",
+          "Pius XI",
+          "Hertog van Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "De Pierre-de-Coubertin-medaille, uitgereikt door het IOC, toont een echte sportieve geest op de Olympische Spelen."
+      },
+      {
+        "id": 19,
+        "question": "Aan welke Franse historicus en opvoeder zijn we de moderne Olympische Spelen verschuldigd ?",
+        "propositions": [
+          "Pierre de Coubertin",
+          "Pius XI",
+          "Hertog van Windsor",
+          "Napoleon Bonaparte"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "De Pierre-de-Coubertin-medaille, uitgereikt door het IOC, toont een echte sportieve geest op de Olympische Spelen."
+      },
+      {
+        "id": 20,
+        "question": "Aan welke Franse historicus en opvoeder zijn we de moderne Olympische Spelen verschuldigd ?",
+        "propositions": [
+          "Napoleon Bonaparte",
+          "Hertog van Windsor",
+          "Pierre de Coubertin",
+          "Pius XI"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "De Pierre-de-Coubertin-medaille, uitgereikt door het IOC, toont een echte sportieve geest op de Olympische Spelen."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Aan welke Franse historicus en opvoeder zijn we de moderne Olympische Spelen verschuldigd ?",
+        "propositions": [
+          "Pius XI",
+          "Pierre de Coubertin",
+          "Hertog van Windsor",
+          "Napoleon Bonaparte"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "De Pierre-de-Coubertin-medaille, uitgereikt door het IOC, toont een echte sportieve geest op de Olympische Spelen."
+      },
+      {
+        "id": 22,
+        "question": "Aan welke Franse historicus en opvoeder zijn we de moderne Olympische Spelen verschuldigd ?",
+        "propositions": [
+          "Napoleon Bonaparte",
+          "Pierre de Coubertin",
+          "Hertog van Windsor",
+          "Pius XI"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "De Pierre-de-Coubertin-medaille, uitgereikt door het IOC, toont een echte sportieve geest op de Olympische Spelen."
+      },
+      {
+        "id": 23,
+        "question": "Aan welke Franse historicus en opvoeder zijn we de moderne Olympische Spelen verschuldigd ?",
+        "propositions": [
+          "Napoleon Bonaparte",
+          "Pius XI",
+          "Pierre de Coubertin",
+          "Hertog van Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "De Pierre-de-Coubertin-medaille, uitgereikt door het IOC, toont een echte sportieve geest op de Olympische Spelen."
+      },
+      {
+        "id": 24,
+        "question": "Aan welke Franse historicus en opvoeder zijn we de moderne Olympische Spelen verschuldigd ?",
+        "propositions": [
+          "Pius XI",
+          "Napoleon Bonaparte",
+          "Hertog van Windsor",
+          "Pierre de Coubertin"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "De Pierre-de-Coubertin-medaille, uitgereikt door het IOC, toont een echte sportieve geest op de Olympische Spelen."
+      },
+      {
+        "id": 25,
+        "question": "Aan welke Franse historicus en opvoeder zijn we de moderne Olympische Spelen verschuldigd ?",
+        "propositions": [
+          "Hertog van Windsor",
+          "Napoleon Bonaparte",
+          "Pierre de Coubertin",
+          "Pius XI"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "De Pierre-de-Coubertin-medaille, uitgereikt door het IOC, toont een echte sportieve geest op de Olympische Spelen."
+      },
+      {
+        "id": 26,
+        "question": "Aan welke Franse historicus en opvoeder zijn we de moderne Olympische Spelen verschuldigd ?",
+        "propositions": [
+          "Pierre de Coubertin",
+          "Napoleon Bonaparte",
+          "Pius XI",
+          "Hertog van Windsor"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "De Pierre-de-Coubertin-medaille, uitgereikt door het IOC, toont een echte sportieve geest op de Olympische Spelen."
+      },
+      {
+        "id": 27,
+        "question": "Aan welke Franse historicus en opvoeder zijn we de moderne Olympische Spelen verschuldigd ?",
+        "propositions": [
+          "Pierre de Coubertin",
+          "Pius XI",
+          "Hertog van Windsor",
+          "Napoleon Bonaparte"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "De Pierre-de-Coubertin-medaille, uitgereikt door het IOC, toont een echte sportieve geest op de Olympische Spelen."
+      },
+      {
+        "id": 28,
+        "question": "Aan welke Franse historicus en opvoeder zijn we de moderne Olympische Spelen verschuldigd ?",
+        "propositions": [
+          "Pius XI",
+          "Hertog van Windsor",
+          "Napoleon Bonaparte",
+          "Pierre de Coubertin"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "De Pierre-de-Coubertin-medaille, uitgereikt door het IOC, toont een echte sportieve geest op de Olympische Spelen."
+      },
+      {
+        "id": 29,
+        "question": "Aan welke Franse historicus en opvoeder zijn we de moderne Olympische Spelen verschuldigd ?",
+        "propositions": [
+          "Pius XI",
+          "Napoleon Bonaparte",
+          "Hertog van Windsor",
+          "Pierre de Coubertin"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "De Pierre-de-Coubertin-medaille, uitgereikt door het IOC, toont een echte sportieve geest op de Olympische Spelen."
+      },
+      {
+        "id": 30,
+        "question": "Aan welke Franse historicus en opvoeder zijn we de moderne Olympische Spelen verschuldigd ?",
+        "propositions": [
+          "Pierre de Coubertin",
+          "Hertog van Windsor",
+          "Napoleon Bonaparte",
+          "Pius XI"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "De Pierre-de-Coubertin-medaille, uitgereikt door het IOC, toont een echte sportieve geest op de Olympische Spelen."
+      }
+    ]
+    }
+  }
+}

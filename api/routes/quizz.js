@@ -9,15 +9,22 @@ const getQuizz = async (req, res) => {
         {difficulty: 'confirmé', qty: 8},
         {difficulty: 'expert', qty: 4}
     ];
-    const quizz = await queryHelper.map(async value => {
 
+    const quizz = await queryHelper.map(async (value, index) => {
         let query = {
             difficulty: value.difficulty,
-            rand: {$gte: Math.random()},
+            $or: [{rand: {$lte: Math.random()}}, {rand: {$gte: Math.random()}}],
             lang: lang
         }
-        const getQuestion = await Quizz.find(query).limit(value.qty);
-        return getQuestion;
+        let getQuestion = await Quizz.find(query);
+        getQuestion.sort((a, b) => {
+            return Math.random() > a.rand ? Math.random() - a.rand : a.rand - b.rand;
+        })
+
+        let getQuestions = index < 2 ? getQuestion.slice(Math.floor(Math.random(getQuestion[0].key) + 1),
+            Math.floor(Math.random(getQuestion[0].key) + 1) + 8) :
+            getQuestion.slice(Math.floor(Math.random(getQuestion[0].key) + 1), Math.floor(Math.random(getQuestion[0].key) + 1) + 4)
+        return getQuestions
     });
     Promise.all(quizz).then(resolve => {
         return res.status(200).json(resolve.flat())

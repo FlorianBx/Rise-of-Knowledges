@@ -10,13 +10,13 @@ import SwiftUI
 
 struct ResultView: View {
     
+    @State private var showQuizzView: Bool = false
+    @Binding var isCorrect: Bool
+    
     var question: String
-    var isCorrect: Bool
     var answer: String
     var anecdote: String
     var questionNumber: Int
-    
-    @State private var showQuizzView: Bool = false
     
     var body: some View {
         ZStack {
@@ -27,6 +27,7 @@ struct ResultView: View {
                 
                 Text("Answer is: \(answer)")
                     .foregroundColor(isCorrect ? Color.green : Color.red)
+                    .frame(minWidth: 100, idealWidth: 300, maxWidth: .infinity)
                 Spacer()
                 Text("Anecdote: \(anecdote)")
                 Spacer()
@@ -45,16 +46,10 @@ struct ResultView: View {
                 Spacer()
             }
             .padding()
+            .edgesIgnoringSafeArea(.all)
             .foregroundColor(Color.white)
             .background(Color("NightBlue"))
             .navigationBarBackButtonHidden(true)
-            .edgesIgnoringSafeArea(.all)
         }
     }
 }
-
-//struct ResultView_Previews: PreviewProvider {
-//    static var previews: some View {
-//        ResultView()
-//    }
-//}

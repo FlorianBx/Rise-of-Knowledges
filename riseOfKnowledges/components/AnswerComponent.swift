@@ -11,6 +11,7 @@ import SwiftUI
 struct AnswerComponent: View {
     
     @State private var showResultView: Bool = false
+    @State private var isCorrect: Bool = false
     
     var questionNumber: Int
     var suggestions: Array<String>
@@ -24,6 +25,7 @@ struct AnswerComponent: View {
                 ZStack {
                     VStack {
                         Button(action: {
+                            isCorrect = item == answer ? true : false
                             self.showResultView = true
                         }) {
                             Text(item)
@@ -33,8 +35,8 @@ struct AnswerComponent: View {
                         }
                         .fullScreenCover(isPresented: $showResultView, content: {
                             ResultView(
+                                isCorrect: self.$isCorrect,
                                 question: question,
-                                isCorrect: item == answer ? true : false,
                                 answer: answer,
                                 anecdote: anecdote,
                                 questionNumber: questionNumber

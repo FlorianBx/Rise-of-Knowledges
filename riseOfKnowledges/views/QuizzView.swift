@@ -19,7 +19,7 @@ struct QuizzView: View {
         VStack {
             if self.quizzDatas.quizz.isEmpty {
                 Indicator()
-            } else if self.quizzDatas.quizz[questionNumber].question.isEmpty {
+            } else if questionNumber > self.quizzDatas.quizz.endIndex {
                 VStack {
                     EmptyView()
                 }

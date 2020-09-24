@@ -1,0 +1,2216 @@
+{                                     
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Histoire de France (Paris vaut bien une messe)",         
+  "difficulté": "4 / 5",
+  "quizz": {
+    "fr": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Quelle ville française était appelée la cité des papes au Moyen Âge ?",
+        "propositions": [
+          "Metz",
+          "Avignon",
+          "Tours",
+          "Nantes"
+        ],
+        "réponse": "Avignon",
+        "anecdote": "Avignon est l'une des rares villes françaises à avoir conservé ses remparts et son centre historique, composé du palais des papes."
+      },
+      {
+        "id": 2,
+        "question": "Quel diplomate français a succédé au Cardinal de Richelieu ?",
+        "propositions": [
+          "Philippe Mancini",
+          "Jules Mazarin",
+          "Charles de Mantoue",
+          "Antonio Barberini"
+        ],
+        "réponse": "Jules Mazarin",
+        "anecdote": "Le cardinal choisit comme pièce principale de son blason le faisceau de licteur, un signe de romanité."
+      },
+      {
+        "id": 3,
+        "question": "Quelle reine de France a porté le chapeau dans l'affaire du collier ?",
+        "propositions": [
+          "Marie-Louise",
+          "Marie-Joséphine",
+          "Marie-Thérèse",
+          "Marie-Antoinette"
+        ],
+        "réponse": "Marie-Antoinette",
+        "anecdote": "Les joailliers Boehmer et Bassenge réclamèrent à la reine 1,6 million de livres pour l'achat d'un collier de diamants."
+      },
+      {
+        "id": 4,
+        "question": "Quand François Mitterrand fut-il élu président de la France pour la première fois ?",
+        "propositions": [
+          "1991",
+          "1976",
+          "1986",
+          "1981"
+        ],
+        "réponse": "1981",
+        "anecdote": "Mitterrand sera élu 21e président de la République française face à Valéry Giscard d'Estaing avec 51 % des suffrages exprimés."
+      },
+      {
+        "id": 5,
+        "question": "Quelle ville Jeanne d'Arc a-t-elle héroïquement libérée des Anglais ?",
+        "propositions": [
+          "Tours",
+          "Orléans",
+          "Angers",
+          "Le Mans"
+        ],
+        "réponse": "Orléans",
+        "anecdote": "Jeanne d'Arc a été condamnée à être brûlée vive en 1431 après un procès en hérésie conduit par Pierre Cauchon."
+      },
+      {
+        "id": 6,
+        "question": "Quel homme d'État français fut surnommé le Tigre ou encore le Père la victoire ?",
+        "propositions": [
+          "Poincaré",
+          "Clémenceau",
+          "Joffre",
+          "Foch"
+        ],
+        "réponse": "Clémenceau",
+        "anecdote": "Se désignant comme premier flic de France, Clémenceau réprimera les grèves et mettra fin à la querelle des inventaires."
+      },
+      {
+        "id": 7,
+        "question": "Quelle héroïne de l'histoire de France était la Pucelle d'Orléans ?",
+        "propositions": [
+          "Alessandra Scala",
+          "Jeanne d'Arc",
+          "Hélène Duglioli",
+          "Rita de Cascia"
+        ],
+        "réponse": "Jeanne d'Arc",
+        "anecdote": "Elle parvint à insuffler aux soldats français une énergie nouvelle et à contraindre les Anglais à lever le siège de la ville."
+      },
+      {
+        "id": 8,
+        "question": "Sur quelle principauté a régné la maison de Matignon ?",
+        "propositions": [
+          "Condé",
+          "Monaco",
+          "Foucarmont",
+          "Cambrai"
+        ],
+        "réponse": "Monaco",
+        "anecdote": "La maison de Goyon donna à la France, sous l'Ancien Régime, plusieurs maréchaux de France et évêques."
+      },
+      {
+        "id": 9,
+        "question": "Quel journal a brillé en sortant le premier l'affaire des diamants de Bokassa ?",
+        "propositions": [
+          "Canard Enchaîné",
+          "Charlie Hebdo",
+          "Minute",
+          "Paris Match"
+        ],
+        "réponse": "Canard Enchaîné",
+        "anecdote": "Cette affaire pourrait être une des causes de sa défaite face au candidat du Parti socialiste, François Mitterrand."
+      },
+      {
+        "id": 10,
+        "question": "Quel Guillaume, duc de Normandie, parfois surnommé le Bâtard, a conquis l'Angleterre ?",
+        "propositions": [
+          "Le Pieux",
+          "Le Hardi",
+          "Le Conquérant",
+          "Le Chevelu"
+        ],
+        "réponse": "Le Conquérant",
+        "anecdote": "Vers 1050, Guillaume épousa Mathilde de Flandre fille de Baudouin V avec qui il aura au moins dix enfants dont quatre fils."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Quelle ville assiégée Gambetta a-t-il dû quitter en ballon ?",
+        "propositions": [
+          "Lyon",
+          "Paris",
+          "Rouen",
+          "Toulouse"
+        ],
+        "réponse": "Paris",
+        "anecdote": "Gambetta, d'abord réticent, fut sollicité par ses collègues ministres et le 7 octobre 1870, il quitta Paris en ballon monté."
+      },
+      {
+        "id": 12,
+        "question": "Quel roi a révoqué l'édit de Nantes, ayant donné la liberté de religion ?",
+        "propositions": [
+          "Charles IX",
+          "François II",
+          "Henri IV",
+          "Louis XIV"
+        ],
+        "réponse": "Louis XIV",
+        "anecdote": "La promulgation de cet édit a mis fin aux guerres de religion qui avaient ravagé le royaume de France depuis 1572."
+      },
+      {
+        "id": 13,
+        "question": "Quel était le surnom du fils de Napoléon 1er et de Marie-Louise ?",
+        "propositions": [
+          "Le Mal aimé",
+          "L'Aiglon",
+          "L'Incapable",
+          "Le Corsaire"
+        ],
+        "réponse": "L'Aiglon",
+        "anecdote": "Jusqu'à sa mort à l'âge de 21 ans, Napoléon II fut reconnu par les bonapartistes comme l'héritier du trône impérial."
+      },
+      {
+        "id": 14,
+        "question": "Quel chevalier franc et comte urbain a été trahi par Ganelon au col de Roncevaux ?",
+        "propositions": [
+          "Perceval",
+          "Gauvain",
+          "Marsile",
+          "Roland"
+        ],
+        "réponse": "Roland",
+        "anecdote": "Pour cette raison, Ganelon est d'une certaine manière devenu dans la tradition française l'archétype du félon ou du traître."
+      },
+      {
+        "id": 15,
+        "question": "De quelle manière François Ravaillac a-t-il tué le roi Henri IV ?",
+        "propositions": [
+          "Décapité",
+          "Poignardé",
+          "Empoisonné",
+          "Fusillé"
+        ],
+        "réponse": "Poignardé",
+        "anecdote": "Ravaillac sera condamné à mort par le Parlement de Paris au cours d'un procès de dix jours, présidé par Achille 1er de Harlay."
+      },
+      {
+        "id": 16,
+        "question": "Quel code régissait la vie d'une grande partie de la cour de Louis XIV ?",
+        "propositions": [
+          "Bonjour",
+          "Étiquette",
+          "Pourboire",
+          "Mayade"
+        ],
+        "réponse": "Étiquette",
+        "anecdote": "L'étiquette gouverne et restreint la manière dont les gens interagissent et sert à exprimer le respect dû à autrui."
+      },
+      {
+        "id": 17,
+        "question": "Quel pays Bertrand Du Guesclin a-t-il combattu durant toute sa vie ?",
+        "propositions": [
+          "Angleterre",
+          "Italie",
+          "Pays-Bas",
+          "Allemagne"
+        ],
+        "réponse": "Angleterre",
+        "anecdote": "Bertrand du Guesclin est considéré, selon les sources, soit comme un héros à la loyauté absolue, soit comme un traître."
+      },
+      {
+        "id": 18,
+        "question": "Quel âge avait Clovis lorsqu'il fut élu roi des Francs en 481 ?",
+        "propositions": [
+          "16 ans",
+          "10 ans",
+          "14 ans",
+          "12 ans"
+        ],
+        "réponse": "16 ans",
+        "anecdote": "Clovis est considéré dans l'historiographie comme un des personnages historiques les plus importants de l'histoire de France."
+      },
+      {
+        "id": 19,
+        "question": "À quelle élection présidentielle s'est présenté pour la première fois Michel Rocard ?",
+        "propositions": [
+          "1969",
+          "1975",
+          "1972",
+          "1978"
+        ],
+        "réponse": "1969",
+        "anecdote": "Michel Rocard fut chargé de la négociation internationale pour les pôles arctique et antarctique de 2009 à sa mort."
+      },
+      {
+        "id": 20,
+        "question": "Quel corsaire malouin s'est évadé d'Angleterre et a rejoint St-Malo à la rame ?",
+        "propositions": [
+          "Jean Bart",
+          "Jean Bernanos",
+          "Philippe Bequel",
+          "Nicolas Surcouf"
+        ],
+        "réponse": "Jean Bart",
+        "anecdote": "La bataille navale du Dogger Bank fut livrée en mer du Nord le 17 juin 1696, pendant la guerre de la Ligue d'Augsbourg."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quel droit adopté en 1792 a été rétabli par la loi Naquet en 1884 ?",
+        "propositions": [
+          "Droit au divorce",
+          "Droit à la retraite",
+          "Droit à l'euthanasie",
+          "Droit au vote"
+        ],
+        "réponse": "Droit au divorce",
+        "anecdote": "Devant le nombre élevé de divorces qui se produisit, certaines modifications furent apportées à cette loi sur le divorce."
+      },
+      {
+        "id": 22,
+        "question": "Quel roi a fait installer les premières boîtes aux lettres dans Paris ?",
+        "propositions": [
+          "Henri IV",
+          "Louis XIV",
+          "Charles IX",
+          "François II"
+        ],
+        "réponse": "Louis XIV",
+        "anecdote": "La Poste est issue des relais de poste créés par Louis XI en 1477 pour le transport des messages royaux."
+      },
+      {
+        "id": 23,
+        "question": "À quel fruit les caricaturistes comparaient-ils la tête du roi Louis-Philippe ?",
+        "propositions": [
+          "Citron",
+          "Fraise",
+          "Poire",
+          "Banane"
+        ],
+        "réponse": "Poire",
+        "anecdote": "Il fut caricaturé par Honoré Daumier qui accentua sa bedaine et ses rouflaquettes et le profilera en rat ou perroquet."
+      },
+      {
+        "id": 24,
+        "question": "Quel était l'emblème du régime de Vichy en France pendant la guerre ?",
+        "propositions": [
+          "Cosse de genêts",
+          "Croix de Lorraine",
+          "Francisque",
+          "Fleur de lys"
+        ],
+        "réponse": "Francisque",
+        "anecdote": "La francisque est le nom traditionnel de la hache de jet des Germains occidentaux, que popularisèrent les Francs."
+      },
+      {
+        "id": 25,
+        "question": "De quel roi de France le duc de Sully fut-il le ministre ?",
+        "propositions": [
+          "Charles IX",
+          "François II",
+          "Henri IV",
+          "Louis XIV"
+        ],
+        "réponse": "Henri IV",
+        "anecdote": "Sully eut de brillants conseillers, comme l'économiste Barthélemy de Laffemas, qui développa les manufactures et l'artisanat."
+      },
+      {
+        "id": 26,
+        "question": "Quel roi de la dynastie mérovingienne fut conseillé par Saint Eloi ?",
+        "propositions": [
+          "Caribert",
+          "Sigebert",
+          "Dagobert",
+          "Childebert"
+        ],
+        "réponse": "Dagobert",
+        "anecdote": "Sous son règne, la royauté mérovingienne jette un dernier éclat avant que la réalité du pouvoir ne passe aux maires du palais."
+      },
+      {
+        "id": 27,
+        "question": "Combien de prisonniers y avait-il dans la Bastille le 14 juillet 1789 ?",
+        "propositions": [
+          "1 257",
+          "167",
+          "47",
+          "7"
+        ],
+        "réponse": "7",
+        "anecdote": "L'événement fut sans précédent par ses répercussions, par ses implications politiques et son retentissement symbolique."
+      },
+      {
+        "id": 28,
+        "question": "Quelle expression a été utilisée pour la première fois à propos du Père Joseph ?",
+        "propositions": [
+          "Suprême rouge",
+          "Stratège bleu",
+          "Éminence grise",
+          "Bérurier noir"
+        ],
+        "réponse": "Éminence grise",
+        "anecdote": "François Leclerc du Tremblay était un capucin surnommé par ses détracteurs l'éminence grise du cardinal de Richelieu."
+      },
+      {
+        "id": 29,
+        "question": "Quel roi, connu sous le titre de comte d'Artois, a succédé à Louis XVIII ?",
+        "propositions": [
+          "Henri IV",
+          "Charles X",
+          "François II",
+          "Jean II"
+        ],
+        "réponse": "Charles X",
+        "anecdote": "Charles X est le dernier Bourbon (de la branche aînée) à avoir régné mais également le 68e et dernier roi de France."
+      },
+      {
+        "id": 30,
+        "question": "Quel évêque a baptisé Clovis à Reims un 25 décembre ?",
+        "propositions": [
+          "Saint Paul",
+          "Saint Rémi",
+          "Saint André",
+          "Saint Justin"
+        ],
+        "réponse": "Saint Rémi",
+        "anecdote": "Dans le diocèse de Reims, il est fêté le 1er octobre conformément à une tradition locale remontant à la fin du VIe siècle."
+      }
+    ]
+    },
+    "en": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Which French city was called the city of the popes in the Middle Ages ?",
+        "propositions": [
+          "Metz",
+          "Nantes",
+          "Avignon",
+          "Tours"
+        ],
+        "réponse": "Avignon",
+        "anecdote": "Avignon is one of the rare French cities to have preserved its ramparts and its historic center, made up of the Palazzo della Popes."
+      },
+      {
+        "id": 2,
+        "question": "Which French diplomat succeeded Cardinal Richelieu ?",
+        "propositions": [
+          "Charles de Mantoue",
+          "Philippe Mancini",
+          "Antonio Barberini",
+          "Jules Mazarin"
+        ],
+        "réponse": "Jules Mazarin",
+        "anecdote": "The cardinal chooses as the main part of his coat of arms the bundle of lictor, a sign of romanity."
+      },
+      {
+        "id": 3,
+        "question": "Which queen of France wore the hat in the necklace case ?",
+        "propositions": [
+          "Marie-Louise",
+          "Marie-Antoinette",
+          "Marie-Josephine",
+          "Marie-Therese"
+        ],
+        "réponse": "Marie-Antoinette",
+        "anecdote": "Jewelers Boehmer and Bassenge demanded £ 1.6 million from the Queen for the purchase of a diamond necklace."
+      },
+      {
+        "id": 4,
+        "question": "When was François Mitterrand elected president of France for the first time ?",
+        "propositions": [
+          "1976",
+          "1981",
+          "1986",
+          "1991"
+        ],
+        "réponse": "1981",
+        "anecdote": "Mitterrand will be elected 21st President of the French Republic against Valéry Giscard d'Estaing with 51 % of the votes cast."
+      },
+      {
+        "id": 5,
+        "question": "Which city did Joan of Arc heroically liberate from the English ?",
+        "propositions": [
+          "Orleans",
+          "Le Mans",
+          "Angers",
+          "Tours"
+        ],
+        "réponse": "Orleans",
+        "anecdote": "Jeanne d'Arc was condemned to be burnt alive in 1431 after a trial in heresy led by Pierre Cauchon."
+      },
+      {
+        "id": 6,
+        "question": "Which French statesman was nicknamed the Tiger or still the Father the victory ?",
+        "propositions": [
+          "Poincare",
+          "Foch",
+          "Clemenceau",
+          "Joffre"
+        ],
+        "réponse": "Clemenceau",
+        "anecdote": "Designating himself as the leading cop in France, Cl ?menceau will put down strikes and put an end to the inventory tale."
+      },
+      {
+        "id": 7,
+        "question": "What hero in the history of France was the Maid of Orleans ?",
+        "propositions": [
+          "Rita de Cascia",
+          "Helene Duglioli",
+          "Alessandra Scala",
+          "Joan of Arc"
+        ],
+        "réponse": "Joan of Arc",
+        "anecdote": "It managed to infuse French soldiers with new energy and to force the English to raise the siege of the city."
+      },
+      {
+        "id": 8,
+        "question": "On which principality reigned the house of Matignon ?",
+        "propositions": [
+          "Cambrai",
+          "Foucarmont",
+          "Conde",
+          "Monaco"
+        ],
+        "réponse": "Monaco",
+        "anecdote": "Goyon's house gave France, under the Ancien Régime, several marshals of France and bishops."
+      },
+      {
+        "id": 9,
+        "question": "Which newspaper shone when it first brought out the Bokassa diamond affair ?",
+        "propositions": [
+          "Charlie Hebdo",
+          "Paris Match",
+          "Duck Chained",
+          "Minute"
+        ],
+        "réponse": "Duck Chained",
+        "anecdote": "This affair could be one of the causes of his defeat against the candidate of the Socialist Party, François Mitterrand."
+      },
+      {
+        "id": 10,
+        "question": "Which Guillaume, Duke of Normandy, sometimes nicknamed the Bardard, conquered England ?",
+        "propositions": [
+          "The Conqueror",
+          "The Hairy",
+          "The Bold",
+          "The Pious"
+        ],
+        "réponse": "The Conqueror",
+        "anecdote": "Around 1050, Guillaume married Mathilde de Flandre daughter of Baudouin V with whom he will have at least ten children including four sons."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Which besieged city has Gambetta left in a balloon ?",
+        "propositions": [
+          "Lyon",
+          "Toulouse",
+          "Paris",
+          "Rouen"
+        ],
+        "réponse": "Paris",
+        "anecdote": "Gambetta, at first reluctant, was asked by his fellow ministers and on October 7, 1870, he left Paris in a mounted balloon."
+      },
+      {
+        "id": 12,
+        "question": "Which king revoked the Edict of Nantes, having given freedom of religion ?",
+        "propositions": [
+          "Charles IX",
+          "François II",
+          "Louis XIV",
+          "Henri IV"
+        ],
+        "réponse": "Louis XIV",
+        "anecdote": "The promulgation of this edict put an end to the wars of religion which had ravaged the kingdom of France since 1572."
+      },
+      {
+        "id": 13,
+        "question": "What was the nickname of the son of Napoleon 1st and Marie-Louise ?",
+        "propositions": [
+          "The Evil Loved",
+          "L'Aiglon",
+          "The Incapable",
+          "The Corsair"
+        ],
+        "réponse": "L'Aiglon",
+        "anecdote": "Until his death at the age of 21, Napoleon II was recognized by the Bonapartists as the heir to the imperial throne."
+      },
+      {
+        "id": 14,
+        "question": "What frank knight and urban count was betrayed by Ganelon at the Col de Roncevaux ?",
+        "propositions": [
+          "Marsile",
+          "Roland",
+          "Gauvain",
+          "Perceval"
+        ],
+        "réponse": "Roland",
+        "anecdote": "For this reason, Ganelon has in a certain way become in the French tradition the archetype of the felon or the traitor."
+      },
+      {
+        "id": 15,
+        "question": "How did François Ravaillac kill King Henry IV ?",
+        "propositions": [
+          "Decapitated",
+          "Stabbed",
+          "Poisoned",
+          "Shotgun"
+        ],
+        "réponse": "Stabbed",
+        "anecdote": "Ravaillac will be sentenced to death by the Parliament of Paris during a ten-day trial, chaired by Achille 1er de Harlay."
+      },
+      {
+        "id": 16,
+        "question": "What code governed the life of a large part of the court of Louis XIV ?",
+        "propositions": [
+          "Tipping",
+          "Mayade",
+          "Label",
+          "Hello"
+        ],
+        "réponse": "Label",
+        "anecdote": "Etiquette governs and restricts the way people interact and is used to express respect for others."
+      },
+      {
+        "id": 17,
+        "question": "Which country did Bertrand Du Guesclin fight in all his life ?",
+        "propositions": [
+          "Netherlands",
+          "Italy",
+          "Germany",
+          "England"
+        ],
+        "réponse": "England",
+        "anecdote": "Bertrand du Guesclin is considered, according to sources, either as a hero with absolute loyalty, or as a traitor."
+      },
+      {
+        "id": 18,
+        "question": "How old was Clovis when he was elected king of the Franks in 481 ?",
+        "propositions": [
+          "12 years old",
+          "10 years old",
+          "14 years old",
+          "16 years old"
+        ],
+        "réponse": "16 years old",
+        "anecdote": "Clovis is considered in historiography as one of the most important historical figures in the history of France."
+      },
+      {
+        "id": 19,
+        "question": "At what presidential election did Michel Rocard stand for the first time ?",
+        "propositions": [
+          "1978",
+          "1969",
+          "1975",
+          "1972"
+        ],
+        "réponse": "1969",
+        "anecdote": "Michel Rocard was in charge of the international negotiation for arctic and antarctic poles from 2009 to his death."
+      },
+      {
+        "id": 20,
+        "question": "Which Corsican privateer escaped from England and joined St-Malo with the oar ?",
+        "propositions": [
+          "Nicolas Surcouf",
+          "Jean Bart",
+          "Jean Bernanos",
+          "Philippe Bequel"
+        ],
+        "réponse": "Jean Bart",
+        "anecdote": "The Dogger Bank naval battle was fought in the North Sea on June 17, 1696, during the War of the League of Augsburg."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "What law adopted in 1792 was restored by the Naquet law in 1884 ?",
+        "propositions": [
+          "Right to retirement",
+          "Right to euthanasia",
+          "Right to divorce",
+          "Right to vote"
+        ],
+        "réponse": "Right to divorce",
+        "anecdote": "In view of the high number of divorces that occurred, certain modifications were made to this law on divorce."
+      },
+      {
+        "id": 22,
+        "question": "Which king had the first mailboxes installed in Paris ?",
+        "propositions": [
+          "Charles IX",
+          "Louis XIV",
+          "Henri IV",
+          "François II"
+        ],
+        "réponse": "Louis XIV",
+        "anecdote": "La Poste originated from the post houses created by Louis XI in 1477 for the transport of royal messages."
+      },
+      {
+        "id": 23,
+        "question": "To what fruit did the caricaturists compare the head of King Louis-Philippe ?",
+        "propositions": [
+          "Banana",
+          "Pear",
+          "Lemon",
+          "Strawberry"
+        ],
+        "réponse": "Pear",
+        "anecdote": "He was caricatured by Honoré Daumier who accentuated his paunch and his rouflaquettes and profiled him as a rat or parrot."
+      },
+      {
+        "id": 24,
+        "question": "What was the emblem of the Vichy regime in France during the war ?",
+        "propositions": [
+          "Genet pod",
+          "Lily flower",
+          "Francisque",
+          "Cross of Lorraine"
+        ],
+        "réponse": "Francisque",
+        "anecdote": "The Francisque is the traditional name for the throwing ax of the Western Germans, who popularized the Franks."
+      },
+      {
+        "id": 25,
+        "question": "Of which king of France was the Duke of Sully the minister ?",
+        "propositions": [
+          "Louis XIV",
+          "François II",
+          "Henry IV",
+          "Charles IX"
+        ],
+        "réponse": "Henry IV",
+        "anecdote": "Sully had brilliant advisers, such as the economist Barthelemy de Laffemas, who developed factories and crafts."
+      },
+      {
+        "id": 26,
+        "question": "Which king of the Merovingian dynasty was advised by Saint Eloi ?",
+        "propositions": [
+          "Dagobert",
+          "Caribert",
+          "Sigebert",
+          "Childebert"
+        ],
+        "réponse": "Dagobert",
+        "anecdote": "Under his reign, the Merovingian royalty throws a final burst before the reality of power passes to the mayors of the palace."
+      },
+      {
+        "id": 27,
+        "question": "How many prisoners were there in the Bastille on July 14, 1789 ?",
+        "propositions": [
+          "1,257",
+          "7",
+          "47",
+          "167"
+        ],
+        "réponse": "7",
+        "anecdote": "The event was unprecedented by its repercussions, by its political implications and its symbolic repercussions."
+      },
+      {
+        "id": 28,
+        "question": "What expression was used for the first time about Father Joseph ?",
+        "propositions": [
+          "Eminence grise",
+          "Black Leatherman",
+          "Supreme red",
+          "Blue strategy"
+        ],
+        "réponse": "Eminence grise",
+        "anecdote": "François Leclerc du Tremblay was a Capuchin nicknamed by his detractors the eminence grise of Cardinal Richelieu."
+      },
+      {
+        "id": 29,
+        "question": "Which king, known as the Comte d'Artois, succeeded Louis XVIII ?",
+        "propositions": [
+          "François II",
+          "Henry IV",
+          "Charles X",
+          "John II"
+        ],
+        "réponse": "Charles X",
+        "anecdote": "Charles X is the last Bourbon (of the elder branch) to have reigned but also the 68th and last king of France."
+      },
+      {
+        "id": 30,
+        "question": "Which bishop baptized Clovis in Reims on December 25 ?",
+        "propositions": [
+          "Saint Paul",
+          "Saint Andre",
+          "Saint Justin",
+          "Saint Remi"
+        ],
+        "réponse": "Saint Remi",
+        "anecdote": "In the diocese of Reims, it is celebrated on October 1 in accordance with a local tradition dating back to the end of the sixth century."
+      }
+    ]
+    },
+    "de": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Welche französische Stadt wurde im Mittelalter die Stadt der Päpste genannt ?",
+        "propositions": [
+          "Metz",
+          "Nantes",
+          "Touren",
+          "Avignon"
+        ],
+        "réponse": "Avignon",
+        "anecdote": "Avignon ist eine der seltenen französischen Städte, die ihre Stadtmauern und ihr historisches Zentrum, das aus dem Palazzo della Popes besteht, erhalten hat."
+      },
+      {
+        "id": 2,
+        "question": "Welcher französische Diplomat trat die Nachfolge von Kardinal Richelieu an ?",
+        "propositions": [
+          "Jules Mazarin",
+          "Charles de Mantoue",
+          "Antonio Barberini",
+          "Philippe Mancini"
+        ],
+        "réponse": "Jules Mazarin",
+        "anecdote": "Der Kardinal wählt als Hauptteil seines Wappens das Lictor-Bündel, ein Zeichen der Romanität."
+      },
+      {
+        "id": 3,
+        "question": "Welche Königin von Frankreich trug den Hut in der Halskette ?",
+        "propositions": [
+          "Marie-Therese",
+          "Marie-Josephine",
+          "Marie-Antoinette",
+          "Marie-Louise"
+        ],
+        "réponse": "Marie-Antoinette",
+        "anecdote": "Die Juweliere Boehmer und Bassenge forderten von der Königin 1,6 Millionen Pfund für den Kauf einer Diamantkette."
+      },
+      {
+        "id": 4,
+        "question": "Wann wurde François Mitterrand zum ersten Mal zum Präsidenten Frankreichs gewählt ?",
+        "propositions": [
+          "1981",
+          "1986",
+          "1976",
+          "1991"
+        ],
+        "réponse": "1981",
+        "anecdote": "Mitterrand wird mit 51 % der abgegebenen Stimmen zum 21. Präsidenten der Französischen Republik gegen Valéry Giscard d'Estaing gewählt."
+      },
+      {
+        "id": 5,
+        "question": "Welche Stadt hat Jeanne d'Arc heldenhaft von den Engländern befreit ?",
+        "propositions": [
+          "Le Mans",
+          "Angers",
+          "Orleans",
+          "Tours"
+        ],
+        "réponse": "Orleans",
+        "anecdote": "Jeanne d'Arc wurde 1431 nach einem von Pierre Cauchon angeführten Häresieprozess zum lebendigen Verbrennen verurteilt."
+      },
+      {
+        "id": 6,
+        "question": "Welcher französische Staatsmann wurde der Tiger genannt oder noch der Vater der Sieg ?",
+        "propositions": [
+          "Poincare",
+          "Joffre",
+          "Clemenceau",
+          "Foch"
+        ],
+        "réponse": "Clemenceau",
+        "anecdote": "Cl ?menceau, der sich selbst als führender Polizist in Frankreich bezeichnet, wird Streiks niederschlagen und die Inventargeschichte beenden."
+      },
+      {
+        "id": 7,
+        "question": "Welcher Held in der Geschichte Frankreichs war die Magd von Orleans ?",
+        "propositions": [
+          "Jeanne d'Arc",
+          "Rita de Cascia",
+          "Helene Duglioli",
+          "Alessandra Scala"
+        ],
+        "réponse": "Jeanne d'Arc",
+        "anecdote": "Es gelang ihm, französische Soldaten mit neuer Energie zu versorgen und die Engländer zu zwingen, die Belagerung der Stadt zu erhöhen."
+      },
+      {
+        "id": 8,
+        "question": "Auf welchem Fürstentum regierte das Haus Matignon ?",
+        "propositions": [
+          "Foucarmont",
+          "Conde",
+          "Cambrai",
+          "Monaco"
+        ],
+        "réponse": "Monaco",
+        "anecdote": "Goyons Haus gab Frankreich unter dem Ancien Régime mehrere Marschälle Frankreichs und Bischöfe."
+      },
+      {
+        "id": 9,
+        "question": "Welche Zeitung glänzte, als sie die Bokassa-Diamanten-Affäre zum ersten Mal herausbrachte ?",
+        "propositions": [
+          "Paris Match",
+          "Ente angekettet",
+          "Charlie Hebdo",
+          "Minute"
+        ],
+        "réponse": "Ente angekettet",
+        "anecdote": "Diese Affäre könnte eine der Ursachen für seine Niederlage gegen den Kandidaten der Sozialistischen Partei, François Mitterrand, sein."
+      },
+      {
+        "id": 10,
+        "question": "Welcher Guillaume, Herzog der Normandie, manchmal auch Bardard genannt, eroberte England ?",
+        "propositions": [
+          "Der Fromme",
+          "Der Kühne",
+          "Der Haarige",
+          "Der Eroberer"
+        ],
+        "réponse": "Der Eroberer",
+        "anecdote": "Um 1050 heiratete Guillaume Mathilde de Flandre, die Tochter von Baudouin V, mit der er mindestens zehn Kinder haben wird, darunter vier Söhne."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Welche belagerte Stadt hat Gambetta in einem Ballon zurückgelassen ?",
+        "propositions": [
+          "Paris",
+          "Toulouse",
+          "Rouen",
+          "Lyon"
+        ],
+        "réponse": "Paris",
+        "anecdote": "Gambetta, zunächst zurückhaltend, wurde von seinen Ministerkollegen gefragt, und am 7. Oktober 1870 verließ er Paris in einem montierten Ballon."
+      },
+      {
+        "id": 12,
+        "question": "Welcher König hat das Edikt von Nantes widerrufen, nachdem er die Religionsfreiheit gegeben hatte ?",
+        "propositions": [
+          "Henri IV",
+          "François II",
+          "Ludwig XIV",
+          "Charles IX"
+        ],
+        "réponse": "Ludwig XIV",
+        "anecdote": "Die Verkündung dieses Edikts setzte den Religionskriegen ein Ende, die das Königreich Frankreich seit 1572 verwüstet hatten."
+      },
+      {
+        "id": 13,
+        "question": "Wie war der Spitzname des Sohnes von Napoleon 1st und Marie-Louise ?",
+        "propositions": [
+          "Der Korsar",
+          "Die Unfähigen",
+          "Das Böse geliebt",
+          "L'Aiglon"
+        ],
+        "réponse": "L'Aiglon",
+        "anecdote": "Bis zu seinem Tod im Alter von 21 Jahren wurde Napoleon II. Von den Bonapartisten als Erbe des kaiserlichen Throns anerkannt."
+      },
+      {
+        "id": 14,
+        "question": "Welcher offene Ritter und städtische Graf wurde von Ganelon am Col de Roncevaux verraten ?",
+        "propositions": [
+          "Gauvain",
+          "Perceval",
+          "Roland",
+          "Marsile"
+        ],
+        "réponse": "Roland",
+        "anecdote": "Aus diesem Grund ist Ganelon in gewisser Weise in der französischen Tradition zum Archetyp des Verbrechers oder Verräters geworden."
+      },
+      {
+        "id": 15,
+        "question": "Wie hat François Ravaillac König Heinrich IV. Getötet ?",
+        "propositions": [
+          "Schrotflinte",
+          "Erstochen",
+          "Enthauptet",
+          "Vergiftet"
+        ],
+        "réponse": "Erstochen",
+        "anecdote": "Ravaillac wird vom Pariser Parlament während eines zehntägigen Prozesses unter dem Vorsitz von Achille 1er de Harlay zum Tode verurteilt."
+      },
+      {
+        "id": 16,
+        "question": "Welcher Kodex regelte das Leben eines großen Teils des Hofes Ludwigs XIV. ?",
+        "propositions": [
+          "Hallo",
+          "Trinkgeld",
+          "Mayade",
+          "Etikett"
+        ],
+        "réponse": "Etikett",
+        "anecdote": "Die Etikette regelt und schränkt die Art und Weise ein, wie Menschen miteinander umgehen, und wird verwendet, um Respekt für andere auszudrücken."
+      },
+      {
+        "id": 17,
+        "question": "In welchem Land hat Bertrand Du Guesclin sein ganzes Leben lang gekämpft ?",
+        "propositions": [
+          "Niederlande",
+          "Italien",
+          "England",
+          "Deutschland"
+        ],
+        "réponse": "England",
+        "anecdote": "Bertrand du Guesclin gilt laut Quellen entweder als Held mit absoluter Loyalität oder als Verräter."
+      },
+      {
+        "id": 18,
+        "question": "Wie alt war Clovis, als er 481 zum König der Franken gewählt wurde ?",
+        "propositions": [
+          "12 Jahre alt",
+          "14 Jahre alt",
+          "16 Jahre alt",
+          "10 Jahre alt"
+        ],
+        "réponse": "16 Jahre alt",
+        "anecdote": "Clovis gilt in der Geschichtsschreibung als eine der wichtigsten historischen Figuren in der Geschichte Frankreichs."
+      },
+      {
+        "id": 19,
+        "question": "Bei welchen Präsidentschaftswahlen stand Michel Rocard zum ersten Mal ?",
+        "propositions": [
+          "1972",
+          "1978",
+          "1975",
+          "1969"
+        ],
+        "réponse": "1969",
+        "anecdote": "Michel Rocard war von 2009 bis zu seinem Tod für die internationalen Verhandlungen über arktische und antarktische Pole verantwortlich."
+      },
+      {
+        "id": 20,
+        "question": "Welcher korsische Freibeuter floh aus England und schloss sich St-Malo mit dem Ruder an ?",
+        "propositions": [
+          "Nicolas Surcouf",
+          "Jean Bernanos",
+          "Philippe Bequel",
+          "Jean Bart"
+        ],
+        "réponse": "Jean Bart",
+        "anecdote": "Die Seeschlacht der Dogger Bank wurde am 17. Juni 1696 während des Augsburger Bundeskrieges in der Nordsee ausgetragen."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Welches 1792 verabschiedete Gesetz wurde 1884 durch das Naquet-Gesetz wiederhergestellt ?",
+        "propositions": [
+          "Recht auf Sterbehilfe",
+          "Wahlrecht",
+          "Recht auf Ruhestand",
+          "Recht auf Scheidung"
+        ],
+        "réponse": "Recht auf Scheidung",
+        "anecdote": "Angesichts der hohen Anzahl von Scheidungen wurden bestimmte Änderungen an diesem Scheidungsgesetz vorgenommen."
+      },
+      {
+        "id": 22,
+        "question": "Welcher König hatte die ersten Postfächer in Paris installiert ?",
+        "propositions": [
+          "Henri IV",
+          "Ludwig XIV",
+          "Charles IX",
+          "François II"
+        ],
+        "réponse": "Ludwig XIV",
+        "anecdote": "La Poste entstand aus den 1477 von Ludwig XI. Für den Transport königlicher Botschaften geschaffenen Posthäusern."
+      },
+      {
+        "id": 23,
+        "question": "Mit welchen Früchten verglichen die Karikaturisten den Kopf von König Louis-Philippe ?",
+        "propositions": [
+          "Banane",
+          "Erdbeere",
+          "Zitrone",
+          "Birne"
+        ],
+        "réponse": "Birne",
+        "anecdote": "Er wurde von Honoré Daumier karikiert, der seinen Bauch und seine Rouflaquettes betonte und ihn als Ratte oder Papagei profilierte."
+      },
+      {
+        "id": 24,
+        "question": "Was war das Wahrzeichen des Vichy-Regimes in Frankreich während des Krieges ?",
+        "propositions": [
+          "Genet pod",
+          "Francisque",
+          "Lothringerkreuz",
+          "Lilienblume"
+        ],
+        "réponse": "Francisque",
+        "anecdote": "Der Francisque ist der traditionelle Name für die Wurfaxt der Westdeutschen, die die Franken populär machten."
+      },
+      {
+        "id": 25,
+        "question": "Von welchem König von Frankreich war der Herzog von Sully der Minister ?",
+        "propositions": [
+          "Charles IX",
+          "François II",
+          "Heinrich IV",
+          "Ludwig XIV"
+        ],
+        "réponse": "Heinrich IV",
+        "anecdote": "Sully hatte brillante Berater wie den Ökonomen Barthelemy de Laffemas, der Fabriken und Kunsthandwerk entwickelte."
+      },
+      {
+        "id": 26,
+        "question": "Welcher König der Merowinger-Dynastie wurde vom Heiligen Eloi beraten ?",
+        "propositions": [
+          "Childebert",
+          "Dagobert",
+          "Sigebert",
+          "Caribert"
+        ],
+        "réponse": "Dagobert",
+        "anecdote": "Unter seiner Herrschaft wirft das merowingische Königshaus einen letzten Ausbruch, bevor die Realität der Macht auf die Bürgermeister des Palastes übergeht."
+      },
+      {
+        "id": 27,
+        "question": "Wie viele Gefangene gab es am 14. Juli 1789 in der Bastille ?",
+        "propositions": [
+          "47",
+          "1,257",
+          "167",
+          "7"
+        ],
+        "réponse": "7",
+        "anecdote": "Das Ereignis war beispiellos durch seine Auswirkungen, durch seine politischen Implikationen und seine symbolischen Auswirkungen."
+      },
+      {
+        "id": 28,
+        "question": "Welcher Ausdruck wurde zum ersten Mal über Pater Joseph verwendet ?",
+        "propositions": [
+          "Schwarzer Ledermann",
+          "Eminenz grise",
+          "Blaue Strategie",
+          "Oberstes Rot"
+        ],
+        "réponse": "Eminenz grise",
+        "anecdote": "François Leclerc du Tremblay war ein Kapuziner, der von seinen Kritikern die herausragende Stellung von Kardinal Richelieu erhielt."
+      },
+      {
+        "id": 29,
+        "question": "Welcher König, bekannt als Comte d'Artois, trat die Nachfolge Ludwigs XVIII. An ?",
+        "propositions": [
+          "Johannes II",
+          "Karl X",
+          "François II",
+          "Heinrich IV"
+        ],
+        "réponse": "Karl X",
+        "anecdote": "Karl X. ist der letzte regierende Bourbon (des älteren Zweigs), aber auch der 68. und letzte König von Frankreich."
+      },
+      {
+        "id": 30,
+        "question": "Welcher Bischof hat Clovis am 25. Dezember in Reims getauft ?",
+        "propositions": [
+          "Saint Paul",
+          "Heiliger Andre",
+          "Saint Remi",
+          "Heiliger Justin"
+        ],
+        "réponse": "Saint Remi",
+        "anecdote": "In der Diözese Reims wird es am 1. Oktober nach einer lokalen Tradition gefeiert, die bis zum Ende des sechsten Jahrhunderts zurückreicht."
+      }
+    ]
+    },
+    "es": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "¿Qué ciudad francesa se llamó la ciudad de los papas en la Edad Media ?",
+        "propositions": [
+          "Nantes",
+          "Tours",
+          "Aviñón",
+          "Metz"
+        ],
+        "réponse": "Aviñón",
+        "anecdote": "Aviñón es una de las pocas ciudades francesas que ha conservado sus murallas y su centro histórico, formado por el Palazzo della Papas."
+      },
+      {
+        "id": 2,
+        "question": "¿Qué diplomático francés sucedió al cardenal Richelieu ?",
+        "propositions": [
+          "Antonio Barberini",
+          "Philippe Mancini",
+          "Jules Mazarin",
+          "Charles de Mantoue"
+        ],
+        "réponse": "Jules Mazarin",
+        "anecdote": "El cardenal elige como parte principal de su escudo de armas el manojo de licor, un signo de romanidad."
+      },
+      {
+        "id": 3,
+        "question": "¿Qué reina de Francia usó el sombrero en la caja del collar ?",
+        "propositions": [
+          "Marie-Josephine",
+          "Marie-Louise",
+          "María Antonieta",
+          "Marie-Therese"
+        ],
+        "réponse": "María Antonieta",
+        "anecdote": "Los joyeros Boehmer y Bassenge exigieron a la Reina 1,6 millones de libras para la compra de un collar de diamantes."
+      },
+      {
+        "id": 4,
+        "question": "¿Cuándo fue elegido por primera vez François Mitterrand presidente de Francia ?",
+        "propositions": [
+          "1981",
+          "1976",
+          "1986",
+          "1991"
+        ],
+        "réponse": "1981",
+        "anecdote": "Mitterrand será elegido 21er Presidente de la República Francesa contra Valéry Giscard d'Estaing con el 51 % de los votos emitidos."
+      },
+      {
+        "id": 5,
+        "question": "¿En qué ciudad se liberó heroicamente Juana de Arco de los ingleses ?",
+        "propositions": [
+          "Angers",
+          "Le Mans",
+          "Orleans",
+          "Tours"
+        ],
+        "réponse": "Orleans",
+        "anecdote": "Jeanne d'Arc fue condenada a ser quemada viva en 1431 después de un juicio por herejía dirigido por Pierre Cauchon."
+      },
+      {
+        "id": 6,
+        "question": "¿Qué estadista francés fue apodado el Tigre o aún el Padre la victoria ?",
+        "propositions": [
+          "Clemenceau",
+          "Foch",
+          "Joffre",
+          "Poincare"
+        ],
+        "réponse": "Clemenceau",
+        "anecdote": "Al designarse a sí mismo como el policía líder en Francia, Clémeau sofocará las huelgas y pondrá fin al inventario."
+      },
+      {
+        "id": 7,
+        "question": "¿Qué héroe en la historia de Francia fue la criada de Orleans ?",
+        "propositions": [
+          "Alessandra Scala",
+          "Rita de Cascia",
+          "Helene Duglioli",
+          "Juana de Arco"
+        ],
+        "réponse": "Juana de Arco",
+        "anecdote": "Se las arregló para infundir nueva energía a los soldados franceses y obligar a los ingleses a levantar el asedio de la ciudad."
+      },
+      {
+        "id": 8,
+        "question": "¿Sobre qué principado reinaba la casa de Matignon ?",
+        "propositions": [
+          "Monaco",
+          "Foucarmont",
+          "Conde",
+          "Cambrai"
+        ],
+        "réponse": "Monaco",
+        "anecdote": "La casa de Goyon le dio a Francia, bajo el Antiguo Régimen, varios mariscales de Francia y obispos."
+      },
+      {
+        "id": 9,
+        "question": "¿Qué periódico brilló la primera vez que sacó a relucir el asunto del diamante Bokassa ?",
+        "propositions": [
+          "Charlie Hebdo",
+          "Pato encadenado",
+          "Paris Match",
+          "Minuto"
+        ],
+        "réponse": "Pato encadenado",
+        "anecdote": "Este asunto podría ser una de las causas de su derrota contra el candidato del Partido Socialista, François Mitterrand."
+      },
+      {
+        "id": 10,
+        "question": "¿Qué Guillaume, duque de Normandía, a veces apodado el Bardard, conquistó Inglaterra ?",
+        "propositions": [
+          "El piadoso",
+          "The Bold",
+          "El peludo",
+          "El conquistador"
+        ],
+        "réponse": "El conquistador",
+        "anecdote": "Alrededor de 1050, Guillaume se casó con Mathilde de Flandre, hija de Baudouin V, con quien tendrá al menos diez hijos, incluidos cuatro hijos."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "¿Qué ciudad asediada ha dejado Gambetta en un globo ?",
+        "propositions": [
+          "Toulouse",
+          "Lyon",
+          "Paris",
+          "Ruan"
+        ],
+        "réponse": "Paris",
+        "anecdote": "Gambetta, al principio renuente, fue interrogado por sus colegas ministros y el 7 de octubre de 1870, salió de París en un globo montado."
+      },
+      {
+        "id": 12,
+        "question": "¿Qué rey revocó el Edicto de Nantes, habiendo dado libertad de religión ?",
+        "propositions": [
+          "Louis XIV",
+          "François II",
+          "Henri IV",
+          "Charles IX"
+        ],
+        "réponse": "Louis XIV",
+        "anecdote": "La promulgación de este edicto puso fin a las guerras de religión que asolaron el reino de Francia desde 1572."
+      },
+      {
+        "id": 13,
+        "question": "¿Cuál era el apodo del hijo de Napoleón 1st y Marie-Louise ?",
+        "propositions": [
+          "El mal amado",
+          "Los incapaces",
+          "L'Aiglon",
+          "El corsario"
+        ],
+        "réponse": "L'Aiglon",
+        "anecdote": "Hasta su muerte a la edad de 21 años, Napoleón II fue reconocido por los bonapartistas como el heredero del trono imperial."
+      },
+      {
+        "id": 14,
+        "question": "¿Qué caballero franco y conde urbano fue traicionado por Ganelon en el Col de Roncevaux ?",
+        "propositions": [
+          "Roland",
+          "Perceval",
+          "Gauvain",
+          "Marsile"
+        ],
+        "réponse": "Roland",
+        "anecdote": "Por esta razón, Ganelon se ha convertido en cierto modo en la tradición francesa en el arquetipo del delincuente o el traidor."
+      },
+      {
+        "id": 15,
+        "question": "¿Cómo mató François Ravaillac al rey Enrique IV ?",
+        "propositions": [
+          "Envenenado",
+          "Apuñalado",
+          "Escopeta",
+          "Decapitado"
+        ],
+        "réponse": "Apuñalado",
+        "anecdote": "Ravaillac será condenado a muerte por el Parlamento de París durante un juicio de diez días, presidido por Achille 1er de Harlay."
+      },
+      {
+        "id": 16,
+        "question": "¿Qué código gobernó la vida de gran parte de la corte de Luis XIV ?",
+        "propositions": [
+          "Etiqueta",
+          "Hola",
+          "Propinas",
+          "Mayade"
+        ],
+        "réponse": "Etiqueta",
+        "anecdote": "La etiqueta gobierna y restringe la forma en que las personas interactúan y se usa para expresar respeto por los demás."
+      },
+      {
+        "id": 17,
+        "question": "¿Contra qué país luchó Bertrand Du Guesclin en toda su vida ?",
+        "propositions": [
+          "Inglaterra",
+          "Alemania",
+          "Países Bajos",
+          "Italia"
+        ],
+        "réponse": "Inglaterra",
+        "anecdote": "Bertrand du Guesclin es considerado, según las fuentes, como un héroe con absoluta lealtad o como un traidor."
+      },
+      {
+        "id": 18,
+        "question": "¿Cuántos años tenía Clovis cuando fue elegido rey de los francos en 481 ?",
+        "propositions": [
+          "10 años de edad",
+          "16 años de edad",
+          "12 años de edad",
+          "14 años de edad"
+        ],
+        "réponse": "16 años de edad",
+        "anecdote": "Clovis es considerado en historiografía como una de las figuras históricas más importantes de la historia de Francia."
+      },
+      {
+        "id": 19,
+        "question": "¿En qué elección presidencial se presentó Michel Rocard por primera vez ?",
+        "propositions": [
+          "1978",
+          "1972",
+          "1975",
+          "1969"
+        ],
+        "réponse": "1969",
+        "anecdote": "Michel Rocard estuvo a cargo de la negociación internacional de los polos árticos y antárticos desde 2009 hasta su muerte."
+      },
+      {
+        "id": 20,
+        "question": "¿Qué corsario corso escapó de Inglaterra y se unió a St-Malo con el remo ?",
+        "propositions": [
+          "Jean Bernanos",
+          "Jean Bart",
+          "Philippe Bequel",
+          "Nicolas Surcouf"
+        ],
+        "réponse": "Jean Bart",
+        "anecdote": "La batalla naval de Dogger Bank se libró en el Mar del Norte el 17 de junio de 1696, durante la Guerra de la Liga de Augsburgo."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "¿Qué ley adoptada en 1792 fue restaurada por la ley Naquet en 1884 ?",
+        "propositions": [
+          "Derecho a la jubilación",
+          "Derecho de voto",
+          "Derecho al divorcio",
+          "Derecho a la eutanasia"
+        ],
+        "réponse": "Derecho al divorcio",
+        "anecdote": "En vista de la gran cantidad de divorcios que ocurrieron, se hicieron ciertas modificaciones a esta ley sobre divorcios."
+      },
+      {
+        "id": 22,
+        "question": "¿Qué rey tenía los primeros buzones instalados en París ?",
+        "propositions": [
+          "Louis XIV",
+          "Henri IV",
+          "François II",
+          "Charles IX"
+        ],
+        "réponse": "Louis XIV",
+        "anecdote": "La Poste se originó en las casas de correos creadas por Louis XI en 1477 para el transporte de mensajes reales."
+      },
+      {
+        "id": 23,
+        "question": "¿Con qué fruto compararon los caricaturistas la cabeza del rey Luis Felipe ?",
+        "propositions": [
+          "Limón",
+          "Plátano",
+          "Pera",
+          "Fresa"
+        ],
+        "réponse": "Pera",
+        "anecdote": "Fue caricaturizado por Honoré Daumier, quien acentuó su barriga y sus frambuesas y lo describió como una rata o loro."
+      },
+      {
+        "id": 24,
+        "question": "¿Cuál fue el emblema del régimen de Vichy en Francia durante la guerra ?",
+        "propositions": [
+          "Francisque",
+          "Flor de lirio",
+          "Cruz de Lorena",
+          "Genet pod"
+        ],
+        "réponse": "Francisque",
+        "anecdote": "Francisque es el nombre tradicional para el hacha arrojadiza de los alemanes occidentales, que popularizaron a los francos."
+      },
+      {
+        "id": 25,
+        "question": "¿De qué rey de Francia fue el duque de Sully el ministro ?",
+        "propositions": [
+          "Enrique IV",
+          "François II",
+          "Louis XIV",
+          "Carlos IX"
+        ],
+        "réponse": "Enrique IV",
+        "anecdote": "Sully tuvo brillantes asesores, como el economista Barthélemy de Laffemas, que desarrolló fábricas y artesanías."
+      },
+      {
+        "id": 26,
+        "question": "¿Qué rey de la dinastía merovingia fue aconsejado por San Eloi ?",
+        "propositions": [
+          "Sigebert",
+          "Childebert",
+          "Dagoberto",
+          "Caribert"
+        ],
+        "réponse": "Dagoberto",
+        "anecdote": "Bajo su reinado, la realeza merovingia lanza una explosión final antes de que la realidad del poder pase a los alcaldes del palacio."
+      },
+      {
+        "id": 27,
+        "question": "¿Cuántos prisioneros había en la Bastilla el 14 de julio de 1789 ?",
+        "propositions": [
+          "47",
+          "7",
+          "1,257",
+          "167"
+        ],
+        "réponse": "7",
+        "anecdote": "El evento no tuvo precedentes por sus repercusiones, por sus implicaciones políticas y sus repercusiones simbólicas."
+      },
+      {
+        "id": 28,
+        "question": "¿Qué expresión se usó por primera vez sobre el padre Joseph ?",
+        "propositions": [
+          "Estrategia azul",
+          "Eminencia grise",
+          "Leatherman negro",
+          "Rojo supremo"
+        ],
+        "réponse": "Eminencia grise",
+        "anecdote": "François Leclerc du Tremblay era un capuchino apodado por sus detractores la eminencia grise del cardenal Richelieu."
+      },
+      {
+        "id": 29,
+        "question": "¿Qué rey, conocido como el conde de Artois, sucedió a Luis XVIII ?",
+        "propositions": [
+          "Carlos X",
+          "François II",
+          "Juan II",
+          "Enrique IV"
+        ],
+        "réponse": "Carlos X",
+        "anecdote": "Carlos X es el último Borbón (de la rama mayor) que ha reinado, pero también el 68º y último rey de Francia."
+      },
+      {
+        "id": 30,
+        "question": "¿Qué obispo bautizó a Clovis en Reims el 25 de diciembre ?",
+        "propositions": [
+          "San justin",
+          "San Andrés",
+          "San Rimi",
+          "San pablo"
+        ],
+        "réponse": "San Rimi",
+        "anecdote": "En la diócesis de Reims, se celebra el 1 de octubre de acuerdo con una tradición local que data de finales del siglo VI."
+      }
+    ]
+    },
+    "it": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Quale città francese fu chiamata la città dei papi nel Medioevo ?",
+        "propositions": [
+          "Avignone",
+          "Nantes",
+          "Metz",
+          "Tours"
+        ],
+        "réponse": "Avignone",
+        "anecdote": "Avignone è una delle rare città francesi ad aver conservato i suoi bastioni e il suo centro storico, costituito dal Palazzo dei Papi."
+      },
+      {
+        "id": 2,
+        "question": "Quale diplomatico francese successe al cardinale Richelieu ?",
+        "propositions": [
+          "Jules Mazarin",
+          "Philippe Mancini",
+          "Antonio Barberini",
+          "Charles de Mantoue"
+        ],
+        "réponse": "Jules Mazarin",
+        "anecdote": "Il cardinale sceglie come parte principale del suo stemma il fascio di littore, segno di romanità."
+      },
+      {
+        "id": 3,
+        "question": "Quale regina di Francia indossava il cappello nella scatola della collana ?",
+        "propositions": [
+          "Marie-Therese",
+          "Marie-Louise",
+          "Maria Antonietta",
+          "Marie-Josephine"
+        ],
+        "réponse": "Maria Antonietta",
+        "anecdote": "I gioiellieri Boehmer e Bassenge hanno richiesto 1,6 milioni di sterline alla regina per l'acquisto di una collana di diamanti."
+      },
+      {
+        "id": 4,
+        "question": "Quando è stato eletto per la prima volta François Mitterrand presidente della Francia ?",
+        "propositions": [
+          "1986",
+          "1991",
+          "1981",
+          "1976"
+        ],
+        "réponse": "1981",
+        "anecdote": "Mitterrand sarà eletto 21 ° presidente della Repubblica francese contro Valéry Giscard d'Estaing con il 51 % dei voti espressi."
+      },
+      {
+        "id": 5,
+        "question": "Quale città Giovanna d'Arco liberò eroicamente dagli inglesi ?",
+        "propositions": [
+          "Rabbia",
+          "Tours",
+          "Le Mans",
+          "Orleans"
+        ],
+        "réponse": "Orleans",
+        "anecdote": "Jeanne d'Arc fu condannata ad essere bruciata viva nel 1431 dopo un processo in eresia condotto da Pierre Cauchon."
+      },
+      {
+        "id": 6,
+        "question": "Quale statista francese fu soprannominato la Tigre o ancora il Padre la vittoria ?",
+        "propositions": [
+          "Joffre",
+          "Clemenceau",
+          "Foch",
+          "Poincare"
+        ],
+        "réponse": "Clemenceau",
+        "anecdote": "Designandosi come il principale poliziotto in Francia, Clémenceau metterà fine agli scioperi e metterà fine alla storia dell'inventario."
+      },
+      {
+        "id": 7,
+        "question": "Quale eroe nella storia della Francia era la domestica di Orleans ?",
+        "propositions": [
+          "Rita de Cascia",
+          "Helene Duglioli",
+          "Alessandra Scala",
+          "Giovanna d'Arco"
+        ],
+        "réponse": "Giovanna d'Arco",
+        "anecdote": "Riuscì a infondere nuova energia ai soldati francesi e costringere gli inglesi a sollevare l'assedio della città."
+      },
+      {
+        "id": 8,
+        "question": "Su quale principato regnò la casa di Matignon ?",
+        "propositions": [
+          "Monaco",
+          "Foucarmont",
+          "Conde",
+          "Cambrai"
+        ],
+        "réponse": "Monaco",
+        "anecdote": "La casa di Goyon donò alla Francia, sotto l'Antico Regime, diversi marescialli di Francia e vescovi."
+      },
+      {
+        "id": 9,
+        "question": "Quale giornale ha brillato quando ha portato alla luce per la prima volta la storia del diamante Bokassa ?",
+        "propositions": [
+          "Partita di Parigi",
+          "Anatra incatenata",
+          "Minuto",
+          "Charlie Hebdo"
+        ],
+        "réponse": "Anatra incatenata",
+        "anecdote": "Questa vicenda potrebbe essere una delle cause della sua sconfitta contro il candidato del Partito socialista, François Mitterrand."
+      },
+      {
+        "id": 10,
+        "question": "Quale Guillaume, duca di Normandia, a volte soprannominato Bardardo, conquistò l'Inghilterra ?",
+        "propositions": [
+          "Il peloso",
+          "Il Pio",
+          "Il grassetto",
+          "The Conqueror"
+        ],
+        "réponse": "The Conqueror",
+        "anecdote": "Intorno al 1050, Guillaume sposò Mathilde de Flandre figlia di Baudouin V con la quale avrà almeno dieci figli di cui quattro figli."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Quale città assediata ha lasciato Gambetta in mongolfiera ?",
+        "propositions": [
+          "Tolosa",
+          "Parigi",
+          "Lione",
+          "Rouen"
+        ],
+        "réponse": "Parigi",
+        "anecdote": "Gambetta, inizialmente riluttante, fu chiesto dai suoi colleghi ministri e il 7 ottobre 1870 lasciò Parigi in mongolfiera."
+      },
+      {
+        "id": 12,
+        "question": "Quale re ha revocato l'Editto di Nantes, avendo dato la libertà di religione ?",
+        "propositions": [
+          "François II",
+          "Henri IV",
+          "Luigi XIV",
+          "Charles IX"
+        ],
+        "réponse": "Luigi XIV",
+        "anecdote": "La promulgazione di questo editto pose fine alle guerre di religione che avevano devastato il regno di Francia dal 1572."
+      },
+      {
+        "id": 13,
+        "question": "Qual era il soprannome del figlio di Napoleone 1 e Maria Luisa ?",
+        "propositions": [
+          "L'incapace",
+          "Il male amato",
+          "Il corsaro",
+          "L'Aiglon"
+        ],
+        "réponse": "L'Aiglon",
+        "anecdote": "Fino alla sua morte all'età di 21 anni, Napoleone II fu riconosciuto dai Bonapartisti come l'erede al trono imperiale."
+      },
+      {
+        "id": 14,
+        "question": "Quale franco cavaliere e conte urbano fu tradito da Ganelon al Col de Roncevaux ?",
+        "propositions": [
+          "Perceval",
+          "Gauvain",
+          "Marsile",
+          "Roland"
+        ],
+        "réponse": "Roland",
+        "anecdote": "Per questo motivo, Ganelon è diventato in un certo modo nella tradizione francese l'archetipo del criminale o del traditore."
+      },
+      {
+        "id": 15,
+        "question": "In che modo Francesco Ravaillac uccise il re Enrico IV ?",
+        "propositions": [
+          "Decapitato",
+          "avvelenata",
+          "Accoltellato",
+          "Fucile"
+        ],
+        "réponse": "Accoltellato",
+        "anecdote": "Ravaillac sarà condannato a morte dal Parlamento di Parigi durante un processo di dieci giorni, presieduto da Achille 1er de Harlay."
+      },
+      {
+        "id": 16,
+        "question": "Quale codice governava la vita di gran parte della corte di Luigi XIV ?",
+        "propositions": [
+          "Ciao",
+          "Etichetta",
+          "Mance",
+          "Mayade"
+        ],
+        "réponse": "Etichetta",
+        "anecdote": "L'etichetta governa e limita il modo in cui le persone interagiscono e viene utilizzata per esprimere rispetto per gli altri."
+      },
+      {
+        "id": 17,
+        "question": "Quale paese ha combattuto Bertrand Du Guesclin in tutta la sua vita ?",
+        "propositions": [
+          "Italia",
+          "Germania",
+          "Paesi Bassi",
+          "Inghilterra"
+        ],
+        "réponse": "Inghilterra",
+        "anecdote": "Bertrand du Guesclin è considerato, secondo le fonti, un eroe con assoluta lealtà o un traditore."
+      },
+      {
+        "id": 18,
+        "question": "Quanti anni aveva Clovis quando fu eletto re dei Franchi nel 481 ?",
+        "propositions": [
+          "12 anni",
+          "10 anni",
+          "16 anni",
+          "14 anni"
+        ],
+        "réponse": "16 anni",
+        "anecdote": "Clodoveo è considerato nella storiografia come una delle figure storiche più importanti della storia della Francia."
+      },
+      {
+        "id": 19,
+        "question": "A quali elezioni presidenziali ha partecipato Michel Rocard per la prima volta ?",
+        "propositions": [
+          "1969",
+          "1972",
+          "1975",
+          "1978"
+        ],
+        "réponse": "1969",
+        "anecdote": "Michel Rocard è stato responsabile della negoziazione internazionale per i poli artici e antartici dal 2009 alla sua morte."
+      },
+      {
+        "id": 20,
+        "question": "Quale corsaro corso fuggì dall'Inghilterra e si unì a Saint-Malo con il remo ?",
+        "propositions": [
+          "Philippe Bequel",
+          "Jean Bernanos",
+          "Nicolas Surcouf",
+          "Jean Bart"
+        ],
+        "réponse": "Jean Bart",
+        "anecdote": "La battaglia navale della Dogger Bank fu combattuta nel Mare del Nord il 17 giugno 1696, durante la guerra della Lega di Augusta."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quale legge adottata nel 1792 fu restaurata dalla legge Naquet nel 1884 ?",
+        "propositions": [
+          "Diritto di voto",
+          "Diritto all'eutanasia",
+          "Diritto alla pensione",
+          "Diritto al divorzio"
+        ],
+        "réponse": "Diritto al divorzio",
+        "anecdote": "In considerazione dell'elevato numero di divorzi verificatisi, sono state apportate alcune modifiche a questa legge sul divorzio."
+      },
+      {
+        "id": 22,
+        "question": "Quale re aveva installato le prime cassette postali a Parigi ?",
+        "propositions": [
+          "Charles IX",
+          "François II",
+          "Luigi XIV",
+          "Henri IV"
+        ],
+        "réponse": "Luigi XIV",
+        "anecdote": "La Poste proviene dalle case di posta create da Luigi XI nel 1477 per il trasporto di messaggi reali."
+      },
+      {
+        "id": 23,
+        "question": "Con quale frutto i caricaturisti hanno paragonato la testa del re Luigi Filippo ?",
+        "propositions": [
+          "Fragola",
+          "Limone",
+          "Banana",
+          "Pera"
+        ],
+        "réponse": "Pera",
+        "anecdote": "Fu caricata da Honoré Daumier che accentuò il suo beduino e i suoi serpenti a sonagli e lo profilò in ratti o pappagalli."
+      },
+      {
+        "id": 24,
+        "question": "Qual era l'emblema del regime di Vichy in Francia durante la guerra ?",
+        "propositions": [
+          "Croce di Lorena",
+          "Francisque",
+          "Baccello Genet",
+          "Fiore di giglio"
+        ],
+        "réponse": "Francisque",
+        "anecdote": "Il Francisque è il nome tradizionale per l"
+      },
+      {
+        "id": 25,
+        "question": "Di quale re di Francia era il duca di Sully il ministro ?",
+        "propositions": [
+          "Carlo IX",
+          "Enrico IV",
+          "Francesco II",
+          "Luigi XIV"
+        ],
+        "réponse": "Enrico IV",
+        "anecdote": "Sully aveva brillanti consiglieri, come l'economista Barthélemy de Laffemas, che sviluppò fabbriche e artigianato."
+      },
+      {
+        "id": 26,
+        "question": "Quale re della dinastia merovingia fu consigliato da Sant'Eloi ?",
+        "propositions": [
+          "Childebert",
+          "Caribert",
+          "Dagobert",
+          "Sigebert"
+        ],
+        "réponse": "Dagobert",
+        "anecdote": "Sotto il suo regno, la sovranità merovingia lancia un ultimo scoppio prima che la realtà del potere passi ai sindaci del palazzo."
+      },
+      {
+        "id": 27,
+        "question": "Quanti prigionieri c'erano nella Bastiglia il 14 luglio 1789 ?",
+        "propositions": [
+          "47",
+          "167",
+          "7",
+          "1.257"
+        ],
+        "réponse": "7",
+        "anecdote": "L'evento è stato senza precedenti per le sue ripercussioni, per le sue implicazioni politiche e le sue ripercussioni simboliche."
+      },
+      {
+        "id": 28,
+        "question": "Quale espressione fu usata per la prima volta su padre Joseph ?",
+        "propositions": [
+          "Eminence grise",
+          "Strategia blu",
+          "Leatherman nero",
+          "Rosso supremo"
+        ],
+        "réponse": "Eminence grise",
+        "anecdote": "François Leclerc du Tremblay era un cappuccino soprannominato dai suoi detrattori la preminente grazia del cardinale Richelieu."
+      },
+      {
+        "id": 29,
+        "question": "Quale re, noto come il conte d'Artois, successe a Luigi XVIII ?",
+        "propositions": [
+          "Francesco II",
+          "Carlo X",
+          "Giovanni II",
+          "Enrico IV"
+        ],
+        "réponse": "Carlo X",
+        "anecdote": "Carlo X è l'ultimo Borbone (del ramo più anziano) ad aver regnato, ma anche il 68 ° e ultimo re di Francia."
+      },
+      {
+        "id": 30,
+        "question": "Quale vescovo battezzò Clodoveo a Reims il 25 dicembre ?",
+        "propositions": [
+          "San Giustino",
+          "Sant'Andrea",
+          "San Paolo",
+          "Saint Remi"
+        ],
+        "réponse": "Saint Remi",
+        "anecdote": "Nella diocesi di Reims, viene celebrato il 1 ° ottobre secondo una tradizione locale risalente alla fine del VI secolo."
+      }
+    ]
+    },
+    "nl": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Welke Franse stad werd in de middeleeuwen de stad van de pausen genoemd ?",
+        "propositions": [
+          "Avignon",
+          "Rondleidingen",
+          "Metz",
+          "Nantes"
+        ],
+        "réponse": "Avignon",
+        "anecdote": "Avignon is een van de weinige Franse steden die de wallen en het historische centrum, dat bestaat uit het Palazzo della Popes, heeft behouden."
+      },
+      {
+        "id": 2,
+        "question": "Welke Franse diplomaat volgde kardinaal Richelieu op ?",
+        "propositions": [
+          "Antonio Barberini",
+          "Jules Mazarin",
+          "Charles de Mantoue",
+          "Philippe Mancini"
+        ],
+        "réponse": "Jules Mazarin",
+        "anecdote": "De kardinaal kiest als hoofddeel van zijn wapen de bundel lictor, een teken van romantiek."
+      },
+      {
+        "id": 3,
+        "question": "Welke koningin van Frankrijk droeg de hoed in de kettingkast ?",
+        "propositions": [
+          "Marie-Therese",
+          "Marie-Josephine",
+          "Marie-Louise",
+          "Marie-Antoinette"
+        ],
+        "réponse": "Marie-Antoinette",
+        "anecdote": "Juweliers Boehmer en Bassenge eisten £ 1,6 miljoen van de koningin voor de aankoop van een diamanten halsketting."
+      },
+      {
+        "id": 4,
+        "question": "Wanneer werd Fran ?ois Mitterrand voor het eerst tot president van Frankrijk gekozen ?",
+        "propositions": [
+          "1986",
+          "1981",
+          "1991",
+          "1976"
+        ],
+        "réponse": "1981",
+        "anecdote": "Mitterrand wordt met 51 % van de uitgebrachte stemmen verkozen tot de 21e president van de Franse Republiek tegen Valéry Giscard d'Estaing."
+      },
+      {
+        "id": 5,
+        "question": "Welke stad heeft Jeanne d'Arc heldhaftig van de Engelsen bevrijd ?",
+        "propositions": [
+          "Angers",
+          "Orleans",
+          "Tours",
+          "Le Mans"
+        ],
+        "réponse": "Orleans",
+        "anecdote": "Jeanne d'Arc werd veroordeeld tot levend verbranding in 1431 na een proces in ketterij onder leiding van Pierre Cauchon."
+      },
+      {
+        "id": 6,
+        "question": "Welke Franse staatsman kreeg de bijnaam de tijger of nog steeds de vader de overwinning ?",
+        "propositions": [
+          "Joffre",
+          "Foch",
+          "Poincare",
+          "Clemenceau"
+        ],
+        "réponse": "Clemenceau",
+        "anecdote": "Cl ?menceau wijst zichzelf aan als de leidende agent in Frankrijk en zal stakingen neerleggen en een einde maken aan het inventarisatieverhaal."
+      },
+      {
+        "id": 7,
+        "question": "Welke held in de geschiedenis van Frankrijk was de meid van Orleans ?",
+        "propositions": [
+          "Helene Duglioli",
+          "Alessandra Scala",
+          "Jeanne d'Arc",
+          "Rita de Cascia"
+        ],
+        "réponse": "Jeanne d'Arc",
+        "anecdote": "Het slaagde erin Franse soldaten nieuwe energie te geven en de Engelsen te dwingen het beleg van de stad op te voeren."
+      },
+      {
+        "id": 8,
+        "question": "Op welk vorstendom regeerde het huis van Matignon ?",
+        "propositions": [
+          "Conde",
+          "Monaco",
+          "Cambrai",
+          "Foucarmont"
+        ],
+        "réponse": "Monaco",
+        "anecdote": "Het huis van Goyon gaf Frankrijk, onder het Ancien Régime, verschillende maarschalks van Frankrijk en bisschoppen."
+      },
+      {
+        "id": 9,
+        "question": "Welke krant schitterde toen het voor het eerst de Bokassa-diamantaffaire uitbracht ?",
+        "propositions": [
+          "Geketende eend",
+          "Parijs Match",
+          "Minuut",
+          "Charlie Hebdo"
+        ],
+        "réponse": "Geketende eend",
+        "anecdote": "Deze affaire kan een van de oorzaken zijn van zijn nederlaag tegen de kandidaat van de Socialistische Partij, François Mitterrand."
+      },
+      {
+        "id": 10,
+        "question": "Welke Guillaume, hertog van Normandië, soms bijgenaamd de Bardard, veroverde Engeland ?",
+        "propositions": [
+          "De harige",
+          "De vrome",
+          "De veroveraar",
+          "The Bold"
+        ],
+        "réponse": "De veroveraar",
+        "anecdote": "Rond 1050 trouwde Guillaume met Mathilde de Flandre, dochter van Boudewijn V, met wie hij minstens tien kinderen krijgt, waaronder vier zonen."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Welke belegerde stad heeft Gambetta in een ballon achtergelaten ?",
+        "propositions": [
+          "Lyon",
+          "Rouen",
+          "Toulouse",
+          "Parijs"
+        ],
+        "réponse": "Parijs",
+        "anecdote": "Gambetta, aanvankelijk terughoudend, werd door zijn collega-ministers gevraagd en op 7 oktober 1870 verliet hij Parijs in een bereden ballon."
+      },
+      {
+        "id": 12,
+        "question": "Welke koning trok het Edict van Nantes in, nadat hij vrijheid van godsdienst had gegeven ?",
+        "propositions": [
+          "Charles IX",
+          "Lodewijk XIV",
+          "Henri IV",
+          "François II"
+        ],
+        "réponse": "Lodewijk XIV",
+        "anecdote": "De afkondiging van dit edict maakte een einde aan de godsdienstoorlogen die het koninkrijk Frankrijk sinds 1572 teisterden."
+      },
+      {
+        "id": 13,
+        "question": "Wat was de bijnaam van de zoon van Napoleon 1e en Marie-Louise ?",
+        "propositions": [
+          "Het onvermogen",
+          "The Evil Loved",
+          "De zeerover",
+          "L'Aiglon"
+        ],
+        "réponse": "L'Aiglon",
+        "anecdote": "Tot zijn dood op 21-jarige leeftijd werd Napoleon II door de bonapartisten erkend als erfgenaam van de keizerlijke troon."
+      },
+      {
+        "id": 14,
+        "question": "Welke openhartige ridder en stadsteller werd door Ganelon verraden op de Col de Roncevaux ?",
+        "propositions": [
+          "Roland",
+          "Perceval",
+          "Gauvain",
+          "Marsile"
+        ],
+        "réponse": "Roland",
+        "anecdote": "Om deze reden is Ganelon op een bepaalde manier in de Franse traditie het archetype van de misdadiger of de verrader geworden."
+      },
+      {
+        "id": 15,
+        "question": "Hoe heeft François Ravaillac koning Henry IV vermoord ?",
+        "propositions": [
+          "Shotgun",
+          "Gestoken",
+          "Vergiftigd",
+          "Onthoofd"
+        ],
+        "réponse": "Gestoken",
+        "anecdote": "Ravaillac zal door het parlement van Parijs ter dood worden veroordeeld tijdens een tiendaags proces onder voorzitterschap van Achille 1er de Harlay."
+      },
+      {
+        "id": 16,
+        "question": "Welke code beheerste het leven van een groot deel van de rechtbank van Lodewijk XIV ?",
+        "propositions": [
+          "Mayade",
+          "Hallo",
+          "Fooien",
+          "Label"
+        ],
+        "réponse": "Label",
+        "anecdote": "Etiquette regelt en beperkt de manier waarop mensen met elkaar omgaan en wordt gebruikt om respect voor anderen te uiten."
+      },
+      {
+        "id": 17,
+        "question": "In welk land vocht Bertrand Du Guesclin zijn hele leven ?",
+        "propositions": [
+          "Nederland",
+          "Duitsland",
+          "Engeland",
+          "Italië"
+        ],
+        "réponse": "Engeland",
+        "anecdote": "Bertrand du Guesclin wordt volgens bronnen beschouwd als een held met absolute loyaliteit of als een verrader."
+      },
+      {
+        "id": 18,
+        "question": "Hoe oud was Clovis toen hij in 481 tot koning van de Franken werd verkozen ?",
+        "propositions": [
+          "14 jaar",
+          "16 jaar",
+          "10 jaar",
+          "12 jaar"
+        ],
+        "réponse": "16 jaar",
+        "anecdote": "Clovis wordt in de geschiedschrijving beschouwd als een van de belangrijkste historische figuren in de geschiedenis van Frankrijk."
+      },
+      {
+        "id": 19,
+        "question": "Bij welke presidentsverkiezingen stond Michel Rocard voor het eerst ?",
+        "propositions": [
+          "1972",
+          "1975",
+          "1978",
+          "1969"
+        ],
+        "réponse": "1969",
+        "anecdote": "Michel Rocard was vanaf 2009 tot aan zijn dood verantwoordelijk voor de internationale onderhandelingen over de pool- en antarctische polen."
+      },
+      {
+        "id": 20,
+        "question": "Welke Corsicaanse kaper ontsnapte uit Engeland en sloot zich aan bij St-Malo met de riem ?",
+        "propositions": [
+          "Philippe Bequel",
+          "Jean Bernanos",
+          "Nicolas Surcouf",
+          "Jean Bart"
+        ],
+        "réponse": "Jean Bart",
+        "anecdote": "De zeeslag van de Doggersbank werd op 17 juni 1696 in de Noordzee uitgevochten tijdens de Oorlog van de Liga van Augsburg."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Welke wet die in 1792 werd aangenomen, werd in 1884 door de Naquet-wet hersteld ?",
+        "propositions": [
+          "Recht om te scheiden",
+          "Recht op pensionering",
+          "Recht op euthanasie",
+          "Stemrecht"
+        ],
+        "réponse": "Recht om te scheiden",
+        "anecdote": "Gezien het grote aantal echtscheidingen dat heeft plaatsgevonden, zijn er enkele wijzigingen aangebracht in deze scheidingswet."
+      },
+      {
+        "id": 22,
+        "question": "Welke koning had de eerste brievenbussen in Parijs geïnstalleerd ?",
+        "propositions": [
+          "Henri IV",
+          "Lodewijk XIV",
+          "François II",
+          "Charles IX"
+        ],
+        "réponse": "Lodewijk XIV",
+        "anecdote": "La Poste is ontstaan uit de posthuizen die Louis XI in 1477 creëerde voor het transport van koninklijke boodschappen."
+      },
+      {
+        "id": 23,
+        "question": "Met welk fruit vergeleken de karikaturisten het hoofd van koning Louis-Philippe ?",
+        "propositions": [
+          "Aardbei",
+          "Banaan",
+          "Peer",
+          "Citroen"
+        ],
+        "réponse": "Peer",
+        "anecdote": "Hij werd gekarakteriseerd door Honoré Daumier, die zijn buik en zijn rouflaquettes accentueerde en hem profileerde als rat of papegaai."
+      },
+      {
+        "id": 24,
+        "question": "Wat was het embleem van het Vichy-regime in Frankrijk tijdens de oorlog ?",
+        "propositions": [
+          "Genet pod",
+          "Kruis van Lotharingen",
+          "Lily bloem",
+          "Francisque"
+        ],
+        "réponse": "Francisque",
+        "anecdote": "De Francisque is de traditionele naam voor de werpbijl van de West-Duitsers, die de Franken populair maakten."
+      },
+      {
+        "id": 25,
+        "question": "Van welke koning van Frankrijk was de hertog van Sully de minister ?",
+        "propositions": [
+          "Lodewijk XIV",
+          "François II",
+          "Henry IV",
+          "Charles IX"
+        ],
+        "réponse": "Henry IV",
+        "anecdote": "Sully had briljante adviseurs, zoals de econoom Barthelemy de Laffemas, die fabrieken en ambachten ontwikkelde."
+      },
+      {
+        "id": 26,
+        "question": "Welke koning van de Merovingische dynastie werd door Saint Eloi geadviseerd ?",
+        "propositions": [
+          "Childebert",
+          "Caribert",
+          "Sigebert",
+          "Dagobert"
+        ],
+        "réponse": "Dagobert",
+        "anecdote": "Onder zijn bewind gooit de Merovingische royalty een laatste uitbarsting voordat de realiteit van de macht overgaat op de burgemeesters van het paleis."
+      },
+      {
+        "id": 27,
+        "question": "Hoeveel gevangenen waren er op 14 juli 1789 in de Bastille ?",
+        "propositions": [
+          "167",
+          "47",
+          "7",
+          "1.257"
+        ],
+        "réponse": "7",
+        "anecdote": "De gebeurtenis was ongekend door de gevolgen, de politieke implicaties en de symbolische gevolgen."
+      },
+      {
+        "id": 28,
+        "question": "Welke uitdrukking werd voor het eerst gebruikt over pater Joseph ?",
+        "propositions": [
+          "Eminence grise",
+          "Supreme rood",
+          "Zwarte Leatherman",
+          "Blauwe strategie"
+        ],
+        "réponse": "Eminence grise",
+        "anecdote": "François Leclerc du Tremblay was een kapucijner, bijgenaamd door zijn tegenstanders, de eminence grise van kardinaal Richelieu."
+      },
+      {
+        "id": 29,
+        "question": "Welke koning, bekend als de Comte d'Artois, volgde Lodewijk XVIII op ?",
+        "propositions": [
+          "Johannes II",
+          "Henry IV",
+          "François II",
+          "Charles X"
+        ],
+        "réponse": "Charles X",
+        "anecdote": "Charles X is de laatste Bourbon (van de oudste tak) die regeerde, maar ook de 68e en laatste koning van Frankrijk."
+      },
+      {
+        "id": 30,
+        "question": "Welke bisschop doopte Clovis op 25 december in Reims ?",
+        "propositions": [
+          "Saint Remi",
+          "Saint Paul",
+          "Sint Andre",
+          "Saint Justin"
+        ],
+        "réponse": "Saint Remi",
+        "anecdote": "In het bisdom Reims wordt het op 1 oktober gevierd volgens een lokale traditie die teruggaat tot het einde van de zesde eeuw."
+      }
+    ]
+    }
+  }
+}

@@ -1,0 +1,376 @@
+{                                     
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Teotihuacan (La plus grande cité pré-colombienne)",         
+  "difficulté": "4 / 5",
+  "quizz": {
+    "fr": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Dans quel pays fut trouvée la cité préhispanique de Teotihuacan ?",
+        "propositions": [
+          "Costa Rica",
+          "Nicaragua",
+          "Mexique",
+          "Salvador"
+        ],
+        "réponse": "Mexique",
+        "anecdote": "La vallée de Mexico, à ne pas confondre avec la Cuenca de Mexico, est une vallée située au centre du Mexique."
+      },
+      {
+        "id": 2,
+        "question": "Quelle est la forme des structures du site archéologique de Teotihuacan ?",
+        "propositions": [
+          "Ronde",
+          "Ovale",
+          "Pyramidale",
+          "Carrée"
+        ],
+        "réponse": "Pyramidale",
+        "anecdote": "Teotihuacan est également connue pour ses complexes résidentiels, sa chaussée des Morts et ses nombreuses peintures murales."
+      },
+      {
+        "id": 3,
+        "question": "Comment traduit-on, souvent de manière abrégée, le mot Teotihuacan ?",
+        "propositions": [
+          "Cité des dieux",
+          "Temple du Soleil",
+          "Porte du paradis",
+          "Palais des oiseaux"
+        ],
+        "réponse": "Cité des dieux",
+        "anecdote": "Cette translittération refléterait les mythes de la création du monde des Nahuas qui en fixaient l'origine à Teotihuacan."
+      },
+      {
+        "id": 4,
+        "question": "Quel nom porte le plus grand édifice du site de Teotihuacan ?",
+        "propositions": [
+          "Grande Citadelle",
+          "Pyramide du Soleil",
+          "Pyramide de la Lune",
+          "Temple des Oiseaux"
+        ],
+        "réponse": "Pyramide du Soleil",
+        "anecdote": "Contrairement à ce que croyait Bernardino de Sahagun, elle n'était pas dédiée au culte du Soleil mais à celui de la pluie."
+      },
+      {
+        "id": 5,
+        "question": "Quelle pyramide de Teotihuacan est le résultat de la superposition de plusieurs monuments ?",
+        "propositions": [
+          "Pyramide du Soleil",
+          "Pyramide du Ciel",
+          "Pyramide de la Lune",
+          "Pyramide de la Pluie"
+        ],
+        "réponse": "Pyramide de la Lune",
+        "anecdote": "Les archéologues ont dénombré pas moins de sept phases de construction érigées selon un cycle régulier de 52 ans."
+      },
+      {
+        "id": 6,
+        "question": "Quel temple est la dernière des grandes structures à avoir été édifiées à Teotihuacan ?",
+        "propositions": [
+          "Maison Carrée",
+          "Serpent à plumes",
+          "Machu Picchu",
+          "Ganesha"
+        ],
+        "réponse": "Serpent à plumes",
+        "anecdote": "Elle a requis la mise en oeuvre de moyens considérables : chaque tête de serpent fixée ne pèse pas moins de quatre tonnes."
+      },
+      {
+        "id": 7,
+        "question": "Aux environs de quelle année datent les premiers bâtiments de la ville de Teotihuacan ?",
+        "propositions": [
+          "200 av. J.-C.",
+          "200 après J.-C.",
+          "500 après J.-C.",
+          "500 av. J.-C."
+        ],
+        "réponse": "200 av. J.-C.",
+        "anecdote": "À son apogée dans la première moitié du Ier millénaire, Teotihuacan était la plus grande ville de l'Amérique précolombienne."
+      },
+      {
+        "id": 8,
+        "question": "Quel nom porte l'avenue centrale nord-sud de la cité de Teotihuacan ?",
+        "propositions": [
+          "Tracé des dieux",
+          "Boulevard des âges",
+          "Allée des morts",
+          "Sentier des vivants"
+        ],
+        "réponse": "Allée des morts",
+        "anecdote": "Cette avenue est aujourd'hui encore bordée d'une architecture cérémoniale impressionnante (pyramides, temples et palais)."
+      },
+      {
+        "id": 9,
+        "question": "D'où provient ce que l'on sait aujourd'hui de la civilisation de Teotihuacan ?",
+        "propositions": [
+          "Peintures murales",
+          "Anciens parchemins",
+          "Livres sacrés",
+          "Analyses satellites"
+        ],
+        "réponse": "Peintures murales",
+        "anecdote": "La réalisation de peintures murales, peut-être des dizaines de milliers, a atteint son apogée entre 450 et 650 après J.-C.."
+      },
+      {
+        "id": 10,
+        "question": "Quel événement a principalement provoqué l'effondrement de Teotihuacan ?",
+        "propositions": [
+          "Une éclipse",
+          "Un incendie",
+          "Une invasion",
+          "Un séisme"
+        ],
+        "réponse": "Un incendie",
+        "anecdote": "Des fouilles récentes indiquent que l'incendie de la cité s'est limité aux structures et habitations associées à la classe dirigeante."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Combien d'habitants environ vivaient dans la cité de Teotihuacan à son apogée ?",
+        "propositions": [
+          "200 000",
+          "400 000",
+          "500 000",
+          "300 000"
+        ],
+        "réponse": "200 000",
+        "anecdote": "La cité, qui était alors le centre d'une civilisation importante sur 30 km2, connut son apogée entre 150 et 450 après J.-C.."
+      },
+      {
+        "id": 12,
+        "question": "Les gisements de quelle roche volcanique vitreuse étaient contrôlés par Teotihuacan ?",
+        "propositions": [
+          "Domite",
+          "Ponce",
+          "Dacite",
+          "Obsidienne"
+        ],
+        "réponse": "Obsidienne",
+        "anecdote": "Son nom viendrait de Obsius, un personnage de la Rome antique qui aurait signalé la présence de cette roche en Éthiopie."
+      },
+      {
+        "id": 13,
+        "question": "Quelle incarnation du serpent à plumes était vénérée à Teotihuacan ?",
+        "propositions": [
+          "Totec",
+          "Tlaloc",
+          "Ometeotl",
+          "Quetzalcoatl"
+        ],
+        "réponse": "Quetzalcoatl",
+        "anecdote": "Quetzalcoatl se retrouvera dans la religion et l'art mésoaméricains pendant près de 2 000 ans jusqu'à la conquête espagnole de 1521."
+      },
+      {
+        "id": 14,
+        "question": "Combien de marches comporte l'escalier monumental de la pyramide du Soleil ?",
+        "propositions": [
+          "265",
+          "315",
+          "146",
+          "489"
+        ],
+        "réponse": "265",
+        "anecdote": "En 1971, des fouilles mirent en évidence une grotte sous la pyramide renfermant quatre portes disposées en pétales de fleur."
+      },
+      {
+        "id": 15,
+        "question": "Quel ensemble de Teotihuacan occupe une surface de 160 000 mètres carrés ?",
+        "propositions": [
+          "Pyramide de la Lune",
+          "Temple des Oiseaux",
+          "Citadelle",
+          "Pyramide du Soleil"
+        ],
+        "réponse": "Citadelle",
+        "anecdote": "L'enceinte délimite une esplanade au fond de laquelle se dresse le Temple du Serpent à Plumes, aussi appelé temple de Quetzalcoatl."
+      },
+      {
+        "id": 16,
+        "question": "Quelle distance relie la cité préhispanique de Teotihuacan à la ville de Mexico ?",
+        "propositions": [
+          "114 km",
+          "48 km",
+          "16 km",
+          "87 km"
+        ],
+        "réponse": "48 km",
+        "anecdote": "La zone métropolitaine de la vallée de Mexico (ZMVM) est une aire urbaine peuplée de près de 22 millions d'habitants."
+      },
+      {
+        "id": 17,
+        "question": "En quelle année le site de Teotihuacan a-t-il été inscrit au Patrimoine mondial de l'UNESCO ?",
+        "propositions": [
+          "2001",
+          "1972",
+          "1994",
+          "1987"
+        ],
+        "réponse": "1987",
+        "anecdote": "Le but de l'UNESCO est de conserver des biens culturels ou naturels d'importance pour l'héritage commun de l'humanité."
+      },
+      {
+        "id": 18,
+        "question": "Quel élément architectural est typique de la métropole mésoaméricaine de Teotihuacan ?",
+        "propositions": [
+          "Qenko",
+          "Talud-tablero",
+          "Al Baranda",
+          "Senzala"
+        ],
+        "réponse": "Talud-tablero",
+        "anecdote": "Il se compose d'un mur oblique, le « talud », surmonté d'un panneau vertical encadré d'une corniche en saillie, le « tablero »."
+      },
+      {
+        "id": 19,
+        "question": "En quelle année la ville de Teotihuacan fut-elle abandonnée après sa destruction ?",
+        "propositions": [
+          "1345",
+          "1110",
+          "842",
+          "650"
+        ],
+        "réponse": "650",
+        "anecdote": "Des indices de déclin démographique au début du VIe siècle tendent à confirmer l'hypothèse de troubles internes."
+      },
+      {
+        "id": 20,
+        "question": "Duquel de ces éléments la ville de Teotihuacan était-elle dépourvue ?",
+        "propositions": [
+          "Citadelle",
+          "Fortifications",
+          "Peintures murales",
+          "Pyramides"
+        ],
+        "réponse": "Fortifications",
+        "anecdote": "Abandonnée au VIIe siècle, les peintures mises à jour dans la ville de Teotihuacan n'y présentent aucune trace de violence."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quelle est la longueur approximative de l'Allée des Morts à Teotihuacan ?",
+        "propositions": [
+          "2 300 m",
+          "800 m",
+          "100 m",
+          "4 000 m"
+        ],
+        "réponse": "4 000 m",
+        "anecdote": "Les chercheurs ont établi qu'en son long se dressaient des plates-formes cérémonielles complétées par des temples."
+      },
+      {
+        "id": 22,
+        "question": "Quel manuscrit de l'Histoire de la Nouvelle Espagne attribue Teotihuacan aux Toltèques ?",
+        "propositions": [
+          "Splendor Solis",
+          "Livre des fontaines",
+          "Codex de Florence",
+          "Baburnama"
+        ],
+        "réponse": "Codex de Florence",
+        "anecdote": "Cette encyclopédie du monde aztèque en trois volumes de douze livres fut établie au Mexique entre 1558 et 1577."
+      },
+      {
+        "id": 23,
+        "question": "Au-dessus de quoi la pyramide du Soleil de Teotihuacan a-t-elle été construite ?",
+        "propositions": [
+          "Un cours d'eau",
+          "Un gisement d'or",
+          "Une grotte",
+          "Un cimetière"
+        ],
+        "réponse": "Une grotte",
+        "anecdote": "Les grottes jouent un rôle important dans les religions mésoaméricaines : symbole de fertilité et accès à l'inframonde."
+      },
+      {
+        "id": 24,
+        "question": "Quel cours d'eau a été modifié pour croiser l'Avenue des Morts à Teotihuacan ?",
+        "propositions": [
+          "Rio Parana",
+          "Rio San Juan",
+          "Rio Chaco",
+          "Rio Salado"
+        ],
+        "réponse": "Rio San Juan",
+        "anecdote": "Avec ses 900 km, le Rio Papaloapan, dont dépend le Rio San Juan, est le second fleuve le plus long du Mexique."
+      },
+      {
+        "id": 25,
+        "question": "Quel administrateur militaire mexicain est connu pour ses travaux à Teotihuacan ?",
+        "propositions": [
+          "Nicolas Bravo",
+          "David Porter",
+          "Leopoldo Batres",
+          "Emilio Madero"
+        ],
+        "réponse": "Leopoldo Batres",
+        "anecdote": "En 1884, il y découvre le Temple de l'Agriculture et y met au jour pour la première fois, entre 1884 et 1886, des peintures murales."
+      },
+      {
+        "id": 26,
+        "question": "Quelle langue parlée à Teotihuacan était probablement aussi la langue des Toltèques ?",
+        "propositions": [
+          "Nahuatl",
+          "Pipil",
+          "Aléoute",
+          "Mohawk"
+        ],
+        "réponse": "Nahuatl",
+        "anecdote": "On recense actuellement plus de 1,5 million de locuteurs nahuatl, dont la majorité sont des Nahuas mexicains."
+      },
+      {
+        "id": 27,
+        "question": "Qui est le dieu aztèque de la pluie, des récoltes, de la sécheresse et de la famine ?",
+        "propositions": [
+          "Tonatiuh",
+          "Oxomo",
+          "Toci",
+          "Tlaloc"
+        ],
+        "réponse": "Tlaloc",
+        "anecdote": "C'est en son nom que l'on sacrifiait des milliers d'hommes pour attirer sa miséricorde et ainsi renouveler le cycle des saisons."
+      },
+      {
+        "id": 28,
+        "question": "Dans quel palais vivaient les grands prêtres de Teotihuacan ?",
+        "propositions": [
+          "Chichen Itza",
+          "Palenque",
+          "Piedras Negras",
+          "Quetzalpapalotl"
+        ],
+        "réponse": "Quetzalpapalotl",
+        "anecdote": "Les colonnes de ce palais sont gravées avec des représentations de papillons et de plumes de quetzal, d'où le nom de cet édifice."
+      },
+      {
+        "id": 29,
+        "question": "Quel sommet a servi de base pour la forme de la pyramide de la Lune de Theotihuacan ?",
+        "propositions": [
+          "Cerro Nube",
+          "Tepeyac",
+          "El Chichon",
+          "Cerro Gordo"
+        ],
+        "réponse": "Cerro Gordo",
+        "anecdote": "La pyramide de la Lune fut placée de manière à ce que sa forme rappelle celle de la montagne volcanique Cerro Gordo."
+      },
+      {
+        "id": 30,
+        "question": "Quel était le prix d'entrée fin 2016 pour accéder au site de Teotihuacan ?",
+        "propositions": [
+          "3 euros",
+          "23 euros",
+          "13 euros",
+          "33 euros"
+        ],
+        "réponse": "3 euros",
+        "anecdote": "Si vous disposez de toute une journée pour visiter le site, il est préférable de commencer votre parcours à la Porte 1 (Puerta 1)."
+      }
+    ]
+    }
+  }
+}

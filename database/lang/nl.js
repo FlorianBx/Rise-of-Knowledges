@@ -2,17 +2,17 @@ const nl = (val, insertMany) => {
     const addAllNl = val.quizz.nl && [{
         path: val.quizz.nl['débutant'],
         lang: 'nl',
-        difficulty: 'débutant'
+        difficulty: '0'
         },
         {
         path: val.quizz.nl['confirmé'],
         lang: 'nl',
-        difficulty: 'confirmé'
+        difficulty: '1'
         },
         {
         path: val.quizz.nl['expert'],
         lang: 'nl',
-        difficulty: 'expert'
+        difficulty: '2'
         }
     ];
     return typeof addAllNl != 'undefined' && addAllNl.map(value => {

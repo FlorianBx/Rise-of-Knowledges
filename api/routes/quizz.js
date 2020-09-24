@@ -1,30 +1,29 @@
 import Quizz from '../modele/Quizz';
 
+function getRandomArbitrary(min, max) {
+    return Math.floor(Math.random() * (max - min) + min);
+  }
+
 const getQuizz = async (req, res) => {
     let {lang} = req.params
     
     lang = typeof lang === 'undefined' || !['fr', 'en', 'de', 'it', 'nl'].includes(lang) ? 'en' : lang;
     const queryHelper = [
-        {difficulty: 'débutant', qty: 8},
-        {difficulty: 'confirmé', qty: 8},
-        {difficulty: 'expert', qty: 4}
+        {difficulty: '0', qty: 8},
+        {difficulty: '1', qty: 8},
+        {difficulty: '2', qty: 4}
     ];
 
     const quizz = await queryHelper.map(async (value, index) => {
         let query = {
             difficulty: value.difficulty,
-            $or: [{rand: {$lte: Math.random()}}, {rand: {$gte: Math.random()}}],
             lang: lang
         }
-        let getQuestion = await Quizz.find(query);
-        getQuestion.sort((a, b) => {
-            return Math.random() > a.rand ? Math.random() - a.rand : a.rand - b.rand;
-        })
-
-        let getQuestions = index < 2 ? getQuestion.slice(Math.floor(Math.random(getQuestion[0].key) + 1),
-            Math.floor(Math.random(getQuestion[0].key) + 1) + 8) :
-            getQuestion.slice(Math.floor(Math.random(getQuestion[0].key) + 1), Math.floor(Math.random(getQuestion[0].key) + 1) + 4)
-        return getQuestions
+        let getQuestion = await Quizz.find(query)
+        let getQuestionLength = getQuestion.length;
+        let getRandom = getRandomArbitrary(0, getQuestionLength);
+        return getRandom > value.qty ? getQuestion.slice(getRandom - value.qty, getRandom):
+        getQuestion.slice(getRandom, getRandom + value.qty);
     });
     Promise.all(quizz).then(resolve => {
         return res.status(200).json(resolve.flat())

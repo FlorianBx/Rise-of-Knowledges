@@ -1,0 +1,2216 @@
+{                                     
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Machu Picchu (Ancienne cité inca du Pérou)",         
+  "difficulté": "4 / 5",
+  "quizz": {
+    "fr": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "La cité du Machu Picchu unit le mont Huayna Picchu à quel autre mont ?",
+        "propositions": [
+          "Cota Coca",
+          "Machu Picchu",
+          "Huaca Rajada",
+          "Toro Muerto"
+        ],
+        "réponse": "Machu Picchu",
+        "anecdote": "Le sommet du Huayna Picchu culmine à 2 720 mètres d'altitude, dominant d'environ 360 mètres l'ancien site inca."
+      },
+      {
+        "id": 2,
+        "question": "Lors de l'effondrement de quel empire le Machu Picchu fut-il abandonné ?",
+        "propositions": [
+          "Corsaire",
+          "Inca",
+          "Aztèque",
+          "Iroquois"
+        ],
+        "réponse": "Inca",
+        "anecdote": "Machu Picchu, la ville sacrée oubliée durant des siècles, est considérée comme une oeuvre maîtresse de l'architecture inca."
+      },
+      {
+        "id": 3,
+        "question": "Aux limites de quelle forêt se dresse le Machu Picchu ?",
+        "propositions": [
+          "De Gola",
+          "Amazonienne",
+          "Boréale",
+          "Atlantique"
+        ],
+        "réponse": "Amazonienne",
+        "anecdote": "Avec une superficie de 5 500 000 km2, soit près de dix fois la taille de la France, il s'agit de la plus grande forêt tropicale du monde."
+      },
+      {
+        "id": 4,
+        "question": "Les montagnards de quelle région peuplèrent la région du Machu Picchu ?",
+        "propositions": [
+          "Jumana",
+          "Cuzco",
+          "Lima",
+          "Chavin"
+        ],
+        "réponse": "Cuzco",
+        "anecdote": "De taille modérée, Cuzco fut la capitale des Incas et a été longtemps un carrefour sur l'axe économique transandin."
+      },
+      {
+        "id": 5,
+        "question": "Quelles constructions composent la zone agricole du Machu Picchu ?",
+        "propositions": [
+          "Brûlis",
+          "Paillis",
+          "Terrasses",
+          "Versoirs"
+        ],
+        "réponse": "Terrasses",
+        "anecdote": "D'autres terrasses de moindre largeur se trouvent dans la partie basse de Machu Picchu, tout autour de la cité."
+      },
+      {
+        "id": 6,
+        "question": "La forme de quel animal peut-on associer au site du Machu Picchu ?",
+        "propositions": [
+          "Dauphin",
+          "Serpent",
+          "Condor",
+          "Ours"
+        ],
+        "réponse": "Condor",
+        "anecdote": "Il est parfois admis que les Incas donnaient à leurs cités la forme d'animaux sacrés (puma, condor, ...)."
+      },
+      {
+        "id": 7,
+        "question": "Combien de routes desservent Aguas Calientes, près du Machu Picchu ?",
+        "propositions": [
+          "Trois",
+          "Aucune",
+          "Six",
+          "Neuf"
+        ],
+        "réponse": "Aucune",
+        "anecdote": "Les visiteurs doivent en effet marcher ou utiliser la ligne de chemin de fer qui traverse le village, au départ d'Ollantaytambo."
+      },
+      {
+        "id": 8,
+        "question": "Durant quel siècle la cité du Machu Picchu a-t-elle été créée ?",
+        "propositions": [
+          "VIe siècle",
+          "XIIIe siècle",
+          "XVIe siècle",
+          "XIe siècle"
+        ],
+        "réponse": "XIe siècle",
+        "anecdote": "La cité du Machu Picchu, perchée sur un promontoire rocheux, unit les monts Machu Picchu et Huayna Picchu."
+      },
+      {
+        "id": 9,
+        "question": "Quel chemin de randonnée est le plus emprunté pour accéder au Machu Picchu ?",
+        "propositions": [
+          "Chemin du Vent",
+          "Chemin des Sources",
+          "Chemin du Temple",
+          "Chemin de l'Inca"
+        ],
+        "réponse": "Chemin de l'Inca",
+        "anecdote": "Le chemin de l'Inca est soumis à un contrôle touristique strict et ne peut être parcouru qu'avec une agence de voyage."
+      },
+      {
+        "id": 10,
+        "question": "Entre quels mois les pluies sont-elles souvent abondantes au Machu Picchu ?",
+        "propositions": [
+          "Janvier et mai",
+          "Avril et septembre",
+          "Juillet et décembre",
+          "Novembre et mars"
+        ],
+        "réponse": "Novembre et mars",
+        "anecdote": "Les pluies sont abondantes (environ 1 955 millimètres par an) et ces précipitations souvent fortes alternent avec de belles éclaircies."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Comment se traduit le mot machu dans le langage quechua ?",
+        "propositions": [
+          "Vieille",
+          "Rocher",
+          "Sommet",
+          "Montagne"
+        ],
+        "réponse": "Vieille",
+        "anecdote": "Le quechua est une famille de langues parlées au Pérou (4 millions de locuteurs) où il a le statut de langue officielle depuis 1975."
+      },
+      {
+        "id": 12,
+        "question": "Quel archéologue américain a dévoilé la ville sacrée du Machu Picchu ?",
+        "propositions": [
+          "Paul Walle",
+          "Hiram Bingham",
+          "Jimmy Angel",
+          "Julius Popper"
+        ],
+        "réponse": "Hiram Bingham",
+        "anecdote": "Bien que considéré comme archéologue, il préféra toujours le terme explorateur, insistant pour être décrit ainsi dans les « Who's Who »."
+      },
+      {
+        "id": 13,
+        "question": "Depuis quelle année le Machu Picchu est-il inscrit sur la liste de l'UNESCO ?",
+        "propositions": [
+          "1963",
+          "1983",
+          "1923",
+          "1943"
+        ],
+        "réponse": "1983",
+        "anecdote": "L'Unesco poursuit son action à travers cinq grands programmes : éducation, sciences, culture, communication et information."
+      },
+      {
+        "id": 14,
+        "question": "Combien de constructions composent le site du Machu Picchu dans son ensemble ?",
+        "propositions": [
+          "157",
+          "172",
+          "139",
+          "118"
+        ],
+        "réponse": "172",
+        "anecdote": "Les 172 constructions qui forment le Machu Picchu s'étendent sur environ 530 mètres de long et sur 200 mètres de large."
+      },
+      {
+        "id": 15,
+        "question": "Sous le règne de quel empereur la ville du Machu Picchu fut-elle construite ?",
+        "propositions": [
+          "Pachacutec",
+          "Atahualpa",
+          "Lloque Yupanqui",
+          "Viracocha"
+        ],
+        "réponse": "Pachacutec",
+        "anecdote": "À la mort de Pachacutec, et selon les coutumes royales incas, Machu Picchu passa à sa « panaca » (cour, clan, clientèle élargie)."
+      },
+      {
+        "id": 16,
+        "question": "Combien de touristes environ ont visité le Machu Picchu en 2004 ?",
+        "propositions": [
+          "200 000",
+          "300 000",
+          "400 000",
+          "100 000"
+        ],
+        "réponse": "400 000",
+        "anecdote": "L'éloignement et la difficulté d'accès au site imposent d'eux-mêmes des limites naturelles à l'expansion du tourisme."
+      },
+      {
+        "id": 17,
+        "question": "En combien de grands secteurs la cité du Machu Picchu est-elle divisée ?",
+        "propositions": [
+          "Deux",
+          "Quatre",
+          "Huit",
+          "Six"
+        ],
+        "réponse": "Deux",
+        "anecdote": "La zone agricole, formée de terrasses de cultures au sud, etait séparée de la zone urbaine dans laquelle vivaient ses occupants."
+      },
+      {
+        "id": 18,
+        "question": "Quelle est la longueur du mur séparant la ville de la zone agricole du Machu Picchu ?",
+        "propositions": [
+          "200 mètres",
+          "800 mètres",
+          "400 mètres",
+          "600 mètres"
+        ],
+        "réponse": "400 mètres",
+        "anecdote": "La zone urbaine a été divisée par les archéologues en groupes d'édifices numérotés de 1 à 18."
+      },
+      {
+        "id": 19,
+        "question": "À qui est principalement dédiée la zone sacrée du Machu Picchu ? ",
+        "propositions": [
+          "Coca",
+          "Ocllo",
+          "Inti",
+          "Quilla"
+        ],
+        "réponse": "Inti",
+        "anecdote": "Inti, le dieu soleil, est la divinité principale du panthéon inca, après Huiracocha, le dieu créateur."
+      },
+      {
+        "id": 20,
+        "question": "Combien de personnes environ pouvaient nourrir les champs du Machu Picchu ?",
+        "propositions": [
+          "4 000",
+          "7 000",
+          "10 000",
+          "1 000"
+        ],
+        "réponse": "10 000",
+        "anecdote": "La ville était alimentée grâce à ces cultures en terrasse, qui permettaient de récolter maïs, pomme de terre et divers légumes."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quel est le numéro d'identification du Machu Picchu au patrimoine mondial de l'UNESCO ?",
+        "propositions": [
+          "274",
+          "346",
+          "127",
+          "437"
+        ],
+        "réponse": "274",
+        "anecdote": "Le patrimoine mondial désigne un ensemble de biens présentant un intérêt exceptionnel pour l'héritage commun de l'humanité."
+      },
+      {
+        "id": 22,
+        "question": "Quelle est la superficie du sanctuaire historique de Machu Picchu ?",
+        "propositions": [
+          "225 km²",
+          "125 km²",
+          "325 km²",
+          "25 km²"
+        ],
+        "réponse": "325 km²",
+        "anecdote": "Le Machu Picchu fait partie de tout un ensemble culturel et naturel connu sous le nom de Sanctuaire historique de Machu Picchu."
+      },
+      {
+        "id": 23,
+        "question": "À quelle altitude le Machu Picchu est-il à cheval sur la crête entre deux sommets ?",
+        "propositions": [
+          "2 738 mètres",
+          "2 438 mètres",
+          "1 738 mètres",
+          "2 138 mètres"
+        ],
+        "réponse": "2 438 mètres",
+        "anecdote": "Sous certains angles, il est possible d'imaginer le profil d'un visage humain regardant vers le ciel, dont le Huayna Picchu serait le nez."
+      },
+      {
+        "id": 24,
+        "question": "Quelle rivière coule sur les deux côtés de la cité du Machu Picchu ?",
+        "propositions": [
+          "Urubamba",
+          "Branco",
+          "Envira",
+          "Pastaza"
+        ],
+        "réponse": "Urubamba",
+        "anecdote": "Autour du Huayna Picchu, cette importante rivière du Pérou décrit un grand arc en contrebas d'une falaise de 600 mètres de hauteur."
+      },
+      {
+        "id": 25,
+        "question": "Quel est le plus proche village du Machu Picchu, situé à 400 mètres en contrebas ?",
+        "propositions": [
+          "Charcana",
+          "Aguas Calientes",
+          "Huacachina",
+          "Urcos"
+        ],
+        "réponse": "Aguas Calientes",
+        "anecdote": "Depuis le village d'Aguas Calientes, un service de bus emprunte régulièrement la route Hiram Bingham vers le Machu Picchu."
+      },
+      {
+        "id": 26,
+        "question": "Quelle tour conique du Machu Picchu se situe dans le quartier des nobles ?",
+        "propositions": [
+          "Arequipa",
+          "Torréon",
+          "Cajamarca",
+          "Pisac"
+        ],
+        "réponse": "Torréon",
+        "anecdote": "Le Torréon est construit sur une grande roche en-dessous de laquelle se trouve une petite cavité, un mausolée pour les momies."
+      },
+      {
+        "id": 27,
+        "question": "Combien de squelettes a-t-on retrouvé à proximité du Torréon du Machu Picchu ?",
+        "propositions": [
+          "99",
+          "142",
+          "166",
+          "120"
+        ],
+        "réponse": "142",
+        "anecdote": "L'hypothèse la plus commune est qu'il s'agirait d'acclas, jeunes filles sacrifiées pour célébrer le culte du Soleil."
+      },
+      {
+        "id": 28,
+        "question": "Des recherches sur quelle ville ont permis à Hiram Bingham de découvrir le Machu Picchu ?",
+        "propositions": [
+          "Yanaca",
+          "Tambomachay",
+          "Quenko",
+          "Vicabamba"
+        ],
+        "réponse": "Vicabamba",
+        "anecdote": "Accompagné par ses guides, le sergent Carrasco et le paysan Melchor Arteaga, il se rend à Machu Picchu le 24 juillet 1911."
+      },
+      {
+        "id": 29,
+        "question": "Qui aurait déjà visité Machu Picchu en 1894, avant Hiram Bingham ?",
+        "propositions": [
+          "Jill Langlois",
+          "Luis Valcarel",
+          "Alfredo Valencia",
+          "Augustin Lizarraga"
+        ],
+        "réponse": "Augustin Lizarraga",
+        "anecdote": "Augustin Lizarraga, originaire de Cuzco, arriva dans la ville le 14 juillet 1902 guidant Gabino Sanchez, Enrique Palma et Justo Ochoa."
+      },
+      {
+        "id": 30,
+        "question": "Quel pont contrôle l'accès au Machu Picchu depuis l'ouest ?",
+        "propositions": [
+          "Pont de l'Inca",
+          "Pont du Solstice",
+          "Pont du Temple",
+          "Pont du Soleil"
+        ],
+        "réponse": "Pont de l'Inca",
+        "anecdote": "L'accès au site du Machu Picchu est rigoureusement contrôlé pour limiter les méfaits et les détournements du tourisme massif."
+      }
+    ]
+    },
+    "en": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "The city of Machu Picchu unites Mount Huayna Picchu to which other mount ?",
+        "propositions": [
+          "Toro Muerto",
+          "Machu Picchu",
+          "Cota Coca",
+          "Huaca Rajada"
+        ],
+        "réponse": "Machu Picchu",
+        "anecdote": "The summit of Huayna Picchu rises to 2,720 meters above sea level, towering around 360 meters above the old Inca site."
+      },
+      {
+        "id": 2,
+        "question": "During the collapse of which empire was Machu Picchu abandoned ?",
+        "propositions": [
+          "Corsair",
+          "Iroquois",
+          "Inca",
+          "Aztec"
+        ],
+        "réponse": "Inca",
+        "anecdote": "Machu Picchu, the sacred city forgotten for centuries, is considered a masterpiece of Inca architecture."
+      },
+      {
+        "id": 3,
+        "question": "At the limits of which forest stands Machu Picchu ?",
+        "propositions": [
+          "By Gola",
+          "Amazonian",
+          "Boreal",
+          "Atlantic"
+        ],
+        "réponse": "Amazonian",
+        "anecdote": "With an area of 5,500,000 km2, almost ten times the size of France, it is the largest tropical forest in the world."
+      },
+      {
+        "id": 4,
+        "question": "The mountain people of which region populated the region of Machu Picchu ?",
+        "propositions": [
+          "Cuzco",
+          "Chavin",
+          "Jumana",
+          "Lima"
+        ],
+        "réponse": "Cuzco",
+        "anecdote": "Of moderate size, Cuzco was the capital of the Incas and was for a long time a crossroads on the transandin economic axis."
+      },
+      {
+        "id": 5,
+        "question": "What constructions make up the agricultural area of Machu Picchu ?",
+        "propositions": [
+          "Burns",
+          "Mulch",
+          "Mouldboards",
+          "Terraces"
+        ],
+        "réponse": "Terraces",
+        "anecdote": "Other smaller terraces are found in the lower part of Machu Picchu, all around the city."
+      },
+      {
+        "id": 6,
+        "question": "The shape of which animal can we associate with the site of Machu Picchu ?",
+        "propositions": [
+          "Bear",
+          "Dolphin",
+          "Condor",
+          "Snake"
+        ],
+        "réponse": "Condor",
+        "anecdote": "It is sometimes admitted that the Incas gave their cities the form of sacred animals (puma, condor, ...)."
+      },
+      {
+        "id": 7,
+        "question": "How many roads serve Aguas Calientes, near Machu Picchu ?",
+        "propositions": [
+          "New",
+          "None",
+          "Three",
+          "Six"
+        ],
+        "réponse": "None",
+        "anecdote": "Visitors must walk or use the railway line that crosses the village, from Ollantaytambo."
+      },
+      {
+        "id": 8,
+        "question": "During which century was the city of Machu Picchu created ?",
+        "propositions": [
+          "13th century",
+          "11th century",
+          "16th century",
+          "6th century"
+        ],
+        "réponse": "11th century",
+        "anecdote": "The city of Machu Picchu, perched on a rocky promontory, unites the Machu Picchu and Huayna Picchu mountains."
+      },
+      {
+        "id": 9,
+        "question": "Which hiking route is the most used to access Machu Picchu ?",
+        "propositions": [
+          "Inca Trail",
+          "Chemin du Temple",
+          "Way of the Wind",
+          "Chemin des Sources"
+        ],
+        "réponse": "Inca Trail",
+        "anecdote": "The Inca trail is subject to strict tourist control and can only be traveled with a travel agency."
+      },
+      {
+        "id": 10,
+        "question": "Between which months is the rains often abundant in Machu Picchu ?",
+        "propositions": [
+          "January and May",
+          "July and December",
+          "April and September",
+          "November and March"
+        ],
+        "réponse": "November and March",
+        "anecdote": "The rains are abundant (about 1,955 millimeters per year) and this often heavy precipitation alternates with bright spells."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "How does the word machu translate in Quechua language ?",
+        "propositions": [
+          "Old",
+          "Summit",
+          "Mountain",
+          "Rock"
+        ],
+        "réponse": "Old",
+        "anecdote": "Quechua is a family of languages spoken in Peru (4 million speakers) where it has had the status of an official language since 1975."
+      },
+      {
+        "id": 12,
+        "question": "Which American archaeologist has unveiled the sacred city of Machu Picchu ?",
+        "propositions": [
+          "Paul Walle",
+          "Jimmy Angel",
+          "Julius Popper",
+          "Hiram Bingham"
+        ],
+        "réponse": "Hiram Bingham",
+        "anecdote": "Although considered an archaeologist, he still preferred the term explorer, insisting on being described as such in « Who's Who »."
+      },
+      {
+        "id": 13,
+        "question": "What year has Machu Picchu been listed on the UNESCO list ?",
+        "propositions": [
+          "1963",
+          "1923",
+          "1983",
+          "1943"
+        ],
+        "réponse": "1983",
+        "anecdote": "Unesco pursues its action through five major programs : education, science, culture, communication and information."
+      },
+      {
+        "id": 14,
+        "question": "How many constructions make up the Machu Picchu site as a whole ?",
+        "propositions": [
+          "118",
+          "172",
+          "157",
+          "139"
+        ],
+        "réponse": "172",
+        "anecdote": "The 172 constructions which form Machu Picchu extend over approximately 530 meters in length and 200 meters in width."
+      },
+      {
+        "id": 15,
+        "question": "Under the reign of which emperor was the city of Machu Picchu built ?",
+        "propositions": [
+          "Lloque Yupanqui",
+          "Pachacutec",
+          "Atahualpa",
+          "Viracocha"
+        ],
+        "réponse": "Pachacutec",
+        "anecdote": "When Pachacutec died, and according to royal Inca customs, Machu Picchu passed to his « panaca » (court, clan, extended clientele)."
+      },
+      {
+        "id": 16,
+        "question": "About how many tourists visited Machu Picchu in 2004 ?",
+        "propositions": [
+          "300,000",
+          "200,000",
+          "100,000",
+          "400,000"
+        ],
+        "réponse": "400,000",
+        "anecdote": "The remoteness and the difficulty of access to the site impose natural limits of their own on the expansion of tourism."
+      },
+      {
+        "id": 17,
+        "question": "In how many large areas is the city of Machu Picchu divided ?",
+        "propositions": [
+          "Two",
+          "Six",
+          "Four",
+          "Eight"
+        ],
+        "réponse": "Two",
+        "anecdote": "The agricultural area, formed of crop terraces to the south, was separate from the urban area in which its occupants lived."
+      },
+      {
+        "id": 18,
+        "question": "How long is the wall separating the city from the agricultural area of Machu Picchu ?",
+        "propositions": [
+          "600 meters",
+          "200 meters",
+          "800 meters",
+          "400 meters"
+        ],
+        "réponse": "400 meters",
+        "anecdote": "The urban area has been divided by archaeologists into groups of buildings numbered 1 to 18."
+      },
+      {
+        "id": 19,
+        "question": "Who is mainly dedicated to the sacred area of Machu Picchu ?",
+        "propositions": [
+          "Quilla",
+          "Ocllo",
+          "Inti",
+          "Coca"
+        ],
+        "réponse": "Inti",
+        "anecdote": "Inti, the sun god, is the main deity of the Inca pantheon, after Huiracocha, the creator god."
+      },
+      {
+        "id": 20,
+        "question": "About how many people could feed the fields of Machu Picchu ?",
+        "propositions": [
+          "4,000",
+          "10,000",
+          "1,000",
+          "7,000"
+        ],
+        "réponse": "10,000",
+        "anecdote": "The city was fed by these terrace crops, which allowed to harvest corn, potato and various vegetables."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "What is the UNESCO World Heritage Machu Picchu identification number ?",
+        "propositions": [
+          "346",
+          "127",
+          "274",
+          "437"
+        ],
+        "réponse": "274",
+        "anecdote": "World Heritage designates a set of properties of exceptional interest for the common heritage of humanity."
+      },
+      {
+        "id": 22,
+        "question": "What is the area of the historic sanctuary of Machu Picchu ?",
+        "propositions": [
+          "25 km²",
+          "325 km²",
+          "225 km²",
+          "125 km²"
+        ],
+        "réponse": "325 km²",
+        "anecdote": "Machu Picchu is part of a whole cultural and natural ensemble known as the Historic Sanctuary of Machu Picchu."
+      },
+      {
+        "id": 23,
+        "question": "At what altitude is Machu Picchu straddling the ridge between two peaks ?",
+        "propositions": [
+          "2,438 meters",
+          "2,738 meters",
+          "1,738 meters",
+          "2,138 meters"
+        ],
+        "réponse": "2,438 meters",
+        "anecdote": "From certain angles, it is possible to imagine the profile of a human face looking up at the sky, of which the Huayna Picchu would be the nose."
+      },
+      {
+        "id": 24,
+        "question": "Which river flows on both sides of the city of Machu Picchu ?",
+        "propositions": [
+          "Envira",
+          "Urubamba",
+          "Pastaza",
+          "Branco"
+        ],
+        "réponse": "Urubamba",
+        "anecdote": "Around the Huayna Picchu, this important river in Peru describes a large arc below a cliff 600 meters high."
+      },
+      {
+        "id": 25,
+        "question": "What is the closest village to Machu Picchu, located 400 meters below ?",
+        "propositions": [
+          "Huacachina",
+          "Charcana",
+          "Urcos",
+          "Aguas Calientes"
+        ],
+        "réponse": "Aguas Calientes",
+        "anecdote": "From the village of Aguas Calientes, a bus service regularly takes the Hiram Bingham route to Machu Picchu."
+      },
+      {
+        "id": 26,
+        "question": "Which conical tower of Machu Picchu is located in the noble district ?",
+        "propositions": [
+          "Cajamarca",
+          "Torréon",
+          "Arequipa",
+          "Pisac"
+        ],
+        "réponse": "Torréon",
+        "anecdote": "The Torréon is built on a large rock below which is a small cavity, a mausoleum for the mummies."
+      },
+      {
+        "id": 27,
+        "question": "How many skeletons have been found near the Torréon of Machu Picchu ?",
+        "propositions": [
+          "166",
+          "120",
+          "142",
+          "99"
+        ],
+        "réponse": "142",
+        "anecdote": "The most common assumption is that it would be acclaim, young girls sacrificed to celebrate the worship of the Sun."
+      },
+      {
+        "id": 28,
+        "question": "Research on which city allowed Hiram Bingham to discover Machu Picchu ?",
+        "propositions": [
+          "Quenko",
+          "Vicabamba",
+          "Yanaca",
+          "Tambomachay"
+        ],
+        "réponse": "Vicabamba",
+        "anecdote": "Accompanied by his guides, Sergeant Carrasco and the peasant Melchor Arteaga, he went to Machu Picchu on July 24, 1911."
+      },
+      {
+        "id": 29,
+        "question": "Who would have visited Machu Picchu in 1894 before Hiram Bingham ?",
+        "propositions": [
+          "Alfredo Valencia",
+          "Luis Valcarel",
+          "Jill Langlois",
+          "Augustin Lizarraga"
+        ],
+        "réponse": "Augustin Lizarraga",
+        "anecdote": "Augustin Lizarraga, from Cuzco, arrived in the city on July 14, 1902 guiding Gabino Sanchez, Enrique Palma and Justo Ochoa."
+      },
+      {
+        "id": 30,
+        "question": "Which bridge controls access to Machu Picchu from the west ?",
+        "propositions": [
+          "Inca Bridge",
+          "Pont du Soleil",
+          "Temple Bridge",
+          "Solstice Bridge"
+        ],
+        "réponse": "Inca Bridge",
+        "anecdote": "Access to the Machu Picchu site is rigorously controlled to limit the harms and diversions of mass tourism."
+      }
+    ]
+    },
+    "de": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Die Stadt Machu Picchu verbindet den Berg Huayna Picchu mit welchem anderen Berg ?",
+        "propositions": [
+          "Huaca Rajada",
+          "Cota Coca",
+          "Machu Picchu",
+          "Toro Muerto"
+        ],
+        "réponse": "Machu Picchu",
+        "anecdote": "Der Gipfel des Huayna Picchu erhebt sich auf 2.720 Meter über dem Meeresspiegel und erhebt sich rund 360 Meter über dem alten Inka-Gelände."
+      },
+      {
+        "id": 2,
+        "question": "Während des Zusammenbruchs welches Reiches wurde Machu Picchu verlassen ?",
+        "propositions": [
+          "Azteken",
+          "Inka",
+          "Corsair",
+          "Irokesen"
+        ],
+        "réponse": "Inka",
+        "anecdote": "Machu Picchu, die heilige Stadt, die seit Jahrhunderten vergessen ist, gilt als Meisterwerk der Inka-Architektur."
+      },
+      {
+        "id": 3,
+        "question": "An welchen Grenzen steht welcher Wald Machu Picchu ?",
+        "propositions": [
+          "Atlantik",
+          "Von Gola",
+          "Amazonian",
+          "Boreal"
+        ],
+        "réponse": "Amazonian",
+        "anecdote": "Mit einer Fläche von 5.500.000 km2, fast zehnmal so groß wie Frankreich, ist es der größte Tropenwald der Welt."
+      },
+      {
+        "id": 4,
+        "question": "Die Bergbewohner welcher Region besiedelten die Region Machu Picchu ?",
+        "propositions": [
+          "Lima",
+          "Cuzco",
+          "Chavin",
+          "Jumana"
+        ],
+        "réponse": "Cuzco",
+        "anecdote": "Cuzco war von mäßiger Größe, die Hauptstadt der Inkas und lange Zeit ein Knotenpunkt auf der transandinischen Wirtschaftsachse."
+      },
+      {
+        "id": 5,
+        "question": "Welche Konstruktionen bilden die landwirtschaftliche Fläche von Machu Picchu ?",
+        "propositions": [
+          "Mulch",
+          "Verbrennungen",
+          "Terrassen",
+          "Formbretter"
+        ],
+        "réponse": "Terrassen",
+        "anecdote": "Weitere kleinere Terrassen befinden sich im unteren Teil von Machu Picchu rund um die Stadt."
+      },
+      {
+        "id": 6,
+        "question": "Welche Form von welchem Tier können wir mit dem Standort von Machu Picchu assoziieren ?",
+        "propositions": [
+          "Kondor",
+          "Delphin",
+          "Schlange",
+          "Bär"
+        ],
+        "réponse": "Kondor",
+        "anecdote": "Es wird manchmal zugegeben, dass die Inkas ihren Städten die Form heiliger Tiere gaben (Puma, Kondor, ...)."
+      },
+      {
+        "id": 7,
+        "question": "Wie viele Straßen bedienen Aguas Calientes in der Nähe von Machu Picchu ?",
+        "propositions": [
+          "Neu",
+          "Drei",
+          "Keine",
+          "Sechs"
+        ],
+        "réponse": "Keine",
+        "anecdote": "Besucher müssen von Ollantaytambo aus zu Fuß oder mit der Eisenbahnlinie durch das Dorf fahren."
+      },
+      {
+        "id": 8,
+        "question": "In welchem Jahrhundert wurde die Stadt Machu Picchu gegründet ?",
+        "propositions": [
+          "6. Jahrhundert",
+          "16. Jahrhundert",
+          "13. Jahrhundert",
+          "11. Jahrhundert"
+        ],
+        "réponse": "11. Jahrhundert",
+        "anecdote": "Die Stadt Machu Picchu, die auf einem Felsvorsprung thront, vereint die Berge Machu Picchu und Huayna Picchu."
+      },
+      {
+        "id": 9,
+        "question": "Welcher Wanderweg führt am häufigsten nach Machu Picchu ?",
+        "propositions": [
+          "Chemin des Sources",
+          "Inka Trail",
+          "Weg des Windes",
+          "Chemin du Temple"
+        ],
+        "réponse": "Inka Trail",
+        "anecdote": "Der Inka-Pfad unterliegt einer strengen Touristenkontrolle und kann nur mit einem Reisebüro befahren werden."
+      },
+      {
+        "id": 10,
+        "question": "Zwischen welchen Monaten gibt es in Machu Picchu häufig Regen ?",
+        "propositions": [
+          "November und März",
+          "April und September",
+          "Juli und Dezember",
+          "Januar und Mai"
+        ],
+        "réponse": "November und März",
+        "anecdote": "Die Regenfälle sind reichlich (etwa 1.955 Millimeter pro Jahr) und dieser oft starke Niederschlag wechselt mit hellen Zaubern."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Wie übersetzt sich das Wort machu in Quechua ?",
+        "propositions": [
+          "Gipfel",
+          "Rock",
+          "Berg",
+          "Alt"
+        ],
+        "réponse": "Alt",
+        "anecdote": "Quechua ist eine Sprachfamilie, die in Peru gesprochen wird (4 Millionen Sprecher) und seit 1975 den Status einer Amtssprache hat."
+      },
+      {
+        "id": 12,
+        "question": "Welcher amerikanische Archäologe hat die heilige Stadt Machu Picchu enthüllt ?",
+        "propositions": [
+          "Paul Walle",
+          "Jimmy Angel",
+          "Julius Popper",
+          "Hiram Bingham"
+        ],
+        "réponse": "Hiram Bingham",
+        "anecdote": "Obwohl er als Archäologe angesehen wurde, bevorzugte er immer noch den Begriff Entdecker und bestand darauf, in « Who is Who » als solcher beschrieben zu werden."
+      },
+      {
+        "id": 13,
+        "question": "In welchem Jahr wurde Machu Picchu auf die UNESCO-Liste gesetzt ?",
+        "propositions": [
+          "1983",
+          "1923",
+          "1943",
+          "1963"
+        ],
+        "réponse": "1983",
+        "anecdote": "Die Unesco setzt ihre Maßnahmen in fünf Hauptprogrammen fort : Bildung, Wissenschaft, Kultur, Kommunikation und Information."
+      },
+      {
+        "id": 14,
+        "question": "Wie viele Konstruktionen bilden die gesamte Machu Picchu-Site ?",
+        "propositions": [
+          "172",
+          "139",
+          "157",
+          "118"
+        ],
+        "réponse": "172",
+        "anecdote": "Die 172 Konstruktionen, die Machu Picchu bilden, erstrecken sich über eine Länge von ungefähr 530 Metern und eine Breite von 200 Metern."
+      },
+      {
+        "id": 15,
+        "question": "Unter welcher Herrschaft wurde die Stadt Machu Picchu erbaut ?",
+        "propositions": [
+          "Viracocha",
+          "Atahualpa",
+          "Pachacutec",
+          "Lloque Yupanqui"
+        ],
+        "réponse": "Pachacutec",
+        "anecdote": "Als Pachacutec starb und gemäß den königlichen Inka-Gepflogenheiten, ging Machu Picchu an seine « Panaca » (Hof, Clan, erweiterte Klientel) über."
+      },
+      {
+        "id": 16,
+        "question": "Wie viele Touristen besuchten Machu Picchu im Jahr 2004 ?",
+        "propositions": [
+          "200.000",
+          "100.000",
+          "300.000",
+          "400.000"
+        ],
+        "réponse": "400.000",
+        "anecdote": "Die Abgeschiedenheit und die Schwierigkeit des Zugangs zum Gelände setzen der Ausweitung des Tourismus eigene natürliche Grenzen."
+      },
+      {
+        "id": 17,
+        "question": "In wie viele große Gebiete ist die Stadt Machu Picchu unterteilt ?",
+        "propositions": [
+          "Acht",
+          "Vier",
+          "Zwei",
+          "Sechs"
+        ],
+        "réponse": "Zwei",
+        "anecdote": "Das landwirtschaftliche Gebiet, das im Süden aus Ernteterrassen bestand, war vom Stadtgebiet, in dem die Bewohner lebten, getrennt."
+      },
+      {
+        "id": 18,
+        "question": "Wie lange trennt die Mauer die Stadt vom landwirtschaftlichen Gebiet von Machu Picchu ?",
+        "propositions": [
+          "600 Meter",
+          "400 Meter",
+          "800 Meter",
+          "200 Meter"
+        ],
+        "réponse": "400 Meter",
+        "anecdote": "Das Stadtgebiet wurde von Archäologen in Gebäudegruppen mit den Nummern 1 bis 18 unterteilt."
+      },
+      {
+        "id": 19,
+        "question": "Wer ist hauptsächlich dem heiligen Bereich von Machu Picchu gewidmet ?",
+        "propositions": [
+          "Inti",
+          "Ocllo",
+          "Quilla",
+          "Coca"
+        ],
+        "réponse": "Inti",
+        "anecdote": "Inti, der Sonnengott, ist nach Huiracocha, dem Schöpfergott, die Hauptgottheit des Inka-Pantheons."
+      },
+      {
+        "id": 20,
+        "question": "Wie viele Menschen könnten die Felder von Machu Picchu füttern ?",
+        "propositions": [
+          "7.000",
+          "4.000",
+          "10.000",
+          "1.000"
+        ],
+        "réponse": "10.000",
+        "anecdote": "Die Stadt wurde von diesen Terrassenkulturen gespeist, mit denen Mais, Kartoffeln und verschiedene Gemüsesorten geerntet werden konnten."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Wie lautet die Machu Picchu-Identifikationsnummer des UNESCO-Weltkulturerbes ?",
+        "propositions": [
+          "437",
+          "127",
+          "274",
+          "346"
+        ],
+        "réponse": "274",
+        "anecdote": "Das Welterbe bezeichnet eine Reihe von Eigenschaften von außergewöhnlichem Interesse für das gemeinsame Erbe der Menschheit."
+      },
+      {
+        "id": 22,
+        "question": "Was ist der Bereich des historischen Heiligtums von Machu Picchu ?",
+        "propositions": [
+          "25 km²",
+          "225 km²",
+          "325 km²",
+          "125 km²"
+        ],
+        "réponse": "325 km²",
+        "anecdote": "Machu Picchu ist Teil eines ganzen kulturellen und natürlichen Ensembles, das als historisches Heiligtum von Machu Picchu bekannt ist."
+      },
+      {
+        "id": 23,
+        "question": "In welcher Höhe überspannt Machu Picchu den Kamm zwischen zwei Gipfeln ?",
+        "propositions": [
+          "2.438 Meter",
+          "2.138 Meter",
+          "2.738 Meter",
+          "1.738 Meter"
+        ],
+        "réponse": "2.438 Meter",
+        "anecdote": "Aus bestimmten Blickwinkeln kann man sich das Profil eines menschlichen Gesichts vorstellen, das zum Himmel aufblickt, dessen Nase der Huayna Picchu wäre."
+      },
+      {
+        "id": 24,
+        "question": "Welcher Fluss fließt auf beiden Seiten der Stadt Machu Picchu ?",
+        "propositions": [
+          "Branco",
+          "Urubamba",
+          "Pastaza",
+          "Envira"
+        ],
+        "réponse": "Urubamba",
+        "anecdote": "Rund um das Huayna Picchu beschreibt dieser wichtige Fluss in Peru einen großen Bogen unterhalb einer 600 Meter hohen Klippe."
+      },
+      {
+        "id": 25,
+        "question": "Was ist das nächstgelegene Dorf zu Machu Picchu, 400 Meter unterhalb ?",
+        "propositions": [
+          "Huacachina",
+          "Aguas Calientes",
+          "Urcos",
+          "Charcana"
+        ],
+        "réponse": "Aguas Calientes",
+        "anecdote": "Vom Dorf Aguas Calientes fährt regelmäßig ein Bus auf der Hiram Bingham-Route nach Machu Picchu."
+      },
+      {
+        "id": 26,
+        "question": "Welcher konische Turm von Machu Picchu befindet sich im Adelsviertel ?",
+        "propositions": [
+          "Torréon",
+          "Arequipa",
+          "Pisac",
+          "Cajamarca"
+        ],
+        "réponse": "Torréon",
+        "anecdote": "Der Torréon ist auf einem großen Felsen gebaut, unter dem sich ein kleiner Hohlraum befindet, ein Mausoleum für Mumien."
+      },
+      {
+        "id": 27,
+        "question": "Wie viele Skelette wurden in der Nähe des Torréon von Machu Picchu gefunden ?",
+        "propositions": [
+          "99",
+          "120",
+          "142",
+          "166"
+        ],
+        "réponse": "142",
+        "anecdote": "Die häufigste Annahme ist, dass es Anerkennung wäre, junge Mädchen zu opfern, um die Anbetung der Sonne zu feiern."
+      },
+      {
+        "id": 28,
+        "question": "Nachforschungen darüber, in welcher Stadt Hiram Bingham Machu Picchu entdecken konnte ?",
+        "propositions": [
+          "Tambomachay",
+          "Vicabamba",
+          "Quenko",
+          "Yanaca"
+        ],
+        "réponse": "Vicabamba",
+        "anecdote": "In Begleitung seiner Führer Sergeant Carrasco und des Bauern Melchor Arteaga ging er am 24."
+      },
+      {
+        "id": 29,
+        "question": "Wer hätte Machu Picchu 1894 vor Hiram Bingham besucht ?",
+        "propositions": [
+          "Luis Valcarel",
+          "Alfredo Valencia",
+          "Augustin Lizarraga",
+          "Jill Langlois"
+        ],
+        "réponse": "Augustin Lizarraga",
+        "anecdote": "Augustin Lizarraga aus Cuzco kam am 14. Juli 1902 in die Stadt und führte Gabino Sanchez, Enrique Palma und Justo Ochoa."
+      },
+      {
+        "id": 30,
+        "question": "Welche Brücke kontrolliert den Zugang zu Machu Picchu von Westen ?",
+        "propositions": [
+          "Pont du Soleil",
+          "Tempelbrücke",
+          "Inka-Brücke",
+          "Sonnenwende-Brücke"
+        ],
+        "réponse": "Inka-Brücke",
+        "anecdote": "Der Zugang zum Machu Picchu-Gelände wird streng kontrolliert, um die Schäden und Ablenkungen des Massentourismus zu begrenzen."
+      }
+    ]
+    },
+    "es": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "La ciudad de Machu Picchu une el monte Huayna Picchu, ¿a qué otro monte ?",
+        "propositions": [
+          "Cota Coca",
+          "Machu Picchu",
+          "Huaca Rajada",
+          "Toro Muerto"
+        ],
+        "réponse": "Machu Picchu",
+        "anecdote": "La cumbre de Huayna Picchu se eleva a 2.720 metros sobre el nivel del mar, elevándose alrededor de 360  ? ?metros sobre el antiguo sitio inca."
+      },
+      {
+        "id": 2,
+        "question": "¿Durante el colapso de qué imperio fue abandonado Machu Picchu ?",
+        "propositions": [
+          "Corsario",
+          "Inca",
+          "Azteca",
+          "Iroqueses"
+        ],
+        "réponse": "Inca",
+        "anecdote": "Machu Picchu, la ciudad sagrada olvidada durante siglos, es considerada una obra maestra de la arquitectura inca."
+      },
+      {
+        "id": 3,
+        "question": "¿En los límites de qué bosque se encuentra Machu Picchu ?",
+        "propositions": [
+          "Atlántico",
+          "Por Gola",
+          "Boreal",
+          "Amazónica"
+        ],
+        "réponse": "Amazónica",
+        "anecdote": "Con una superficie de 5.500.000 km2, casi diez veces el tamaño de Francia, es el bosque tropical más grande del mundo."
+      },
+      {
+        "id": 4,
+        "question": "¿Los habitantes de las montañas de qué región poblaron la región de Machu Picchu ?",
+        "propositions": [
+          "Cuzco",
+          "Jumana",
+          "Lima",
+          "Chavin"
+        ],
+        "réponse": "Cuzco",
+        "anecdote": "De tamaño moderado, Cuzco fue la capital de los incas y fue durante mucho tiempo una encrucijada en el eje económico transandin."
+      },
+      {
+        "id": 5,
+        "question": "¿Qué construcciones conforman el área agrícola de Machu Picchu ?",
+        "propositions": [
+          "Mantillo",
+          "Vertederas",
+          "Terrazas",
+          "Quemaduras"
+        ],
+        "réponse": "Terrazas",
+        "anecdote": "Otras terrazas más pequeñas se encuentran en la parte baja de Machu Picchu, alrededor de la ciudad."
+      },
+      {
+        "id": 6,
+        "question": "¿La forma de qué animal podemos asociar con el sitio de Machu Picchu ?",
+        "propositions": [
+          "Delfín",
+          "Oso",
+          "Serpiente",
+          "Cóndor"
+        ],
+        "réponse": "Cóndor",
+        "anecdote": "A veces se admite que los incas dieron a sus ciudades la forma de animales sagrados (puma, cóndor, ...)."
+      },
+      {
+        "id": 7,
+        "question": "¿Cuántos caminos sirven a Aguas Calientes, cerca de Machu Picchu ?",
+        "propositions": [
+          "Ninguno",
+          "Seis",
+          "Tres",
+          "Nuevo"
+        ],
+        "réponse": "Ninguno",
+        "anecdote": "Los visitantes deben caminar o usar la línea de ferrocarril que cruza el pueblo, desde Ollantaytambo."
+      },
+      {
+        "id": 8,
+        "question": "¿Durante qué siglo se creó la ciudad de Machu Picchu ?",
+        "propositions": [
+          "Siglo 13",
+          "Siglo 16",
+          "Siglo XI",
+          "Siglo VI"
+        ],
+        "réponse": "Siglo XI",
+        "anecdote": "La ciudad de Machu Picchu, encaramada en un promontorio rocoso, une las montañas Machu Picchu y Huayna Picchu."
+      },
+      {
+        "id": 9,
+        "question": "¿Qué ruta de senderismo es la más utilizada para acceder a Machu Picchu ?",
+        "propositions": [
+          "Camino Inca",
+          "Chemin du Temple",
+          "Chemin des Sources",
+          "Camino del viento"
+        ],
+        "réponse": "Camino Inca",
+        "anecdote": "El camino inca está sujeto a un estricto control turístico y solo se puede recorrer con una agencia de viajes."
+      },
+      {
+        "id": 10,
+        "question": "¿Entre qué meses abundan las lluvias en Machu Picchu ?",
+        "propositions": [
+          "Abril y septiembre",
+          "Julio y diciembre",
+          "Noviembre y marzo",
+          "Enero y mayo"
+        ],
+        "réponse": "Noviembre y marzo",
+        "anecdote": "Las lluvias son abundantes (alrededor de 1,955 milímetros por año) y esta precipitación a menudo se alterna con períodos brillantes."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "¿Cómo se traduce la palabra machu en idioma quechua ?",
+        "propositions": [
+          "Cumbre",
+          "Roca",
+          "Viejo",
+          "Montaña"
+        ],
+        "réponse": "Viejo",
+        "anecdote": "El quechua es una familia de idiomas que se hablan en Perú (4 millones de hablantes) donde ha tenido el estatus de idioma oficial desde 1975."
+      },
+      {
+        "id": 12,
+        "question": "¿Qué arqueólogo estadounidense ha presentado la ciudad sagrada de Machu Picchu ?",
+        "propositions": [
+          "Julius Popper",
+          "Hiram Bingham",
+          "Paul Walle",
+          "Jimmy Angel"
+        ],
+        "réponse": "Hiram Bingham",
+        "anecdote": "Aunque se lo consideraba un arqueólogo, seguía prefiriendo el término explorador, insistiendo en ser descrito como tal en « Quién es quién »."
+      },
+      {
+        "id": 13,
+        "question": "¿En qué año figura Machu Picchu en la lista de la UNESCO ?",
+        "propositions": [
+          "1963",
+          "1983",
+          "1943",
+          "1923"
+        ],
+        "réponse": "1983",
+        "anecdote": "La Unesco persigue su acción a través de cinco programas principales : educación, ciencia, cultura, comunicación e información."
+      },
+      {
+        "id": 14,
+        "question": "¿Cuántas construcciones conforman el sitio de Machu Picchu en su conjunto ?",
+        "propositions": [
+          "118",
+          "139",
+          "157",
+          "172"
+        ],
+        "réponse": "172",
+        "anecdote": "Las 172 construcciones que forman Machu Picchu se extienden sobre aproximadamente 530 metros de largo y 200 metros de ancho."
+      },
+      {
+        "id": 15,
+        "question": "¿Bajo el reinado de qué emperador se construyó la ciudad de Machu Picchu ?",
+        "propositions": [
+          "Pachacutec",
+          "Atahualpa",
+          "Viracocha",
+          "Lloque Yupanqui"
+        ],
+        "réponse": "Pachacutec",
+        "anecdote": "Cuando Pachacutec murió, y de acuerdo con las costumbres reales incas, Machu Picchu pasó a su « panaca » (corte, clan, clientela extendida)."
+      },
+      {
+        "id": 16,
+        "question": "¿Aproximadamente cuántos turistas visitaron Machu Picchu en 2004 ?",
+        "propositions": [
+          "200,000",
+          "400,000",
+          "100,000",
+          "300,000"
+        ],
+        "réponse": "400,000",
+        "anecdote": "La lejanía y la dificultad de acceso al sitio imponen sus propios límites naturales a la expansión del turismo."
+      },
+      {
+        "id": 17,
+        "question": "¿En cuántas áreas grandes está dividida la ciudad de Machu Picchu ?",
+        "propositions": [
+          "Ocho",
+          "Seis",
+          "Dos",
+          "Cuatro"
+        ],
+        "réponse": "Dos",
+        "anecdote": "El área agrícola, compuesta por terrazas de cultivos al sur, estaba separada del área urbana en la que vivían sus ocupantes."
+      },
+      {
+        "id": 18,
+        "question": "¿Cuánto mide el muro que separa la ciudad del área agrícola de Machu Picchu ?",
+        "propositions": [
+          "800 metros",
+          "400 metros",
+          "600 metros",
+          "200 metros"
+        ],
+        "réponse": "400 metros",
+        "anecdote": "Los arqueólogos han dividido el área urbana en grupos de edificios numerados del 1 al 18."
+      },
+      {
+        "id": 19,
+        "question": "¿Quién se dedica principalmente al área sagrada de Machu Picchu ?",
+        "propositions": [
+          "Inti",
+          "Ocllo",
+          "Quilla",
+          "Coca"
+        ],
+        "réponse": "Inti",
+        "anecdote": "Inti, el dios del sol, es la principal deidad del panteón inca, después de Huiracocha, el dios creador."
+      },
+      {
+        "id": 20,
+        "question": "¿Aproximadamente cuántas personas podrían alimentar los campos de Machu Picchu ?",
+        "propositions": [
+          "1,000",
+          "4,000",
+          "10,000",
+          "7,000"
+        ],
+        "réponse": "10,000",
+        "anecdote": "La ciudad recibió suministros en la terraza, lo que permitió cosechar maíz, papas y varios vegetales."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "¿Cuál es el número de identificación de Machu Picchu, Patrimonio Mundial de la UNESCO ?",
+        "propositions": [
+          "346",
+          "274",
+          "127",
+          "437"
+        ],
+        "réponse": "274",
+        "anecdote": "El Patrimonio Mundial designa un conjunto de propiedades de excepcional interés para el patrimonio común de la humanidad."
+      },
+      {
+        "id": 22,
+        "question": "¿Cuál es el área del santuario histórico de Machu Picchu ?",
+        "propositions": [
+          "325 km²",
+          "225 km²",
+          "25 km²",
+          "125 km²"
+        ],
+        "réponse": "325 km²",
+        "anecdote": "Machu Picchu es parte de todo un conjunto cultural y natural conocido como el Santuario Histórico de Machu Picchu."
+      },
+      {
+        "id": 23,
+        "question": "¿A qué altitud está Machu Picchu a horcajadas en la cresta entre dos picos ?",
+        "propositions": [
+          "2,738 metros",
+          "2,438 metros",
+          "2,138 metros",
+          "1,738 metros"
+        ],
+        "réponse": "2,438 metros",
+        "anecdote": "Desde ciertos ángulos, es posible imaginar el perfil de un rostro humano mirando hacia el cielo, del cual el Huayna Picchu sería la nariz."
+      },
+      {
+        "id": 24,
+        "question": "¿Qué río fluye a ambos lados de la ciudad de Machu Picchu ?",
+        "propositions": [
+          "Urubamba",
+          "Pastaza",
+          "Envira",
+          "Branco"
+        ],
+        "réponse": "Urubamba",
+        "anecdote": "Alrededor del Huayna Picchu, este importante río en Perú describe un gran arco debajo de un acantilado de 600 metros de altura."
+      },
+      {
+        "id": 25,
+        "question": "¿Cuál es el pueblo más cercano a Machu Picchu, ubicado a 400 metros debajo ?",
+        "propositions": [
+          "Urcos",
+          "Aguas Calientes",
+          "Charcana",
+          "Huacachina"
+        ],
+        "réponse": "Aguas Calientes",
+        "anecdote": "Desde el pueblo de Aguas Calientes, un servicio de autobús toma regularmente la ruta de Hiram Bingham a Machu Picchu."
+      },
+      {
+        "id": 26,
+        "question": "¿Qué torre cónica de Machu Picchu se encuentra en el barrio noble ?",
+        "propositions": [
+          "Arequipa",
+          "Pisac",
+          "Torréon",
+          "Cajamarca"
+        ],
+        "réponse": "Torréon",
+        "anecdote": "El Torréon está construido sobre una gran roca debajo de la cual hay una pequeña cavidad, un mausoleo para las momias."
+      },
+      {
+        "id": 27,
+        "question": "¿Cuántos esqueletos se han encontrado cerca del Torréon de Machu Picchu ?",
+        "propositions": [
+          "120",
+          "99",
+          "166",
+          "142"
+        ],
+        "réponse": "142",
+        "anecdote": "La suposición más común es que sería aclamado, las jóvenes sacrificadas para celebrar la adoración del sol."
+      },
+      {
+        "id": 28,
+        "question": "¿Investigación sobre qué ciudad permitió a Hiram Bingham descubrir Machu Picchu ?",
+        "propositions": [
+          "Quenko",
+          "Tambomachay",
+          "Yanaca",
+          "Vicabamba"
+        ],
+        "réponse": "Vicabamba",
+        "anecdote": "Acompañado de sus guías, el sargento Carrasco y el campesino Melchor Arteaga, fue a Machu Picchu el 24 de julio de 1911."
+      },
+      {
+        "id": 29,
+        "question": "¿Quién habría visitado Machu Picchu en 1894 antes de Hiram Bingham ?",
+        "propositions": [
+          "Alfredo Valencia",
+          "Jill Langlois",
+          "Luis Valcarel",
+          "Augustin Lizarraga"
+        ],
+        "réponse": "Augustin Lizarraga",
+        "anecdote": "Agustín Lizarraga, originario de Cuzco, llegó a la ciudad el 14 de julio de 1902 guiando a Gabino Sánchez, Enrique Palma y Justo Ochoa."
+      },
+      {
+        "id": 30,
+        "question": "¿Qué puente controla el acceso a Machu Picchu desde el oeste ?",
+        "propositions": [
+          "Puente del solsticio",
+          "Pont du Soleil",
+          "Puente del templo",
+          "Puente Inca"
+        ],
+        "réponse": "Puente Inca",
+        "anecdote": "El acceso al sitio de Machu Picchu está estrictamente controlado para limitar los daños y las desviaciones del turismo de masas."
+      }
+    ]
+    },
+    "it": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "La città di Machu Picchu unisce il monte Huayna Picchu a quale altro monte ?",
+        "propositions": [
+          "Toro Muerto",
+          "Huaca Rajada",
+          "Cota Coca",
+          "Machu Picchu"
+        ],
+        "réponse": "Machu Picchu",
+        "anecdote": "La cima di Huayna Picchu sorge a 2.720 metri sul livello del mare, svettando a circa 360 metri sopra il vecchio sito Inca."
+      },
+      {
+        "id": 2,
+        "question": "Durante il crollo di quale impero fu abbandonato Machu Picchu ?",
+        "propositions": [
+          "Irochesi",
+          "Azteco",
+          "Corsaro",
+          "Inca"
+        ],
+        "réponse": "Inca",
+        "anecdote": "Machu Picchu, la città sacra dimenticata da secoli, è considerata un capolavoro dell'architettura inca."
+      },
+      {
+        "id": 3,
+        "question": "Ai limiti di quale foresta si trova Machu Picchu ?",
+        "propositions": [
+          "Di Gola",
+          "Amazzonico",
+          "Atlantico",
+          "Boreale"
+        ],
+        "réponse": "Amazzonico",
+        "anecdote": "Con una superficie di 5.500.000 km2, quasi dieci volte più grande della Francia, è la più grande foresta tropicale del mondo."
+      },
+      {
+        "id": 4,
+        "question": "Il popolo montano di quale regione popolava la regione di Machu Picchu ?",
+        "propositions": [
+          "Chavin",
+          "Jumana",
+          "Lima",
+          "Cuzco"
+        ],
+        "réponse": "Cuzco",
+        "anecdote": "Di dimensioni moderate, Cuzco era la capitale degli Incas ed era per lungo tempo un crocevia sull'asse economico transandino."
+      },
+      {
+        "id": 5,
+        "question": "Quali costruzioni compongono l'area agricola di Machu Picchu ?",
+        "propositions": [
+          "Pacciame",
+          "Tabelloni",
+          "Ustioni",
+          "Terrazze"
+        ],
+        "réponse": "Terrazze",
+        "anecdote": "Altre terrazze più piccole si trovano nella parte bassa di Machu Picchu, in tutta la città."
+      },
+      {
+        "id": 6,
+        "question": "La forma di quale animale possiamo associare al sito di Machu Picchu ?",
+        "propositions": [
+          "Orso",
+          "Condor",
+          "Delfino",
+          "Serpente"
+        ],
+        "réponse": "Condor",
+        "anecdote": "A volte è ammesso che gli Incas hanno dato alle loro città la forma di animali sacri (puma, condor, ...)."
+      },
+      {
+        "id": 7,
+        "question": "Quante strade servono Aguas Calientes, vicino a Machu Picchu ?",
+        "propositions": [
+          "Novità",
+          "Sei",
+          "Tre",
+          "Nessuno"
+        ],
+        "réponse": "Nessuno",
+        "anecdote": "I visitatori devono camminare o utilizzare la linea ferroviaria che attraversa il villaggio, da Ollantaytambo."
+      },
+      {
+        "id": 8,
+        "question": "Durante quale secolo fu creata la città di Machu Picchu ?",
+        "propositions": [
+          "XVI secolo",
+          "XI secolo",
+          "VI secolo",
+          "13 ° secolo"
+        ],
+        "réponse": "XI secolo",
+        "anecdote": "La città di Machu Picchu, arroccata su un promontorio roccioso, unisce le montagne di Machu Picchu e Huayna Picchu."
+      },
+      {
+        "id": 9,
+        "question": "Quale percorso escursionistico è il più utilizzato per accedere a Machu Picchu ?",
+        "propositions": [
+          "Chemin des Sources",
+          "Chemin du Temple",
+          "Via del vento",
+          "Sentiero Inca"
+        ],
+        "réponse": "Sentiero Inca",
+        "anecdote": "Il percorso Inca è soggetto a severi controlli turistici e può essere percorso solo con un'agenzia di viaggi."
+      },
+      {
+        "id": 10,
+        "question": "Tra quali mesi le piogge sono spesso abbondanti a Machu Picchu ?",
+        "propositions": [
+          "Gennaio e maggio",
+          "Luglio e dicembre",
+          "Novembre e marzo",
+          "Aprile e settembre"
+        ],
+        "réponse": "Novembre e marzo",
+        "anecdote": "Le piogge sono abbondanti (circa 1.955 millimetri all'anno) e questa precipitazione spesso pesante si alterna a incantesimi luminosi."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Come si traduce la parola machu in quechua ?",
+        "propositions": [
+          "Vertice",
+          "Montagna",
+          "Rock",
+          "Vecchio"
+        ],
+        "réponse": "Vecchio",
+        "anecdote": "Il quechua è una famiglia di lingue parlate in Perù (4 milioni di parlanti) dove ha lo status di lingua ufficiale dal 1975."
+      },
+      {
+        "id": 12,
+        "question": "Quale archeologo americano ha svelato la città sacra di Machu Picchu ?",
+        "propositions": [
+          "Julius Popper",
+          "Jimmy Angel",
+          "Hiram Bingham",
+          "Paul Walle"
+        ],
+        "réponse": "Hiram Bingham",
+        "anecdote": "Sebbene considerato un archeologo, preferiva ancora il termine esploratore, insistendo per essere descritto come tale in « Chi è chi »."
+      },
+      {
+        "id": 13,
+        "question": "In che anno Machu Picchu è stato inserito nell'elenco dell'UNESCO ?",
+        "propositions": [
+          "1923",
+          "1943",
+          "1983",
+          "1963"
+        ],
+        "réponse": "1983",
+        "anecdote": "L'Unesco prosegue la sua azione attraverso cinque programmi principali : istruzione, scienza, cultura, comunicazione e informazione."
+      },
+      {
+        "id": 14,
+        "question": "Quante costruzioni compongono il sito di Machu Picchu nel suo insieme ?",
+        "propositions": [
+          "118",
+          "157",
+          "172",
+          "139"
+        ],
+        "réponse": "172",
+        "anecdote": "Le 172 costruzioni che formano Machu Picchu si estendono per circa 530 metri di lunghezza e 200 di larghezza."
+      },
+      {
+        "id": 15,
+        "question": "Sotto quale imperatore fu costruita la città di Machu Picchu ?",
+        "propositions": [
+          "Atahualpa",
+          "Lloque Yupanqui",
+          "Pachacutec",
+          "Viracocha"
+        ],
+        "réponse": "Pachacutec",
+        "anecdote": "Quando Pachacutec morì, e secondo le usanze reali degli Inca, Machu Picchu passò alla sua « panaca » (corte, clan, clientela estesa)."
+      },
+      {
+        "id": 16,
+        "question": "Di quanti turisti hanno visitato Machu Picchu nel 2004 ?",
+        "propositions": [
+          "200.000",
+          "400.000",
+          "300.000",
+          "100.000"
+        ],
+        "réponse": "400.000",
+        "anecdote": "La lontananza e la difficoltà di accesso al sito impongono limiti naturali propri all'espansione del turismo."
+      },
+      {
+        "id": 17,
+        "question": "In quante grandi aree è divisa la città di Machu Picchu ?",
+        "propositions": [
+          "Quattro",
+          "Otto",
+          "Sei",
+          "Due"
+        ],
+        "réponse": "Due",
+        "anecdote": "L'area agricola, costituita da terrazze coltivate a sud, era separata dall'area urbana in cui vivevano i suoi occupanti."
+      },
+      {
+        "id": 18,
+        "question": "Quanto dura il muro che separa la città dalla zona agricola di Machu Picchu ?",
+        "propositions": [
+          "600 metri",
+          "200 metri",
+          "400 metri",
+          "800 metri"
+        ],
+        "réponse": "400 metri",
+        "anecdote": "L'area urbana è stata divisa dagli archeologi in gruppi di edifici da 1 a 18."
+      },
+      {
+        "id": 19,
+        "question": "Chi si dedica principalmente all'area sacra di Machu Picchu ?",
+        "propositions": [
+          "Inti",
+          "Coca",
+          "Ocllo",
+          "Quilla"
+        ],
+        "réponse": "Inti",
+        "anecdote": "Inti, il dio del sole, è la divinità principale del pantheon Inca, dopo Huiracocha, il dio creatore."
+      },
+      {
+        "id": 20,
+        "question": "Di quante persone potrebbero nutrire i campi di Machu Picchu ?",
+        "propositions": [
+          "4.000",
+          "7.000",
+          "10.000",
+          "1.000"
+        ],
+        "réponse": "10.000",
+        "anecdote": "La città era alimentata da queste colture da terrazza, che consentivano di raccogliere mais, patate e verdure varie."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Qual è il numero di identificazione Machu Picchu, patrimonio mondiale dell'UNESCO ?",
+        "propositions": [
+          "346",
+          "127",
+          "437",
+          "274"
+        ],
+        "réponse": "274",
+        "anecdote": "Patrimonio mondiale designa un insieme di proprietà di eccezionale interesse per il patrimonio comune dell'umanità."
+      },
+      {
+        "id": 22,
+        "question": "Qual è l'area dello storico santuario di Machu Picchu ?",
+        "propositions": [
+          "225 km²",
+          "325 km²",
+          "25 km²",
+          "125 km²"
+        ],
+        "réponse": "325 km²",
+        "anecdote": "Machu Picchu fa parte di un intero insieme culturale e naturale noto come Santuario storico di Machu Picchu."
+      },
+      {
+        "id": 23,
+        "question": "A quale altitudine Machu Picchu si trova a cavallo della cresta tra due picchi ?",
+        "propositions": [
+          "1.738 metri",
+          "2.438 metri",
+          "2.738 metri",
+          "2.138 metri"
+        ],
+        "réponse": "2.438 metri",
+        "anecdote": "Da certe angolazioni, è possibile immaginare il profilo di un volto umano che guarda il cielo, di cui Huayna Picchu sarebbe il naso."
+      },
+      {
+        "id": 24,
+        "question": "Quale fiume scorre su entrambi i lati della città di Machu Picchu ?",
+        "propositions": [
+          "Pastaza",
+          "Urubamba",
+          "Envira",
+          "Branco"
+        ],
+        "réponse": "Urubamba",
+        "anecdote": "Intorno all'Huayna Picchu, questo importante fiume in Perù descrive un grande arco sotto una scogliera alta 600 metri."
+      },
+      {
+        "id": 25,
+        "question": "Qual è il villaggio più vicino a Machu Picchu, situato a 400 metri sotto ?",
+        "propositions": [
+          "Urcos",
+          "Charcana",
+          "Aguas Calientes",
+          "Huacachina"
+        ],
+        "réponse": "Aguas Calientes",
+        "anecdote": "Dal villaggio di Aguas Calientes, un servizio di autobus prende regolarmente la rotta Hiram Bingham per Machu Picchu."
+      },
+      {
+        "id": 26,
+        "question": "Quale torre conica di Machu Picchu si trova nel nobile distretto ?",
+        "propositions": [
+          "Pisac",
+          "Arequipa",
+          "Torréon",
+          "Cajamarca"
+        ],
+        "réponse": "Torréon",
+        "anecdote": "Il Torréon è costruito su una grande roccia sotto la quale si trova una piccola cavità, un mausoleo per le mummie."
+      },
+      {
+        "id": 27,
+        "question": "Quanti scheletri sono stati trovati vicino al Torréon di Machu Picchu ?",
+        "propositions": [
+          "120",
+          "99",
+          "142",
+          "166"
+        ],
+        "réponse": "142",
+        "anecdote": "L'ipotesi più comune è che sarebbe acclamato, giovani ragazze sacrificate per celebrare l'adorazione del Sole."
+      },
+      {
+        "id": 28,
+        "question": "La ricerca su quale città ha permesso a Hiram Bingham di scoprire Machu Picchu ?",
+        "propositions": [
+          "Yanaca",
+          "Tambomachay",
+          "Vicabamba",
+          "Quenko"
+        ],
+        "réponse": "Vicabamba",
+        "anecdote": "Accompagnato dalle sue guide, il sergente Carrasco e il contadino Melchor Arteaga, si recò a Machu Picchu il 24 luglio 1911."
+      },
+      {
+        "id": 29,
+        "question": "Chi avrebbe visitato Machu Picchu nel 1894 prima di Hiram Bingham ?",
+        "propositions": [
+          "Augustin Lizarraga",
+          "Luis Valcarel",
+          "Alfredo Valencia",
+          "Jill Langlois"
+        ],
+        "réponse": "Augustin Lizarraga",
+        "anecdote": "Augustin Lizarraga, di Cuzco, arrivò in città il 14 luglio 1902 guidando Gabino Sanchez, Enrique Palma e Justo Ochoa."
+      },
+      {
+        "id": 30,
+        "question": "Quale ponte controlla l'accesso a Machu Picchu da ovest ?",
+        "propositions": [
+          "Ponte Inca",
+          "Ponte del Solstizio",
+          "Pont du Soleil",
+          "Temple Bridge"
+        ],
+        "réponse": "Ponte Inca",
+        "anecdote": "L'accesso al sito di Machu Picchu è rigorosamente controllato per limitare i danni e le deviazioni del turismo di massa."
+      }
+    ]
+    },
+    "nl": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "De stad Machu Picchu verenigt de berg Huayna Picchu met welke andere berg ?",
+        "propositions": [
+          "Machu Picchu",
+          "Huaca Rajada",
+          "Cota Coca",
+          "Toro Muerto"
+        ],
+        "réponse": "Machu Picchu",
+        "anecdote": "De top van Huayna Picchu stijgt tot 2720 meter boven zeeniveau en torent ongeveer 360 meter boven de oude Inca-site uit."
+      },
+      {
+        "id": 2,
+        "question": "Welk rijk werd tijdens de ineenstorting van Machu Picchu verlaten ?",
+        "propositions": [
+          "Iroquois",
+          "Azteekse",
+          "Inca",
+          "Zeerover"
+        ],
+        "réponse": "Inca",
+        "anecdote": "Machu Picchu, de heilige stad die eeuwenlang is vergeten, wordt beschouwd als een meesterwerk van de Inca-architectuur."
+      },
+      {
+        "id": 3,
+        "question": "Aan de grens van welk bos staat Machu Picchu ?",
+        "propositions": [
+          "Atlantische",
+          "Amazone",
+          "Door Gola",
+          "Boreaal"
+        ],
+        "réponse": "Amazone",
+        "anecdote": "Met een oppervlakte van 5.500.000 km2, bijna tien keer zo groot als Frankrijk, is het het grootste tropische bos ter wereld."
+      },
+      {
+        "id": 4,
+        "question": "De bergbewoners van welke regio bevolkten de regio Machu Picchu ?",
+        "propositions": [
+          "Jumana",
+          "Chavin",
+          "Lima",
+          "Cuzco"
+        ],
+        "réponse": "Cuzco",
+        "anecdote": "Cuzco, van gemiddelde grootte, was de hoofdstad van de Inca's en was lange tijd een kruispunt op de transandijnse economische as."
+      },
+      {
+        "id": 5,
+        "question": "Welke constructies vormen het landbouwgebied van Machu Picchu ?",
+        "propositions": [
+          "Mulch",
+          "Brandwonden",
+          "Terrassen",
+          "Mouldboards"
+        ],
+        "réponse": "Terrassen",
+        "anecdote": "Andere kleinere terrassen zijn te vinden in het onderste deel van Machu Picchu, overal in de stad."
+      },
+      {
+        "id": 6,
+        "question": "De vorm van welk dier kunnen we associëren met de site van Machu Picchu ?",
+        "propositions": [
+          "Dolfijn",
+          "Slang",
+          "Beer",
+          "Condor"
+        ],
+        "réponse": "Condor",
+        "anecdote": "Soms wordt toegegeven dat de Inca's hun steden de vorm van heilige dieren gaven (poema, condor, ...)."
+      },
+      {
+        "id": 7,
+        "question": "Hoeveel wegen bedienen Aguas Calientes, in de buurt van Machu Picchu ?",
+        "propositions": [
+          "Geen",
+          "Nieuw",
+          "Zes",
+          "Drie"
+        ],
+        "réponse": "Geen",
+        "anecdote": "Bezoekers moeten vanaf Ollantaytambo lopen of de spoorlijn gebruiken die het dorp doorkruist."
+      },
+      {
+        "id": 8,
+        "question": "In welke eeuw is de stad Machu Picchu ontstaan ?",
+        "propositions": [
+          "13e eeuw",
+          "11e eeuw",
+          "16e eeuw",
+          "6e eeuw"
+        ],
+        "réponse": "11e eeuw",
+        "anecdote": "De stad Machu Picchu, gelegen op een rotsachtig voorgebergte, verenigt de Machu Picchu en Huayna Picchu-bergen."
+      },
+      {
+        "id": 9,
+        "question": "Welke wandelroute wordt het meest gebruikt om Machu Picchu te bereiken ?",
+        "propositions": [
+          "Inca Trail",
+          "Way of the Wind",
+          "Chemin du Temple",
+          "Chemin des Sources"
+        ],
+        "réponse": "Inca Trail",
+        "anecdote": "De Inca-route is onderhevig aan strikte toeristische controle en kan alleen worden afgelegd met een reisbureau."
+      },
+      {
+        "id": 10,
+        "question": "Tussen welke maanden is de regen vaak overvloedig in Machu Picchu ?",
+        "propositions": [
+          "Januari en mei",
+          "November en maart",
+          "Juli en december",
+          "April en september"
+        ],
+        "réponse": "November en maart",
+        "anecdote": "De regens zijn er in overvloed (ongeveer 1.955 millimeter per jaar) en deze vaak hevige neerslag wordt afgewisseld met felle buien."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Hoe wordt het woord machu vertaald in de Quechua-taal ?",
+        "propositions": [
+          "Oud",
+          "Rock",
+          "Top",
+          "Berg"
+        ],
+        "réponse": "Oud",
+        "anecdote": "Quechua is een talenfamilie die in Peru wordt gesproken (4 miljoen sprekers), waar het sinds 1975 de status heeft van een officiële taal."
+      },
+      {
+        "id": 12,
+        "question": "Welke Amerikaanse archeoloog heeft de heilige stad Machu Picchu onthuld ?",
+        "propositions": [
+          "Paul Walle",
+          "Julius Popper",
+          "Jimmy Angel",
+          "Hiram Bingham"
+        ],
+        "réponse": "Hiram Bingham",
+        "anecdote": "Hoewel hij als archeoloog werd beschouwd, gaf hij toch de voorkeur aan de term ontdekkingsreiziger en stond hij erop als zodanig te worden beschreven in « Wie is wie »."
+      },
+      {
+        "id": 13,
+        "question": "Welk jaar staat Machu Picchu op de UNESCO-lijst ?",
+        "propositions": [
+          "1983",
+          "1943",
+          "1963",
+          "1923"
+        ],
+        "réponse": "1983",
+        "anecdote": "Unesco zet haar actie voort via vijf grote programma's : onderwijs, wetenschap, cultuur, communicatie en informatie."
+      },
+      {
+        "id": 14,
+        "question": "Hoeveel constructies vormen de Machu Picchu-site als geheel ?",
+        "propositions": [
+          "139",
+          "118",
+          "157",
+          "172"
+        ],
+        "réponse": "172",
+        "anecdote": "De 172 constructies die Machu Picchu vormen, strekken zich uit over ongeveer 530 meter lang en 200 meter breed."
+      },
+      {
+        "id": 15,
+        "question": "Onder het bewind van welke keizer werd de stad Machu Picchu gebouwd ?",
+        "propositions": [
+          "Lloque Yupanqui",
+          "Atahualpa",
+          "Pachacutec",
+          "Viracocha"
+        ],
+        "réponse": "Pachacutec",
+        "anecdote": "Toen Pachacutec stierf, en volgens de koninklijke Inca-gebruiken, ging Machu Picchu over naar zijn « panaca » (rechtbank, clan, uitgebreide klantenkring)."
+      },
+      {
+        "id": 16,
+        "question": "Hoeveel toeristen bezochten Machu Picchu in 2004 ?",
+        "propositions": [
+          "300.000",
+          "100.000",
+          "400.000",
+          "200.000"
+        ],
+        "réponse": "400.000",
+        "anecdote": "De afgelegen ligging en de moeilijkheid van toegang tot de site leggen hun eigen natuurlijke grenzen op aan de uitbreiding van het toerisme."
+      },
+      {
+        "id": 17,
+        "question": "In hoeveel grote gebieden is de stad Machu Picchu verdeeld ?",
+        "propositions": [
+          "Acht",
+          "Vier",
+          "Zes",
+          "Twee"
+        ],
+        "réponse": "Twee",
+        "anecdote": "Het landbouwgebied, gevormd door grasterrassen op het zuiden, stond los van het stedelijk gebied waarin de bewoners woonden."
+      },
+      {
+        "id": 18,
+        "question": "Hoe lang scheidt de muur de stad van het landbouwgebied van Machu Picchu ?",
+        "propositions": [
+          "800 meter",
+          "600 meter",
+          "200 meter",
+          "400 meter"
+        ],
+        "réponse": "400 meter",
+        "anecdote": "Het stedelijk gebied is door archeologen opgedeeld in groepen gebouwen van 1 tot 18."
+      },
+      {
+        "id": 19,
+        "question": "Wie is er voornamelijk toegewijd aan het heilige gebied van Machu Picchu ?",
+        "propositions": [
+          "Coca",
+          "Quilla",
+          "Ocllo",
+          "Inti"
+        ],
+        "réponse": "Inti",
+        "anecdote": "Inti, de zonnegod, is de belangrijkste godheid van het Inca-pantheon, naar Huiracocha, de scheppingsgod."
+      },
+      {
+        "id": 20,
+        "question": "Hoeveel mensen konden de velden van Machu Picchu voeden ?",
+        "propositions": [
+          "10.000",
+          "7.000",
+          "4.000",
+          "1.000"
+        ],
+        "réponse": "10.000",
+        "anecdote": "De stad werd gevoed door deze terrasgewassen, waardoor maïs, aardappelen en diverse groenten konden worden geoogst."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Wat is het UNESCO-werelderfgoed Machu Picchu-identificatienummer ?",
+        "propositions": [
+          "127",
+          "346",
+          "274",
+          "437"
+        ],
+        "réponse": "274",
+        "anecdote": "Werelderfgoed duidt een reeks eigenschappen aan die van uitzonderlijk belang zijn voor het gemeenschappelijke erfgoed van de mensheid."
+      },
+      {
+        "id": 22,
+        "question": "Wat is het gebied van het historische heiligdom van Machu Picchu ?",
+        "propositions": [
+          "225 km²",
+          "25 km²",
+          "325 km²",
+          "125 km²"
+        ],
+        "réponse": "325 km²",
+        "anecdote": "Machu Picchu maakt deel uit van een heel cultureel en natuurlijk ensemble dat bekend staat als het historische heiligdom van Machu Picchu."
+      },
+      {
+        "id": 23,
+        "question": "Op welke hoogte ligt Machu Picchu over de bergkam tussen twee pieken ?",
+        "propositions": [
+          "2.738 meter",
+          "1.738 meter",
+          "2.438 meter",
+          "2.138 meter"
+        ],
+        "réponse": "2.438 meter",
+        "anecdote": "Vanuit bepaalde hoeken is het mogelijk om je het profiel voor te stellen van een menselijk gezicht dat omhoog kijkt naar de lucht, waarvan de Huayna Picchu de neus zou zijn."
+      },
+      {
+        "id": 24,
+        "question": "Welke rivier stroomt aan beide kanten van de stad Machu Picchu ?",
+        "propositions": [
+          "Envira",
+          "Branco",
+          "Pastaza",
+          "Urubamba"
+        ],
+        "réponse": "Urubamba",
+        "anecdote": "Rond de Huayna Picchu beschrijft deze belangrijke rivier in Peru een grote boog onder een klif van 600 meter hoog."
+      },
+      {
+        "id": 25,
+        "question": "Wat is het dichtstbijzijnde dorp bij Machu Picchu, 400 meter lager ?",
+        "propositions": [
+          "Huacachina",
+          "Urcos",
+          "Charcana",
+          "Aguas Calientes"
+        ],
+        "réponse": "Aguas Calientes",
+        "anecdote": "Vanuit het dorp Aguas Calientes neemt een busdienst regelmatig de Hiram Bingham-route naar Machu Picchu."
+      },
+      {
+        "id": 26,
+        "question": "Welke kegelvormige toren van Machu Picchu staat in de adellijke wijk ?",
+        "propositions": [
+          "Arequipa",
+          "Torréon",
+          "Pisac",
+          "Cajamarca"
+        ],
+        "réponse": "Torréon",
+        "anecdote": "De Torréon is gebouwd op een grote rots waaronder een kleine holte, een mausoleum voor de mummies."
+      },
+      {
+        "id": 27,
+        "question": "Hoeveel skeletten zijn er gevonden in de buurt van de Torréon van Machu Picchu ?",
+        "propositions": [
+          "166",
+          "142",
+          "120",
+          "99"
+        ],
+        "réponse": "142",
+        "anecdote": "De meest voorkomende aanname is dat het geprezen zou worden, jonge meisjes opgeofferd om de aanbidding van de zon te vieren."
+      },
+      {
+        "id": 28,
+        "question": "Onderzoek naar welke stad Hiram Bingham Machu Picchu liet ontdekken ?",
+        "propositions": [
+          "Vicabamba",
+          "Tambomachay",
+          "Quenko",
+          "Yanaca"
+        ],
+        "réponse": "Vicabamba",
+        "anecdote": "Samen met zijn gidsen, sergeant Carrasco en de boer Melchor Arteaga, ging hij op 24 juli 1911 naar Machu Picchu."
+      },
+      {
+        "id": 29,
+        "question": "Wie zou Machu Picchu in 1894 vóór Hiram Bingham hebben bezocht ?",
+        "propositions": [
+          "Augustin Lizarraga",
+          "Alfredo Valencia",
+          "Jill Langlois",
+          "Luis Valcarel"
+        ],
+        "réponse": "Augustin Lizarraga",
+        "anecdote": "Augustin Lizarraga, oorspronkelijk uit Cuzco, arriveerde op 14 juli 1902 in de stad en leidde Gabino Sanchez, Enrique Palma en Justo Ochoa."
+      },
+      {
+        "id": 30,
+        "question": "Welke brug regelt de toegang tot Machu Picchu vanuit het westen ?",
+        "propositions": [
+          "Incabrug",
+          "Tempelbrug",
+          "Zonnewende brug",
+          "Pont du Soleil"
+        ],
+        "réponse": "Incabrug",
+        "anecdote": "Toegang tot de Machu Picchu-site wordt strikt gecontroleerd om de schade en omleidingen van het massatoerisme te beperken."
+      }
+    ]
+    }
+  }
+}

@@ -1,6 +1,10 @@
 import ScoreBoard from '../modele/ScoreBoard';
 import mongoose from 'mongoose';
 
+const defineScore = ({name, question, answer, difficulty}) => {
+    
+}
+
 const getScore = async (req, res) => {
     const getAllScore = await ScoreBoard.find().sort({score: -1})
     return !getAllScore ? res.status(500).json({error: 'cannot get All score did you fetch the table ?'})

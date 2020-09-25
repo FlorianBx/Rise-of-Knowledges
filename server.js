@@ -22,7 +22,9 @@ app.use(cookieParser());
 
 import {login, register} from './api/routes/users';
 import getAllData from './database/create_quizz';
+import datasToLeaderBoard from './database/insertFakeDataToLeaderBoard';
 import getQuizz from './api/routes/quizz';
+import getLeaderBoard from './api/routes/leaderBoard';
 
 // require dotenv to use env variable
 
@@ -36,8 +38,12 @@ require('./database/config.js');
 
 app.post('/login', login);
 app.post('/register', register);
+//getting data
 app.get('/getAllData', getAllData);
+app.get('/leaderboardFakeData', datasToLeaderBoard)
+
 app.get('/getQuizz/:lang', getQuizz);
+app.get('/getLeaderBoard', getLeaderBoard);
 
 app.get('/', (req, res) => {
     // route de test

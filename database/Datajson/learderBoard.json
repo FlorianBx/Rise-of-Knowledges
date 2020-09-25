@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "name": "John",
+            "score": 60
+        },
+        {
+            "name": "Jane",
+            "score": 120
+        },
+        {
+            "name": "Laura",
+            "score": 70
+        },
+        {
+            "name": "Julio",
+            "score": 40
+        },
+        {
+            "name": "Lisa",
+            "score": 200
+        },
+        {
+            "name": "Albert",
+            "score": 60
+        },
+        {
+            "name": "Aalbert",
+            "score": 90
+        },
+        {
+            "name": "Livia",
+            "score": 50
+        }
+    ]
+}

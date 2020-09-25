@@ -1,0 +1,2216 @@
+{                                     
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Vins d'ailleurs (Promenade au détour des vignobles)",         
+  "difficulté": "5 / 5",
+  "quizz": {
+    "fr": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Preignac, Barsac et Bommes sont des communes de quelle région viticole française ?",
+        "propositions": [
+          "Libournais",
+          "Sauternais",
+          "Graves",
+          "Médoc"
+        ],
+        "réponse": "Sauternais",
+        "anecdote": "Toutes situées sur la rive gauche de la Garonne, ces communes font partie des cinq privilégiés ayant droit à l'appellation Sauternes."
+      },
+      {
+        "id": 2,
+        "question": "Quelle île de Grèce produit un muscat bien connu des amateurs de vins ?",
+        "propositions": [
+          "Fourni",
+          "Samos",
+          "Lesbos",
+          "Ikaria"
+        ],
+        "réponse": "Samos",
+        "anecdote": "Les vendanges commencent à la mi-août, au niveau de la mer, et se poursuivent fin octobre dans les régions montagneuses."
+      },
+      {
+        "id": 3,
+        "question": "Dans quelle région naturelle française est situé le Château Latour Premier Cru ?",
+        "propositions": [
+          "Médoc",
+          "Graves",
+          "Fronsac",
+          "Libournais"
+        ],
+        "réponse": "Médoc",
+        "anecdote": "Château Latour est devenu en 1993 la copropriété de la holding Artémis de François Pinault, qui détient 149 parts sur 155."
+      },
+      {
+        "id": 4,
+        "question": "Dans quelle région est produit le Monbazillac, vin blanc liquoreux sous AOC ?",
+        "propositions": [
+          "Tarn",
+          "Bergerac",
+          "Béarn",
+          "Champagne"
+        ],
+        "réponse": "Bergerac",
+        "anecdote": "De couleur paille, liquoreux ou moelleux, riches en glycérol et autres corps sucrés, les monbazillacs sont puissants et corsés."
+      },
+      {
+        "id": 5,
+        "question": "De quel pays assez riche en soleil provient le muscat de Patras ?",
+        "propositions": [
+          "Chypre",
+          "Espagne",
+          "Grèce",
+          "Turquie"
+        ],
+        "réponse": "Grèce",
+        "anecdote": "Les premiers vins grecs ont été datés de 6 500 ans, leur élaboration correspondant aux besoins de familles ou communautés."
+      },
+      {
+        "id": 6,
+        "question": "Lequel des ces pays d'Amérique latine est à ce jour le seul producteur de vins ?",
+        "propositions": [
+          "Guyane française",
+          "Pérou",
+          "Équateur",
+          "Paraguay"
+        ],
+        "réponse": "Pérou",
+        "anecdote": "Le Pérou est en pleine transition viticole, avec la cohabitation d'une production artisanale irrégulière qui réserve des surprises."
+      },
+      {
+        "id": 7,
+        "question": "Les vignobles de la Clairette de Die s'étendent le long de quelle rivière ?",
+        "propositions": [
+          "Ardèche",
+          "Vienne",
+          "Isère",
+          "Drôme"
+        ],
+        "réponse": "Drôme",
+        "anecdote": "Le sol argilo-crayeux a la particularité de conserver les eaux de pluie pour maintenir un approvisionnement hydrique constant."
+      },
+      {
+        "id": 8,
+        "question": "Lequel de ces vins fait sans conteste partie des Côtes du Rhône ?",
+        "propositions": [
+          "Vacqueyras",
+          "Faugères",
+          "Saint Chinian",
+          "Fitou"
+        ],
+        "réponse": "Vacqueyras",
+        "anecdote": "Le vacqueyras rouge est recommandé dans l'accompagnement des viandes rouges, du gibier et des fromages de caractère."
+      },
+      {
+        "id": 9,
+        "question": "Le Valpolicella est un vin sec de quelle région du nord-est de l'Italie ?",
+        "propositions": [
+          "Piémont",
+          "Campanie",
+          "Toscane",
+          "Vénétie"
+        ],
+        "réponse": "Vénétie",
+        "anecdote": "Similaire au Bardolino, les caractéristiques essentielles du Valpolicella sont un taux d'alcool modéré et une acidité moyenne."
+      },
+      {
+        "id": 10,
+        "question": "Le Mercurey est un Bourgogne viticole de quelle région ?",
+        "propositions": [
+          "Châblis",
+          "Montceau",
+          "Mâcon",
+          "Chalon"
+        ],
+        "réponse": "Chalon",
+        "anecdote": "La superficie de production comprend 650 hectares de vignes, avec 580 hectares de vins rouges et 75 hectares de vins blancs."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Le Palette est un vin d'appellation d'origine contrôlée en provenance de quel pays ?",
+        "propositions": [
+          "Italie",
+          "Portugal",
+          "France",
+          "Allemagne"
+        ],
+        "réponse": "France",
+        "anecdote": "Le rouge, qui possède une grande aptitude au vieillissement, est traditionnellement conseillé sur du gibier et de la venaison."
+      },
+      {
+        "id": 12,
+        "question": "Dans quelle ville se situe la Cité du Vin inaugurée en France en 2016 ?",
+        "propositions": [
+          "Calais",
+          "Paris",
+          "Reims",
+          "Bordeaux"
+        ],
+        "réponse": "Bordeaux",
+        "anecdote": "La Cité du Vin est accessible par le tramway, par la rocade, par le pont Chaban-Delmas et par les lignes 7 et 32 du réseau TBM."
+      },
+      {
+        "id": 13,
+        "question": "Le Vignoble de Franconie, qui s'étend sur plus de 6000 ha, est associé à quel pays ?",
+        "propositions": [
+          "Italie",
+          "Allemagne",
+          "Afrique du Sud",
+          "Suisse"
+        ],
+        "réponse": "Allemagne",
+        "anecdote": "Avec plus 6 000 hectares recensés en 2008, le Vignoble de Franconie fait partie des vignobles de taille moyenne en Allemagne."
+      },
+      {
+        "id": 14,
+        "question": "Le Soave est un vin blanc de couleur jaune paille clair qui possède quelle nationalité ?",
+        "propositions": [
+          "Italienne",
+          "Yougoslave",
+          "Suisse",
+          "Grecque"
+        ],
+        "réponse": "Italienne",
+        "anecdote": "Dotée d'une appellation DOC depuis 1968, la zone de production se situe au nord de l'autoroute qui relie Vérone et Venise."
+      },
+      {
+        "id": 15,
+        "question": "Quel est le principal cépage qui produit les vins de Cahors ?",
+        "propositions": [
+          "Cabernet",
+          "Riesling",
+          "Malbec",
+          "Merlot"
+        ],
+        "réponse": "Malbec",
+        "anecdote": "Depuis 2007, le marché du malbec vise à se développer dans le reste du monde grâce au concept Cahors Malbec."
+      },
+      {
+        "id": 16,
+        "question": "La Saône est une rivière qui arrose les vignobles de quelle région ?",
+        "propositions": [
+          "Châblis",
+          "Beaujolais",
+          "Provence",
+          "Bourgogne"
+        ],
+        "réponse": "Beaujolais",
+        "anecdote": "Les vins de l'appellation beaujolais peuvent être produits par toutes les communes du vignoble du Beaujolais."
+      },
+      {
+        "id": 17,
+        "question": "Quel pays du continent européen produit l'excellent vin blanc baptisé Aphrodite ?",
+        "propositions": [
+          "France",
+          "Grèce",
+          "Espagne",
+          "Chypre"
+        ],
+        "réponse": "Chypre",
+        "anecdote": "Le vin produit sur l'île entra très tôt dans la mythologie grâce à Aphrodite, native de Chypre, et à Dionysos, dieu du vin."
+      },
+      {
+        "id": 18,
+        "question": "Sur les collines de quelle région de France produit-on le pacherenc-du-vic-bilh ?",
+        "propositions": [
+          "Bretagne",
+          "Pyrénées",
+          "Auvergne",
+          "Alsace"
+        ],
+        "réponse": "Pyrénées",
+        "anecdote": "Le nom très ancien de l'appellation vient du gascon vin de vigne en échalas de la région gasconne du Vic-Bilh."
+      },
+      {
+        "id": 19,
+        "question": "Le Vaduzer est un vin rouge léger produit depuis l'époque romaine...",
+        "propositions": [
+          "Au Liechtenstein",
+          "En Autriche",
+          "Dans le Jura",
+          "En Bohême"
+        ],
+        "réponse": "Au Liechtenstein",
+        "anecdote": "Au Liechtenstein, qui est la plus petite région viticole au monde, on peut déguster d'excellents vins, parmi lesquels le Vaduzer."
+      },
+      {
+        "id": 20,
+        "question": "Le Marignan, sans lien apparent avec la bataille, est un cru de quelle région de France ?",
+        "propositions": [
+          "Jura",
+          "Béarn",
+          "Tarn",
+          "Savoie"
+        ],
+        "réponse": "Savoie",
+        "anecdote": "Situé au pied des pentes du mont de Boisy, le vignoble remonte à la création de l'abbaye de Filly fondée en 930."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "La liqueur Izarra est originaire de quelle région d'Europe ?",
+        "propositions": [
+          "Caucase",
+          "Pays Basque",
+          "Eurasie",
+          "Balkans"
+        ],
+        "réponse": "Pays Basque",
+        "anecdote": "L'Izarra, qui signifie l'étoile en basque, est une marque de liqueur créée en 1906 à Hendaye par le botaniste Joseph Grattau."
+      },
+      {
+        "id": 22,
+        "question": "Le rosé des Riceys est un vin AOC en provenance de quel vignoble ?",
+        "propositions": [
+          "Loire",
+          "Champagne",
+          "Bordeaux",
+          "Alsace"
+        ],
+        "réponse": "Champagne",
+        "anecdote": "Le seul cépage autorisé pour le rosé est le pinot noir, les deux autres cépages entrant dans l'élaboration du champagne."
+      },
+      {
+        "id": 23,
+        "question": "Quel est le cépage de cuve blanc le plus répandu en Allemagne ?",
+        "propositions": [
+          "Sylvaner",
+          "Riesling",
+          "Mauzac",
+          "Müller-thurgau"
+        ],
+        "réponse": "Müller-thurgau",
+        "anecdote": "Avec 24 % de la superficie totale, le müller-thurgau a longtemps été considéré comme un croisement des cépages riesling et sylvaner."
+      },
+      {
+        "id": 24,
+        "question": "Lequel de ces pays ne produit pas de Gewürztraminer ?",
+        "propositions": [
+          "Australie",
+          "Nouvelle-Zélande",
+          "Italie",
+          "Grèce"
+        ],
+        "réponse": "Grèce",
+        "anecdote": "Sensible à la chlorose et au dessèchement de la rafle, le Gewürztraminer résiste assez bien au froid hivernal."
+      },
+      {
+        "id": 25,
+        "question": "Quel cépage est le plus fréquent dans la Moselle et le Rheingau allemands ?",
+        "propositions": [
+          "Traminer",
+          "Sylvaner",
+          "Riesling",
+          "Ruländer"
+        ],
+        "réponse": "Riesling",
+        "anecdote": "Le riesling est un cépage en expansion qui doit sa faveur croissante auprès du public à un éventail de vins large et de qualité."
+      },
+      {
+        "id": 26,
+        "question": "Quel est le cépage blanc italien le plus utilisé en Charente ?",
+        "propositions": [
+          "Ugni blanc",
+          "Colombard",
+          "Folle-blanche",
+          "Savagnin"
+        ],
+        "réponse": "Ugni blanc",
+        "anecdote": "Il est cultivé dans la zone méditerranéenne, donnant la trame des vins de table blancs, en assemblage avec un vin plus aromatique."
+      },
+      {
+        "id": 27,
+        "question": "Quel village viticole de Bourgogne est aussi connu pour son eau que pour son vin ?",
+        "propositions": [
+          "Santenay",
+          "Saint-Aubin",
+          "Monthélie",
+          "Volnay"
+        ],
+        "réponse": "Santenay",
+        "anecdote": "On soigne presque tout à Santenay : le diabète, la goutte ou l'arthrose, et ce principalement grâce aux eaux thermales."
+      },
+      {
+        "id": 28,
+        "question": "Le Crépy est un vin blanc sec de quelle région de France ?",
+        "propositions": [
+          "Vendée",
+          "Alsace",
+          "Roussillon",
+          "Savoie"
+        ],
+        "réponse": "Savoie",
+        "anecdote": "Sur ce vignoble qui couvre 35 hectares et produit 825 hectolitres, le rendement est très bas puisqu'il plafonne à 23,6 hl/ha."
+      },
+      {
+        "id": 29,
+        "question": "Un des cépages cultivés dans l'Orégon porte le nom de quel Maréchal de France ?",
+        "propositions": [
+          "Pétain",
+          "Fayolle",
+          "Foch",
+          "Joffre"
+        ],
+        "réponse": "Foch",
+        "anecdote": "Des plantations sont connues au Canada (Québec) et aux États-Unis (Orégon), alors qu'en France, il en reste très peu."
+      },
+      {
+        "id": 30,
+        "question": "Dans quel pays fut découverte l'une des plus anciennes traces de vinification ?",
+        "propositions": [
+          "Géorgie",
+          "Syrie",
+          "Yémen",
+          "Irak"
+        ],
+        "réponse": "Géorgie",
+        "anecdote": "C'est sur le site néolithique de Shulaveri que des ceps et des grains desséchés datés des environs de -6000 ont été retrouvés."
+      }
+    ]
+    },
+    "en": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Preignac, Barsac and Bommes are communes of which French wine region ?",
+        "propositions": [
+          "Sauternes",
+          "Graves",
+          "Libournais",
+          "Medec"
+        ],
+        "réponse": "Sauternes",
+        "anecdote": "All located on the left bank of the Garonne, these towns are among the five privileged people entitled to the Sauternes appellation."
+      },
+      {
+        "id": 2,
+        "question": "Which island of Greece produces a muscat well known to wine lovers ?",
+        "propositions": [
+          "Samos",
+          "Provided",
+          "Lesbos",
+          "Ikaria"
+        ],
+        "réponse": "Samos",
+        "anecdote": "The harvest begins in mid-August, at sea level, and continues at the end of October in the mountainous regions."
+      },
+      {
+        "id": 3,
+        "question": "In which French natural region is the Château Latour Premier Cru located ?",
+        "propositions": [
+          "Medoc",
+          "Graves",
+          "Fronsac",
+          "Libournais"
+        ],
+        "réponse": "Medoc",
+        "anecdote": "Château Latour became in 1993 the co-ownership of the holding Artémis de François Pinault, which holds 149 shares out of 155."
+      },
+      {
+        "id": 4,
+        "question": "In which region is Monbazillac, a sweet white wine produced under AOC, produced ?",
+        "propositions": [
+          "Bergerac",
+          "Béarn",
+          "Tarn",
+          "Champagne"
+        ],
+        "réponse": "Bergerac",
+        "anecdote": "Straw-colored, sweet or mellow, rich in glycerol and other sweet bodies, monbazillacs are powerful and full-bodied."
+      },
+      {
+        "id": 5,
+        "question": "From which country rich enough in sunshine does the Muscat of Patras come from ?",
+        "propositions": [
+          "Greece",
+          "Turkey",
+          "Spain",
+          "Cyprus"
+        ],
+        "réponse": "Greece",
+        "anecdote": "The first Greek wines were dated 6,500 years ago, their production corresponding to the needs of families or communities."
+      },
+      {
+        "id": 6,
+        "question": "Which of these Latin American countries is the only wine producer to date ?",
+        "propositions": [
+          "Paraguay",
+          "French Guiana",
+          "Ecuador",
+          "Perou"
+        ],
+        "réponse": "Perou",
+        "anecdote": "Peru is in the midst of a wine transition, with the coexistence of an irregular artisanal production which holds surprises."
+      },
+      {
+        "id": 7,
+        "question": "The Clairette de Die vineyards stretch along which river ?",
+        "propositions": [
+          "Isère",
+          "Drôme",
+          "Ardèche",
+          "Vienna"
+        ],
+        "réponse": "Drôme",
+        "anecdote": "The clay-chalky soil has the distinction of conserving rainwater to maintain a constant supply of water."
+      },
+      {
+        "id": 8,
+        "question": "Which of these wines is undoubtedly part of the Côtes du Rhône ?",
+        "propositions": [
+          "Vacqueyras",
+          "Saint Chinian",
+          "Faugères",
+          "Fitou"
+        ],
+        "réponse": "Vacqueyras",
+        "anecdote": "The red vacqueyras is recommended in the accompaniment of red meats, game and character cheeses."
+      },
+      {
+        "id": 9,
+        "question": "Valpolicella is a dry wine from which region in north-eastern Italy ?",
+        "propositions": [
+          "Campania",
+          "Venetian",
+          "Piémont",
+          "Tuscany"
+        ],
+        "réponse": "Venetian",
+        "anecdote": "Similar to Bardolino, the essential characteristics of Valpolicella are a moderate alcohol content and average acidity."
+      },
+      {
+        "id": 10,
+        "question": "Mercurey is a wine Burgundy from which region ?",
+        "propositions": [
+          "Mâcon",
+          "Châblis",
+          "Montceau",
+          "Chalon"
+        ],
+        "réponse": "Chalon",
+        "anecdote": "The production area includes 650 hectares of vines, with 580 hectares of red wine and 75 hectares of white wine."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Le Palette is a controlled designation of origin wine from which country ?",
+        "propositions": [
+          "Italy",
+          "France",
+          "Germany",
+          "Portugal"
+        ],
+        "réponse": "France",
+        "anecdote": "The red, which has a great aptitude for aging, is traditionally advised on game and venison."
+      },
+      {
+        "id": 12,
+        "question": "In which city is the Cité du Vin inaugurated in France in 2016 ?",
+        "propositions": [
+          "Bordeaux",
+          "Paris",
+          "Calais",
+          "Reims"
+        ],
+        "réponse": "Bordeaux",
+        "anecdote": "The Cité du Vin is accessible by tram, by laocade, by the Chaban-Delmas bridge and by lines 7 and 32 of the TBM network."
+      },
+      {
+        "id": 13,
+        "question": "The Franconian vineyard, which stretches over 6000 ha, is associated with which country ?",
+        "propositions": [
+          "Italy",
+          "Germany",
+          "South Africa",
+          "Switzerland"
+        ],
+        "réponse": "Germany",
+        "anecdote": "With over 6,000 hectares listed in 2008, the Franconian Vineyard is one of the medium-sized vineyards in Germany."
+      },
+      {
+        "id": 14,
+        "question": "Soave is a white wine with a pale straw yellow color which has what nationality ?",
+        "propositions": [
+          "Switzerland",
+          "Yugoslavian",
+          "Greek",
+          "Italian"
+        ],
+        "réponse": "Italian",
+        "anecdote": "With a DOC appellation since 1968, the production area is located north of the motorway that links Verona and Venice."
+      },
+      {
+        "id": 15,
+        "question": "What is the main grape variety that produces Cahors wines ?",
+        "propositions": [
+          "Merlot",
+          "Malbec",
+          "Riesling",
+          "Cabernet"
+        ],
+        "réponse": "Malbec",
+        "anecdote": "Since 2007, the malbec market has aimed to develop in the rest of the world thanks to the Cahors Malbec concept."
+      },
+      {
+        "id": 16,
+        "question": "The Saône is a river which waters the vineyards of which region ?",
+        "propositions": [
+          "Beaujolais",
+          "Provence",
+          "Burgundy",
+          "Châblis"
+        ],
+        "réponse": "Beaujolais",
+        "anecdote": "The wines of the Beaujolais appellation can be produced by all the municipalities of the Beaujolais vineyard."
+      },
+      {
+        "id": 17,
+        "question": "Which country on the European continent produces the excellent white wine called Aphrodite ?",
+        "propositions": [
+          "Spain",
+          "Cyprus",
+          "Greece",
+          "France"
+        ],
+        "réponse": "Cyprus",
+        "anecdote": "The wine produced on the island entered mythology very early thanks to Aphrodite, a native of Cyprus, and Dionysus, god of wine."
+      },
+      {
+        "id": 18,
+        "question": "On the hills of which region of France is pacherenc-du-vic-bilh produced ?",
+        "propositions": [
+          "Brittany",
+          "Alsace",
+          "Pyrenees",
+          "Auvergne"
+        ],
+        "réponse": "Pyrenees",
+        "anecdote": "The very old name of the appellation comes from the Gascon vine wine in stems from the Vic-Bilh region of Gascony."
+      },
+      {
+        "id": 19,
+        "question": "Vaduzer is a light red wine produced since Roman times ...",
+        "propositions": [
+          "In the Jura",
+          "In Liechtenstein",
+          "In Austria",
+          "In Bohemia"
+        ],
+        "réponse": "In Liechtenstein",
+        "anecdote": "In Liechtenstein, which is the smallest wine region in the world, you can taste excellent wines, including Vaduzer."
+      },
+      {
+        "id": 20,
+        "question": "The Marignan, with no apparent link to the battle, is a vintage from which region of France ?",
+        "propositions": [
+          "Tarn",
+          "Savoy",
+          "Jura",
+          "Béarn"
+        ],
+        "réponse": "Savoy",
+        "anecdote": "Located at the foot of the slopes of Mont de Boisy, the vineyard dates back to the creation of the Abbey of Filly founded in 930."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Izarra liqueur is from which region of Europe ?",
+        "propositions": [
+          "Caucasus",
+          "Eurasia",
+          "Balkans",
+          "Basque Country"
+        ],
+        "réponse": "Basque Country",
+        "anecdote": "Izarra, which means the star in Basque, is a brand of liqueur created in 1906 in Hendaye by botanist Joseph Grattau."
+      },
+      {
+        "id": 22,
+        "question": "The rosé des Riceys is an AOC wine from which vineyard ?",
+        "propositions": [
+          "Alsace",
+          "Bordeaux",
+          "Champagne",
+          "Loire"
+        ],
+        "réponse": "Champagne",
+        "anecdote": "The only authorized varietal for rosé is pinot noir, the two other varietals used in the production of champagne."
+      },
+      {
+        "id": 23,
+        "question": "What is the most common white wine grape variety in Germany ?",
+        "propositions": [
+          "Sylvaner",
+          "Mauzac",
+          "Riesling",
+          "Müller-thurgau"
+        ],
+        "réponse": "Müller-thurgau",
+        "anecdote": "With 24 % of the total area, müller-thurgau has long been considered as a cross between the Riesling and Sylvaner grape varieties."
+      },
+      {
+        "id": 24,
+        "question": "Which of these countries does not produce Gewürztraminer ?",
+        "propositions": [
+          "Greece",
+          "New Zealand",
+          "Australia",
+          "Italy"
+        ],
+        "réponse": "Greece",
+        "anecdote": "Sensitive to chlorosis and drying out of the stalk, Gewürztraminer withstands winter cold quite well."
+      },
+      {
+        "id": 25,
+        "question": "Which grape is the most common in the German Moselle and Rheingau ?",
+        "propositions": [
+          "Ruländer",
+          "Traminer",
+          "Sylvaner",
+          "Riesling"
+        ],
+        "réponse": "Riesling",
+        "anecdote": "Riesling is an expanding varietal which owes its growing favor to the public thanks to a wide range of quality wines."
+      },
+      {
+        "id": 26,
+        "question": "What is the most used Italian white grape in Charente ?",
+        "propositions": [
+          "Ugni white",
+          "Savagnin",
+          "Mad White",
+          "Colombard"
+        ],
+        "réponse": "Ugni white",
+        "anecdote": "It is cultivated in the Mediterranean area, giving the structure of white table wines, blended with a more aromatic wine."
+      },
+      {
+        "id": 27,
+        "question": "Which Burgundy wine village is as famous for its water as it is for its wine ?",
+        "propositions": [
+          "Volnay",
+          "Monthélie",
+          "Saint-Aubin",
+          "Santenay"
+        ],
+        "réponse": "Santenay",
+        "anecdote": "We treat almost everything in Santenay : diabetes, gout or osteoarthritis, mainly thanks to thermal waters."
+      },
+      {
+        "id": 28,
+        "question": "Crépy is a dry white wine from which region of France ?",
+        "propositions": [
+          "Alsace",
+          "Savoy",
+          "Vendée",
+          "Roussillon"
+        ],
+        "réponse": "Savoy",
+        "anecdote": "On this vineyard which covers 35 hectares and produces 825 hectoliters, the yield is very low since it peaks at 23."
+      },
+      {
+        "id": 29,
+        "question": "One of the grape varieties grown in Oregon bears the name of which Marshal of France ?",
+        "propositions": [
+          "Pétain",
+          "Joffre",
+          "Fayolle",
+          "Foch"
+        ],
+        "réponse": "Foch",
+        "anecdote": "Plantations are known in Canada (Quebec) and the United States (Orégon), while in France, there are very few."
+      },
+      {
+        "id": 30,
+        "question": "In which country was one of the oldest traces of winemaking discovered ?",
+        "propositions": [
+          "Iraq",
+          "Syria",
+          "Yémen",
+          "Georgia"
+        ],
+        "réponse": "Georgia",
+        "anecdote": "It is on the Neolithic site of Shulaveri that dried vines and grains dating from around -6000 were found."
+      }
+    ]
+    },
+    "de": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Preignac, Barsac und Bommes sind Gemeinden welcher französischen Weinregion ?",
+        "propositions": [
+          "Libournais",
+          "Medec",
+          "Gräber",
+          "Sauternes"
+        ],
+        "réponse": "Sauternes",
+        "anecdote": "Diese Städte befinden sich alle am linken Ufer der Garonne und gehören zu den fünf privilegierten Personen, die Anspruch auf die Appellation Sauternes haben."
+      },
+      {
+        "id": 2,
+        "question": "Welche Insel Griechenlands produziert einen Muskateller, der Weinliebhabern bekannt ist ?",
+        "propositions": [
+          "Lesbos",
+          "Ikaria",
+          "Vorausgesetzt",
+          "Samos"
+        ],
+        "réponse": "Samos",
+        "anecdote": "Die Ernte beginnt Mitte August auf Meereshöhe und wird Ende Oktober in den Bergregionen fortgesetzt."
+      },
+      {
+        "id": 3,
+        "question": "In welcher französischen Naturregion befindet sich das Château Latour Premier Cru ?",
+        "propositions": [
+          "Graves",
+          "Fronsac",
+          "Medoc",
+          "Libournais"
+        ],
+        "réponse": "Medoc",
+        "anecdote": "Château Latour wurde 1993 Miteigentümer des Artholding von Artémis de François Pinault, das 149 von 155 Aktien hält."
+      },
+      {
+        "id": 4,
+        "question": "In welcher Region wird Monbazillac hergestellt, ein süßer Weißwein, der unter AOC hergestellt wird ?",
+        "propositions": [
+          "Béarn",
+          "Bergerac",
+          "Champagner",
+          "Tarn"
+        ],
+        "réponse": "Bergerac",
+        "anecdote": "Strohfarben, süß oder mild, reich an Glycerin und anderen süßen Körpern."
+      },
+      {
+        "id": 5,
+        "question": "Aus welchem Land, das reich genug an Sonnenschein ist, stammt der Maskat von Patras ?",
+        "propositions": [
+          "Spanien",
+          "Türkei",
+          "Zypern",
+          "Griechenland"
+        ],
+        "réponse": "Griechenland",
+        "anecdote": "Die ersten griechischen Weine wurden vor 6500 Jahren datiert, wobei ihre Produktion den Bedürfnissen von Familien oder Gemeinden entsprach."
+      },
+      {
+        "id": 6,
+        "question": "Welches dieser lateinamerikanischen Länder ist bislang der einzige Weinproduzent ?",
+        "propositions": [
+          "Perou",
+          "Ecuador",
+          "Paraguay",
+          "Französisch-Guayana"
+        ],
+        "réponse": "Perou",
+        "anecdote": "Peru befindet sich mitten in einem Weinübergang mit der Koexistenz einer unregelmäßigen handwerklichen Produktion, die Überraschungen birgt."
+      },
+      {
+        "id": 7,
+        "question": "Die Weinberge von Clairette de Die erstrecken sich entlang welchem Fluss ?",
+        "propositions": [
+          "Drôme",
+          "Isère",
+          "Ardèche",
+          "Wien"
+        ],
+        "réponse": "Drôme",
+        "anecdote": "Der ton-kalkhaltige Boden hat die Auszeichnung, Regenwasser zu sparen, um eine konstante Wasserversorgung aufrechtzuerhalten."
+      },
+      {
+        "id": 8,
+        "question": "Welcher dieser Weine gehört zweifellos zur Côtes du Rhône ?",
+        "propositions": [
+          "Vacqueyras",
+          "Faugères",
+          "Saint Chinian",
+          "Fitou"
+        ],
+        "réponse": "Vacqueyras",
+        "anecdote": "Die roten Vacqueyras werden zu rotem Fleisch, Wild- und Charakterkäse empfohlen."
+      },
+      {
+        "id": 9,
+        "question": "Valpolicella ist ein trockener Wein aus welcher Region im Nordosten Italiens ?",
+        "propositions": [
+          "Kampanien",
+          "Piémont",
+          "Toskana",
+          "Venezianisch"
+        ],
+        "réponse": "Venezianisch",
+        "anecdote": "Ähnlich wie bei Bardolino sind die wesentlichen Merkmale von Valpolicella ein mäßiger Alkoholgehalt und ein durchschnittlicher Säuregehalt."
+      },
+      {
+        "id": 10,
+        "question": "Mercurey ist ein Wein Burgunder aus welcher Region ?",
+        "propositions": [
+          "Chalon",
+          "Châblis",
+          "Mâcon",
+          "Montceau"
+        ],
+        "réponse": "Chalon",
+        "anecdote": "Die Produktionsfläche umfasst 650 Hektar Rebfläche, davon 580 Hektar Rotwein und 75 Hektar Weißwein."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Le Palette ist eine kontrollierte Herkunftsbezeichnung aus welchem Land ?",
+        "propositions": [
+          "Portugal",
+          "Italien",
+          "Deutschland",
+          "Frankreich"
+        ],
+        "réponse": "Frankreich",
+        "anecdote": "Das Rot, das eine große Neigung zum Altern hat, wird traditionell zu Wild und Wild empfohlen."
+      },
+      {
+        "id": 12,
+        "question": "In welcher Stadt wird die Cité du Vin 2016 in Frankreich eingeweiht ?",
+        "propositions": [
+          "Reims",
+          "Paris",
+          "Calais",
+          "Bordeaux"
+        ],
+        "réponse": "Bordeaux",
+        "anecdote": "Die Cité du Vin ist mit der Straßenbahn, der Laokade, der Chaban-Delmas-Brücke und den Linien 7 und 32 des TBM-Netzes erreichbar."
+      },
+      {
+        "id": 13,
+        "question": "Mit welchem Land ist der fränkische Weinberg verbunden, der sich über 6000 ha erstreckt ?",
+        "propositions": [
+          "Deutschland",
+          "Italien",
+          "Südafrika",
+          "Schweiz"
+        ],
+        "réponse": "Deutschland",
+        "anecdote": "Mit mehr als 6.000 Hektar im Jahr 2008 ist der fränkische Weinberg einer der mittelgroßen Weinberge in Deutschland."
+      },
+      {
+        "id": 14,
+        "question": "Soave ist ein Weißwein mit einer blassen strohgelben Farbe, der welche Nationalität hat ?",
+        "propositions": [
+          "Griechisch",
+          "Jugoslawisch",
+          "Schweiz",
+          "Italienisch"
+        ],
+        "réponse": "Italienisch",
+        "anecdote": "Das Produktionsgebiet mit einer DOC-Bezeichnung seit 1968 befindet sich nördlich der Autobahn, die Verona und Venedig verbindet."
+      },
+      {
+        "id": 15,
+        "question": "Was ist die wichtigste Rebsorte, aus der Cahors-Weine hergestellt werden ?",
+        "propositions": [
+          "Riesling",
+          "Malbec",
+          "Merlot",
+          "Cabernet"
+        ],
+        "réponse": "Malbec",
+        "anecdote": "Seit 2007 hat sich der Malbec-Markt dank des Cahors Malbec-Konzepts zum Ziel gesetzt, sich im Rest der Welt zu entwickeln."
+      },
+      {
+        "id": 16,
+        "question": "Die Saône ist ein Fluss, der die Weinberge welcher Region bewässert ?",
+        "propositions": [
+          "Provence",
+          "Beaujolais",
+          "Châblis",
+          "Burgund"
+        ],
+        "réponse": "Beaujolais",
+        "anecdote": "Die Weine der Appellation Beaujolais können von allen Gemeinden des Weinbergs Beaujolais hergestellt werden."
+      },
+      {
+        "id": 17,
+        "question": "Welches Land auf dem europäischen Kontinent produziert den ausgezeichneten Weißwein Aphrodite ?",
+        "propositions": [
+          "Griechenland",
+          "Spanien",
+          "Frankreich",
+          "Zypern"
+        ],
+        "réponse": "Zypern",
+        "anecdote": "Der auf der Insel produzierte Wein kam dank der aus Zypern stammenden Aphrodite und des Weingottes Dionysos sehr früh in die Mythologie."
+      },
+      {
+        "id": 18,
+        "question": "Auf den Hügeln welcher Region Frankreichs wird Pacherenc-du-Vic-Bilh hergestellt ?",
+        "propositions": [
+          "Elsass",
+          "Auvergne",
+          "Bretagne",
+          "Pyrenäen"
+        ],
+        "réponse": "Pyrenäen",
+        "anecdote": "Der sehr alte Name der Appellation stammt vom Gascon-Wein aus Stämmen aus der Region Vic-Bilh in der Gascogne."
+      },
+      {
+        "id": 19,
+        "question": "Vaduzer ist ein seit der Römerzeit hergestellter hellroter Wein ...",
+        "propositions": [
+          "In Böhmen",
+          "In Liechtenstein",
+          "In Österreich",
+          "Im Jura"
+        ],
+        "réponse": "In Liechtenstein",
+        "anecdote": "In Liechtenstein, der kleinsten Weinregion der Welt, können Sie ausgezeichnete Weine probieren, darunter auch Vaduzer."
+      },
+      {
+        "id": 20,
+        "question": "Der Marignan, ohne offensichtliche Verbindung zur Schlacht, ist ein Jahrgang aus welcher Region Frankreichs ?",
+        "propositions": [
+          "Béarn",
+          "Wirsing",
+          "Tarn",
+          "Jura"
+        ],
+        "réponse": "Wirsing",
+        "anecdote": "Der Weinberg liegt am Fuße der Hänge des Mont de Boisy und stammt aus der Gründung der 930 gegründeten Abtei von Filly."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Izarra Likör kommt aus welcher Region Europas ?",
+        "propositions": [
+          "Baskenland",
+          "Balkan",
+          "Eurasien",
+          "Kaukasus"
+        ],
+        "réponse": "Baskenland",
+        "anecdote": "Izarra, was auf Baskisch den Stern bedeutet, ist eine Likörmarke, die 1906 in Hendaye vom Botaniker Joseph Grattau kreiert wurde."
+      },
+      {
+        "id": 22,
+        "question": "Der Rosé des Riceys ist ein AOC-Wein aus welchem Weinberg ?",
+        "propositions": [
+          "Champagner",
+          "Loire",
+          "Bordeaux",
+          "Elsass"
+        ],
+        "réponse": "Champagner",
+        "anecdote": "Die einzige zugelassene Sorte für Rosé ist Pinot Noir, die beiden anderen Sorten, die bei der Herstellung von Champagner verwendet werden."
+      },
+      {
+        "id": 23,
+        "question": "Was ist die häufigste Weißweinsorte in Deutschland ?",
+        "propositions": [
+          "Sylvaner",
+          "Mauzac",
+          "Müller-thurgau",
+          "Riesling"
+        ],
+        "réponse": "Müller-thurgau",
+        "anecdote": "Müller-Thurgau gilt mit 24 % der Gesamtfläche seit langem als Kreuzung der Rebsorten Riesling und Sylvaner."
+      },
+      {
+        "id": 24,
+        "question": "In welchem dieser Länder wird kein Gewürztraminer hergestellt ?",
+        "propositions": [
+          "Neuseeland",
+          "Australien",
+          "Italien",
+          "Griechenland"
+        ],
+        "réponse": "Griechenland",
+        "anecdote": "Gewürztraminer ist empfindlich gegen Chlorose und Austrocknen des Stiels und hält Winterkälte recht gut stand."
+      },
+      {
+        "id": 25,
+        "question": "Welche Traube kommt in der deutschen Mosel und im Rheingau am häufigsten vor ?",
+        "propositions": [
+          "Sylvaner",
+          "Traminer",
+          "Ruländer",
+          "Riesling"
+        ],
+        "réponse": "Riesling",
+        "anecdote": "Der Riesling ist eine wachsende Rebsorte, die dank einer breiten Palette an Qualitätsweinen der Öffentlichkeit zunehmend zugute kommt."
+      },
+      {
+        "id": 26,
+        "question": "Was ist die am häufigsten verwendete italienische weiße Traube in Charente ?",
+        "propositions": [
+          "Ugni weiß",
+          "Savagnin",
+          "Colombard",
+          "Mad White"
+        ],
+        "réponse": "Ugni weiß",
+        "anecdote": "Es wird im Mittelmeerraum angebaut und hat die Struktur von weißen Tafelweinen, die mit einem aromatischeren Wein gemischt werden."
+      },
+      {
+        "id": 27,
+        "question": "Welches burgundische Weindorf ist für sein Wasser ebenso berühmt wie für seinen Wein ?",
+        "propositions": [
+          "Santenay",
+          "Volnay",
+          "Monthélie",
+          "Saint-Aubin"
+        ],
+        "réponse": "Santenay",
+        "anecdote": "Wir behandeln fast alles in Santenay : Diabetes, Gicht oder Arthrose, hauptsächlich dank Thermalwasser."
+      },
+      {
+        "id": 28,
+        "question": "Crépy ist ein trockener Weißwein aus welcher Region Frankreichs ?",
+        "propositions": [
+          "Elsass",
+          "Vendée",
+          "Roussillon",
+          "Wirsing"
+        ],
+        "réponse": "Wirsing",
+        "anecdote": "Auf diesem 35 Hektar großen Weinberg mit 825 Hektolitern ist der Ertrag sehr gering, da er mit 23,6 hl / ha seinen Höhepunkt erreicht."
+      },
+      {
+        "id": 29,
+        "question": "Eine der in Oregon angebauten Rebsorten trägt den Namen des Marschalls von Frankreich ?",
+        "propositions": [
+          "Pétain",
+          "Fayolle",
+          "Joffre",
+          "Foch"
+        ],
+        "réponse": "Foch",
+        "anecdote": "Plantagen sind in Kanada (Quebec) und den Vereinigten Staaten (Orégon) bekannt, während es in Frankreich nur sehr wenige gibt."
+      },
+      {
+        "id": 30,
+        "question": "In welchem Land wurde eine der ältesten Spuren der Weinherstellung entdeckt ?",
+        "propositions": [
+          "Yémen",
+          "Syrien",
+          "Georgien",
+          "Irak"
+        ],
+        "réponse": "Georgien",
+        "anecdote": "An der neolithischen Stätte von Shulaveri wurden getrocknete Reben und Körner aus der Zeit um -6000 gefunden."
+      }
+    ]
+    },
+    "es": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Preignac, Barsac y Bommes son comunas de qué región vinícola francesa ?",
+        "propositions": [
+          "Sauternes",
+          "Libournais",
+          "Medec",
+          "Tumbas"
+        ],
+        "réponse": "Sauternes",
+        "anecdote": "Todos ubicados en la margen izquierda del Garona, estas ciudades se encuentran entre las cinco personas privilegiadas con derecho a la denominación de Sauternes."
+      },
+      {
+        "id": 2,
+        "question": "¿Qué isla de Grecia produce un moscatel conocido por los amantes del vino ?",
+        "propositions": [
+          "Samos",
+          "Proporcionado",
+          "Ikaria",
+          "Lesbos"
+        ],
+        "réponse": "Samos",
+        "anecdote": "La cosecha comienza a mediados de agosto, al nivel del mar, y continúa a finales de octubre en las regiones montañosas."
+      },
+      {
+        "id": 3,
+        "question": "¿En qué región natural francesa se encuentra el Château Latour Premier Cru ?",
+        "propositions": [
+          "Fronsac",
+          "Libournais",
+          "Graves",
+          "Medoc"
+        ],
+        "réponse": "Medoc",
+        "anecdote": "Château Latour se convirtió en 1993 en la copropiedad de la sociedad Artémis de François Pinault, que posee 149 acciones de 155."
+      },
+      {
+        "id": 4,
+        "question": "¿En qué región se produce Monbazillac, un vino blanco dulce producido bajo AOC ?",
+        "propositions": [
+          "Bergerac",
+          "Tarn",
+          "Béarn",
+          "Champán"
+        ],
+        "réponse": "Bergerac",
+        "anecdote": "De color pajizo, dulce o suave, rico en glicerol y otros cuerpos dulces, los monbazillacs son potentes y con cuerpo."
+      },
+      {
+        "id": 5,
+        "question": "¿De qué país es lo suficientemente rico en sol ? ¿De dónde viene el moscatel de Patras ?",
+        "propositions": [
+          "Pavo",
+          "Chipre",
+          "Grecia",
+          "España"
+        ],
+        "réponse": "Grecia",
+        "anecdote": "Los primeros vinos griegos datan de hace 6.500 años, su producción corresponde a las necesidades de las familias o comunidades."
+      },
+      {
+        "id": 6,
+        "question": "¿Cuál de estos países latinoamericanos es el único productor de vino hasta la fecha ?",
+        "propositions": [
+          "Paraguay",
+          "Guayana Francesa",
+          "Ecuador",
+          "Perou"
+        ],
+        "réponse": "Perou",
+        "anecdote": "Perú se encuentra en medio de una transición vitivinícola, con la coexistencia de una producción artesanal irregular que sorprende."
+      },
+      {
+        "id": 7,
+        "question": "Los viñedos de Clairette de Die se extienden a lo largo de qué río.",
+        "propositions": [
+          "Ardèche",
+          "Drôme",
+          "Isère",
+          "Viena"
+        ],
+        "réponse": "Drôme",
+        "anecdote": "El suelo arcilloso-calcáreo tiene la distinción de conservar el agua de lluvia para mantener un suministro constante de agua."
+      },
+      {
+        "id": 8,
+        "question": "¿Cuál de estos vinos es, sin duda, parte de las Côtes du Rhône ?",
+        "propositions": [
+          "San chiniano",
+          "Faugères",
+          "Fitou",
+          "Vacqueyras"
+        ],
+        "réponse": "Vacqueyras",
+        "anecdote": "Las vacqueyras rojas se recomiendan para acompañar carnes rojas, quesos de caza y de personajes."
+      },
+      {
+        "id": 9,
+        "question": "¿Valpolicella es un vino seco de qué región del noreste de Italia ?",
+        "propositions": [
+          "Veneciana",
+          "Piémont",
+          "Campania",
+          "Toscana"
+        ],
+        "réponse": "Veneciana",
+        "anecdote": "Al igual que Bardolino, las características esenciales de Valpolicella son un contenido moderado de alcohol y una acidez media."
+      },
+      {
+        "id": 10,
+        "question": "Mercurey es un vino de Borgoña de qué región ?",
+        "propositions": [
+          "Châblis",
+          "Mâcon",
+          "Montceau",
+          "Chalon"
+        ],
+        "réponse": "Chalon",
+        "anecdote": "El área de producción incluye 650 hectáreas de viñedos, con 580 hectáreas de vino tinto y 75 hectáreas de vino blanco."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Le Palette es una denominación controlada de vino de origen de qué país ?",
+        "propositions": [
+          "Francia",
+          "Portugal",
+          "Alemania",
+          "Italia"
+        ],
+        "réponse": "Francia",
+        "anecdote": "El rojo, que tiene una gran aptitud para el envejecimiento, se aconseja tradicionalmente en el juego y la carne de venado."
+      },
+      {
+        "id": 12,
+        "question": "¿En qué ciudad se inaugura la Cité du Vin en Francia en 2016 ?",
+        "propositions": [
+          "Calais",
+          "Reims",
+          "Burdeos",
+          "Paris"
+        ],
+        "réponse": "Burdeos",
+        "anecdote": "Se puede acceder al Cité du Vin en tranvía, en laocade, por el puente Chaban-Delmas y por las líneas 7 y 32 de la red TBM."
+      },
+      {
+        "id": 13,
+        "question": "¿A qué país se asocia el viñedo de Franconia, que se extiende sobre 6000 ha ?",
+        "propositions": [
+          "Italia",
+          "Sudáfrica",
+          "Alemania",
+          "Suiza"
+        ],
+        "réponse": "Alemania",
+        "anecdote": "Con más de 6,000 hectáreas identificadas en 2008, el viñedo de Franconia es uno de los viñedos medianos en Alemania."
+      },
+      {
+        "id": 14,
+        "question": "¿Soave es un vino blanco con un color amarillo pajizo pálido que tiene qué nacionalidad ?",
+        "propositions": [
+          "Suiza",
+          "Yugoslavo",
+          "Italiano",
+          "Griego"
+        ],
+        "réponse": "Italiano",
+        "anecdote": "Con una denominación DOC desde 1968, el área de producción se encuentra al norte de la autopista que une Verona y Venecia."
+      },
+      {
+        "id": 15,
+        "question": "¿Cuál es la principal variedad de uva que produce los vinos de Cahors ?",
+        "propositions": [
+          "Merlot",
+          "Riesling",
+          "Cabernet",
+          "Malbec"
+        ],
+        "réponse": "Malbec",
+        "anecdote": "Desde 2007, el mercado del malbec ha tenido como objetivo desarrollarse en el resto del mundo gracias al concepto Cahors Malbec."
+      },
+      {
+        "id": 16,
+        "question": "¿El Saône es un río que riega los viñedos de qué región ?",
+        "propositions": [
+          "Beaujolais",
+          "Châblis",
+          "Borgoña",
+          "Provenza"
+        ],
+        "réponse": "Beaujolais",
+        "anecdote": "Los vinos de la denominación Beaujolais pueden ser producidos por todos los municipios del viñedo Beaujolais."
+      },
+      {
+        "id": 17,
+        "question": "¿Qué país del continente europeo produce el excelente vino blanco llamado Afrodita ?",
+        "propositions": [
+          "Francia",
+          "Chipre",
+          "España",
+          "Grecia"
+        ],
+        "réponse": "Chipre",
+        "anecdote": "El vino producido en la isla entró en la mitología muy temprano gracias a Afrodita, un nativo de Chipre, y Dioniso, dios del vino."
+      },
+      {
+        "id": 18,
+        "question": "¿En las colinas de qué región de Francia se produce el pacherenc-du-vic-bilh ?",
+        "propositions": [
+          "Bretaña",
+          "Pirineos",
+          "Alsacia",
+          "Auvernia"
+        ],
+        "réponse": "Pirineos",
+        "anecdote": "El nombre muy antiguo de la denominación proviene del vino de vid Gascon en tallos de la región de Vic-Bilh de Gascuña."
+      },
+      {
+        "id": 19,
+        "question": "Vaduzer es un vino tinto ligero producido desde la época romana ...",
+        "propositions": [
+          "En el jura",
+          "En austria",
+          "En Liechtenstein",
+          "En bohemia"
+        ],
+        "réponse": "En Liechtenstein",
+        "anecdote": "En Liechtenstein, que es la región vinícola más pequeña del mundo, puede degustar excelentes vinos, incluido Vaduzer."
+      },
+      {
+        "id": 20,
+        "question": "El Marignan, sin ningún vínculo aparente con la batalla, ¿es una cosecha de qué región de Francia ?",
+        "propositions": [
+          "Tarn",
+          "Saboya",
+          "Jura",
+          "Béarn"
+        ],
+        "réponse": "Saboya",
+        "anecdote": "Situado a los pies de las laderas del Mont de Boisy, el viñedo se remonta a la creación de la Abadía de Filly, fundada en 930."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "¿De qué región de Europa proviene el licor Izarra ?",
+        "propositions": [
+          "País Vasco",
+          "Balcanes",
+          "Cáucaso",
+          "Eurasia"
+        ],
+        "réponse": "País Vasco",
+        "anecdote": "Izarra, que significa la estrella en euskera, es una marca de licor creada en 1906 en Hendaya por el botánico Joseph Grattau."
+      },
+      {
+        "id": 22,
+        "question": "El rosado de Riceys es un vino AOC ¿de qué viñedo ?",
+        "propositions": [
+          "Burdeos",
+          "Alsacia",
+          "Champán",
+          "Loira"
+        ],
+        "réponse": "Champán",
+        "anecdote": "El único varietal autorizado para el rosado es el pinot noir, los otros dos varietales utilizados en la producción de champán."
+      },
+      {
+        "id": 23,
+        "question": "¿Cuál es la variedad de uva de vino blanco más común en Alemania ?",
+        "propositions": [
+          "Mauzac",
+          "Müller-thurgau",
+          "Riesling",
+          "Sylvaner"
+        ],
+        "réponse": "Müller-thurgau",
+        "anecdote": "Con el 24 % del área total, müller-thurgau ha sido considerado durante mucho tiempo como un cruce entre las variedades de uva Riesling y Sylvaner."
+      },
+      {
+        "id": 24,
+        "question": "¿Cuál de estos países no produce Gewürztraminer ?",
+        "propositions": [
+          "Italia",
+          "Grecia",
+          "Australia",
+          "Nueva Zelanda"
+        ],
+        "réponse": "Grecia",
+        "anecdote": "Sensible a la clorosis y al secado del tallo, Gewürztraminer resiste bastante bien el frío invernal."
+      },
+      {
+        "id": 25,
+        "question": "¿Qué uva es la más común en el Mosela y Rheingau alemanes ?",
+        "propositions": [
+          "Sylvaner",
+          "Traminer",
+          "Ruländer",
+          "Riesling"
+        ],
+        "réponse": "Riesling",
+        "anecdote": "Riesling es una variedad en expansión que debe su creciente favor al público gracias a una amplia gama de vinos de calidad."
+      },
+      {
+        "id": 26,
+        "question": "¿Cuál es la uva blanca italiana más utilizada en Charente ?",
+        "propositions": [
+          "Savagnin",
+          "Blanco loco",
+          "Ugni blanco",
+          "Colombard"
+        ],
+        "réponse": "Ugni blanco",
+        "anecdote": "Se cultiva en el área mediterránea, dando la estructura de vinos blancos de mesa, mezclados con un vino más aromático."
+      },
+      {
+        "id": 27,
+        "question": "¿Qué pueblo vinícola de Borgoña es tan famoso por su agua como por su vino ?",
+        "propositions": [
+          "Saint-Aubin",
+          "Monthélie",
+          "Volnay",
+          "Santenay"
+        ],
+        "réponse": "Santenay",
+        "anecdote": "Tratamos casi todo en Santenay : diabetes, gota u osteoartritis, principalmente gracias a las aguas termales."
+      },
+      {
+        "id": 28,
+        "question": "¿Crépy es un vino blanco seco de qué región de Francia ?",
+        "propositions": [
+          "Vendée",
+          "Alsacia",
+          "Saboya",
+          "Rosellón"
+        ],
+        "réponse": "Saboya",
+        "anecdote": "En este viñedo que cubre 35 hectáreas y produce 825 hectolitros, el rendimiento es muy bajo ya que alcanza un máximo de 23."
+      },
+      {
+        "id": 29,
+        "question": "¿Una de las variedades de uva cultivadas en Oregon lleva el nombre de qué mariscal de Francia ?",
+        "propositions": [
+          "Foch",
+          "Fayolle",
+          "Joffre",
+          "Pétain"
+        ],
+        "réponse": "Foch",
+        "anecdote": "Las plantaciones son conocidas en Canadá (Quebec) y los Estados Unidos (Orégon), mientras que en Francia hay muy pocas."
+      },
+      {
+        "id": 30,
+        "question": "¿En qué país se descubrió uno de los vestigios más antiguos de la vinificación ?",
+        "propositions": [
+          "Iraq",
+          "Yémen",
+          "Georgia",
+          "Siria"
+        ],
+        "réponse": "Georgia",
+        "anecdote": "Es en el sitio neolítico de Shulaveri donde se encontraron vides y granos secos que datan de alrededor de -6000."
+      }
+    ]
+    },
+    "it": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Preignac, Barsac e Bommes sono comuni di quale regione vinicola francese ?",
+        "propositions": [
+          "Sauternes",
+          "Tombe",
+          "Medec",
+          "Libournais"
+        ],
+        "réponse": "Sauternes",
+        "anecdote": "Tutte situate sulla riva sinistra della Garonna, queste città sono tra le cinque persone privilegiate che hanno diritto alla denominazione Sauternes."
+      },
+      {
+        "id": 2,
+        "question": "Quale isola della Grecia produce un moscato ben noto agli amanti del vino ?",
+        "propositions": [
+          "Lesbo",
+          "Fornito",
+          "Samos",
+          "Ikaria"
+        ],
+        "réponse": "Samos",
+        "anecdote": "La raccolta inizia a metà agosto, a livello del mare, e continua a fine ottobre nelle regioni montuose."
+      },
+      {
+        "id": 3,
+        "question": "In quale regione naturale francese si trova il Château Latour Premier Cru ?",
+        "propositions": [
+          "Medoc",
+          "Fronsac",
+          "Graves",
+          "Libournais"
+        ],
+        "réponse": "Medoc",
+        "anecdote": "Il castello Latour divenne nel 1993 la comproprietà della holding Artémis de François Pinault, che detiene 149 azioni su 155."
+      },
+      {
+        "id": 4,
+        "question": "In quale regione viene prodotto Monbazillac, un vino bianco dolce prodotto sotto AOC ?",
+        "propositions": [
+          "Tarn",
+          "Champagne",
+          "Béarn",
+          "Bergerac"
+        ],
+        "réponse": "Bergerac",
+        "anecdote": "Di colore giallo paglierino, dolce o morbido, ricco di glicerolo e altri corpi dolci, i monbazillac sono potenti e corposi."
+      },
+      {
+        "id": 5,
+        "question": "Da quale paese abbastanza ricco di sole viene il moscato di Patrasso ?",
+        "propositions": [
+          "Grecia",
+          "Spagna",
+          "Turchia",
+          "Cipro"
+        ],
+        "réponse": "Grecia",
+        "anecdote": "I primi vini greci risalgono a 6.500 anni fa, la loro produzione corrispondeva alle esigenze delle famiglie o delle comunità."
+      },
+      {
+        "id": 6,
+        "question": "Quale di questi paesi dell'America Latina è finora l'unico produttore di vino ?",
+        "propositions": [
+          "Guyana francese",
+          "Ecuador",
+          "Perou",
+          "Paraguay"
+        ],
+        "réponse": "Perou",
+        "anecdote": "Il Perù è nel mezzo di una transizione vitivinicola, con la coesistenza di una produzione artigianale irregolare che sorprende."
+      },
+      {
+        "id": 7,
+        "question": "I vigneti di Clairette de Die si estendono lungo quale fiume ?",
+        "propositions": [
+          "Vienna",
+          "Drôme",
+          "Isère",
+          "Ardèche"
+        ],
+        "réponse": "Drôme",
+        "anecdote": "Il terreno argilloso calcareo ha la particolarità di conservare l'acqua piovana per mantenere un approvvigionamento costante di acqua."
+      },
+      {
+        "id": 8,
+        "question": "Quale di questi vini fa parte indubbiamente della Côtes du Rhône ?",
+        "propositions": [
+          "San Chiniano",
+          "Faugères",
+          "Vacqueyras",
+          "Fitou"
+        ],
+        "réponse": "Vacqueyras",
+        "anecdote": "I vacqueyras rossi sono consigliati in abbinamento a carni rosse, selvaggina e formaggi di carattere."
+      },
+      {
+        "id": 9,
+        "question": "La Valpolicella è un vino secco da quale regione dell'Italia nord-orientale ?",
+        "propositions": [
+          "Piémont",
+          "Toscana",
+          "Campania",
+          "Veneziano"
+        ],
+        "réponse": "Veneziano",
+        "anecdote": "Simile al Bardolino, le caratteristiche essenziali della Valpolicella sono una moderata gradazione alcolica e un'acidità media."
+      },
+      {
+        "id": 10,
+        "question": "Mercurey è un vino Borgogna da quale regione ?",
+        "propositions": [
+          "Châblis",
+          "Chalon",
+          "Mâcon",
+          "Montceau"
+        ],
+        "réponse": "Chalon",
+        "anecdote": "La zona di produzione comprende 650 ettari di viti, con 580 ettari di vino rosso e 75 ettari di vino bianco."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Le Palette è una denominazione di origine controllata controllata da quale paese ?",
+        "propositions": [
+          "Portogallo",
+          "Germania",
+          "Italia",
+          "Francia"
+        ],
+        "réponse": "Francia",
+        "anecdote": "Il rosso, che ha una grande attitudine per l'invecchiamento, è tradizionalmente consigliato su selvaggina e selvaggina."
+      },
+      {
+        "id": 12,
+        "question": "In quale città è stata inaugurata la Cité du Vin in Francia nel 2016 ?",
+        "propositions": [
+          "Reims",
+          "Calais",
+          "Parigi",
+          "Bordeaux"
+        ],
+        "réponse": "Bordeaux",
+        "anecdote": "La Città del Vin è accessibile con il tram, con la laade, dal ponte Chaban-Delmas e dalle linee 7 e 32 della rete TBM."
+      },
+      {
+        "id": 13,
+        "question": "Il vigneto della Franconia, che si estende per oltre 6000 ettari, è associato a quale paese ?",
+        "propositions": [
+          "Sud Africa",
+          "Svizzera",
+          "Italia",
+          "Germania"
+        ],
+        "réponse": "Germania",
+        "anecdote": "Con oltre 6.000 ettari elencati nel 2008, il vigneto della Franconia è uno dei vigneti di medie dimensioni in Germania."
+      },
+      {
+        "id": 14,
+        "question": "Il Soave è un vino bianco con un colore giallo paglierino chiaro di quale nazionalità ?",
+        "propositions": [
+          "Italiano",
+          "Svizzera",
+          "Greco",
+          "Jugoslavo"
+        ],
+        "réponse": "Italiano",
+        "anecdote": "Con una denominazione DOC dal 1968, l'area di produzione si trova a nord dell'autostrada che collega Verona e Venezia."
+      },
+      {
+        "id": 15,
+        "question": "Qual è il principale vitigno che produce vini Cahors ?",
+        "propositions": [
+          "Riesling",
+          "Merlot",
+          "Cabernet",
+          "Malbec"
+        ],
+        "réponse": "Malbec",
+        "anecdote": "Dal 2007, il mercato malbec ha mirato a svilupparsi nel resto del mondo grazie al concetto Cahors Malbec."
+      },
+      {
+        "id": 16,
+        "question": "Il Saône è un fiume che innaffia i vigneti di quale regione ?",
+        "propositions": [
+          "Beaujolais",
+          "Provenza",
+          "Châblis",
+          "Borgogna"
+        ],
+        "réponse": "Beaujolais",
+        "anecdote": "I vini della denominazione Beaujolais possono essere prodotti da tutti i comuni del vigneto Beaujolais."
+      },
+      {
+        "id": 17,
+        "question": "Quale paese del continente europeo produce l'eccellente vino bianco chiamato Afrodite ?",
+        "propositions": [
+          "Spagna",
+          "Francia",
+          "Cipro",
+          "Grecia"
+        ],
+        "réponse": "Cipro",
+        "anecdote": "Il vino prodotto sull'isola è entrato nella mitologia molto presto grazie ad Afrodite, originaria di Cipro, e Dioniso, dio del vino."
+      },
+      {
+        "id": 18,
+        "question": "Sulle colline di quale regione della Francia viene prodotta la pacherenc-du-vic-bilh ?",
+        "propositions": [
+          "Alsazia",
+          "Pirenei",
+          "Alvernia",
+          "Bretagna"
+        ],
+        "réponse": "Pirenei",
+        "anecdote": "Il nome antichissimo della denominazione deriva dal vino di vite guascone proveniente dalla regione di Guascogna Vic-Bilh."
+      },
+      {
+        "id": 19,
+        "question": "Vaduzer è un vino rosso chiaro prodotto fin dall'epoca romana ...",
+        "propositions": [
+          "Nel Giura",
+          "Nel Liechtenstein",
+          "In Boemia",
+          "In Austria"
+        ],
+        "réponse": "Nel Liechtenstein",
+        "anecdote": "Nel Liechtenstein, che è la regione vinicola più piccola del mondo, puoi assaggiare vini eccellenti, tra cui Vaduzer."
+      },
+      {
+        "id": 20,
+        "question": "Il Marignan, senza apparente legame con la battaglia, è un'annata di quale regione della Francia ?",
+        "propositions": [
+          "Tarn",
+          "Giura",
+          "Béarn",
+          "Savoia"
+        ],
+        "réponse": "Savoia",
+        "anecdote": "Situato ai piedi delle pendici del Mont de Boisy, il vigneto risale alla creazione dell'Abbazia di Filly fondata nel 930."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Il liquore di Izarra proviene da quale regione d'Europa ?",
+        "propositions": [
+          "Caucaso",
+          "Paesi Baschi",
+          "Eurasia",
+          "Balcani"
+        ],
+        "réponse": "Paesi Baschi",
+        "anecdote": "Izarra, che significa la stella basca, è un marchio di liquore creato nel 1906 a Hendaye dal botanico Joseph Grattau."
+      },
+      {
+        "id": 22,
+        "question": "Il rosé des Riceys è un vino AOC da quale vigneto ?",
+        "propositions": [
+          "Champagne",
+          "Bordeaux",
+          "Alsazia",
+          "Loira"
+        ],
+        "réponse": "Champagne",
+        "anecdote": "L'unica varietà autorizzata per il rosé è il pinot nero, le altre due varietà utilizzate nella produzione di champagne."
+      },
+      {
+        "id": 23,
+        "question": "Qual è la varietà di uva da vino bianco più comune in Germania ?",
+        "propositions": [
+          "Müller-thurgau",
+          "Mauzac",
+          "Sylvaner",
+          "Riesling"
+        ],
+        "réponse": "Müller-thurgau",
+        "anecdote": "Con il 24 % della superficie totale, Müller-Thurgau è stato a lungo considerato un incrocio tra i vitigni Riesling e Sylvaner."
+      },
+      {
+        "id": 24,
+        "question": "Quale di questi paesi non produce Gewürztraminer ?",
+        "propositions": [
+          "Nuova Zelanda",
+          "Grecia",
+          "Australia",
+          "Italia"
+        ],
+        "réponse": "Grecia",
+        "anecdote": "Sensibile alla clorosi e all'essiccazione dal gambo, Gewürztraminer resiste abbastanza bene al freddo invernale."
+      },
+      {
+        "id": 25,
+        "question": "Quale uva è la più comune nella Mosella tedesca e nel Rheingau ?",
+        "propositions": [
+          "Sylvaner",
+          "Riesling",
+          "Traminer",
+          "Ruländer"
+        ],
+        "réponse": "Riesling",
+        "anecdote": "Il Riesling è un vitigno in espansione che deve il suo crescente favore al pubblico grazie a una vasta gamma di vini di qualità."
+      },
+      {
+        "id": 26,
+        "question": "Qual è l'uva bianca italiana più utilizzata in Charente ?",
+        "propositions": [
+          "Ugni bianco",
+          "Mad White",
+          "Savagnin",
+          "Colombard"
+        ],
+        "réponse": "Ugni bianco",
+        "anecdote": "È coltivato nell'area mediterranea, dando la struttura di vini da tavola bianchi, mescolati con un vino più aromatico."
+      },
+      {
+        "id": 27,
+        "question": "Quale villaggio vinicolo della Borgogna è famoso tanto per l'acqua quanto per il suo vino ?",
+        "propositions": [
+          "Santenay",
+          "Saint-Aubin",
+          "Monthélie",
+          "Volnay"
+        ],
+        "réponse": "Santenay",
+        "anecdote": "Trattiamo quasi tutto a Santenay : diabete, gotta o artrosi, principalmente grazie alle acque termali."
+      },
+      {
+        "id": 28,
+        "question": "Crépy è un vino bianco secco da quale regione della Francia ?",
+        "propositions": [
+          "Vendée",
+          "Alsazia",
+          "Savoia",
+          "Roussillon"
+        ],
+        "réponse": "Savoia",
+        "anecdote": "Su questo vigneto che copre 35 ettari e produce 825 ettolitri, la resa è molto bassa poiché raggiunge un picco di 23,6 hl / ha."
+      },
+      {
+        "id": 29,
+        "question": "Uno dei vitigni coltivati  ? ?in Oregon porta il nome di quale maresciallo di Francia ?",
+        "propositions": [
+          "Foch",
+          "Joffre",
+          "Fayolle",
+          "Pétain"
+        ],
+        "réponse": "Foch",
+        "anecdote": "Le piantagioni sono conosciute in Canada (Quebec) e negli Stati Uniti (Orégon), mentre in Francia ce ne sono pochissime."
+      },
+      {
+        "id": 30,
+        "question": "In quale paese è stata scoperta una delle più antiche tracce di vinificazione ?",
+        "propositions": [
+          "Iraq",
+          "Yémen",
+          "Siria",
+          "Georgia"
+        ],
+        "réponse": "Georgia",
+        "anecdote": "È nel sito neolitico di Shulaveri che sono stati trovati viti e cereali essiccati risalenti a circa -6000."
+      }
+    ]
+    },
+    "nl": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Preignac, Barsac en Bommes zijn gemeenten van welk Frans wijngebied ?",
+        "propositions": [
+          "Graven",
+          "Medec",
+          "Sauternes",
+          "Libournais"
+        ],
+        "réponse": "Sauternes",
+        "anecdote": "Allemaal gelegen op de linkeroever van de Garonne, behoren deze steden tot de vijf bevoorrechte mensen die recht hebben op de benaming Sauternes."
+      },
+      {
+        "id": 2,
+        "question": "Welk eiland van Griekenland produceert een muscat die bekend is bij wijnliefhebbers ?",
+        "propositions": [
+          "Mits",
+          "Ikaria",
+          "Samos",
+          "Lesbos"
+        ],
+        "réponse": "Samos",
+        "anecdote": "De oogst begint half augustus op zeeniveau en gaat eind oktober door in de bergachtige streken."
+      },
+      {
+        "id": 3,
+        "question": "In welke Franse natuurlijke regio ligt de Château Latour Premier Cru ?",
+        "propositions": [
+          "Medoc",
+          "Fronsac",
+          "Graves",
+          "Libournais"
+        ],
+        "réponse": "Medoc",
+        "anecdote": "Château Latour werd in 1993 mede-eigendom van de holding Artémis de François Pinault, die 149 van de 155 aandelen bezit."
+      },
+      {
+        "id": 4,
+        "question": "In welke regio wordt Monbazillac, een zoete witte wijn geproduceerd onder AOC, geproduceerd ?",
+        "propositions": [
+          "Béarn",
+          "Tarn",
+          "Bergerac",
+          "Champagne"
+        ],
+        "réponse": "Bergerac",
+        "anecdote": "Strokleurig, zoet of zacht, rijk aan glycerol en andere zoete lichamen, monbazillacs zijn krachtig en vol."
+      },
+      {
+        "id": 5,
+        "question": "Uit welk land rijk genoeg aan zon komt de Muscat of Patras vandaan ?",
+        "propositions": [
+          "Turkije",
+          "Cyprus",
+          "Griekenland",
+          "Spanje"
+        ],
+        "réponse": "Griekenland",
+        "anecdote": "De eerste Griekse wijnen waren 6.500 jaar geleden gedateerd en de productie kwam overeen met de behoeften van gezinnen of gemeenschappen."
+      },
+      {
+        "id": 6,
+        "question": "Welke van deze Latijns-Amerikaanse landen is tot op heden de enige wijnproducent ?",
+        "propositions": [
+          "Paraguay",
+          "Frans-Guyana",
+          "Ecuador",
+          "Perou"
+        ],
+        "réponse": "Perou",
+        "anecdote": "Peru bevindt zich midden in een wijntransitie, met het naast elkaar bestaan van een onregelmatige ambachtelijke productie die verrassingen met zich meebrengt."
+      },
+      {
+        "id": 7,
+        "question": "De wijngaarden van Clairette de Die strekken zich uit langs welke rivier ?",
+        "propositions": [
+          "Isère",
+          "Drôme",
+          "Ardèche",
+          "Wenen"
+        ],
+        "réponse": "Drôme",
+        "anecdote": "De kleikalkachtige grond onderscheidt zich door regenwater te behouden om een constante toevoer van water te behouden."
+      },
+      {
+        "id": 8,
+        "question": "Welke van deze wijnen maakt ongetwijfeld deel uit van de Côtes du Rhône ?",
+        "propositions": [
+          "Faugères",
+          "Fitou",
+          "Vacqueyras",
+          "Saint Chinian"
+        ],
+        "réponse": "Vacqueyras",
+        "anecdote": "De rode vacqueyras wordt aanbevolen bij de begeleiding van rood vlees, wild- en karakterkazen."
+      },
+      {
+        "id": 9,
+        "question": "Valpolicella is een droge wijn uit welke regio in het noordoosten van Italië ?",
+        "propositions": [
+          "Campanië",
+          "Toscane",
+          "Piémont",
+          "Venetiaans"
+        ],
+        "réponse": "Venetiaans",
+        "anecdote": "Net als bij Bardolino zijn de essentiële kenmerken van Valpolicella een matig alcoholgehalte en een gemiddelde zuurgraad."
+      },
+      {
+        "id": 10,
+        "question": "Mercurey is een Bourgondische wijn uit welke regio ?",
+        "propositions": [
+          "Chalon",
+          "Montceau",
+          "Mâcon",
+          "Châblis"
+        ],
+        "réponse": "Chalon",
+        "anecdote": "Het productiegebied omvat 650 hectare wijnstokken, met 580 hectare rode wijn en 75 hectare witte wijn."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Le Palette is een gecontroleerde benaming van herkomstwijn uit welk land ?",
+        "propositions": [
+          "Duitsland",
+          "Italië",
+          "Frankrijk",
+          "Portugal"
+        ],
+        "réponse": "Frankrijk",
+        "anecdote": "Het rood, dat zeer geschikt is voor veroudering, wordt traditioneel geadviseerd bij wild en wild."
+      },
+      {
+        "id": 12,
+        "question": "In welke stad wordt de Cité du Vin in 2016 geopend in Frankrijk ?",
+        "propositions": [
+          "Bordeaux",
+          "Reims",
+          "Parijs",
+          "Calais"
+        ],
+        "réponse": "Bordeaux",
+        "anecdote": "De Cité du Vin is bereikbaar met de tram, de laocade, de Chaban-Delmas-brug en de lijnen 7 en 32 van het TBM-netwerk."
+      },
+      {
+        "id": 13,
+        "question": "Welk land wordt geassocieerd met de Frankische wijngaard, die meer dan 6000 ha beslaat ?",
+        "propositions": [
+          "Duitsland",
+          "Zuid-Afrika",
+          "Zwitserland",
+          "Italië"
+        ],
+        "réponse": "Duitsland",
+        "anecdote": "Met meer dan 6000 hectare geïdentificeerd in 2008, is de Frankische wijngaard een van de middelgrote wijngaarden in Duitsland."
+      },
+      {
+        "id": 14,
+        "question": "Soave is een witte wijn met een bleke strogele kleur met welke nationaliteit ?",
+        "propositions": [
+          "Joegoslavisch",
+          "Grieks",
+          "Italiaans",
+          "Zwitserland"
+        ],
+        "réponse": "Italiaans",
+        "anecdote": "Met een DOC-benaming sinds 1968 ligt het productiegebied ten noorden van de snelweg die Verona en Venetië met elkaar verbindt."
+      },
+      {
+        "id": 15,
+        "question": "Wat is de belangrijkste druivensoort die Cahors-wijnen produceert ?",
+        "propositions": [
+          "Riesling",
+          "Merlot",
+          "Malbec",
+          "Cabernet"
+        ],
+        "réponse": "Malbec",
+        "anecdote": "Sinds 2007 wil de malbecmarkt zich in de rest van de wereld ontwikkelen dankzij het concept van Cahors Malbec."
+      },
+      {
+        "id": 16,
+        "question": "De Saône is een rivier die de wijngaarden van welke regio bevloeit ?",
+        "propositions": [
+          "Châblis",
+          "Bourgondië",
+          "Provence",
+          "Beaujolais"
+        ],
+        "réponse": "Beaujolais",
+        "anecdote": "De wijnen van de appellatie Beaujolais kunnen worden geproduceerd door alle gemeenten van de wijngaard Beaujolais."
+      },
+      {
+        "id": 17,
+        "question": "Welk land op het Europese continent produceert de uitstekende witte wijn genaamd Aphrodite ?",
+        "propositions": [
+          "Spanje",
+          "Griekenland",
+          "Frankrijk",
+          "Cyprus"
+        ],
+        "réponse": "Cyprus",
+        "anecdote": "De wijn die op het eiland werd geproduceerd, kwam heel vroeg in de mythologie dankzij Aphrodite, een inwoner van Cyprus, en Dionysus, de god van de wijn."
+      },
+      {
+        "id": 18,
+        "question": "Op de heuvels van welke regio van Frankrijk wordt pacherenc-du-vic-bilh geproduceerd ?",
+        "propositions": [
+          "Auvergne",
+          "Elzas",
+          "Bretagne",
+          "Pyreneeën"
+        ],
+        "réponse": "Pyreneeën",
+        "anecdote": "De zeer oude naam van de appellatie komt van de Gascon-wijn, afkomstig uit de Vic-Bilh-regio van de Gascogne."
+      },
+      {
+        "id": 19,
+        "question": "Vaduzer is een lichtrode wijn die wordt geproduceerd sinds de Romeinse tijd ...",
+        "propositions": [
+          "In Bohemen",
+          "In Liechtenstein",
+          "In de Jura",
+          "In Oostenrijk"
+        ],
+        "réponse": "In Liechtenstein",
+        "anecdote": "In Liechtenstein, het kleinste wijngebied ter wereld, kun je uitstekende wijnen proeven, waaronder Vaduzer."
+      },
+      {
+        "id": 20,
+        "question": "De Marignan, zonder duidelijke link met de strijd, is een vintage uit welke regio van Frankrijk ?",
+        "propositions": [
+          "Béarn",
+          "Jura",
+          "Tarn",
+          "Savoy"
+        ],
+        "réponse": "Savoy",
+        "anecdote": "Gelegen aan de voet van de hellingen van de Mont de Boisy, dateert de wijngaard uit de oprichting van de abdij van Filly gesticht in 930."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Izarra-likeur komt uit welke regio van Europa ?",
+        "propositions": [
+          "Balkan",
+          "Kaukasus",
+          "Baskenland",
+          "Eurazië"
+        ],
+        "réponse": "Baskenland",
+        "anecdote": "Izarra, wat ster betekent in het Baskisch, is een likeurmerk dat in 1906 in Hendaye is gemaakt door botanicus Joseph Grattau."
+      },
+      {
+        "id": 22,
+        "question": "De rosé des Riceys is een AOC-wijn van welke wijngaard ?",
+        "propositions": [
+          "Elzas",
+          "Bordeaux",
+          "Champagne",
+          "Loire"
+        ],
+        "réponse": "Champagne",
+        "anecdote": "De enige toegestane variëteit voor rosé is pinot noir, de twee andere variëteiten die worden gebruikt bij de productie van champagne."
+      },
+      {
+        "id": 23,
+        "question": "Wat is de meest voorkomende witte wijndruif in Duitsland ?",
+        "propositions": [
+          "Riesling",
+          "Sylvaner",
+          "Mauzac",
+          "Müller-thurgau"
+        ],
+        "réponse": "Müller-thurgau",
+        "anecdote": "Met 24 % van de totale oppervlakte wordt müller-thurgau lange tijd beschouwd als een kruising tussen de Riesling- en Sylvaner-druivensoorten."
+      },
+      {
+        "id": 24,
+        "question": "Welk van deze landen produceert Gewürztraminer niet ?",
+        "propositions": [
+          "Italië",
+          "Griekenland",
+          "Nieuw-Zeeland",
+          "Australië"
+        ],
+        "réponse": "Griekenland",
+        "anecdote": "Gevoelig voor chlorose en uitdroging van de stengel, Gewürztraminer is goed bestand tegen de winterkou."
+      },
+      {
+        "id": 25,
+        "question": "Welke druif komt het meest voor in de Duitse Moezel en Rheingau ?",
+        "propositions": [
+          "Riesling",
+          "Traminer",
+          "Ruländer",
+          "Sylvaner"
+        ],
+        "réponse": "Riesling",
+        "anecdote": "Riesling is een groeiende druivensoort die dankzij een breed scala aan kwaliteitswijnen zijn groeiende gunst aan het publiek te danken heeft."
+      },
+      {
+        "id": 26,
+        "question": "Wat is de meest gebruikte Italiaanse witte druif in Charente ?",
+        "propositions": [
+          "Savagnin",
+          "Mad White",
+          "Colombard",
+          "Ugni wit"
+        ],
+        "réponse": "Ugni wit",
+        "anecdote": "Het wordt verbouwd in het Middellandse Zeegebied, waardoor het de structuur krijgt van witte tafelwijnen, vermengd met een meer aromatische wijn."
+      },
+      {
+        "id": 27,
+        "question": "Welk Bourgondisch wijndorp is zo beroemd om zijn water als om zijn wijn ?",
+        "propositions": [
+          "Saint-Aubin",
+          "Volnay",
+          "Monthélie",
+          "Santenay"
+        ],
+        "réponse": "Santenay",
+        "anecdote": "We behandelen bijna alles in Santenay : diabetes, jicht of artrose, voornamelijk dankzij thermaal water."
+      },
+      {
+        "id": 28,
+        "question": "Crépy is een droge witte wijn uit welke regio van Frankrijk ?",
+        "propositions": [
+          "Elzas",
+          "Vendée",
+          "Roussillon",
+          "Savoy"
+        ],
+        "réponse": "Savoy",
+        "anecdote": "Op deze wijngaard die 35 hectare beslaat en 825 hectoliter produceert, is de opbrengst erg laag omdat hij piekt op 23,6 hl / ha."
+      },
+      {
+        "id": 29,
+        "question": "Een van de in Oregon geteelde druivensoorten draagt de naam van welke maarschalk van Frankrijk ?",
+        "propositions": [
+          "Foch",
+          "Joffre",
+          "Pétain",
+          "Fayolle"
+        ],
+        "réponse": "Foch",
+        "anecdote": "Plantages zijn bekend in Canada (Quebec) en de Verenigde Staten (Orégon), terwijl er in Frankrijk maar heel weinig zijn."
+      },
+      {
+        "id": 30,
+        "question": "In welk land werd een van de oudste sporen van wijnbereiding ontdekt ?",
+        "propositions": [
+          "Syrië",
+          "Georgië",
+          "Irak",
+          "Yémen"
+        ],
+        "réponse": "Georgië",
+        "anecdote": "Op de neolithische site van Shulaveri werden gedroogde wijnstokken en granen gevonden die dateren uit ongeveer -6000."
+      }
+    ]
+    }
+  }
+}

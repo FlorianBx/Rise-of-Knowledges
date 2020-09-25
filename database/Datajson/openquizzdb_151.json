@@ -1,0 +1,2216 @@
+{                                     
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Nikola Tesla (Savant génial et visionnaire)",         
+  "difficulté": "5 / 5",
+  "quizz": {
+    "fr": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Dans quel domaine Nikola Tesla a-t-il principalement oeuvré ?",
+        "propositions": [
+          "Ufologie",
+          "Chimie",
+          "Informatique",
+          "Électricité"
+        ],
+        "réponse": "Électricité",
+        "anecdote": "Nikola Tesla a en effet principalement oeuvré dans le domaine de l'électricité, mais était également ingénieur mécanique."
+      },
+      {
+        "id": 2,
+        "question": "Avec qui Nikola Tesla a-t-il travaillé après avoir émigré aux États-Unis en 1884 ?",
+        "propositions": [
+          "Bob Wright",
+          "Nela Park",
+          "Thomas Edison",
+          "James Cash Jr."
+        ],
+        "réponse": "Thomas Edison",
+        "anecdote": "Tesla proposa le courant alternatif, qui résoudrait de nombreux problèmes, tandis qu'Edison resta un défenseur du courant continu."
+      },
+      {
+        "id": 3,
+        "question": "Combien de brevets environ Nikola Tesla a-t-il déposé au cours de sa vie ?",
+        "propositions": [
+          "200",
+          "300",
+          "100",
+          "400"
+        ],
+        "réponse": "300",
+        "anecdote": "Beaucoup de ces brevets traitant de méthodes pour aborder la conversion de l'énergie sont attribués à tort à Thomas Edison."
+      },
+      {
+        "id": 4,
+        "question": "Quel nom a été donné à l'unité internationale d'induction magnétique ?",
+        "propositions": [
+          "Ohm",
+          "Volt",
+          "Hertz",
+          "Tesla"
+        ],
+        "réponse": "Tesla",
+        "anecdote": "La présence du champ magnétique se traduit par l'existence d'une force agissant sur les charges électriques en mouvement."
+      },
+      {
+        "id": 5,
+        "question": "Quelle nationalité Nikola Tesla a-t-il déclarée avant d'être naturalisé américain ?",
+        "propositions": [
+          "Russe",
+          "Autrichienne",
+          "Suisse",
+          "Polonaise"
+        ],
+        "réponse": "Autrichienne",
+        "anecdote": "Tesla est né le 10 juillet 1856, à Smiljan, dans les confins militaires de l'Empire d'Autriche, avant-dernier d'une famille de cinq enfants."
+      },
+      {
+        "id": 6,
+        "question": "Devenu polyglotte, combien de langues parlait Nikola Tesla ?",
+        "propositions": [
+          "Sept",
+          "Cinq",
+          "Huit",
+          "Six"
+        ],
+        "réponse": "Huit",
+        "anecdote": "Tesla parlait le tchèque, l'anglais, le français, l'allemand, le hongrois, l'italien et le latin en plus de sa langue natale, le serbo-croate."
+      },
+      {
+        "id": 7,
+        "question": "Grâce à quel type de courant Nikola Tesla a-t-il révolutionné l'électricité ?",
+        "propositions": [
+          "Alternatif",
+          "Bi-polaire",
+          "Structuré",
+          "Continu"
+        ],
+        "réponse": "Alternatif",
+        "anecdote": "Le courant alternatif (qui peut être abrégé par CA) est un courant électrique périodique qui change de sens deux fois par période."
+      },
+      {
+        "id": 8,
+        "question": "Quelle machine électrique de Tesla permet d'atteindre de très hautes tensions ?",
+        "propositions": [
+          "Transpondeur",
+          "Commutatrice",
+          "Bobine Tesla",
+          "Régulateur"
+        ],
+        "réponse": "Bobine Tesla",
+        "anecdote": "La bobine Tesla est toujours utilisée de nos jours sous une forme ou une autre dans certains récepteurs radio ou de télévision."
+      },
+      {
+        "id": 9,
+        "question": "Quel appareil énoncé par Tesla sera plus tard installé sur des bateaux ?",
+        "propositions": [
+          "Météofax",
+          "Anémomètre",
+          "Bobine",
+          "Radar"
+        ],
+        "réponse": "Radar",
+        "anecdote": "En 1934, suite à une étude du magnétron, des essais par ondes courtes furent menés par la CSF selon les principes de Tesla."
+      },
+      {
+        "id": 10,
+        "question": "À qui de nombreuses inventions de Nikola Tesla ont-elles été attribuées à tort ?",
+        "propositions": [
+          "George Westinghouse",
+          "André Blondel",
+          "Paul Dimo",
+          "Thomas Edison"
+        ],
+        "réponse": "Thomas Edison",
+        "anecdote": "Tesla est entre autres l'auteur du moteur électrique asynchrone, de l'alternateur polyphasé et du montage triphasé en étoile."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "En quelle année le génie et visionnaire Nikola Tesla a-t-il vu le jour ?",
+        "propositions": [
+          "1856",
+          "1886",
+          "1946",
+          "1916"
+        ],
+        "réponse": "1856",
+        "anecdote": "Né d'une famille serbe orthodoxe de Croatie, fier de ses origines, Tesla a toujours revendiqué ses ascendances serbes et croates."
+      },
+      {
+        "id": 12,
+        "question": "Quel collaborateur enregistra un grand nombre des brevets de Nikola Tesla ?",
+        "propositions": [
+          "Max Mathews",
+          "George Westinghouse",
+          "Walter Reichel",
+          "Joseph Jaspar"
+        ],
+        "réponse": "George Westinghouse",
+        "anecdote": "George Westinghouse est également reconnu pour ses contributions dans les domaines du chemin de fer et du téléphone."
+      },
+      {
+        "id": 13,
+        "question": "Inventeur de génie, comment Nikola Tesla préférait-il se définir ?",
+        "propositions": [
+          "Découvreur",
+          "Observateur",
+          "Créateur",
+          "Baroudeur"
+        ],
+        "réponse": "Découvreur",
+        "anecdote": "Nikola Tesla est reconnu comme l'un des ingénieurs les plus créatifs de la fin du XIXe et du début du XXe siècle."
+      },
+      {
+        "id": 14,
+        "question": "Quelle guerre s'est engagée entre Westinghouse-Tesla et Edison ?",
+        "propositions": [
+          "Des courants",
+          "Du volt",
+          "Des ondes",
+          "Du ohm"
+        ],
+        "réponse": "Des courants",
+        "anecdote": "Cette controverse technique et industrielle, parfois appelée bataille des courants, se déroula à la fin des années 1880."
+      },
+      {
+        "id": 15,
+        "question": "Quel objet fut inventé suite à une campagne de lobbying menée par Edison ?",
+        "propositions": [
+          "Taser",
+          "Chaise électrique",
+          "Ampoule",
+          "Polygraphe"
+        ],
+        "réponse": "Chaise électrique",
+        "anecdote": "Thomas Edison embaucha à cet effet Harold P. Brown qui acheta un générateur alternatif pour électrocuter William Kemmler."
+      },
+      {
+        "id": 16,
+        "question": "Dans quel film la bobine Tesla permet-elle de cloner des objets et des êtres vivants ?",
+        "propositions": [
+          "Memento",
+          "Insomnia",
+          "Le Prestige",
+          "Inception"
+        ],
+        "réponse": "Le Prestige",
+        "anecdote": "Les scènes présentant la machine de Nikola Tesla furent filmées à l'observatoire du Mont Wilson et d'autres scènes à Colorado Springs."
+      },
+      {
+        "id": 17,
+        "question": "Par quel concept Tesla voulait-il connecter machines et rouages de la nature ?",
+        "propositions": [
+          "Énergie élastique",
+          "Fugacité",
+          "Énergie totale",
+          "Énergie libre"
+        ],
+        "réponse": "Énergie libre",
+        "anecdote": "« Dans quelques générations nos machines seront animées grâce à une énergie disponible en tous points de l'univers » (1892)."
+      },
+      {
+        "id": 18,
+        "question": "En quelle année Tesla s'est-il éteint dans sa chambre d'hôtel, seul et sans un sou ?",
+        "propositions": [
+          "1923",
+          "1913",
+          "1933",
+          "1943"
+        ],
+        "réponse": "1943",
+        "anecdote": "Nikola Tesla a reçu le 17 janvier 1943 des funérailles nationales dans la cathédrale Saint-Jean le Théologien de New York."
+      },
+      {
+        "id": 19,
+        "question": "Qui a pu récupérer l'urne funéraire et les documents de Tesla après sa mort ?",
+        "propositions": [
+          "Son père",
+          "Son frère",
+          "Son épouse",
+          "Son neveu"
+        ],
+        "réponse": "Son neveu",
+        "anecdote": "Grâce à Sava Kosanovic, son neveu, l'urne et les documents sont aujourd'hui conservés au Musée Nikola Tesla à Belgrade en Serbie."
+      },
+      {
+        "id": 20,
+        "question": "Dans quelle série télé les inventions de Tesla jouent-elles un rôle important ?",
+        "propositions": [
+          "Z Nation",
+          "Warehouse 13",
+          "Andromeda",
+          "Caprica"
+        ],
+        "réponse": "Warehouse 13",
+        "anecdote": "L'arme des agents de l'entrepôt 13, un pistolet incapacitant électrique, est nommée d'après Tesla, qui serait son inventeur."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "À quelle École polytechnique Nikola Tesla est-il entré en 1875 ?",
+        "propositions": [
+          "Salzbourg",
+          "Vienne",
+          "Graz",
+          "Wachau"
+        ],
+        "réponse": "Graz",
+        "anecdote": "Il y étudie les mathématiques, la physique et la mécanique, grâce à une bourse attribuée par l'administration des Confins militaires."
+      },
+      {
+        "id": 22,
+        "question": "Par quel physicien autrichien Nikola Tesla fut-il influencé en 1880 ?",
+        "propositions": [
+          "Jürgen Ehlers",
+          "Ernst Mach",
+          "Hendrik Lorentz",
+          "David Hilbert"
+        ],
+        "réponse": "Ernst Mach",
+        "anecdote": "Suite au décès de son père, Nikola Tesla quitte l'université Charles de Prague, n'y ayant effectué qu'un seul semestre d'étude."
+      },
+      {
+        "id": 23,
+        "question": "À qui Tesla aurait-il vendu les plans de son arme à énergie dirigée ?",
+        "propositions": [
+          "Aux serbes",
+          "Aux américains",
+          "Aux russes",
+          "Aux allemands"
+        ],
+        "réponse": "Aux russes",
+        "anecdote": "L'arme n'a pas été plus développée, et on peut donc en déduire que, si la rumeur est vraie, l'arme ne fut jamais opérationnelle."
+      },
+      {
+        "id": 24,
+        "question": "Quel métier exerçait Milutin Tesla, le père du célèbre Nikola Tesla ?",
+        "propositions": [
+          "Prêtre",
+          "Avocat",
+          "Sculpteur",
+          "Garagiste"
+        ],
+        "réponse": "Prêtre",
+        "anecdote": "Sa mère était douée pour la fabrication d'outils artisanaux et, bien qu'analphabète, pour mémoriser des poèmes serbes."
+      },
+      {
+        "id": 25,
+        "question": "Ruiné, quel métier Nikola Tesla a-t-il exercé dans les rues de New York ?",
+        "propositions": [
+          "Chauffeur de bus",
+          "Laveur de carreaux",
+          "Magasinier",
+          "Terrassier"
+        ],
+        "réponse": "Terrassier",
+        "anecdote": "Ayant mis toutes ses économies dans sa société, Tesla est ruiné, d'autant plus que ses associés gardent la jouissance de ses brevets."
+      },
+      {
+        "id": 26,
+        "question": "Pour quelle somme Westinghouse a-t-elle racheté les droits et brevets de Tesla ?",
+        "propositions": [
+          "216 000 $",
+          "864 000 $",
+          "648 000 $",
+          "432 000 $"
+        ],
+        "réponse": "216 000 $",
+        "anecdote": "En 1893, la compagnie de Westinghouse à réussi à obtenir le contrat d'installation de toute l'infrastructure électrique des USA."
+      },
+      {
+        "id": 27,
+        "question": "Quel nom Tesla a-t-il donné, en 1898, à son bateau radiocommandé ?",
+        "propositions": [
+          "Radiobato",
+          "Teleautomaton",
+          "Navycommand",
+          "Teslaboat"
+        ],
+        "réponse": "Teleautomaton",
+        "anecdote": "L'appareil fait sensation, et certains considèrent qu'il est mû par l'esprit de Tesla ou piloté par un singe savant caché à l'intérieur."
+      },
+      {
+        "id": 28,
+        "question": "Que concernait le tout dernier brevet déposé par Nikola Tesla en 1928 ?",
+        "propositions": [
+          "Caméra",
+          "Radar",
+          "Biplan",
+          "Lampe"
+        ],
+        "réponse": "Biplan",
+        "anecdote": "De nos jours, ce type d'avion est parfois appelé hybride ou convertible, surtout dans le cas d'avion à moteurs basculants."
+      },
+      {
+        "id": 29,
+        "question": "Quelle médaille scientifique Nikola Tesla a-t-il obtenue en 1934 ?",
+        "propositions": [
+          "David Gibbons",
+          "Alfred Welby",
+          "Roy McKenzie",
+          "John Scott"
+        ],
+        "réponse": "John Scott",
+        "anecdote": "Prestigieuse récompense attribuée à des scientifiques depuis 1816, Marconi l'avait obtenue en 1931 et Edison en 1889 et 1929."
+      },
+      {
+        "id": 30,
+        "question": "Quelle romancière a consacré deux ouvrages à Nikola Tesla ?",
+        "propositions": [
+          "Martine Le Coz",
+          "Suzanne Prou",
+          "Annie Ernaux",
+          "Virginie Despentes"
+        ],
+        "réponse": "Martine Le Coz",
+        "anecdote": "Sa biographie, « L'Homme électrique », revenant sur la voie scientifique de l'homme et un roman graphique, « La Tour de Wardenclyffe »."
+      }
+    ]
+    },
+    "en": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "In which area did Nikola Tesla mainly work ?",
+        "propositions": [
+          "IT",
+          "Ufology",
+          "Chemistry",
+          "Electricity"
+        ],
+        "réponse": "Electricity",
+        "anecdote": "Nikola Tesla indeed worked mainly in the field of electricity, but was also a mechanical engineer."
+      },
+      {
+        "id": 2,
+        "question": "Who did Nikola Tesla work with after emigrating to the United States in 1884 ?",
+        "propositions": [
+          "James Cash Jr.",
+          "Bob Wright",
+          "Thomas Edison",
+          "Nela Park"
+        ],
+        "réponse": "Thomas Edison",
+        "anecdote": "Tesla proposed alternating current, which would solve many problems, while Edison remained an advocate of direct current."
+      },
+      {
+        "id": 3,
+        "question": "About how many patents has Nikola Tesla filed in his lifetime ?",
+        "propositions": [
+          "300",
+          "200",
+          "400",
+          "100"
+        ],
+        "réponse": "300",
+        "anecdote": "Many of these patents dealing with methods of approaching energy conversion are wrongly attributed to Thomas Edison."
+      },
+      {
+        "id": 4,
+        "question": "What name was given to the international magnetic induction unit ?",
+        "propositions": [
+          "Ohm",
+          "Volt",
+          "Tesla",
+          "Hertz"
+        ],
+        "réponse": "Tesla",
+        "anecdote": "The presence of the magnetic field results in the existence of a force acting on the moving electric charges."
+      },
+      {
+        "id": 5,
+        "question": "What nationality did Nikola Tesla declare before being naturalized as an American ?",
+        "propositions": [
+          "Switzerland",
+          "Polish",
+          "Russian",
+          "Austrian"
+        ],
+        "réponse": "Austrian",
+        "anecdote": "Tesla was born on July 10, 1856, in Smiljan, in the military confines of the Austrian Empire, penultimate of a family of five children."
+      },
+      {
+        "id": 6,
+        "question": "Become multilingual, how many languages did Nikola Tesla speak ?",
+        "propositions": [
+          "Seven",
+          "Eight",
+          "Five",
+          "Six"
+        ],
+        "réponse": "Eight",
+        "anecdote": "Tesla spoke Czech, English, French, German, Hungarian, Italian and Latin in addition to his native language, Serbo-Croatian."
+      },
+      {
+        "id": 7,
+        "question": "With what type of current did Nikola Tesla revolutionize electricity ?",
+        "propositions": [
+          "Structured",
+          "Alternative",
+          "Bi-polar",
+          "Continuous"
+        ],
+        "réponse": "Alternative",
+        "anecdote": "Alternating current (which can be abbreviated as AC) is a periodic electric current that changes direction twice per period."
+      },
+      {
+        "id": 8,
+        "question": "Which Tesla electric machine achieves very high voltages ?",
+        "propositions": [
+          "Tesla coil",
+          "Switch",
+          "Regulator",
+          "Transponder"
+        ],
+        "réponse": "Tesla coil",
+        "anecdote": "The Tesla coil is still used today in one form or another in some radio or television receivers."
+      },
+      {
+        "id": 9,
+        "question": "Which Tesla device will later be installed on ships ?",
+        "propositions": [
+          "Meteofax",
+          "Coil",
+          "Anemometer",
+          "Radar"
+        ],
+        "réponse": "Radar",
+        "anecdote": "In 1934, following a study of the magnetron, short-wave tests were carried out by the CSF according to Tesla's principles."
+      },
+      {
+        "id": 10,
+        "question": "To whom have many of Nikola Tesla's inventions been wrongly attributed ?",
+        "propositions": [
+          "Paul Dimo",
+          "Thomas Edison",
+          "André Blondel",
+          "George Westinghouse"
+        ],
+        "réponse": "Thomas Edison",
+        "anecdote": "Tesla is, among other things, the author of the asynchronous electric motor, the polyphase alternator and the three-phase star assembly."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "In what year did the genius and visionary Nikola Tesla come into being ?",
+        "propositions": [
+          "1856",
+          "1916",
+          "1946",
+          "1886"
+        ],
+        "réponse": "1856",
+        "anecdote": "Born into a Serbian Orthodox family in Croatia, proud of his origins, Tesla has always claimed his Serbian and Croatian ancestry."
+      },
+      {
+        "id": 12,
+        "question": "Which collaborator registered many of Nikola Tesla's patents ?",
+        "propositions": [
+          "Joseph Jaspar",
+          "Max Mathews",
+          "George Westinghouse",
+          "Walter Reichel"
+        ],
+        "réponse": "George Westinghouse",
+        "anecdote": "George Westinghouse is also recognized for his contributions to the railway and telephone industries."
+      },
+      {
+        "id": 13,
+        "question": "Inventor of genius, how did Nikola Tesla prefer to define himself ?",
+        "propositions": [
+          "Discoverer",
+          "Creator",
+          "Backpacker",
+          "Observer"
+        ],
+        "réponse": "Discoverer",
+        "anecdote": "Nikola Tesla is recognized as one of the most creative engineers of the late 19th and early 20th centuries."
+      },
+      {
+        "id": 14,
+        "question": "What war started between Westinghouse-Tesla and Edison ?",
+        "propositions": [
+          "Ohm",
+          "Waves",
+          "Currents",
+          "Volt"
+        ],
+        "réponse": "Currents",
+        "anecdote": "This technical and industrial controversy, sometimes called the battle of the currents, took place in the late 1880s."
+      },
+      {
+        "id": 15,
+        "question": "What object was invented following a lobbying campaign led by Edison ?",
+        "propositions": [
+          "Taser",
+          "Polygraph",
+          "Bulb",
+          "Electric chair"
+        ],
+        "réponse": "Electric chair",
+        "anecdote": "Thomas Edison hired Harold P."
+      },
+      {
+        "id": 16,
+        "question": "In which film does the Tesla coil allow you to clone objects and living things ?",
+        "propositions": [
+          "Insomnia",
+          "Memento",
+          "The Prestige",
+          "Inception"
+        ],
+        "réponse": "The Prestige",
+        "anecdote": "The scenes showing Nikola Tesla's machine were filmed at the Mount Wilson Observatory and other scenes in Colorado Springs."
+      },
+      {
+        "id": 17,
+        "question": "By what concept did Tesla want to connect machines and the wheels of nature ?",
+        "propositions": [
+          "Transience",
+          "Free energy",
+          "Elastic energy",
+          "Total energy"
+        ],
+        "réponse": "Free energy",
+        "anecdote": "« In a few generations our machines will be powered by energy available from all over the universe \u003c/I\u003e (1892)."
+      },
+      {
+        "id": 18,
+        "question": "In what year did Tesla die in his hotel room, alone and penniless ?",
+        "propositions": [
+          "1943",
+          "1933",
+          "1923",
+          "1913"
+        ],
+        "réponse": "1943",
+        "anecdote": "Nikola Tesla received a state funeral on January 17, 1943 in New York's Theologian Cathedral."
+      },
+      {
+        "id": 19,
+        "question": "Who was able to recover Tesla's funeral urn and documents after his death ?",
+        "propositions": [
+          "His father",
+          "Her brother",
+          "Her nephew",
+          "His wife"
+        ],
+        "réponse": "Her nephew",
+        "anecdote": "Thanks to Sava Kosanovic, her nephew, the urn and the documents are now kept in the Nikola Tesla Museum in Belgrade, Serbia."
+      },
+      {
+        "id": 20,
+        "question": "In which TV series do Tesla's inventions play an important role ?",
+        "propositions": [
+          "Andromeda",
+          "Caprica",
+          "Z Nation",
+          "Warehouse 13"
+        ],
+        "réponse": "Warehouse 13",
+        "anecdote": "Warehouse officers' weapon 13, an electric stun gun, is named after Tesla, who is said to be its inventor."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Which Polytechnic did Nikola Tesla enter in 1875 ?",
+        "propositions": [
+          "Graz",
+          "Salzburg",
+          "Vienna",
+          "Wachau"
+        ],
+        "réponse": "Graz",
+        "anecdote": "He studied mathematics, physics and mechanics there, thanks to a scholarship awarded by the administration of Military Borders."
+      },
+      {
+        "id": 22,
+        "question": "By what Austrian physicist was Nikola Tesla influenced in 1880 ?",
+        "propositions": [
+          "Ernst Mach",
+          "Jürgen Ehlers",
+          "Hendrik Lorentz",
+          "David Hilbert"
+        ],
+        "réponse": "Ernst Mach",
+        "anecdote": "Following the death of his father, Nikola Tesla left Charles University in Prague, having only studied there for one semester."
+      },
+      {
+        "id": 23,
+        "question": "To whom would Tesla have sold the plans for his directed energy weapon ?",
+        "propositions": [
+          "To the Americans",
+          "To the Russians",
+          "To the Serbs",
+          "To the Germans"
+        ],
+        "réponse": "To the Russians",
+        "anecdote": "The weapon was not further developed, and it can therefore be deduced that, if the rumor is true, the weapon was never operational."
+      },
+      {
+        "id": 24,
+        "question": "What profession did Milutin Tesla, the father of the famous Nikola Tesla, exercise ?",
+        "propositions": [
+          "Mechanic",
+          "Sculptor",
+          "Priest",
+          "Lawyer"
+        ],
+        "réponse": "Priest",
+        "anecdote": "His mother was good at making handcrafted tools and, although illiterate, at memorizing Serbian poems."
+      },
+      {
+        "id": 25,
+        "question": "Ruined, what job did Nikola Tesla exercise on the streets of New York ?",
+        "propositions": [
+          "Storekeeper",
+          "Terrassier",
+          "Tile washer",
+          "Bus driver"
+        ],
+        "réponse": "Terrassier",
+        "anecdote": "Having put all his savings in his company, Tesla is ruined, especially since his associates keep the enjoyment of his patents."
+      },
+      {
+        "id": 26,
+        "question": "For what amount did Westinghouse buy Tesla's rights and patents ?",
+        "propositions": [
+          "$ 432,000",
+          "$ 648,000",
+          "$ 216,000",
+          "$ 864,000"
+        ],
+        "réponse": "$ 216,000",
+        "anecdote": "In 1893, the Westinghouse company succeeded in obtaining the contract to install all the electrical infrastructure of the USA."
+      },
+      {
+        "id": 27,
+        "question": "What name did Tesla give in 1898 to its radio-controlled boat ?",
+        "propositions": [
+          "Navycommand",
+          "Teslaboat",
+          "Radiobato",
+          "Teleautomaton"
+        ],
+        "réponse": "Teleautomaton",
+        "anecdote": "The device is causing a sensation, and some consider it to be moved by Tesla's mind or piloted by a learned monkey hidden inside."
+      },
+      {
+        "id": 28,
+        "question": "What did the latest patent filed by Nikola Tesla in 1928 relate to ?",
+        "propositions": [
+          "Camera",
+          "Lamp",
+          "Radar",
+          "Biplane"
+        ],
+        "réponse": "Biplane",
+        "anecdote": "Nowadays, this type of aircraft is sometimes called hybrid or convertible, especially in the case of aircraft with tilting engines."
+      },
+      {
+        "id": 29,
+        "question": "What scientific medal did Nikola Tesla obtain in 1934 ?",
+        "propositions": [
+          "John Scott",
+          "David Gibbons",
+          "Alfred Welby",
+          "Roy McKenzie"
+        ],
+        "réponse": "John Scott",
+        "anecdote": "Prestigious award given to scientists since 1816, Marconi obtained it in 1931 and Edison in 1889 and 1929."
+      },
+      {
+        "id": 30,
+        "question": "Which novelist has dedicated two works to Nikola Tesla ?",
+        "propositions": [
+          "Suzanne Prou",
+          "Virginie Despentes",
+          "Annie Ernaux",
+          "Martine Le Coz"
+        ],
+        "réponse": "Martine Le Coz",
+        "anecdote": "His biography, « The Electric Man  », returning to the scientific path of man and a graphic novel, « La Tour de Wardenclyffe »."
+      }
+    ]
+    },
+    "de": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "In welchem \u200b\u200bBereich hat Nikola Tesla hauptsächlich gearbeitet ?",
+        "propositions": [
+          "Chemie",
+          "Ufologie",
+          "IT",
+          "Strom"
+        ],
+        "réponse": "Strom",
+        "anecdote": "Nikola Tesla arbeitete zwar hauptsächlich im Bereich Elektrizität, war aber auch Maschinenbauingenieur."
+      },
+      {
+        "id": 2,
+        "question": "Mit wem arbeitete Nikola Tesla nach seiner Auswanderung in die USA im Jahr 1884 zusammen ?",
+        "propositions": [
+          "Thomas Edison",
+          "James Cash Jr.",
+          "Bob Wright",
+          "Nela Park"
+        ],
+        "réponse": "Thomas Edison",
+        "anecdote": "Tesla schlug Wechselstrom vor, der viele Probleme lösen würde, während Edison ein Befürworter des Gleichstroms blieb."
+      },
+      {
+        "id": 3,
+        "question": "Wie viele Patente hat Nikola Tesla in seinem Leben angemeldet ?",
+        "propositions": [
+          "100",
+          "400",
+          "300",
+          "200"
+        ],
+        "réponse": "300",
+        "anecdote": "Viele dieser Patente, die sich mit Methoden zur Annäherung an die Energieumwandlung befassen, werden fälschlicherweise Thomas Edison zugeschrieben."
+      },
+      {
+        "id": 4,
+        "question": "Wie wurde die internationale magnetische Induktionseinheit benannt ?",
+        "propositions": [
+          "Tesla",
+          "Volt",
+          "Hertz",
+          "Ohm"
+        ],
+        "réponse": "Tesla",
+        "anecdote": "Das Vorhandensein des Magnetfelds führt zum Vorhandensein einer Kraft, die auf die sich bewegenden elektrischen Ladungen wirkt."
+      },
+      {
+        "id": 5,
+        "question": "Welche Nationalität hat Nikola Tesla erklärt, bevor er als Amerikaner eingebürgert wurde ?",
+        "propositions": [
+          "Schweiz",
+          "Österreicher",
+          "Polnisch",
+          "Russisch"
+        ],
+        "réponse": "Österreicher",
+        "anecdote": "Tesla wurde am 10."
+      },
+      {
+        "id": 6,
+        "question": "Mehrsprachig werden, wie viele Sprachen sprach Nikola Tesla ?",
+        "propositions": [
+          "Fünf",
+          "Acht",
+          "Sechs",
+          "Sieben"
+        ],
+        "réponse": "Acht",
+        "anecdote": "Tesla sprach neben seiner Muttersprache Serbokroatisch Tschechisch, Englisch, Französisch, Deutsch, Ungarisch, Italienisch und Latein."
+      },
+      {
+        "id": 7,
+        "question": "Mit welcher Art von Strom hat Nikola Tesla die Elektrizität revolutioniert ?",
+        "propositions": [
+          "Strukturiert",
+          "Alternative",
+          "Bipolar",
+          "Kontinuierlich"
+        ],
+        "réponse": "Alternative",
+        "anecdote": "Wechselstrom (der als Wechselstrom abgekürzt werden kann) ist ein periodischer elektrischer Strom, der zweimal pro Periode die Richtung ändert."
+      },
+      {
+        "id": 8,
+        "question": "Welche Tesla-Elektromaschine erreicht sehr hohe Spannungen ?",
+        "propositions": [
+          "Tesla-Spule",
+          "Schalter",
+          "Transponder",
+          "Regler"
+        ],
+        "réponse": "Tesla-Spule",
+        "anecdote": "Die Tesla-Spule wird heute noch in der einen oder anderen Form in einigen Radio- oder Fernsehempfängern verwendet."
+      },
+      {
+        "id": 9,
+        "question": "Welches Tesla-Gerät wird später auf Schiffen installiert ?",
+        "propositions": [
+          "Meteofax",
+          "Radar",
+          "Windmesser",
+          "Spule"
+        ],
+        "réponse": "Radar",
+        "anecdote": "Nach einer Untersuchung des Magnetrons wurden 1934 vom CSF Kurzwellentests nach Teslas Prinzipien durchgeführt."
+      },
+      {
+        "id": 10,
+        "question": "Wem wurden viele Erfindungen von Nikola Tesla fälschlicherweise zugeschrieben ?",
+        "propositions": [
+          "Paul Dimo",
+          "George Westinghouse",
+          "Thomas Edison",
+          "André Blondel"
+        ],
+        "réponse": "Thomas Edison",
+        "anecdote": "Tesla ist unter anderem der Autor des asynchronen Elektromotors, des Mehrphasengenerators und der Dreiphasensternbaugruppe."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "In welchem Jahr entstand das Genie und Visionär Nikola Tesla ?",
+        "propositions": [
+          "1886",
+          "1916",
+          "1946",
+          "1856"
+        ],
+        "réponse": "1856",
+        "anecdote": "Tesla wurde in eine serbisch-orthodoxe Familie in Kroatien geboren und ist stolz auf seine Herkunft. Er hat immer seine serbische und kroatische Abstammung behauptet."
+      },
+      {
+        "id": 12,
+        "question": "Welcher Mitarbeiter hat viele Patente von Nikola Tesla angemeldet ?",
+        "propositions": [
+          "George Westinghouse",
+          "Max Mathews",
+          "Walter Reichel",
+          "Joseph Jaspar"
+        ],
+        "réponse": "George Westinghouse",
+        "anecdote": "George Westinghouse ist auch für seine Beiträge zur Eisenbahn- und Telefonindustrie bekannt."
+      },
+      {
+        "id": 13,
+        "question": "Erfinder des Genies, wie hat Nikola Tesla es vorgezogen, sich selbst zu definieren ?",
+        "propositions": [
+          "Beobachter",
+          "Backpacker",
+          "Entdecker",
+          "Schöpfer"
+        ],
+        "réponse": "Entdecker",
+        "anecdote": "Nikola Tesla gilt als einer der kreativsten Ingenieure des späten 19."
+      },
+      {
+        "id": 14,
+        "question": "Welcher Krieg begann zwischen Westinghouse-Tesla und Edison ?",
+        "propositions": [
+          "Strömungen",
+          "Volt",
+          "Ohm",
+          "Wellen"
+        ],
+        "réponse": "Strömungen",
+        "anecdote": "Diese technische und industrielle Kontroverse, manchmal auch als Kampf der Strömungen bezeichnet, fand Ende der 1880er Jahre statt."
+      },
+      {
+        "id": 15,
+        "question": "Welches Objekt wurde nach einer von Edison geleiteten Lobbykampagne erfunden ?",
+        "propositions": [
+          "Polygraph",
+          "Taser",
+          "Elektrischer Stuhl",
+          "Glühbirne"
+        ],
+        "réponse": "Elektrischer Stuhl",
+        "anecdote": "Zu diesem Zweck beauftragte Thomas Edison Harold P."
+      },
+      {
+        "id": 16,
+        "question": "In welchem Film können Sie mit der Tesla-Spule Objekte und Lebewesen klonen ?",
+        "propositions": [
+          "Andenken",
+          "Das Prestige",
+          "Inception",
+          "Schlaflosigkeit"
+        ],
+        "réponse": "Das Prestige",
+        "anecdote": "Die Szenen mit Nikola Teslas Maschine wurden am Mount Wilson Observatory und anderen Szenen in Colorado Springs gedreht."
+      },
+      {
+        "id": 17,
+        "question": "Nach welchem \u200b\u200bKonzept wollte Tesla Maschinen und Räder der Natur verbinden ?",
+        "propositions": [
+          "Gesamtenergie",
+          "Freie Energie",
+          "Vergänglichkeit",
+          "Elastische Energie"
+        ],
+        "réponse": "Freie Energie",
+        "anecdote": "« In einigen Generationen werden unsere Maschinen mit Energie aus dem gesamten Universum betrieben » (1892)."
+      },
+      {
+        "id": 18,
+        "question": "In welchem Jahr starb Tesla allein und mittellos in seinem Hotelzimmer ?",
+        "propositions": [
+          "1933",
+          "1943",
+          "1923",
+          "1913"
+        ],
+        "réponse": "1943",
+        "anecdote": "Nikola Tesla erhielt am 17. Januar 1943 ein Staatsbegräbnis in der Kathedrale des Heiligen Johannes des Theologen in New York."
+      },
+      {
+        "id": 19,
+        "question": "Wer konnte Teslas Urne und Dokumente nach seinem Tod wiederherstellen ?",
+        "propositions": [
+          "Ihr Bruder",
+          "Sein Vater",
+          "Ihr Neffe",
+          "Seine Frau"
+        ],
+        "réponse": "Ihr Neffe",
+        "anecdote": "Dank Sava Kosanovic, ihrem Neffen, werden die Urne und die Dokumente jetzt im Nikola Tesla Museum in Belgrad, Serbien, aufbewahrt."
+      },
+      {
+        "id": 20,
+        "question": "In welchen Fernsehserien spielen Teslas Erfindungen eine wichtige Rolle ?",
+        "propositions": [
+          "Caprica",
+          "Z Nation",
+          "Lager 13",
+          "Andromeda"
+        ],
+        "réponse": "Lager 13",
+        "anecdote": "Die Waffe 13 der Lageroffiziere, ein elektrischer Elektroschocker, ist nach Tesla benannt, der ihr Erfinder sein soll."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Welches Polytechnikum hat Nikola Tesla 1875 betreten ?",
+        "propositions": [
+          "Wachau",
+          "Wien",
+          "Graz",
+          "Salzburg"
+        ],
+        "réponse": "Graz",
+        "anecdote": "Dort studierte er Mathematik, Physik und Mechanik dank eines Stipendiums der Administration of Military Borders."
+      },
+      {
+        "id": 22,
+        "question": "Von welchem \u200b\u200bösterreichischen Physiker wurde Nikola Tesla 1880 beeinflusst ?",
+        "propositions": [
+          "Ernst Mach",
+          "David Hilbert",
+          "Hendrik Lorentz",
+          "Jürgen Ehlers"
+        ],
+        "réponse": "Ernst Mach",
+        "anecdote": "Nach dem Tod seines Vaters verließ Nikola Tesla die Karlsuniversität in Prag, nachdem er dort nur ein Semester studiert hatte."
+      },
+      {
+        "id": 23,
+        "question": "An wen hätte Tesla die Pläne für seine gezielte Energiewaffe verkauft ?",
+        "propositions": [
+          "An die Russen",
+          "An die Deutschen",
+          "An die Amerikaner",
+          "An die Serben"
+        ],
+        "réponse": "An die Russen",
+        "anecdote": "Die Waffe wurde nicht weiterentwickelt, und es kann daher gefolgert werden, dass die Waffe, wenn das Gerücht wahr ist, nie einsatzbereit war."
+      },
+      {
+        "id": 24,
+        "question": "Welchen Beruf übte Milutin Tesla, der Vater des berühmten Nikola Tesla, aus ?",
+        "propositions": [
+          "Mechaniker",
+          "Rechtsanwalt",
+          "Priester",
+          "Bildhauer"
+        ],
+        "réponse": "Priester",
+        "anecdote": "Seine Mutter war gut darin, handgefertigte Werkzeuge herzustellen und, obwohl sie Analphabetin war, serbische Gedichte auswendig zu lernen."
+      },
+      {
+        "id": 25,
+        "question": "Ruiniert, welchen Job hat Nikola Tesla auf den Straßen von New York ausgeübt ?",
+        "propositions": [
+          "Terrassier",
+          "Ladenbesitzer",
+          "Fliesenscheibe",
+          "Busfahrer"
+        ],
+        "réponse": "Terrassier",
+        "anecdote": "Nachdem Tesla alle seine Ersparnisse in sein Unternehmen gesteckt hat, ist er ruiniert, zumal seine Mitarbeiter den Genuss seiner Patente behalten."
+      },
+      {
+        "id": 26,
+        "question": "Für welchen Betrag hat Westinghouse Teslas Rechte und Patente gekauft ?",
+        "propositions": [
+          "432.000 USD",
+          "216.000 USD",
+          "$ 648.000",
+          "864.000 USD"
+        ],
+        "réponse": "216.000 USD",
+        "anecdote": "1893 gelang es der Firma Westinghouse, den Auftrag zur Installation der gesamten elektrischen Infrastruktur der USA zu erhalten."
+      },
+      {
+        "id": 27,
+        "question": "Welchen Namen gab Tesla 1898 seinem ferngesteuerten Boot ?",
+        "propositions": [
+          "Marinebefehl",
+          "Teslaboat",
+          "Radiobato",
+          "Teleautomaton"
+        ],
+        "réponse": "Teleautomaton",
+        "anecdote": "Das Gerät verursacht eine Sensation, und einige betrachten es als von Teslas Verstand bewegt oder von einem gelehrten Affen gesteuert, der darin versteckt ist."
+      },
+      {
+        "id": 28,
+        "question": "Worauf bezog sich das letzte 1928 von Nikola Tesla eingereichte Patent ?",
+        "propositions": [
+          "Kamera",
+          "Doppeldecker",
+          "Lampe",
+          "Radar"
+        ],
+        "réponse": "Doppeldecker",
+        "anecdote": "Heutzutage wird dieser Flugzeugtyp manchmal als Hybrid oder Cabrio bezeichnet, insbesondere bei Flugzeugen mit kippbaren Triebwerken."
+      },
+      {
+        "id": 29,
+        "question": "Welche wissenschaftliche Medaille erhielt Nikola Tesla 1934 ?",
+        "propositions": [
+          "John Scott",
+          "Roy McKenzie",
+          "Alfred Welby",
+          "David Gibbons"
+        ],
+        "réponse": "John Scott",
+        "anecdote": "Marconi wurde seit 1816 an Wissenschaftler verliehen und erhielt sie 1931 und Edison 1889 und 1929."
+      },
+      {
+        "id": 30,
+        "question": "Welcher Schriftsteller hat Nikola Tesla zwei Werke gewidmet ?",
+        "propositions": [
+          "Annie Ernaux",
+          "Suzanne Prou",
+          "Virginie Despentes",
+          "Martine Le Coz"
+        ],
+        "réponse": "Martine Le Coz",
+        "anecdote": "Seine Biografie « The Electric Man » kehrt auf den wissenschaftlichen Weg des Menschen zurück und ein Graphic Novel « La Tour de Wardenclyffe »."
+      }
+    ]
+    },
+    "es": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "¿En qué área trabajó principalmente Nikola Tesla ?",
+        "propositions": [
+          "IT",
+          "Quimica",
+          "Electricidad",
+          "Ufología"
+        ],
+        "réponse": "Electricidad",
+        "anecdote": "De hecho, Nikola Tesla trabajó principalmente en el campo de la electricidad, pero también fue ingeniero mecánico."
+      },
+      {
+        "id": 2,
+        "question": "¿Con quién trabajó Nikola Tesla después de emigrar a los Estados Unidos en 1884 ?",
+        "propositions": [
+          "Bob Wright",
+          "Nela Park",
+          "Thomas Edison",
+          "James Cash Jr."
+        ],
+        "réponse": "Thomas Edison",
+        "anecdote": "Tesla propuso corriente alterna, que resolvería muchos problemas, mientras que Edison seguía abogando por la corriente continua."
+      },
+      {
+        "id": 3,
+        "question": "¿Aproximadamente cuántas patentes ha presentado Nikola Tesla en su vida ?",
+        "propositions": [
+          "300",
+          "200",
+          "400",
+          "100"
+        ],
+        "réponse": "300",
+        "anecdote": "Muchas de estas patentes que tratan sobre métodos para acercarse a la conversión de energía se atribuyen erróneamente a Thomas Edison."
+      },
+      {
+        "id": 4,
+        "question": "¿Qué nombre se le dio a la unidad internacional de inducción magnética ?",
+        "propositions": [
+          "Tesla",
+          "Voltios",
+          "Ohm",
+          "Hertz"
+        ],
+        "réponse": "Tesla",
+        "anecdote": "La presencia del campo magnético da como resultado la existencia de una fuerza que actúa sobre las cargas eléctricas en movimiento."
+      },
+      {
+        "id": 5,
+        "question": "¿Qué nacionalidad declaró Nikola Tesla antes de naturalizarse como estadounidense ?",
+        "propositions": [
+          "Ruso",
+          "Polaco",
+          "Suiza",
+          "Austriaco"
+        ],
+        "réponse": "Austriaco",
+        "anecdote": "Tesla nació el 10 de julio de 1856 en Smiljan, en los confines militares del Imperio austríaco, penúltimo de una familia de cinco hijos."
+      },
+      {
+        "id": 6,
+        "question": "Conviértete en multilingüe, ¿cuántos idiomas hablaba Nikola Tesla ?",
+        "propositions": [
+          "Siete",
+          "Seis",
+          "Cinco",
+          "Ocho"
+        ],
+        "réponse": "Ocho",
+        "anecdote": "Tesla hablaba checo, inglés, francés, alemán, húngaro, italiano y latín además de su lengua materna, el serbocroata."
+      },
+      {
+        "id": 7,
+        "question": "¿Con qué tipo de corriente Nikola Tesla revolucionó la electricidad ?",
+        "propositions": [
+          "Alternativa",
+          "Bipolar",
+          "Estructurado",
+          "Continuo"
+        ],
+        "réponse": "Alternativa",
+        "anecdote": "La corriente alterna (que se puede abreviar como CA) es una corriente eléctrica periódica que cambia de dirección dos veces por período."
+      },
+      {
+        "id": 8,
+        "question": "¿Qué máquina eléctrica Tesla alcanza voltajes muy altos ?",
+        "propositions": [
+          "Interruptor",
+          "Bobina de Tesla",
+          "Transpondedor",
+          "Regulador"
+        ],
+        "réponse": "Bobina de Tesla",
+        "anecdote": "La bobina Tesla todavía se usa hoy en día de una forma u otra en algunos receptores de radio o televisión."
+      },
+      {
+        "id": 9,
+        "question": "¿Qué dispositivo Tesla se instalará más tarde en los barcos ?",
+        "propositions": [
+          "Bobina",
+          "Anemómetro",
+          "Meteofax",
+          "Radar"
+        ],
+        "réponse": "Radar",
+        "anecdote": "En 1934, después de un estudio del magnetrón, el CSF realizó pruebas de onda corta de acuerdo con los principios de Tesla."
+      },
+      {
+        "id": 10,
+        "question": "¿A quién se han atribuido erróneamente muchos de los inventos de Nikola Tesla ?",
+        "propositions": [
+          "André Blondel",
+          "George Westinghouse",
+          "Thomas Edison",
+          "Paul Dimo"
+        ],
+        "réponse": "Thomas Edison",
+        "anecdote": "Tesla es, entre otras cosas, el autor del motor eléctrico asíncrono, el alternador polifásico y el conjunto de estrella trifásica."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "¿En qué año nació el genio y visionario Nikola Tesla ?",
+        "propositions": [
+          "1946",
+          "1916",
+          "1856",
+          "1886"
+        ],
+        "réponse": "1856",
+        "anecdote": "Nacido en una familia ortodoxa serbia en Croacia, orgulloso de sus orígenes, Tesla siempre ha reivindicado su ascendencia serbia y croata."
+      },
+      {
+        "id": 12,
+        "question": "¿Qué colaborador registró muchas de las patentes de Nikola Tesla ?",
+        "propositions": [
+          "Joseph Jaspar",
+          "Walter Reichel",
+          "Max Mathews",
+          "George Westinghouse"
+        ],
+        "réponse": "George Westinghouse",
+        "anecdote": "George Westinghouse también es reconocido por sus contribuciones a las industrias ferroviaria y telefónica."
+      },
+      {
+        "id": 13,
+        "question": "Inventor del genio, ¿cómo prefirió Nikola Tesla definirse a sí mismo ?",
+        "propositions": [
+          "Observador",
+          "Descubridor",
+          "Creador",
+          "Mochilero"
+        ],
+        "réponse": "Descubridor",
+        "anecdote": "Nikola Tesla es reconocido como uno de los ingenieros más creativos de finales del siglo XIX y principios del XX."
+      },
+      {
+        "id": 14,
+        "question": "¿Qué guerra comenzó entre Westinghouse-Tesla y Edison ?",
+        "propositions": [
+          "Ohm",
+          "Olas",
+          "Corrientes",
+          "Voltios"
+        ],
+        "réponse": "Corrientes",
+        "anecdote": "Esta controversia técnica e industrial, a veces llamada la batalla de las corrientes, tuvo lugar a fines de la década de 1880."
+      },
+      {
+        "id": 15,
+        "question": "¿Qué objeto se inventó después de una campaña de cabildeo dirigida por Edison ?",
+        "propositions": [
+          "Polígrafo",
+          "Taser",
+          "Silla electrica",
+          "Bombilla"
+        ],
+        "réponse": "Silla electrica",
+        "anecdote": "Thomas Edison contrató a Harold P."
+      },
+      {
+        "id": 16,
+        "question": "¿En qué película la bobina Tesla te permite clonar objetos y seres vivos ?",
+        "propositions": [
+          "Inicio",
+          "Insomnio",
+          "El prestigio",
+          "Recuerdo"
+        ],
+        "réponse": "El prestigio",
+        "anecdote": "Las escenas que muestran la máquina de Nikola Tesla fueron filmadas en el Observatorio Mount Wilson y otras escenas en Colorado Springs."
+      },
+      {
+        "id": 17,
+        "question": "¿Con qué concepto quería Tesla conectar máquinas y las ruedas de la naturaleza ?",
+        "propositions": [
+          "Energía total",
+          "Energía libre",
+          "Fugacidad",
+          "Energía elástica"
+        ],
+        "réponse": "Energía libre",
+        "anecdote": "« En unas pocas generaciones, nuestras máquinas funcionarán con energía disponible de todo el universo \u003c/I\u003e (1892)."
+      },
+      {
+        "id": 18,
+        "question": "¿En qué año murió Tesla en su habitación de hotel, solo y sin dinero ?",
+        "propositions": [
+          "1943",
+          "1913",
+          "1933",
+          "1923"
+        ],
+        "réponse": "1943",
+        "anecdote": "Nikola Tesla recibió un funeral de estado el 17 de enero de 1943 en la Catedral Teológica de Nueva York."
+      },
+      {
+        "id": 19,
+        "question": "¿Quién pudo recuperar la urna funeraria y los documentos de Tesla después de su muerte ?",
+        "propositions": [
+          "Su padre",
+          "Su esposa",
+          "Su hermano",
+          "Su sobrino"
+        ],
+        "réponse": "Su sobrino",
+        "anecdote": "Gracias a Sava Kosanovic, su sobrino, la urna y los documentos ahora se guardan en el Museo Nikola Tesla en Belgrado, Serbia."
+      },
+      {
+        "id": 20,
+        "question": "¿En qué serie de televisión juegan los inventos de Tesla un papel importante ?",
+        "propositions": [
+          "Caprica",
+          "Andromeda",
+          "Nación Z",
+          "Almacén 13"
+        ],
+        "réponse": "Almacén 13",
+        "anecdote": "El arma 13 de los oficiales del almacén, una pistola eléctrica para aturdir, lleva el nombre de Tesla, de quien se dice que es su inventor."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "¿En qué Politécnico entró Nikola Tesla en 1875 ?",
+        "propositions": [
+          "Wachau",
+          "Viena",
+          "Salzburgo",
+          "Graz"
+        ],
+        "réponse": "Graz",
+        "anecdote": "Estudió matemáticas, física y mecánica allí, gracias a una beca otorgada por la administración de fronteras militares."
+      },
+      {
+        "id": 22,
+        "question": "¿En qué físico austríaco fue influenciado Nikola Tesla en 1880 ?",
+        "propositions": [
+          "Hendrik Lorentz",
+          "Jürgen Ehlers",
+          "David Hilbert",
+          "Ernst Mach"
+        ],
+        "réponse": "Ernst Mach",
+        "anecdote": "Después de la muerte de su padre, Nikola Tesla dejó la Universidad Charles en Praga y solo estudió allí durante un semestre."
+      },
+      {
+        "id": 23,
+        "question": "¿A quién le habría vendido Tesla los planes para su arma de energía dirigida ?",
+        "propositions": [
+          "A los alemanes",
+          "A los serbios",
+          "A los rusos",
+          "A los estadounidenses"
+        ],
+        "réponse": "A los rusos",
+        "anecdote": "El arma no se desarrolló más y, por lo tanto, se puede deducir que, si el rumor es cierto, el arma nunca estuvo operativa."
+      },
+      {
+        "id": 24,
+        "question": "¿Qué profesión ejerció Milutin Tesla, el padre del famoso Nikola Tesla ?",
+        "propositions": [
+          "Abogado",
+          "Sacerdote",
+          "Escultor",
+          "Mecánico"
+        ],
+        "réponse": "Sacerdote",
+        "anecdote": "Su madre era buena para hacer herramientas artesanales y, aunque analfabeta, para memorizar poemas serbios."
+      },
+      {
+        "id": 25,
+        "question": "Arruinado, ¿qué trabajo ejerció Nikola Tesla en las calles de Nueva York ?",
+        "propositions": [
+          "Conductor de autobús",
+          "Lavadora de azulejos",
+          "Terrassier",
+          "Almacenista"
+        ],
+        "réponse": "Terrassier",
+        "anecdote": "Después de haber puesto todos sus ahorros en su empresa, Tesla se arruina, especialmente porque sus asociados conservan el disfrute de sus patentes."
+      },
+      {
+        "id": 26,
+        "question": "¿Por qué cantidad compró Westinghouse los derechos y las patentes de Tesla ?",
+        "propositions": [
+          "$ 864,000",
+          "$ 432,000",
+          "$ 648,000",
+          "$ 216,000"
+        ],
+        "réponse": "$ 216,000",
+        "anecdote": "En 1893, la compañía Westinghouse logró obtener el contrato para instalar toda la infraestructura eléctrica de los Estados Unidos."
+      },
+      {
+        "id": 27,
+        "question": "¿Qué nombre le dio Tesla en 1898 a su barco controlado por radio ?",
+        "propositions": [
+          "Radiobato",
+          "Teleautomaton",
+          "Teslaboat",
+          "Navycommand"
+        ],
+        "réponse": "Teleautomaton",
+        "anecdote": "El dispositivo está causando sensación, y algunos consideran que es movido por la mente de Tesla o pilotado por un mono erudito escondido en su interior."
+      },
+      {
+        "id": 28,
+        "question": "¿Con qué se relaciona la última patente presentada por Nikola Tesla en 1928 ?",
+        "propositions": [
+          "Cámara",
+          "Biplano",
+          "Radar",
+          "Lampara"
+        ],
+        "réponse": "Biplano",
+        "anecdote": "Hoy en día, este tipo de aeronave a veces se llama híbrido o convertible, especialmente en el caso de aeronaves con motores basculantes."
+      },
+      {
+        "id": 29,
+        "question": "¿Qué medalla científica obtuvo Nikola Tesla en 1934 ?",
+        "propositions": [
+          "John Scott",
+          "Roy McKenzie",
+          "David Gibbons",
+          "Alfred Welby"
+        ],
+        "réponse": "John Scott",
+        "anecdote": "Prestigioso premio otorgado a científicos desde 1816, Marconi lo obtuvo en 1931 y Edison en 1889 y 1929."
+      },
+      {
+        "id": 30,
+        "question": "¿Qué novelista ha dedicado dos obras a Nikola Tesla ?",
+        "propositions": [
+          "Virginie Despentes",
+          "Martine Le Coz",
+          "Annie Ernaux",
+          "Suzanne Prou"
+        ],
+        "réponse": "Martine Le Coz",
+        "anecdote": "Su biografía, « The Electric Man », regresa al camino científico del hombre y una novela gráfica, « La Tour de Wardenclyffe »."
+      }
+    ]
+    },
+    "it": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "In quale area lavorava principalmente Nikola Tesla ?",
+        "propositions": [
+          "Elettricità",
+          "Ufologia",
+          "Chimica",
+          "IT"
+        ],
+        "réponse": "Elettricità",
+        "anecdote": "Nikola Tesla ha infatti lavorato principalmente nel campo dell'elettricità, ma era anche un ingegnere meccanico."
+      },
+      {
+        "id": 2,
+        "question": "Con chi ha lavorato Nikola Tesla dopo essere emigrato negli Stati Uniti nel 1884 ?",
+        "propositions": [
+          "Bob Wright",
+          "Thomas Edison",
+          "James Cash Jr.",
+          "Nela Park"
+        ],
+        "réponse": "Thomas Edison",
+        "anecdote": "Tesla propose una corrente alternata, che avrebbe risolto molti problemi, mentre Edison rimase un sostenitore della corrente continua."
+      },
+      {
+        "id": 3,
+        "question": "Di quanti brevetti ha depositato Nikola Tesla nella sua vita ?",
+        "propositions": [
+          "100",
+          "200",
+          "300",
+          "400"
+        ],
+        "réponse": "300",
+        "anecdote": "Molti di questi brevetti relativi ai metodi di approccio alla conversione energetica sono erroneamente attribuiti a Thomas Edison."
+      },
+      {
+        "id": 4,
+        "question": "Quale nome è stato dato all'unità internazionale di induzione magnetica ?",
+        "propositions": [
+          "Hertz",
+          "Tesla",
+          "Ohm",
+          "Volt"
+        ],
+        "réponse": "Tesla",
+        "anecdote": "La presenza del campo magnetico provoca l'esistenza di una forza che agisce sulle cariche elettriche in movimento."
+      },
+      {
+        "id": 5,
+        "question": "Di quale nazionalità ha dichiarato Nikola Tesla prima di essere naturalizzata come americana ?",
+        "propositions": [
+          "Polacco",
+          "Austriaco",
+          "Russo",
+          "Svizzera"
+        ],
+        "réponse": "Austriaco",
+        "anecdote": "Tesla nacque il 10 luglio 1856 a Smiljan, nei confini militari dell'Impero austriaco, penultimo di una famiglia di cinque figli."
+      },
+      {
+        "id": 6,
+        "question": "Diventa multilingue, quante lingue parlava Nikola Tesla ?",
+        "propositions": [
+          "Sei",
+          "Cinque",
+          "Sette",
+          "Otto"
+        ],
+        "réponse": "Otto",
+        "anecdote": "Tesla parlava ceco, inglese, francese, tedesco, ungherese, italiano e latino oltre alla sua lingua madre, il serbo-croato."
+      },
+      {
+        "id": 7,
+        "question": "Con quale tipo di corrente Nikola Tesla ha rivoluzionato l'elettricità ?",
+        "propositions": [
+          "Bipolare",
+          "Continuo",
+          "Alternativa",
+          "Strutturato"
+        ],
+        "réponse": "Alternativa",
+        "anecdote": "La corrente alternata (che può essere abbreviata come AC) è una corrente elettrica periodica che cambia direzione due volte per periodo."
+      },
+      {
+        "id": 8,
+        "question": "Quale macchina elettrica Tesla raggiunge tensioni molto elevate ?",
+        "propositions": [
+          "Regolatore",
+          "Transponder",
+          "Bobina di Tesla",
+          "Cambia"
+        ],
+        "réponse": "Bobina di Tesla",
+        "anecdote": "La bobina di Tesla è ancora oggi utilizzata in un modo o nell'altro in alcuni ricevitori radio o televisivi."
+      },
+      {
+        "id": 9,
+        "question": "Quale dispositivo Tesla verrà successivamente installato sulle navi ?",
+        "propositions": [
+          "Radar",
+          "Anemometro",
+          "Meteofax",
+          "Bobina"
+        ],
+        "réponse": "Radar",
+        "anecdote": "Nel 1934, a seguito di uno studio sul magnetron, il CSF eseguì test a onde corte secondo i principi di Tesla."
+      },
+      {
+        "id": 10,
+        "question": "A chi sono state erroneamente attribuite molte delle invenzioni di Nikola Tesla ?",
+        "propositions": [
+          "George Westinghouse",
+          "Paul Dimo",
+          "André Blondel",
+          "Thomas Edison"
+        ],
+        "réponse": "Thomas Edison",
+        "anecdote": "Tesla è, tra le altre cose, l'autore del motore elettrico asincrono, dell'alternatore polifase e dell'assemblaggio a stella trifase."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "In quale anno è nata la genialità e la visionaria Nikola Tesla ?",
+        "propositions": [
+          "1946",
+          "1916",
+          "1886",
+          "1856"
+        ],
+        "réponse": "1856",
+        "anecdote": "Nato da una famiglia serba ortodossa in Croazia, orgoglioso delle sue origini, Tesla ha sempre rivendicato la sua origine serba e croata."
+      },
+      {
+        "id": 12,
+        "question": "Quale collaboratore ha registrato molti dei brevetti di Nikola Tesla ?",
+        "propositions": [
+          "Walter Reichel",
+          "Joseph Jaspar",
+          "George Westinghouse",
+          "Max Mathews"
+        ],
+        "réponse": "George Westinghouse",
+        "anecdote": "George Westinghouse è anche riconosciuto per i suoi contributi alle industrie ferroviarie e telefoniche."
+      },
+      {
+        "id": 13,
+        "question": "Inventore del genio, come ha preferito Nikola Tesla a definirsi ?",
+        "propositions": [
+          "Creatore",
+          "Backpacker",
+          "Discoverer",
+          "Osservatore"
+        ],
+        "réponse": "Discoverer",
+        "anecdote": "Nikola Tesla è riconosciuta come uno degli ingegneri più creativi tra la fine del XIX e l'inizio del XX secolo."
+      },
+      {
+        "id": 14,
+        "question": "Quale guerra ebbe inizio tra Westinghouse-Tesla ed Edison ?",
+        "propositions": [
+          "Correnti",
+          "Volt",
+          "Onde",
+          "Ohm"
+        ],
+        "réponse": "Correnti",
+        "anecdote": "Questa controversia tecnica e industriale, a volte chiamata la battaglia delle correnti, ebbe luogo alla fine del 1880."
+      },
+      {
+        "id": 15,
+        "question": "Quale oggetto è stato inventato a seguito di una campagna di lobbying guidata da Edison ?",
+        "propositions": [
+          "Poligrafo",
+          "Sedia elettrica",
+          "Taser",
+          "Lampadina"
+        ],
+        "réponse": "Sedia elettrica",
+        "anecdote": "Thomas Edison assunse Harold P."
+      },
+      {
+        "id": 16,
+        "question": "In quale film la bobina di Tesla ti consente di clonare oggetti e cose viventi ?",
+        "propositions": [
+          "Insonnia",
+          "Il prestigio",
+          "Memento",
+          "Inception"
+        ],
+        "réponse": "Il prestigio",
+        "anecdote": "Le scene che mostrano la macchina di Nikola Tesla sono state girate all'Osservatorio del Monte Wilson e altre scene a Colorado Springs."
+      },
+      {
+        "id": 17,
+        "question": "Con quale concetto Tesla voleva collegare le macchine e le ruote della natura ?",
+        "propositions": [
+          "Energia totale",
+          "Energia elastica",
+          "Transitorietà",
+          "Energia libera"
+        ],
+        "réponse": "Energia libera",
+        "anecdote": "« Tra poche generazioni le nostre macchine saranno alimentate dall'energia disponibile da tutto l'universo \u003c/I\u003e (1892)."
+      },
+      {
+        "id": 18,
+        "question": "In che anno è morto Tesla nella sua stanza d'albergo, da solo e senza un soldo ?",
+        "propositions": [
+          "1933",
+          "1923",
+          "1943",
+          "1913"
+        ],
+        "réponse": "1943",
+        "anecdote": "Nikola Tesla ricevette un funerale di stato il 17 gennaio 1943 nella Cattedrale del Teologo di New York."
+      },
+      {
+        "id": 19,
+        "question": "Chi è stato in grado di recuperare l'urna funeraria di Tesla e i documenti dopo la sua morte ?",
+        "propositions": [
+          "Suo padre",
+          "Suo fratello",
+          "Sua moglie",
+          "Suo nipote"
+        ],
+        "réponse": "Suo nipote",
+        "anecdote": "Grazie a Sava Kosanovic, suo nipote, l'urna e i documenti sono ora conservati nel Museo Nikola Tesla di Belgrado, in Serbia."
+      },
+      {
+        "id": 20,
+        "question": "In quali serie TV le invenzioni di Tesla svolgono un ruolo importante ?",
+        "propositions": [
+          "Magazzino 13",
+          "Z Nation",
+          "Caprica",
+          "Andromeda"
+        ],
+        "réponse": "Magazzino 13",
+        "anecdote": "L'arma 13 degli ufficiali di magazzino, una pistola elettrica stordente, prende il nome da Tesla, che si dice sia il suo inventore."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quale Politecnico entrò Nikola Tesla nel 1875 ?",
+        "propositions": [
+          "Vienna",
+          "Salisburgo",
+          "Wachau",
+          "Graz"
+        ],
+        "réponse": "Graz",
+        "anecdote": "Ha studiato matematica, fisica e meccanica lì, grazie a una borsa di studio assegnata dall'amministrazione dei confini militari."
+      },
+      {
+        "id": 22,
+        "question": "Da quale fisico austriaco fu influenzata Nikola Tesla nel 1880 ?",
+        "propositions": [
+          "Ernst Mach",
+          "David Hilbert",
+          "Hendrik Lorentz",
+          "Jürgen Ehlers"
+        ],
+        "réponse": "Ernst Mach",
+        "anecdote": "Dopo la morte di suo padre, Nikola Tesla lasciò la Charles University di Praga, dopo aver studiato lì solo per un semestre."
+      },
+      {
+        "id": 23,
+        "question": "A chi avrebbe venduto Tesla i piani per la sua arma ad energia diretta ?",
+        "propositions": [
+          "Ai russi",
+          "Per gli americani",
+          "Ai serbi",
+          "Ai tedeschi"
+        ],
+        "réponse": "Ai russi",
+        "anecdote": "L'arma non è stata ulteriormente sviluppata e si può quindi dedurre che, se la voce è vera, l'arma non è mai stata operativa."
+      },
+      {
+        "id": 24,
+        "question": "Quale professione esercitava Milutin Tesla, il padre della famosa Nikola Tesla ?",
+        "propositions": [
+          "Sacerdote",
+          "Avvocato",
+          "Scultore",
+          "Meccanico"
+        ],
+        "réponse": "Sacerdote",
+        "anecdote": "Sua madre era brava a realizzare strumenti artigianali e, sebbene analfabeta, a memorizzare poesie serbe."
+      },
+      {
+        "id": 25,
+        "question": "Rovinato, che lavoro ha svolto Nikola Tesla per le strade di New York ?",
+        "propositions": [
+          "Lavasciuga",
+          "Autista di autobus",
+          "Terrassier",
+          "Storekeeper"
+        ],
+        "réponse": "Terrassier",
+        "anecdote": "Avendo messo tutti i suoi risparmi nella sua azienda, Tesla è rovinata, soprattutto perché i suoi soci mantengono il godimento dei suoi brevetti."
+      },
+      {
+        "id": 26,
+        "question": "Per quale importo Westinghouse ha acquistato i diritti e i brevetti di Tesla ?",
+        "propositions": [
+          "$ 648.000",
+          "$ 432.000",
+          "$ 864.000",
+          "$ 216.000"
+        ],
+        "réponse": "$ 216.000",
+        "anecdote": "Nel 1893, la società Westinghouse riuscì a ottenere il contratto per l'installazione di tutte le infrastrutture elettriche degli Stati Uniti."
+      },
+      {
+        "id": 27,
+        "question": "Quale nome diede Tesla nel 1898 alla sua barca radiocomandata ?",
+        "propositions": [
+          "Comando della Marina",
+          "Radiobato",
+          "Teslaboat",
+          "Teleautomaton"
+        ],
+        "réponse": "Teleautomaton",
+        "anecdote": "Il dispositivo sta causando una sensazione, e alcuni lo considerano mosso dalla mente di Tesla o pilotato da una scimmia istruita nascosta all'interno."
+      },
+      {
+        "id": 28,
+        "question": "A cosa si riferiva l'ultimo brevetto depositato da Nikola Tesla nel 1928 ?",
+        "propositions": [
+          "Biplano",
+          "Lampada",
+          "Camera",
+          "Radar"
+        ],
+        "réponse": "Biplano",
+        "anecdote": "Oggi questo tipo di aeromobile viene talvolta chiamato ibrido o convertibile, specialmente nel caso di aeromobili con motori inclinabili."
+      },
+      {
+        "id": 29,
+        "question": "Quale medaglia scientifica ottenne Nikola Tesla nel 1934 ?",
+        "propositions": [
+          "David Gibbons",
+          "Roy McKenzie",
+          "John Scott",
+          "Alfred Welby"
+        ],
+        "réponse": "John Scott",
+        "anecdote": "Premio prestigioso assegnato agli scienziati dal 1816, Marconi lo ottenne nel 1931 e Edison nel 1889 e nel 1929."
+      },
+      {
+        "id": 30,
+        "question": "Quale romanziere ha dedicato due opere a Nikola Tesla ?",
+        "propositions": [
+          "Annie Ernaux",
+          "Martine Le Coz",
+          "Virginie Despentes",
+          "Suzanne Prou"
+        ],
+        "réponse": "Martine Le Coz",
+        "anecdote": "La sua biografia, « The Electric Man », che ritorna sul percorso scientifico dell'uomo e un romanzo grafico, « La Tour de Wardenclyffe »."
+      }
+    ]
+    },
+    "nl": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Op welk gebied werkte Nikola Tesla voornamelijk ?",
+        "propositions": [
+          "IT",
+          "Ufologie",
+          "Elektriciteit",
+          "Chemie"
+        ],
+        "réponse": "Elektriciteit",
+        "anecdote": "Nikola Tesla werkte inderdaad voornamelijk op het gebied van elektriciteit, maar was ook werktuigbouwkundig ingenieur."
+      },
+      {
+        "id": 2,
+        "question": "Met wie werkte Nikola Tesla samen na haar emigratie naar de Verenigde Staten in 1884 ?",
+        "propositions": [
+          "Nela Park",
+          "Bob Wright",
+          "Thomas Edison",
+          "James Cash Jr."
+        ],
+        "réponse": "Thomas Edison",
+        "anecdote": "Tesla stelde wisselstroom voor, die veel problemen zou oplossen, terwijl Edison een voorstander van gelijkstroom bleef."
+      },
+      {
+        "id": 3,
+        "question": "Hoeveel patenten heeft Nikola Tesla tijdens zijn leven aangevraagd ?",
+        "propositions": [
+          "300",
+          "200",
+          "400",
+          "100"
+        ],
+        "réponse": "300",
+        "anecdote": "Veel van deze patenten die betrekking hebben op methoden om energieomzetting te benaderen, worden ten onrechte toegeschreven aan Thomas Edison."
+      },
+      {
+        "id": 4,
+        "question": "Welke naam kreeg de internationale magnetische inductie-eenheid ?",
+        "propositions": [
+          "Volt",
+          "Tesla",
+          "Hertz",
+          "Ohm"
+        ],
+        "réponse": "Tesla",
+        "anecdote": "De aanwezigheid van het magnetische veld resulteert in het bestaan van een kracht die inwerkt op de bewegende elektrische ladingen."
+      },
+      {
+        "id": 5,
+        "question": "Welke nationaliteit verklaarde Nikola Tesla voordat ze genaturaliseerd werd als Amerikaan ?",
+        "propositions": [
+          "Zwitserland",
+          "Russisch",
+          "Oostenrijks",
+          "Pools"
+        ],
+        "réponse": "Oostenrijks",
+        "anecdote": "Tesla werd geboren op 10 juli 1856 in Smiljan, in de militaire grenzen van het Oostenrijkse rijk, voorlaatste van een gezin van vijf kinderen."
+      },
+      {
+        "id": 6,
+        "question": "Meertalig worden, hoeveel talen sprak Nikola Tesla ?",
+        "propositions": [
+          "Zes",
+          "Zeven",
+          "Vijf",
+          "Acht"
+        ],
+        "réponse": "Acht",
+        "anecdote": "Tesla sprak naast zijn moedertaal, Servokroatisch, Tsjechisch, Engels, Frans, Duits, Hongaars, Italiaans en Latijn."
+      },
+      {
+        "id": 7,
+        "question": "Met welk type stroom zorgde Nikola Tesla voor een revolutie in elektriciteit ?",
+        "propositions": [
+          "Bipolair",
+          "Continu",
+          "Alternatief",
+          "Gestructureerd"
+        ],
+        "réponse": "Alternatief",
+        "anecdote": "Wisselstroom (die kan worden afgekort als AC) is een periodieke elektrische stroom die twee keer per periode van richting verandert."
+      },
+      {
+        "id": 8,
+        "question": "Welke elektrische Tesla-machine haalt zeer hoge spanningen ?",
+        "propositions": [
+          "Tesla-spoel",
+          "Transponder",
+          "Regelgever",
+          "Schakelaar"
+        ],
+        "réponse": "Tesla-spoel",
+        "anecdote": "De Tesla-spoel wordt nog steeds gebruikt in een of andere vorm in sommige radio- of televisie-ontvangers."
+      },
+      {
+        "id": 9,
+        "question": "Welk Tesla-apparaat wordt later op schepen geïnstalleerd ?",
+        "propositions": [
+          "Anemometer",
+          "Spoel",
+          "Meteofax",
+          "Radar"
+        ],
+        "réponse": "Radar",
+        "anecdote": "In 1934 werden, na een studie van de magnetron, door de CSF kortegolftests uitgevoerd volgens de principes van Tesla."
+      },
+      {
+        "id": 10,
+        "question": "Aan wie zijn veel van de uitvindingen van Nikola Tesla ten onrechte toegeschreven ?",
+        "propositions": [
+          "Thomas Edison",
+          "André Blondel",
+          "George Westinghouse",
+          "Paul Dimo"
+        ],
+        "réponse": "Thomas Edison",
+        "anecdote": "Tesla is onder meer de auteur van de asynchrone elektromotor, de meerfasige alternator en de driefasige sterassemblage."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "In welk jaar is het genie en de visionaire Nikola Tesla ontstaan ?",
+        "propositions": [
+          "1856",
+          "1886",
+          "1916",
+          "1946"
+        ],
+        "réponse": "1856",
+        "anecdote": "Geboren in een Servisch-orthodoxe familie in Kroatië, trots op zijn afkomst, heeft Tesla altijd zijn Servische en Kroatische afkomst geclaimd."
+      },
+      {
+        "id": 12,
+        "question": "Welke medewerker heeft veel patenten van Nikola Tesla geregistreerd ?",
+        "propositions": [
+          "George Westinghouse",
+          "Joseph Jaspar",
+          "Walter Reichel",
+          "Max Mathews"
+        ],
+        "réponse": "George Westinghouse",
+        "anecdote": "George Westinghouse wordt ook erkend voor zijn bijdragen aan de spoorweg- en telefoonindustrie."
+      },
+      {
+        "id": 13,
+        "question": "Uitvinder van genie, hoe definieerde Nikola Tesla zichzelf liever ?",
+        "propositions": [
+          "Discoverer",
+          "Backpacker",
+          "Schepper",
+          "Waarnemer"
+        ],
+        "réponse": "Discoverer",
+        "anecdote": "Nikola Tesla wordt erkend als een van de meest creatieve ingenieurs van de late 19e en vroege 20e eeuw."
+      },
+      {
+        "id": 14,
+        "question": "Welke oorlog is er begonnen tussen Westinghouse-Tesla en Edison ?",
+        "propositions": [
+          "Golven",
+          "Volt",
+          "Stromen",
+          "Ohm"
+        ],
+        "réponse": "Stromen",
+        "anecdote": "Deze technische en industriële controverse, ook wel de strijd van de stromingen genoemd, vond eind jaren tachtig plaats."
+      },
+      {
+        "id": 15,
+        "question": "Welk object is uitgevonden na een lobbycampagne onder leiding van Edison ?",
+        "propositions": [
+          "Taser",
+          "Elektrische stoel",
+          "Polygraaf",
+          "Lamp"
+        ],
+        "réponse": "Elektrische stoel",
+        "anecdote": "Thomas Edison huurde hiervoor Harold P."
+      },
+      {
+        "id": 16,
+        "question": "In welke film kun je met de Tesla-spoel objecten en levende wezens klonen ?",
+        "propositions": [
+          "Slapeloosheid",
+          "De Prestige",
+          "Memento",
+          "Aanvang"
+        ],
+        "réponse": "De Prestige",
+        "anecdote": "De scènes met de machine van Nikola Tesla zijn gefilmd op het Mount Wilson Observatory en andere scènes in Colorado Springs."
+      },
+      {
+        "id": 17,
+        "question": "Met welk concept wilde Tesla machines en de wielen van de natuur verbinden ?",
+        "propositions": [
+          "Totale energie",
+          "Vrije energie",
+          "Elastische energie",
+          "Vergankelijkheid"
+        ],
+        "réponse": "Vrije energie",
+        "anecdote": "« Over een paar generaties zullen onze machines worden aangedreven door energie die beschikbaar is uit het hele universum \u003c/I\u003e (1892)."
+      },
+      {
+        "id": 18,
+        "question": "In welk jaar stierf Tesla in zijn hotelkamer, alleen en zonder geld ?",
+        "propositions": [
+          "1923",
+          "1913",
+          "1943",
+          "1933"
+        ],
+        "réponse": "1943",
+        "anecdote": "Nikola Tesla ontving op 17 januari 1943 een staatsbegrafenis in de kathedraal van Saint John the Theologian in New York."
+      },
+      {
+        "id": 19,
+        "question": "Wie heeft Tesla's urn en documenten na zijn dood teruggevonden ?",
+        "propositions": [
+          "Zijn vader",
+          "Haar broer",
+          "Zijn vrouw",
+          "Haar neef"
+        ],
+        "réponse": "Haar neef",
+        "anecdote": "Dankzij Sava Kosanovic worden haar neef, de urn en de documenten nu bewaard in het Nikola Tesla Museum in Belgrado, Servië."
+      },
+      {
+        "id": 20,
+        "question": "In welke tv-series spelen de uitvindingen van Tesla een belangrijke rol ?",
+        "propositions": [
+          "Z Nation",
+          "Caprica",
+          "Magazijn 13",
+          "Andromeda"
+        ],
+        "réponse": "Magazijn 13",
+        "anecdote": "Het wapen 13 van magazijnagenten, een elektrisch verdovingsgeweer, is vernoemd naar Tesla, naar verluidt de uitvinder ervan."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Welke Polytechnic ging Nikola Tesla in 1875 binnen ?",
+        "propositions": [
+          "Salzburg",
+          "Graz",
+          "Wenen",
+          "Wachau"
+        ],
+        "réponse": "Graz",
+        "anecdote": "Hij studeerde daar wiskunde, natuurkunde en mechanica, dankzij een beurs die werd toegekend door de administratie van Militaire Grenzen."
+      },
+      {
+        "id": 22,
+        "question": "Door welke Oostenrijkse natuurkundige werd Nikola Tesla in 1880 beïnvloed ?",
+        "propositions": [
+          "Jürgen Ehlers",
+          "Ernst Mach",
+          "Hendrik Lorentz",
+          "David Hilbert"
+        ],
+        "réponse": "Ernst Mach",
+        "anecdote": "Na de dood van zijn vader verliet Nikola Tesla de Charles Universiteit in Praag, omdat hij daar slechts één semester had gestudeerd."
+      },
+      {
+        "id": 23,
+        "question": "Aan wie zou Tesla de plannen voor zijn gerichte energiewapen hebben verkocht ?",
+        "propositions": [
+          "Aan de Serviërs",
+          "Aan de Russen",
+          "Aan de Duitsers",
+          "Aan de Amerikanen"
+        ],
+        "réponse": "Aan de Russen",
+        "anecdote": "Het wapen is niet verder ontwikkeld en daarom kan worden afgeleid dat, als het gerucht waar is, het wapen nooit operationeel was."
+      },
+      {
+        "id": 24,
+        "question": "Welk beroep oefende Milutin Tesla, de vader van de beroemde Nikola Tesla, uit ?",
+        "propositions": [
+          "Beeldhouwer",
+          "Advocaat",
+          "Monteur",
+          "Priester"
+        ],
+        "réponse": "Priester",
+        "anecdote": "Zijn moeder was goed in het maken van handgemaakte gereedschappen en, hoewel analfabeet, in het uit het hoofd leren van Servische gedichten."
+      },
+      {
+        "id": 25,
+        "question": "Geruïneerd, welke baan oefende Nikola Tesla uit in de straten van New York ?",
+        "propositions": [
+          "Buschauffeur",
+          "Winkelier",
+          "Tegelwasser",
+          "Terrassier"
+        ],
+        "réponse": "Terrassier",
+        "anecdote": "Nadat hij al zijn spaargeld in zijn bedrijf heeft gestoken, is Tesla geruïneerd, vooral omdat zijn medewerkers het plezier van zijn patenten behouden."
+      },
+      {
+        "id": 26,
+        "question": "Voor welk bedrag kocht Westinghouse de rechten en patenten van Tesla ?",
+        "propositions": [
+          "$ 432.000",
+          "$ 648.000",
+          "$ 864.000",
+          "$ 216.000"
+        ],
+        "réponse": "$ 216.000",
+        "anecdote": "In 1893 slaagde het bedrijf Westinghouse erin het contract te verkrijgen voor het installeren van alle elektrische infrastructuur van de VS."
+      },
+      {
+        "id": 27,
+        "question": "Welke naam gaf Tesla in 1898 aan zijn radiografisch bestuurde boot ?",
+        "propositions": [
+          "Teslaboot",
+          "Radiobato",
+          "Navycommand",
+          "Teleautomaton"
+        ],
+        "réponse": "Teleautomaton",
+        "anecdote": "Het apparaat veroorzaakt een sensatie en sommigen beschouwen het als bewogen door Tesla's geest of bestuurd door een aangeleerde aap die erin verborgen zit."
+      },
+      {
+        "id": 28,
+        "question": "Waarop had het laatste octrooi, ingediend door Nikola Tesla in 1928, betrekking ?",
+        "propositions": [
+          "Camera",
+          "Lamp",
+          "Tweedekker",
+          "Radar"
+        ],
+        "réponse": "Tweedekker",
+        "anecdote": "Tegenwoordig wordt dit type vliegtuig soms hybride of cabriolet genoemd, vooral in het geval van vliegtuigen met kantelmotoren."
+      },
+      {
+        "id": 29,
+        "question": "Welke wetenschappelijke medaille behaalde Nikola Tesla in 1934 ?",
+        "propositions": [
+          "Roy McKenzie",
+          "Alfred Welby",
+          "John Scott",
+          "David Gibbons"
+        ],
+        "réponse": "John Scott",
+        "anecdote": "Prestigieuze prijs uitgereikt aan wetenschappers sinds 1816, Marconi behaalde het in 1931 en Edison in 1889 en 1929."
+      },
+      {
+        "id": 30,
+        "question": "Welke romanschrijver heeft twee werken aan Nikola Tesla opgedragen ?",
+        "propositions": [
+          "Suzanne Prou",
+          "Virginie Despentes",
+          "Annie Ernaux",
+          "Martine Le Coz"
+        ],
+        "réponse": "Martine Le Coz",
+        "anecdote": "Zijn biografie, « The Electric Man », keert terug naar het wetenschappelijke pad van de mens en een graphic novel, « La Tour de Wardenclyffe »."
+      }
+    ]
+    }
+  }
+}

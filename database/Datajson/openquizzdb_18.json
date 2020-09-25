@@ -1,0 +1,376 @@
+{                                     
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Star Trek (La plus grande odyssée spatiale)",         
+  "difficulté": "3 / 5",
+  "quizz": {
+    "fr": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Dans « Star Trek », quelle flotte est chargée de la défense des frontières de la Fédération ?",
+        "propositions": [
+          "FedCon",
+          "Starfleet",
+          "Klingon",
+          "Cardassia"
+        ],
+        "réponse": "Starfleet",
+        "anecdote": "La mission première de Starfleet est de récolter autant d'informations que possible concernant l'Univers."
+      },
+      {
+        "id": 2,
+        "question": "Quel mot a été utilisé fin des années 1960 pour désigner les fans de la série « Star Trek » ?",
+        "propositions": [
+          "Sixties",
+          "Friendies",
+          "Trekkies",
+          "Spockies"
+        ],
+        "réponse": "Trekkies",
+        "anecdote": "Parfois le terme « trekkie » est remplacé par « trekker », qui a pour certains une connotation moins péjorative."
+      },
+      {
+        "id": 3,
+        "question": "Quel acteur reste indissociable des premières aventures du capitaine James T. Kirk ?",
+        "propositions": [
+          "James Doohan",
+          "William Shatner",
+          "DeForest Kelley",
+          "Leonard Nimoy"
+        ],
+        "réponse": "William Shatner",
+        "anecdote": "William Shatner a écrit plusieurs ouvrages de la série « Star Trek », publiés en version française aux éditions Fleuve noir."
+      },
+      {
+        "id": 4,
+        "question": "Dans l'univers de « Star Trek », quel physicien est aussi un fin timonier ?",
+        "propositions": [
+          "Sulu",
+          "Uhura",
+          "McCoy",
+          "Chekov"
+        ],
+        "réponse": "Sulu",
+        "anecdote": "Il se pourrait que Hikaru Sulu soit une déformation de « Hikari utsuru », évoquant le déplacement à la vitesse de la lumière."
+      },
+      {
+        "id": 5,
+        "question": "Quel est le gadget technologique le plus emblématique de la saga « Star Trek » ?",
+        "propositions": [
+          "Télécran",
+          "Téléporteur",
+          "Cube cosmique",
+          "Planitron"
+        ],
+        "réponse": "Téléporteur",
+        "anecdote": "Une téléportation s'effectue normalement depuis une plate-forme de téléportation vers une position donnée."
+      },
+      {
+        "id": 6,
+        "question": "Dans quel film les personnages de « Star Trek » doivent-ils retrouver un couple de baleines ?",
+        "propositions": [
+          "Retour sur Terre",
+          "La Colère de Khan",
+          "Terre inconnue",
+          "Premier Contact"
+        ],
+        "réponse": "Retour sur Terre",
+        "anecdote": "« Retour sur Terre » est l'un des meilleurs films de la saga au box-office américain, arrivant troisième sur douze."
+      },
+      {
+        "id": 7,
+        "question": "Quel est le sous-titre du deuxième film fondé sur la série originale « Star Trek » ?",
+        "propositions": [
+          "La Colère de Khan",
+          "Terre inconnue",
+          "Premier Contact",
+          "Retour sur Terre"
+        ],
+        "réponse": "La Colère de Khan",
+        "anecdote": "« Star Trek 2 » est l'un des premiers films de la saga à présenter une séquence totalement conçue par ordinateur."
+      },
+      {
+        "id": 8,
+        "question": "Dans « Star Trek », quel membre d'équipage féminin a une origine afro-américaine ?",
+        "propositions": [
+          "Uhura",
+          "Chapel",
+          "McCoy",
+          "Chekov"
+        ],
+        "réponse": "Uhura",
+        "anecdote": "Au cours du temps, son nom se complète et devient « Nyota Upende Uhura », signifiant en swahili « étoile-aime-liberté »."
+      },
+      {
+        "id": 9,
+        "question": "Qui a remplacé Leonard Nimoy dans les derniers longs-métrages de « Star Trek » ?",
+        "propositions": [
+          "Zachary Quinto",
+          "Avery Brooks",
+          "Jonathan Frakes",
+          "Chris Pine"
+        ],
+        "réponse": "Zachary Quinto",
+        "anecdote": "Le 16 octobre 2011, l'acteur évoqua son homosexualité pour la première fois lors d'un entretien donné au « New York Magazine »."
+      },
+      {
+        "id": 10,
+        "question": "Comment est surnommé l'ingénieur écossais de l'Enterprise dans la saga « Star Trek » ?",
+        "propositions": [
+          "Vinny",
+          "Scotty",
+          "Jimmy",
+          "Benny"
+        ],
+        "réponse": "Scotty",
+        "anecdote": "Montgomery Scott, surnommé Scotty, a deux amours : son Enterprise qu'il bichonne soigneusement et le whisky."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "À quel scénariste doit-on la création de l'univers de « Star Trek » ?",
+        "propositions": [
+          "William Stuart",
+          "David Jacobs",
+          "Gene Roddenberry",
+          "Ed Burns"
+        ],
+        "réponse": "Gene Roddenberry",
+        "anecdote": "L'astéroïde 4659 Roddenberry, et un cratère d'impact sur Mars, le cratère Roddenberry, sont tous les deux nommés en son honneur."
+      },
+      {
+        "id": 12,
+        "question": "Combien de séries télévisées basées sur l'univers de « Star Trek » ont vu le jour ?",
+        "propositions": [
+          "Neuf",
+          "Cinq",
+          "Trois",
+          "Sept"
+        ],
+        "réponse": "Cinq",
+        "anecdote": "La première série télévisée suscita l'enthousiasme d'une partie du public, sans jamais devenir très populaire."
+      },
+      {
+        "id": 13,
+        "question": "À quelle vitesse le voyage spatial est-il développé dans la saga « Star Trek » ?",
+        "propositions": [
+          "Sublimique",
+          "Sonique",
+          "Supraluminique",
+          "Catalytique"
+        ],
+        "réponse": "Supraluminique",
+        "anecdote": "Une vitesse supraluminique (« superluminal » en anglais) désigne une vitesse supérieure à la vitesse de la lumière."
+      },
+      {
+        "id": 14,
+        "question": "Qui a remplacé William Shatner dans les derniers longs-métrages de « Star Trek » ?",
+        "propositions": [
+          "Zachary Quinto",
+          "Brent Spiner",
+          "Chris Pine",
+          "Patrick Stewart"
+        ],
+        "réponse": "Chris Pine",
+        "anecdote": "En 2017, Chris Pine rejoindra une franchise de super-héros pour le blockbuster « Wonder Woman »."
+      },
+      {
+        "id": 15,
+        "question": "Dans « Star Trek », quel appareil permet de dialoguer avec le personnel en mission au sol ?",
+        "propositions": [
+          "Communicateur",
+          "Télépode",
+          "Tricordeur",
+          "Téléporteur"
+        ],
+        "réponse": "Communicateur",
+        "anecdote": "Cet appareil portable, attribué à chaque membre de Starfleet, est apparu pour la première fois dans la série télévisée « Star Trek »."
+      },
+      {
+        "id": 16,
+        "question": "Combien de films fondés sur la série « Star Trek » originale sont sortis sur les écrans avant 2018 ?",
+        "propositions": [
+          "Huit",
+          "Six",
+          "Douze",
+          "Dix"
+        ],
+        "réponse": "Six",
+        "anecdote": "« Star Trek, le film » est l'adaptation cinématographique du troisième épisode de la seconde saison de la série télévisée."
+      },
+      {
+        "id": 17,
+        "question": "Quelle arme à faisceau d'énergie dirigée est utilisée par les humains dans « Star Trek » ?",
+        "propositions": [
+          "Laserium",
+          "Multiplexeur",
+          "Phaseur",
+          "Sabre laser"
+        ],
+        "réponse": "Phaseur",
+        "anecdote": "Son apparition amènera la disparition des armes à projectiles utilisées sur Terre et lança une nouvelle génération d'armes laser."
+      },
+      {
+        "id": 18,
+        "question": "Quel est le nom du capitaine dans « Star Trek : Nouvelle Génération » ?",
+        "propositions": [
+          "Leonard McCoy",
+          "William Riker",
+          "James T. Kirk",
+          "Jean-Luc Picard"
+        ],
+        "réponse": "Jean-Luc Picard",
+        "anecdote": "Jean-Luc Picard a été capturé et assimilé en 2367 par les Borgs qui l'ont alors retourné contre la Fédération des planètes unies."
+      },
+      {
+        "id": 19,
+        "question": "Dans « Star Trek », quelle espèce extraterrestre est originaire de la planète Kronos ?",
+        "propositions": [
+          "Romuliens",
+          "Talosiens",
+          "Borgs",
+          "Klingons"
+        ],
+        "réponse": "Klingons",
+        "anecdote": "Les Klingons sont des humanoïdes généralement plus grands et plus forts que les Humains en raison d'une musculature puissante."
+      },
+      {
+        "id": 20,
+        "question": "Quel film propose la dernière apparition du capitaine Kirk, secondé par Scotty et Chekov ?",
+        "propositions": [
+          "Générations",
+          "Premier Contact",
+          "Retour sur Terre",
+          "La Colère de Khan"
+        ],
+        "réponse": "Générations",
+        "anecdote": "Leonard Nimoy a refusé de reprendre son rôle de Spock, notamment après avoir lu le script."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Le premier pilote de la série « Star Trek » a été refusé car le commandant en second était...",
+        "propositions": [
+          "Noir",
+          "Trop vieux",
+          "Une femme",
+          "Trop jeune"
+        ],
+        "réponse": "Une femme",
+        "anecdote": "La série « Star Trek » a donné lieu à un vaste engouement auprès d'un large public avec la création de nombreux fanzines."
+      },
+      {
+        "id": 22,
+        "question": "Dans « Star Trek », quelle race de créatures est en partie organique et mécanique ?",
+        "propositions": [
+          "Klingons",
+          "Borgs",
+          "Andoriens",
+          "Romuliens"
+        ],
+        "réponse": "Borgs",
+        "anecdote": "L'assimilation d'un grand nombre de peuples a permis aux Borgs d'atteindre un niveau technologique surprenant."
+      },
+      {
+        "id": 23,
+        "question": "Quel nom a été donné à la plus grande convention « Star Trek » en Europe ?",
+        "propositions": [
+          "AlphaKirk",
+          "SpaceCraft",
+          "FedCon",
+          "EuroTrek"
+        ],
+        "réponse": "FedCon",
+        "anecdote": "En 2011, FedCon battit le record du monde du plus grand nombre de personnes avec un costume Star Trek, avec 691 personnes."
+      },
+      {
+        "id": 24,
+        "question": "Quel est le prénom de Chekov, membre d'équipe de l'Enterprise dans « Star Trek » ?",
+        "propositions": [
+          "Janice",
+          "Nyota",
+          "Hikaru",
+          "Pavel"
+        ],
+        "réponse": "Pavel",
+        "anecdote": "L'accent russe de Pavel Chekov trahit ses origines slaves ainsi que son amour pour la vodka."
+      },
+      {
+        "id": 25,
+        "question": "Dans l'univers de « Star Trek », quelle date sert de référence temporelle pour la galaxie ?",
+        "propositions": [
+          "Planétaire",
+          "Fédérale",
+          "Stellaire",
+          "Universelle"
+        ],
+        "réponse": "Stellaire",
+        "anecdote": "Dans « Star Trek », la date stellaire tient compte de la dilatation du temps due à la relativité."
+      },
+      {
+        "id": 26,
+        "question": "Dans « Star Trek », en combien de parties la galaxie est-elle divisée ?",
+        "propositions": [
+          "Six",
+          "Huit",
+          "Deux",
+          "Quatre"
+        ],
+        "réponse": "Quatre",
+        "anecdote": "L'univers « Star Trek » dépeint un futur dans lequel l'humanité a éradiqué la maladie, le racisme, la pauvreté et la guerre sur Terre."
+      },
+      {
+        "id": 27,
+        "question": "Quel androïde retrouve-t-on dans « Star Trek : La Nouvelle Génération » ?",
+        "propositions": [
+          "Worf",
+          "Data",
+          "Soong",
+          "Kapa"
+        ],
+        "réponse": "Data",
+        "anecdote": "Cette série télévisée américaine, comprenant 178 épisodes de 45 minutes, a été diffusée entre 1987 et 1994."
+      },
+      {
+        "id": 28,
+        "question": "Quel documentaire sorti en 2011 raconte l'influence qu'a pu avoir « Star Trek » ?",
+        "propositions": [
+          "First Contact",
+          "Galaxy Five",
+          "Space Odyssey",
+          "Trek Nation"
+        ],
+        "réponse": "Trek Nation",
+        "anecdote": "Le documentaire « Trek Nation » analyse l'impact qu'a pu avoir « Star Trek » et son créateur, Gene Roddenberry."
+      },
+      {
+        "id": 29,
+        "question": "Dans « Star Trek », quelle espèce possède une température corporelle proche de -30°C ?",
+        "propositions": [
+          "Breens",
+          "Romuliens",
+          "Klingons",
+          "Borgs"
+        ],
+        "réponse": "Breens",
+        "anecdote": "Pour voyager, ils se déplacent donc dans des combinaisons réfrigérantes car une température supérieure à -18°C peut les tuer."
+      },
+      {
+        "id": 30,
+        "question": "Qui a illustré un grand nombre des affiches des films de la saga « Star Trek » ?",
+        "propositions": [
+          "Ben Stahl",
+          "Bob Peak",
+          "Clark Hulings",
+          "Gerald Brom"
+        ],
+        "réponse": "Bob Peak",
+        "anecdote": "Le peintre et illustrateur américain Bob Peak est aussi connu pour les affiches de « My Fair Lady » et « Apocalypse Now »."
+      }
+    ]
+    }
+  }
+}

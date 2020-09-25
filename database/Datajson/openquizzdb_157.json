@@ -1,0 +1,2216 @@
+{                                     
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Constructeurs auto (Un piéton sur deux va chercher sa voiture)",         
+  "difficulté": "3 / 5",
+  "quizz": {
+    "fr": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Quel constructeur automobile a pour slogan le plaisir de conduire ?",
+        "propositions": [
+          "BMW",
+          "Lexus",
+          "Lotus",
+          "Mercedes"
+        ],
+        "réponse": "BMW",
+        "anecdote": "En 2016, le groupe BMW a vendu 2 117 965 véhicules automobiles (BMW, Mini, et Rolls-Royce) ainsi que 123 495 deux-roues."
+      },
+      {
+        "id": 2,
+        "question": "Quelles couleurs sont présentes sur le logo circulaire de la marque BMW ?",
+        "propositions": [
+          "Bleu et blanc",
+          "Noir et rouge",
+          "Rouge et bleu",
+          "Vert et jaune"
+        ],
+        "réponse": "Bleu et blanc",
+        "anecdote": "L'emblème de la marque BMW reprend le cercle noir du logo de Rapp, avec au centre les couleurs symbolisant la Bavière."
+      },
+      {
+        "id": 3,
+        "question": "Quel constructeur automobile a produit les modèles Diablo et Countach ?",
+        "propositions": [
+          "Maserati",
+          "Porsche",
+          "Ferrari",
+          "Lamborghini"
+        ],
+        "réponse": "Lamborghini",
+        "anecdote": "La Lamborghini Diablo succède à la légendaire Lamborghini Countach après seize ans de carrière et 2 200 exemplaires produits."
+      },
+      {
+        "id": 4,
+        "question": "Laquelle de ces voitures est un modèle du constructeur Nissan ?",
+        "propositions": [
+          "Fiesta",
+          "Diablo",
+          "Qashqai",
+          "Elantra"
+        ],
+        "réponse": "Qashqai",
+        "anecdote": "En mai 2007, la Qashqai de chez Nissan a décroché la plus haute note possible aux crash tests Euro NCAP, à savoir cinq étoiles."
+      },
+      {
+        "id": 5,
+        "question": "Quel constructeur haut de gamme a pour ornement l'Esprit d'extase ?",
+        "propositions": [
+          "Jaguar",
+          "Mercedes",
+          "Porsche",
+          "Rolls-Royce"
+        ],
+        "réponse": "Rolls-Royce",
+        "anecdote": "Spirit of Ecstasy, le fameux bouchon de radiateur de la marque Rolls-Royce, a été créé en 1911 par l'artiste anglais Charles Sykes."
+      },
+      {
+        "id": 6,
+        "question": "Lequel de ces modèles Volkswagen reste aujourd'hui le plus vendu au monde ?",
+        "propositions": [
+          "Jetta",
+          "Scarabée",
+          "Golf",
+          "Passat"
+        ],
+        "réponse": "Golf",
+        "anecdote": "Ce concept de petite voiture sportive à hayon et traction avec un moteur à injection contrastait avec les moteurs à carburateur."
+      },
+      {
+        "id": 7,
+        "question": "Quel constructeur a produit la très populaire Coccinelle ?",
+        "propositions": [
+          "Volvo",
+          "Volkswagen",
+          "Nissan",
+          "Suzuki"
+        ],
+        "réponse": "Volkswagen",
+        "anecdote": "Produite en 1938, la Coccinelle fut conçue par l'ingénieur autrichien Ferdinand Porsche à la demande du chancelier Adolf Hitler."
+      },
+      {
+        "id": 8,
+        "question": "Combien de passagers peut accueillir une Tesla Modèle S de 2014 ?",
+        "propositions": [
+          "Trois",
+          "Un seul",
+          "Sept",
+          "Cinq"
+        ],
+        "réponse": "Sept",
+        "anecdote": "Outre la recharge sur bornes ordinaires, la Model S bénéficie de bornes gratuites ultra-rapides appelées Superchargeurs."
+      },
+      {
+        "id": 9,
+        "question": "Quel constructeur automobile a créé le modèle Cayenne ?",
+        "propositions": [
+          "Porsche",
+          "Ferrari",
+          "Maserati",
+          "Lamborghini"
+        ],
+        "réponse": "Porsche",
+        "anecdote": "Le Cayenne a été fabriqué en collaboration avec Volkswagen avec qui il partage la même plate-forme de son 4x4 Touareg."
+      },
+      {
+        "id": 10,
+        "question": "Quel constructeur a produit une voiture hybride du nom de Civic ?",
+        "propositions": [
+          "Honda",
+          "Jaguar",
+          "Tesla",
+          "Ford"
+        ],
+        "réponse": "Honda",
+        "anecdote": "Le terme Civic exprime l'ambition de la marque Honda de réduire ses émissions polluantes et de proposer une voiture propre."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "En quelle année la Citroën DS a-t-elle été vendue pour la première fois ?",
+        "propositions": [
+          "1964",
+          "1947",
+          "1955",
+          "1971"
+        ],
+        "réponse": "1955",
+        "anecdote": "Le D viendrait de l'usage du moteur le plus récent alors de Citroën, le moteur série D, qui équipait la Traction 11 D."
+      },
+      {
+        "id": 12,
+        "question": "Quel constructeur américain a produit le modèle Chieftain ?",
+        "propositions": [
+          "Pontiac",
+          "Chrysler",
+          "Lotus",
+          "Ford"
+        ],
+        "réponse": "Pontiac",
+        "anecdote": "La Chieftain de 1949 marque le tout premier nouveau design des modèles Pontiac sortis après la Seconde Guerre mondiale."
+      },
+      {
+        "id": 13,
+        "question": "Dacia est un constructeur automobile originaire de quel pays ?",
+        "propositions": [
+          "Roumanie",
+          "Bulgarie",
+          "Pologne",
+          "Grèce"
+        ],
+        "réponse": "Roumanie",
+        "anecdote": "Les véhicules produits sont commercialisés sous la marque Dacia en Europe et sous la marque Renault dans le reste du monde."
+      },
+      {
+        "id": 14,
+        "question": "Quel constructeur a pour slogan la puissance des rêves ?",
+        "propositions": [
+          "Jaguar",
+          "Land Rover",
+          "Skoda",
+          "Honda"
+        ],
+        "réponse": "Honda",
+        "anecdote": "En 2008, Honda a vendu plus de 17 millions de moteurs à quatre temps, ce qui en a fait le plus important producteur au monde."
+      },
+      {
+        "id": 15,
+        "question": "Quel État des États-Unis a été choisi pour héberger la « Gigafactory 1 » de Tesla ?",
+        "propositions": [
+          "Nevada",
+          "Washington",
+          "New York",
+          "Illinois"
+        ],
+        "réponse": "Nevada",
+        "anecdote": "Cette usine a été conçue dans le but de produire, à terme, assez d'énergie renouvelable pour faire face à sa consommation."
+      },
+      {
+        "id": 16,
+        "question": "Quel constructeur a possédé la marque Jaguar de 1990 à 2008 ?",
+        "propositions": [
+          "Ford",
+          "BMW",
+          "Honda",
+          "Nissan"
+        ],
+        "réponse": "Ford",
+        "anecdote": "La société SSC, fondée en 1922, prit le nom de Jaguar en 1945 pour ne pas évoquer les SS allemands de sinistre mémoire."
+      },
+      {
+        "id": 17,
+        "question": "La Bel Air était autrefois un modèle très populaire proposé par quel constructeur ?",
+        "propositions": [
+          "Chrysler",
+          "Volkswagen",
+          "American Motors",
+          "Chevrolet"
+        ],
+        "réponse": "Chevrolet",
+        "anecdote": "Le nom de Bel Air vient d'un quartier huppé de la ville de Los Angeles, situé 27 kilomètres à l'ouest de Downtown Los Angeles."
+      },
+      {
+        "id": 18,
+        "question": "Quel constructeur a pour slogan l'art de la performance ?",
+        "propositions": [
+          "Chevrolet",
+          "Peugeot",
+          "Mini Cooper",
+          "Jaguar"
+        ],
+        "réponse": "Jaguar",
+        "anecdote": "Le 26 mars 2008, dans le cadre d'un démantèlement, Ford a vendu Jaguar à l'entreprise indienne Tata Motors."
+      },
+      {
+        "id": 19,
+        "question": "Quel modèle de voiture Ford est sorti le premier dans les années 60 ?",
+        "propositions": [
+          "Ford Gelding",
+          "Ford Mustang",
+          "Ford Stallion",
+          "Ford Mare"
+        ],
+        "réponse": "Ford Mustang",
+        "anecdote": "Fait unique pour la marque Ford, tous les modèles Mustang arborent leur propre logotype de calandre (un mustang au galop)."
+      },
+      {
+        "id": 20,
+        "question": "Dans quelle ville italienne est situé le siège social du constructeur Fiat ?",
+        "propositions": [
+          "Gênes",
+          "Naples",
+          "Turin",
+          "Milan"
+        ],
+        "réponse": "Turin",
+        "anecdote": "La compagnie FIAT a été créée le 11 juillet 1899 au Palazzo Bricherasio par trente actionnaires, dont Giovanni Agnelli."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Par quelle entreprise fut conçu le moteur de la Chevrolet Corvette C4 ZR1 ?",
+        "propositions": [
+          "Lotus",
+          "Saab",
+          "Nissan",
+          "BMW"
+        ],
+        "réponse": "Lotus",
+        "anecdote": "Si la Corvette C4 est apparue en 1983, sa version sportive ZR1 n'apparaîtra quant à elle qu'au salon de Genève 1989."
+      },
+      {
+        "id": 22,
+        "question": "Quel était le prénom du mécanicien et fondateur de la Chrysler Company ?",
+        "propositions": [
+          "Wade",
+          "Walter",
+          "Wilfried",
+          "William"
+        ],
+        "réponse": "Walter",
+        "anecdote": "De 1928 à 1930, Walter P. Chrysler fit construire un immeuble à la gloire de la marque automobile de son nom : le Chrysler Building."
+      },
+      {
+        "id": 23,
+        "question": "Quel véhicule reste à ce jour la plus petite voiture jamais produite ?",
+        "propositions": [
+          "Chevrolet Camaro",
+          "Isetta",
+          "Peel P50",
+          "Mini Cooper"
+        ],
+        "réponse": "Peel P50",
+        "anecdote": "La Peel P50 est une mini voiture à trois roues fabriquée de 1962 à 1965 par la société Peel Engineering Company sur l'Île de Man."
+      },
+      {
+        "id": 24,
+        "question": "Les Herald, Vitesse et Spitfire sont des modèles fabriqués par quelle entreprise ?",
+        "propositions": [
+          "Vauxhall",
+          "Austin",
+          "Peugeot",
+          "Triumph"
+        ],
+        "réponse": "Triumph",
+        "anecdote": "Le but de la Spitfire était de créer une petite voiture de sport bon marché, située un niveau en-dessous de celui des roadsters TR."
+      },
+      {
+        "id": 25,
+        "question": "Jusqu'en quelle année la marque Duesenberg a-t-elle conçu des voitures ?",
+        "propositions": [
+          "1927",
+          "1917",
+          "1947",
+          "1937"
+        ],
+        "réponse": "1937",
+        "anecdote": "Après la Seconde Guerre mondiale, l'américain August Duesenberg essayera tant bien que mal de relancer la marque, sans succès."
+      },
+      {
+        "id": 26,
+        "question": "Quel constructeur a choisi pour slogan innover autrement ?",
+        "propositions": [
+          "Volkswagen",
+          "Lexus",
+          "Nissan",
+          "Jaguar"
+        ],
+        "réponse": "Nissan",
+        "anecdote": "Nissan Motor Company, Limited ou Nissan est un constructeur automobile japonais né en 1932 sous le nom de Datsun."
+      },
+      {
+        "id": 27,
+        "question": "Dans quelle ville d'Allemagne se trouve le siège social d'Audi ?",
+        "propositions": [
+          "Dortmund",
+          "Frankfort",
+          "Ingolstadt",
+          "Kiel"
+        ],
+        "réponse": "Ingolstadt",
+        "anecdote": "Implantée dans 55 pays du monde, la marque Audi est présente sur la plupart des segments du marché des véhicules particuliers."
+      },
+      {
+        "id": 28,
+        "question": "De quelle compagnie fait partie la division Smart Automobile ?",
+        "propositions": [
+          "Chrysler",
+          "Daimler AG",
+          "General Motors",
+          "BMW"
+        ],
+        "réponse": "Daimler AG",
+        "anecdote": "Smart (dérivé du nom de projet Swatch Mercedes Art car) est une marque créée en 1994 sous l'impulsion du groupe horloger Swatch."
+      },
+      {
+        "id": 29,
+        "question": "Quelle compagnie d'automobiles possède un modèle appelé Forester ?",
+        "propositions": [
+          "Hyundai",
+          "Ford",
+          "Subaru",
+          "Toyota"
+        ],
+        "réponse": "Subaru",
+        "anecdote": "Il a été élu en 2009 et 2014 Meilleur SUV de l'année par Motor Trend et Meilleure voiture à acheter en 2014 par Car Connection."
+      },
+      {
+        "id": 30,
+        "question": "Quel modèle de voiture succéda directement à la Porsche 944 ?",
+        "propositions": [
+          "956",
+          "968",
+          "977",
+          "945"
+        ],
+        "réponse": "968",
+        "anecdote": "Au niveau esthétique, la Porsche 944 reprend les caractéristiques de la 924, ses ailes renflées rappelant celles de la 924 Carrera GT."
+      }
+    ]
+    },
+    "en": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Which car manufacturer has the slogan of driving pleasure ?",
+        "propositions": [
+          "Mercedes",
+          "Lexus",
+          "BMW",
+          "Lotus"
+        ],
+        "réponse": "BMW",
+        "anecdote": "In 2016, the BMW group sold 2,117,965 motor vehicles (BMW, Mini, and Rolls-Royce) as well as 123,495 two-wheelers."
+      },
+      {
+        "id": 2,
+        "question": "What colors are present on the circular BMW brand logo ?",
+        "propositions": [
+          "Blue and white",
+          "Green and yellow",
+          "Black and red",
+          "Red and blue"
+        ],
+        "réponse": "Blue and white",
+        "anecdote": "The BMW brand emblem takes up the black circle of the Rapp logo, with in the center the colors symbolizing Bavaria."
+      },
+      {
+        "id": 3,
+        "question": "Which car manufacturer produced the Diablo and Countach models ?",
+        "propositions": [
+          "Lamborghini",
+          "Maserati",
+          "Ferrari",
+          "Porsche"
+        ],
+        "réponse": "Lamborghini",
+        "anecdote": "The Lamborghini Diablo succeeds the legendary Lamborghini Countach after sixteen years of career and 2,200 examples produced."
+      },
+      {
+        "id": 4,
+        "question": "Which of these cars is a model of the manufacturer Nissan ?",
+        "propositions": [
+          "Qashqai",
+          "Diablo",
+          "Elantra",
+          "Fiesta"
+        ],
+        "réponse": "Qashqai",
+        "anecdote": "In May 2007, the Nissan Qashqai received the highest possible score in the Euro NCAP crash tests, namely five stars."
+      },
+      {
+        "id": 5,
+        "question": "Which high-end manufacturer has the spirit of ecstasy as its ornament ?",
+        "propositions": [
+          "Porsche",
+          "Jaguar",
+          "Mercedes",
+          "Rolls-Royce"
+        ],
+        "réponse": "Rolls-Royce",
+        "anecdote": "Spirit of Ecstasy, the famous radiator cap from the Rolls-Royce brand, was created in 1911 by the English artist Charles Sykes."
+      },
+      {
+        "id": 6,
+        "question": "Which of these Volkswagen models remains the best-selling in the world today ?",
+        "propositions": [
+          "Jetta",
+          "Passat",
+          "Beetle",
+          "Golf"
+        ],
+        "réponse": "Golf",
+        "anecdote": "This concept of small sports car with hatchback and traction with an injection engine contrasted with carburetor engines."
+      },
+      {
+        "id": 7,
+        "question": "Which manufacturer produced the very popular Beetle ?",
+        "propositions": [
+          "Volvo",
+          "Suzuki",
+          "Nissan",
+          "Volkswagen"
+        ],
+        "réponse": "Volkswagen",
+        "anecdote": "Produced in 1938, the Beetle was designed by the Austrian engineer Ferdinand Porsche at the request of the Chancellor Adolf Hitler."
+      },
+      {
+        "id": 8,
+        "question": "How many passengers can a 2014 Tesla S Model accommodate ?",
+        "propositions": [
+          "Three",
+          "Seven",
+          "Five",
+          "One"
+        ],
+        "réponse": "Seven",
+        "anecdote": "In addition to recharging on ordinary charging stations, the Model S also benefits from free ultra-fast charging stations called Superchargers."
+      },
+      {
+        "id": 9,
+        "question": "Which car manufacturer created the Cayenne model ?",
+        "propositions": [
+          "Ferrari",
+          "Lamborghini",
+          "Maserati",
+          "Porsche"
+        ],
+        "réponse": "Porsche",
+        "anecdote": "The Cayenne was manufactured in collaboration with Volkswagen with which it shares the same platform of its Touareg 4x4."
+      },
+      {
+        "id": 10,
+        "question": "Which manufacturer produced a hybrid car called Civic ?",
+        "propositions": [
+          "Tesla",
+          "Jaguar",
+          "Ford",
+          "Honda"
+        ],
+        "réponse": "Honda",
+        "anecdote": "The term Civic expresses the ambition of the Honda brand to reduce its polluting emissions and to offer a clean car."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "In what year was the Citroën DS sold for the first time ?",
+        "propositions": [
+          "1971",
+          "1964",
+          "1947",
+          "1955"
+        ],
+        "réponse": "1955",
+        "anecdote": "The D would come from the use of the most recent engine then from Citroën, the D series engine, which fitted the Traction 11 D."
+      },
+      {
+        "id": 12,
+        "question": "Which American manufacturer produced the Chieftain model ?",
+        "propositions": [
+          "Chrysler",
+          "Lotus",
+          "Ford",
+          "Pontiac"
+        ],
+        "réponse": "Pontiac",
+        "anecdote": "The 1949 Chieftain marks the very first new design of the Pontiac models released after the Second World War."
+      },
+      {
+        "id": 13,
+        "question": "Dacia is a car manufacturer from which country ?",
+        "propositions": [
+          "Greece",
+          "Bulgaria",
+          "Romania",
+          "Poland"
+        ],
+        "réponse": "Romania",
+        "anecdote": "The vehicles produced are marketed under the Dacia brand in Europe and under the Renault brand in the rest of the world."
+      },
+      {
+        "id": 14,
+        "question": "Which builder has the slogan of the power of dreams ?",
+        "propositions": [
+          "Skoda",
+          "Honda",
+          "Jaguar",
+          "Land Rover"
+        ],
+        "réponse": "Honda",
+        "anecdote": "In 2008, Honda sold more than 17 million four-stroke engines, making it the largest producer in the world."
+      },
+      {
+        "id": 15,
+        "question": "Which state of the United States was chosen to host Tesla's « Gigafactory 1 » ?",
+        "propositions": [
+          "New York",
+          "Nevada",
+          "Washington",
+          "Illinois"
+        ],
+        "réponse": "Nevada",
+        "anecdote": "This factory was designed with the aim of eventually producing enough renewable energy to meet its consumption."
+      },
+      {
+        "id": 16,
+        "question": "Which manufacturer owned the Jaguar brand from 1990 to 2008 ?",
+        "propositions": [
+          "BMW",
+          "Honda",
+          "Nissan",
+          "Ford"
+        ],
+        "réponse": "Ford",
+        "anecdote": "The SSC company, founded in 1922, took the name of Jaguar in 1945 so as not to evoke the German SS of sinister memory."
+      },
+      {
+        "id": 17,
+        "question": "The Bel Air was once a very popular model offered by which manufacturer ?",
+        "propositions": [
+          "Chevrolet",
+          "Chrysler",
+          "American Motors",
+          "Volkswagen"
+        ],
+        "réponse": "Chevrolet",
+        "anecdote": "The name Bel Air comes from an upscale neighborhood in the city of Los Angeles, located 27 kilometers west of Downtown Los Angeles."
+      },
+      {
+        "id": 18,
+        "question": "Which builder has the slogan performance art ?",
+        "propositions": [
+          "Mini Cooper",
+          "Jaguar",
+          "Chevrolet",
+          "Peugeot"
+        ],
+        "réponse": "Jaguar",
+        "anecdote": "On March 26, 2008, as part of a dismantling, Ford sold Jaguar to the Indian company Tata Motors."
+      },
+      {
+        "id": 19,
+        "question": "Which Ford car model was first released in the 1960s ?",
+        "propositions": [
+          "Ford Gelding",
+          "Ford Mare",
+          "Ford Stallion",
+          "Ford Mustang"
+        ],
+        "réponse": "Ford Mustang",
+        "anecdote": "Unique to the Ford brand, all Mustang models have their own grille logo (a galloping Mustang)."
+      },
+      {
+        "id": 20,
+        "question": "In which Italian city is the headquarters of the manufacturer Fiat located ?",
+        "propositions": [
+          "Turin",
+          "Naples",
+          "Genoa",
+          "Milan"
+        ],
+        "réponse": "Turin",
+        "anecdote": "The FIAT company was created on July 11, 1899 at Palazzo Bricherasio by thirty shareholders, including Giovanni Agnelli."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "By what company was the engine of the Chevrolet Corvette C4 ZR1 designed ?",
+        "propositions": [
+          "Nissan",
+          "Saab",
+          "Lotus",
+          "BMW"
+        ],
+        "réponse": "Lotus",
+        "anecdote": "If the Corvette C4 appeared in 1983, its sporty version ?ZR1 will only appear at the Geneva Motor Show 1989."
+      },
+      {
+        "id": 22,
+        "question": "What was the first name of the mechanic and founder of the Chrysler Company ?",
+        "propositions": [
+          "Wilfried",
+          "William",
+          "Wade",
+          "Walter"
+        ],
+        "réponse": "Walter",
+        "anecdote": "From 1928 to 1930, Walter P. Chrysler built a building in honor of the automobile brand of his name : the Chrysler Building."
+      },
+      {
+        "id": 23,
+        "question": "Which vehicle remains the smallest car ever produced to date ?",
+        "propositions": [
+          "Peel P50",
+          "Chevrolet Camaro",
+          "Isetta",
+          "Mini Cooper"
+        ],
+        "réponse": "Peel P50",
+        "anecdote": "The Peel P50 is a three-wheeled mini car manufactured from 1962 to 1965 by the company Peel Engineering Company on the Isle of Man."
+      },
+      {
+        "id": 24,
+        "question": "The Herald, Vitesse and Spitfire are models made by which company ?",
+        "propositions": [
+          "Triumph",
+          "Peugeot",
+          "Austin",
+          "Vauxhall"
+        ],
+        "réponse": "Triumph",
+        "anecdote": "The purpose of the Spitfire was to create a small, inexpensive sports car, located one level below that of the TR roadsters."
+      },
+      {
+        "id": 25,
+        "question": "Until what year did the Duesenberg brand design cars ?",
+        "propositions": [
+          "1947",
+          "1937",
+          "1917",
+          "1927"
+        ],
+        "réponse": "1937",
+        "anecdote": "After the Second World War, the American August Duesenberg tried somehow to relaunch the brand, without success."
+      },
+      {
+        "id": 26,
+        "question": "Which manufacturer has chosen the slogan to innovate differently ?",
+        "propositions": [
+          "Lexus",
+          "Nissan",
+          "Volkswagen",
+          "Jaguar"
+        ],
+        "réponse": "Nissan",
+        "anecdote": "Nissan Motor Company, Limited or Nissan is a Japanese car manufacturer born in 1932 under the name of Datsun."
+      },
+      {
+        "id": 27,
+        "question": "In which German city is Audi's headquarters located ?",
+        "propositions": [
+          "Dortmund",
+          "Frankfort",
+          "Kiel",
+          "Ingolstadt"
+        ],
+        "réponse": "Ingolstadt",
+        "anecdote": "Established in 55 countries around the world, the Audi brand is present in most segments of the passenger car market."
+      },
+      {
+        "id": 28,
+        "question": "Which company does the Smart Automobile division belong to ?",
+        "propositions": [
+          "Daimler AG",
+          "BMW",
+          "General Motors",
+          "Chrysler"
+        ],
+        "réponse": "Daimler AG",
+        "anecdote": "Smart (derived from the project name ?Swatch Mercedes Art car) is a brand created in 1994 under the leadership of the watchmaking group Swatch."
+      },
+      {
+        "id": 29,
+        "question": "Which car company has a model called Forester ?",
+        "propositions": [
+          "Toyota",
+          "Subaru",
+          "Hyundai",
+          "Ford"
+        ],
+        "réponse": "Subaru",
+        "anecdote": "In 2009 and 2014, it was elected Best SUV of the year by Motor Trend and Best car to buy in 2014 by Car Connection."
+      },
+      {
+        "id": 30,
+        "question": "Which car model succeeded directly to the Porsche 944 ?",
+        "propositions": [
+          "945",
+          "968",
+          "956",
+          "977"
+        ],
+        "réponse": "968",
+        "anecdote": "On the aesthetic level, the Porsche 944 takes on the characteristics of the 924, its swollen wings reminiscent of those of the 924 Carrera GT."
+      }
+    ]
+    },
+    "de": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Welcher Autohersteller hat den Slogan des Fahrspaßes ?",
+        "propositions": [
+          "Lotus",
+          "Lexus",
+          "BMW",
+          "Mercedes"
+        ],
+        "réponse": "BMW",
+        "anecdote": "Im Jahr 2016 verkaufte die BMW Group 2.117.965 Kraftfahrzeuge (BMW, Mini und Rolls-Royce) sowie 123.495 Zweiräder."
+      },
+      {
+        "id": 2,
+        "question": "Welche Farben hat das kreisförmige BMW Markenlogo ?",
+        "propositions": [
+          "Grün und gelb",
+          "Rot und Blau",
+          "Blau und Weiß",
+          "Schwarz und Rot"
+        ],
+        "réponse": "Blau und Weiß",
+        "anecdote": "Das BMW Markenemblem nimmt den schwarzen Kreis des Rapp-Logos ein, in der Mitte die Farben, die Bayern symbolisieren."
+      },
+      {
+        "id": 3,
+        "question": "Welcher Autohersteller hat die Modelle Diablo und Countach hergestellt ?",
+        "propositions": [
+          "Porsche",
+          "Lamborghini",
+          "Ferrari",
+          "Maserati"
+        ],
+        "réponse": "Lamborghini",
+        "anecdote": "Der Lamborghini Diablo tritt nach 16 Jahren Karriere und 2.200 produzierten Exemplaren die Nachfolge des legendären Lamborghini Countach an."
+      },
+      {
+        "id": 4,
+        "question": "Welches dieser Autos ist ein Modell des Herstellers Nissan ?",
+        "propositions": [
+          "Diablo",
+          "Fiesta",
+          "Qashqai",
+          "Elantra"
+        ],
+        "réponse": "Qashqai",
+        "anecdote": "Im Mai 2007 erhielt der Nissan Qashqai bei den Euro-NCAP-Crashtests die höchstmögliche Punktzahl, nämlich fünf Sterne."
+      },
+      {
+        "id": 5,
+        "question": "Welcher High-End-Hersteller hat den Geist der Ekstase als Ornament ?",
+        "propositions": [
+          "Mercedes",
+          "Jaguar",
+          "Porsche",
+          "Rolls-Royce"
+        ],
+        "réponse": "Rolls-Royce",
+        "anecdote": "Spirit of Ecstasy, der berühmte Kühlerdeckel der Marke Rolls-Royce, wurde 1911 vom englischen Künstler Charles Sykes kreiert."
+      },
+      {
+        "id": 6,
+        "question": "Welches dieser Volkswagen Modelle ist bis heute das meistverkaufte der Welt ?",
+        "propositions": [
+          "Golf",
+          "Jetta",
+          "Käfer",
+          "Passat"
+        ],
+        "réponse": "Golf",
+        "anecdote": "Dieses Konzept eines kleinen Sportwagens mit Schrägheck und Traktion mit einem Einspritzmotor steht im Gegensatz zu Vergasermotoren."
+      },
+      {
+        "id": 7,
+        "question": "Welcher Hersteller hat den sehr beliebten Käfer hergestellt ?",
+        "propositions": [
+          "Suzuki",
+          "Volkswagen",
+          "Volvo",
+          "Nissan"
+        ],
+        "réponse": "Volkswagen",
+        "anecdote": "Der 1938 produzierte Käfer wurde vom österreichischen Ingenieur Ferdinand Porsche auf Wunsch von Bundeskanzler Adolf Hitler entworfen."
+      },
+      {
+        "id": 8,
+        "question": "Wie viele Passagiere kann ein 2014 Tesla S Model aufnehmen ?",
+        "propositions": [
+          "Sieben",
+          "Drei",
+          "Eins",
+          "Fünf"
+        ],
+        "réponse": "Sieben",
+        "anecdote": "Neben dem Aufladen an normalen Ladestationen profitiert das Modell S auch von kostenlosen ultraschnellen Ladestationen, den so genannten Superchargern."
+      },
+      {
+        "id": 9,
+        "question": "Welcher Autohersteller hat das Cayenne-Modell entwickelt ?",
+        "propositions": [
+          "Porsche",
+          "Maserati",
+          "Lamborghini",
+          "Ferrari"
+        ],
+        "réponse": "Porsche",
+        "anecdote": "Der Cayenne wurde in Zusammenarbeit mit Volkswagen hergestellt, mit dem er die gleiche Plattform wie sein Touareg 4x4 teilt."
+      },
+      {
+        "id": 10,
+        "question": "Welcher Hersteller hat ein Hybridauto namens Civic hergestellt ?",
+        "propositions": [
+          "Jaguar",
+          "Honda",
+          "Tesla",
+          "Ford"
+        ],
+        "réponse": "Honda",
+        "anecdote": "Der Begriff Civic drückt den Ehrgeiz der Marke Honda aus, ihre Schadstoffemissionen zu reduzieren und ein sauberes Auto anzubieten."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "In welchem Jahr wurde der Citroën DS zum ersten Mal verkauft ?",
+        "propositions": [
+          "1964",
+          "1971",
+          "1955",
+          "1947"
+        ],
+        "réponse": "1955",
+        "anecdote": "Der D wäre auf die Verwendung des neuesten Motors von Citroën zurückzuführen, des Motors der D-Serie, der für den Traction 11 D geeignet ist."
+      },
+      {
+        "id": 12,
+        "question": "Welcher amerikanische Hersteller hat das Chieftain-Modell hergestellt ?",
+        "propositions": [
+          "Lotus",
+          "Ford",
+          "Chrysler",
+          "Pontiac"
+        ],
+        "réponse": "Pontiac",
+        "anecdote": "Der Häuptling von 1949 markiert das allererste neue Design der Pontiac-Modelle, die nach dem Zweiten Weltkrieg veröffentlicht wurden."
+      },
+      {
+        "id": 13,
+        "question": "Dacia ist ein Autohersteller aus welchem Land ?",
+        "propositions": [
+          "Polen",
+          "Rumänien",
+          "Griechenland",
+          "Bulgarien"
+        ],
+        "réponse": "Rumänien",
+        "anecdote": "Die produzierten Fahrzeuge werden in Europa unter der Marke Dacia und in der übrigen Welt unter der Marke Renault vermarktet."
+      },
+      {
+        "id": 14,
+        "question": "Welcher Baumeister hat den Slogan der Kraft der Träume ?",
+        "propositions": [
+          "Land Rover",
+          "Jaguar",
+          "Honda",
+          "Skoda"
+        ],
+        "réponse": "Honda",
+        "anecdote": "Im Jahr 2008 verkaufte Honda mehr als 17 Millionen Viertaktmotoren und war damit der größte Hersteller der Welt."
+      },
+      {
+        "id": 15,
+        "question": "Welcher Bundesstaat der USA wurde als Gastgeber für Teslas « Gigafactory 1 » ausgewählt ?",
+        "propositions": [
+          "New York",
+          "Washington",
+          "Illinois",
+          "Nevada"
+        ],
+        "réponse": "Nevada",
+        "anecdote": "Diese Fabrik wurde mit dem Ziel entworfen, schließlich genug erneuerbare Energie zu produzieren, um ihren Verbrauch zu decken."
+      },
+      {
+        "id": 16,
+        "question": "Welcher Hersteller besaß die Marke Jaguar von 1990 bis 2008 ?",
+        "propositions": [
+          "BMW",
+          "Ford",
+          "Nissan",
+          "Honda"
+        ],
+        "réponse": "Ford",
+        "anecdote": "Die 1922 gegründete SSC-Kompanie nahm 1945 den Namen Jaguar an, um die deutsche SS nicht an unheimliche Erinnerungen zu erinnern."
+      },
+      {
+        "id": 17,
+        "question": "Der Bel Air war einst ein sehr beliebtes Modell, das von welchem Hersteller angeboten wurde ?",
+        "propositions": [
+          "Chrysler",
+          "Volkswagen",
+          "Chevrolet",
+          "Amerikanische Motoren"
+        ],
+        "réponse": "Chevrolet",
+        "anecdote": "Der Name Bel Air stammt aus einem gehobenen Viertel in Los Angeles, 27 Kilometer westlich der Innenstadt von Los Angeles."
+      },
+      {
+        "id": 18,
+        "question": "Welcher Bauherr hat den Slogan Performance Art ?",
+        "propositions": [
+          "Jaguar",
+          "Chevrolet",
+          "Mini Cooper",
+          "Peugeot"
+        ],
+        "réponse": "Jaguar",
+        "anecdote": "Am 26. März 2008 verkaufte Ford Jaguar im Rahmen einer Demontage an die indische Firma Tata Motors."
+      },
+      {
+        "id": 19,
+        "question": "Welches Ford-Automodell wurde erstmals in den 1960er Jahren veröffentlicht ?",
+        "propositions": [
+          "Ford Hengst",
+          "Ford Mustang",
+          "Ford Wallach",
+          "Ford Mare"
+        ],
+        "réponse": "Ford Mustang",
+        "anecdote": "Alle Mustang-Modelle sind einzigartig für die Marke Ford und haben ein eigenes Kühlergrill-Logo (ein galoppierender Mustang)."
+      },
+      {
+        "id": 20,
+        "question": "In welcher italienischen Stadt befindet sich der Hauptsitz des Herstellers Fiat ?",
+        "propositions": [
+          "Turin",
+          "Neapel",
+          "Mailand",
+          "Genua"
+        ],
+        "réponse": "Turin",
+        "anecdote": "FIAT wurde am 11. Juli 1899 im Palazzo Bricherasio von 30 Aktionären, darunter Giovanni Agnelli, gegründet."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Von welcher Firma wurde der Motor der Chevrolet Corvette C4 ZR1 entwickelt ?",
+        "propositions": [
+          "Saab",
+          "Nissan",
+          "BMW",
+          "Lotus"
+        ],
+        "réponse": "Lotus",
+        "anecdote": "Wenn die Corvette C4 1983 erschien, erscheint ihre sportliche Version  ?ZR1 nur auf dem Genfer Autosalon 1989."
+      },
+      {
+        "id": 22,
+        "question": "Wie war der Vorname des Mechanikers und Gründers der Chrysler Company ?",
+        "propositions": [
+          "William",
+          "Walter",
+          "Wade",
+          "Wilfried"
+        ],
+        "réponse": "Walter",
+        "anecdote": "Von 1928 bis 1930 baute Walter P. Chrysler ein Gebäude zu Ehren der gleichnamigen Automarke : das Chrysler Building."
+      },
+      {
+        "id": 23,
+        "question": "Welches Fahrzeug ist das kleinste Auto, das jemals produziert wurde ?",
+        "propositions": [
+          "Chevrolet Camaro",
+          "Isetta",
+          "Mini Cooper",
+          "Peel P50"
+        ],
+        "réponse": "Peel P50",
+        "anecdote": "Der Peel P50 ist ein dreirädriges Mini-Auto, das von 1962 bis 1965 von der Firma Peel Engineering Company auf der Isle of Man hergestellt wurde."
+      },
+      {
+        "id": 24,
+        "question": "The Herald, Vitesse und Spitfire sind Modelle von welcher Firma ?",
+        "propositions": [
+          "Triumph",
+          "Austin",
+          "Peugeot",
+          "Vauxhall"
+        ],
+        "réponse": "Triumph",
+        "anecdote": "Der Zweck des Spitfire war es, einen kleinen, preiswerten Sportwagen zu schaffen, der sich eine Ebene unter dem der TR-Roadster befindet."
+      },
+      {
+        "id": 25,
+        "question": "Bis zu welchem Jahr entwarf die Marke Duesenberg Autos ?",
+        "propositions": [
+          "1947",
+          "1917",
+          "1927",
+          "1937"
+        ],
+        "réponse": "1937",
+        "anecdote": "Nach dem Zweiten Weltkrieg versuchte der Amerikaner August Duesenberg erfolglos, die Marke neu zu starten."
+      },
+      {
+        "id": 26,
+        "question": "Welcher Hersteller hat den Slogan gewählt, um anders zu innovieren ?",
+        "propositions": [
+          "Nissan",
+          "Lexus",
+          "Jaguar",
+          "Volkswagen"
+        ],
+        "réponse": "Nissan",
+        "anecdote": "Nissan Motor Company, Limited oder Nissan ist ein japanischer Automobilhersteller, der 1932 unter dem Namen Datsun geboren wurde."
+      },
+      {
+        "id": 27,
+        "question": "In welcher deutschen Stadt befindet sich der Hauptsitz von Audi ?",
+        "propositions": [
+          "Frankfort",
+          "Kiel",
+          "Ingolstadt",
+          "Dortmund"
+        ],
+        "réponse": "Ingolstadt",
+        "anecdote": "Die Marke Audi ist in 55 Ländern weltweit etabliert und in den meisten Segmenten des Pkw-Marktes vertreten."
+      },
+      {
+        "id": 28,
+        "question": "Zu welchem Unternehmen gehört der Geschäftsbereich Smart Automobile ?",
+        "propositions": [
+          "Chrysler",
+          "General Motors",
+          "BMW",
+          "Daimler AG"
+        ],
+        "réponse": "Daimler AG",
+        "anecdote": "Smart (abgeleitet vom Projektnamen Watch Mercedes Art Car) ist eine Marke, die 1994 unter der Leitung der Uhrmachergruppe Swatch gegründet wurde."
+      },
+      {
+        "id": 29,
+        "question": "Welche Autofirma hat ein Modell namens Forester ?",
+        "propositions": [
+          "Toyota",
+          "Hyundai",
+          "Subaru",
+          "Ford"
+        ],
+        "réponse": "Subaru",
+        "anecdote": "In den Jahren 2009 und 2014 wurde es von Motor Trend zum besten SUV des Jahres und 2014 von Car Connection zum besten Auto gewählt."
+      },
+      {
+        "id": 30,
+        "question": "Welches Automodell ist dem Porsche 944 direkt gelungen ?",
+        "propositions": [
+          "956",
+          "977",
+          "945",
+          "968"
+        ],
+        "réponse": "968",
+        "anecdote": "Auf ästhetischer Ebene nimmt der Porsche 944 die Eigenschaften des 924 an, dessen geschwollene Flügel an die des 924 Carrera GT erinnern."
+      }
+    ]
+    },
+    "es": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "¿Qué fabricante de automóviles tiene el eslogan del placer de conducir ?",
+        "propositions": [
+          "Mercedes",
+          "Lotus",
+          "BMW",
+          "Lexus"
+        ],
+        "réponse": "BMW",
+        "anecdote": "En 2016, el grupo BMW vendió 2,117,965 vehículos motorizados (BMW, Mini y Rolls-Royce), así como 123,495 vehículos de dos ruedas."
+      },
+      {
+        "id": 2,
+        "question": "¿Qué colores están presentes en el logotipo circular de la marca BMW ?",
+        "propositions": [
+          "Rojo y azul",
+          "Azul y blanco",
+          "Negro y rojo",
+          "Verde y amarillo"
+        ],
+        "réponse": "Azul y blanco",
+        "anecdote": "El emblema de la marca BMW ocupa el círculo negro del logotipo de Rapp, con en el centro los colores que simbolizan Bavaria."
+      },
+      {
+        "id": 3,
+        "question": "¿Qué fabricante de automóviles produjo los modelos Diablo y Countach ?",
+        "propositions": [
+          "Lamborghini",
+          "Porsche",
+          "Ferrari",
+          "Maserati"
+        ],
+        "réponse": "Lamborghini",
+        "anecdote": "El Lamborghini Diablo sucede al legendario Lamborghini Countach después de dieciséis años de carrera y 2.200 ejemplos producidos."
+      },
+      {
+        "id": 4,
+        "question": "¿Cuál de estos autos es un modelo del fabricante Nissan ?",
+        "propositions": [
+          "Elantra",
+          "Qashqai",
+          "Diablo",
+          "Fiesta"
+        ],
+        "réponse": "Qashqai",
+        "anecdote": "En mayo de 2007, el Nissan Qashqai recibió el puntaje más alto posible en las pruebas de choque Euro NCAP, es decir, cinco estrellas."
+      },
+      {
+        "id": 5,
+        "question": "¿Qué fabricante de alta gama tiene el espíritu del éxtasis como adorno ?",
+        "propositions": [
+          "Porsche",
+          "Mercedes",
+          "Jaguar",
+          "Rolls-Royce"
+        ],
+        "réponse": "Rolls-Royce",
+        "anecdote": "Spirit of Ecstasy, la famosa tapa del radiador de la marca Rolls-Royce, fue creada en 1911 por el artista inglés Charles Sykes."
+      },
+      {
+        "id": 6,
+        "question": "¿Cuál de estos modelos de Volkswagen sigue siendo el más vendido en el mundo hoy ?",
+        "propositions": [
+          "Jetta",
+          "Escarabajo",
+          "Golf",
+          "Passat"
+        ],
+        "réponse": "Golf",
+        "anecdote": "Este concepto de automóvil deportivo pequeño con hatchback y tracción con un motor de inyección contrasta con los motores de carburador."
+      },
+      {
+        "id": 7,
+        "question": "¿Qué fabricante produjo el popular Beetle ?",
+        "propositions": [
+          "Nissan",
+          "Suzuki",
+          "Volvo",
+          "Volkswagen"
+        ],
+        "réponse": "Volkswagen",
+        "anecdote": "Producido en 1938, el Beetle fue diseñado por el ingeniero austriaco Ferdinand Porsche a pedido del canciller Adolf Hitler."
+      },
+      {
+        "id": 8,
+        "question": "¿Cuántos pasajeros puede acomodar un modelo Tesla S 2014 ?",
+        "propositions": [
+          "Tres",
+          "Uno",
+          "Siete",
+          "Cinco"
+        ],
+        "réponse": "Siete",
+        "anecdote": "Además de recargarse en estaciones de carga normales, el Modelo S también se beneficia de estaciones de carga ultrarrápidas gratuitas llamadas Superchargers."
+      },
+      {
+        "id": 9,
+        "question": "¿Qué fabricante de automóviles creó el modelo Cayenne ?",
+        "propositions": [
+          "Maserati",
+          "Lamborghini",
+          "Ferrari",
+          "Porsche"
+        ],
+        "réponse": "Porsche",
+        "anecdote": "El Cayenne fue fabricado en colaboración con Volkswagen con el que comparte la misma plataforma de su Touareg 4x4."
+      },
+      {
+        "id": 10,
+        "question": "¿Qué fabricante produjo un automóvil híbrido llamado Civic ?",
+        "propositions": [
+          "Jaguar",
+          "Tesla",
+          "Honda",
+          "Ford"
+        ],
+        "réponse": "Honda",
+        "anecdote": "El término Civic expresa la ambición de la marca Honda de reducir sus emisiones contaminantes y ofrecer un automóvil limpio."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "¿En qué año se vendió el Citroën DS por primera vez ?",
+        "propositions": [
+          "1971",
+          "1964",
+          "1955",
+          "1947"
+        ],
+        "réponse": "1955",
+        "anecdote": "El D vendría del uso del motor más reciente que Citroën, el motor de la serie D, que se ajustaba al Traction 11 D."
+      },
+      {
+        "id": 12,
+        "question": "¿Qué fabricante estadounidense produjo el modelo Chieftain ?",
+        "propositions": [
+          "Lotus",
+          "Chrysler",
+          "Ford",
+          "Pontiac"
+        ],
+        "réponse": "Pontiac",
+        "anecdote": "El Chieftain de 1949 marca el primer diseño nuevo de los modelos Pontiac lanzado después de la Segunda Guerra Mundial."
+      },
+      {
+        "id": 13,
+        "question": "Dacia es un fabricante de automóviles de qué país ?",
+        "propositions": [
+          "Bulgaria",
+          "Rumania",
+          "Polonia",
+          "Grecia"
+        ],
+        "réponse": "Rumania",
+        "anecdote": "Los vehículos producidos se comercializan bajo la marca Dacia en Europa y bajo la marca Renault en el resto del mundo."
+      },
+      {
+        "id": 14,
+        "question": "¿Qué constructor tiene el eslogan del poder de los sueños ?",
+        "propositions": [
+          "Land Rover",
+          "Skoda",
+          "Jaguar",
+          "Honda"
+        ],
+        "réponse": "Honda",
+        "anecdote": "En 2008, Honda vendió más de 17 millones de motores de cuatro tiempos, lo que lo convierte en el mayor productor del mundo."
+      },
+      {
+        "id": 15,
+        "question": "¿Qué estado de los Estados Unidos fue elegido para albergar el « Gigafactory 1 » de Tesla ?",
+        "propositions": [
+          "Nueva York",
+          "Nevada",
+          "Illinois",
+          "Washington"
+        ],
+        "réponse": "Nevada",
+        "anecdote": "Esta fábrica fue diseñada con el objetivo de eventualmente producir suficiente energía renovable para satisfacer su consumo."
+      },
+      {
+        "id": 16,
+        "question": "¿Qué fabricante poseía la marca Jaguar de 1990 a 2008 ?",
+        "propositions": [
+          "Nissan",
+          "Honda",
+          "BMW",
+          "Ford"
+        ],
+        "réponse": "Ford",
+        "anecdote": "La compañía SSC, fundada en 1922, tomó el nombre de Jaguar en 1945 para no evocar a las SS alemanas de siniestra memoria."
+      },
+      {
+        "id": 17,
+        "question": "El Bel Air fue alguna vez un modelo muy popular ofrecido por qué fabricante.",
+        "propositions": [
+          "Chrysler",
+          "Volkswagen",
+          "Motores americanos",
+          "Chevrolet"
+        ],
+        "réponse": "Chevrolet",
+        "anecdote": "El nombre de Bel Air proviene de un vecindario exclusivo en la ciudad de Los Ángeles, ubicado a 27 kilómetros al oeste del centro de Los Ángeles."
+      },
+      {
+        "id": 18,
+        "question": "¿Qué constructor tiene el eslogan performance art ?",
+        "propositions": [
+          "Peugeot",
+          "Chevrolet",
+          "Jaguar",
+          "Mini Cooper"
+        ],
+        "réponse": "Jaguar",
+        "anecdote": "El 26 de marzo de 2008, como parte de un desmantelamiento, Ford vendió Jaguar a la compañía india Tata Motors."
+      },
+      {
+        "id": 19,
+        "question": "¿Qué modelo de automóvil Ford se lanzó por primera vez en la década de 1960 ?",
+        "propositions": [
+          "Ford Gelding",
+          "Ford Stallion",
+          "Ford Mare",
+          "Ford Mustang"
+        ],
+        "réponse": "Ford Mustang",
+        "anecdote": "Exclusivo de la marca Ford, todos los modelos Mustang tienen su propio logotipo de parrilla (un Mustang galopante)."
+      },
+      {
+        "id": 20,
+        "question": "¿En qué ciudad italiana se encuentra la sede del fabricante Fiat ?",
+        "propositions": [
+          "Milán",
+          "Génova",
+          "Nápoles",
+          "Turín"
+        ],
+        "réponse": "Turín",
+        "anecdote": "La compañía FIAT fue creada el 11 de julio de 1899 en el Palazzo Bricherasio por treinta accionistas, incluido Giovanni Agnelli."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "¿Por qué compañía fue diseñado el motor del Chevrolet Corvette C4 ZR1 ?",
+        "propositions": [
+          "Nissan",
+          "BMW",
+          "Lotus",
+          "Saab"
+        ],
+        "réponse": "Lotus",
+        "anecdote": "Si el Corvette C4 apareció en 1983, su versión deportiva ZZ1 solo aparecerá en el Salón del Automóvil de Ginebra 1989."
+      },
+      {
+        "id": 22,
+        "question": "¿Cuál fue el primer nombre del mecánico y fundador de la Compañía Chrysler ?",
+        "propositions": [
+          "Walter",
+          "Wilfried",
+          "William",
+          "Wade"
+        ],
+        "réponse": "Walter",
+        "anecdote": "De 1928 a 1930, Walter P. Chrysler construyó un edificio en honor a la marca de automóviles de su nombre : el Edificio Chrysler."
+      },
+      {
+        "id": 23,
+        "question": "¿Qué vehículo sigue siendo el automóvil más pequeño jamás producido hasta la fecha ?",
+        "propositions": [
+          "Mini Cooper",
+          "Peel P50",
+          "Chevrolet Camaro",
+          "Isetta"
+        ],
+        "réponse": "Peel P50",
+        "anecdote": "El Peel P50 es un mini automóvil de tres ruedas fabricado entre 1962 y 1965 por la compañía Peel Engineering Company en la Isla de Man."
+      },
+      {
+        "id": 24,
+        "question": "The Herald, Vitesse y Spitfire son modelos fabricados por qué compañía.",
+        "propositions": [
+          "Vauxhall",
+          "Austin",
+          "Triumph",
+          "Peugeot"
+        ],
+        "réponse": "Triumph",
+        "anecdote": "El propósito del Spitfire era crear un automóvil deportivo pequeño y económico, ubicado un nivel por debajo del de los roadsters TR."
+      },
+      {
+        "id": 25,
+        "question": "¿Hasta qué año diseñaron los automóviles de la marca Duesenberg ?",
+        "propositions": [
+          "1937",
+          "1947",
+          "1927",
+          "1917"
+        ],
+        "réponse": "1937",
+        "anecdote": "Después de la Segunda Guerra Mundial, el estadounidense August Duesenberg intentó de alguna manera relanzar la marca, sin éxito."
+      },
+      {
+        "id": 26,
+        "question": "¿Qué fabricante ha elegido el eslogan para innovar de manera diferente ?",
+        "propositions": [
+          "Jaguar",
+          "Lexus",
+          "Volkswagen",
+          "Nissan"
+        ],
+        "réponse": "Nissan",
+        "anecdote": "Nissan Motor Company, Limited o Nissan es un fabricante de automóviles japonés nacido en 1932 bajo el nombre de Datsun."
+      },
+      {
+        "id": 27,
+        "question": "¿En qué ciudad alemana se encuentra la sede de Audi ?",
+        "propositions": [
+          "Dortmund",
+          "Ingolstadt",
+          "Kiel",
+          "Frankfort"
+        ],
+        "réponse": "Ingolstadt",
+        "anecdote": "Establecida en 55 países de todo el mundo, la marca Audi está presente en la mayoría de los segmentos del mercado de automóviles de pasajeros."
+      },
+      {
+        "id": 28,
+        "question": "¿A qué compañía pertenece la división Smart Automobile ?",
+        "propositions": [
+          "BMW",
+          "General Motors",
+          "Daimler AG",
+          "Chrysler"
+        ],
+        "réponse": "Daimler AG",
+        "anecdote": "Smart (derivado del nombre del proyecto Watch Mercedes Art car) es una marca creada en 1994 bajo el liderazgo del grupo de relojería Swatch."
+      },
+      {
+        "id": 29,
+        "question": "¿Qué compañía de automóviles tiene un modelo llamado Forester ?",
+        "propositions": [
+          "Ford",
+          "Hyundai",
+          "Toyota",
+          "Subaru"
+        ],
+        "réponse": "Subaru",
+        "anecdote": "En 2009 y 2014, fue elegido Mejor SUV del año por Motor Trend y Mejor auto para comprar en 2014 por Car Connection."
+      },
+      {
+        "id": 30,
+        "question": "¿Qué modelo de automóvil tuvo éxito directamente con el Porsche 944 ?",
+        "propositions": [
+          "977",
+          "968",
+          "956",
+          "945"
+        ],
+        "réponse": "968",
+        "anecdote": "A nivel estético, el Porsche 944 adquiere las características del 924, sus alas hinchadas recuerdan a las del 924 Carrera GT."
+      }
+    ]
+    },
+    "it": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Quale costruttore di automobili ha lo slogan del piacere di guidare ?",
+        "propositions": [
+          "BMW",
+          "Mercedes",
+          "Lexus",
+          "Lotus"
+        ],
+        "réponse": "BMW",
+        "anecdote": "Nel 2016, il gruppo BMW ha venduto 2.117.965 veicoli a motore (BMW, Mini e Rolls-Royce) e 123.495 a due ruote."
+      },
+      {
+        "id": 2,
+        "question": "Quali colori sono presenti sul logo circolare del marchio BMW ?",
+        "propositions": [
+          "Verde e giallo",
+          "Blu e bianco",
+          "Rosso e blu",
+          "Nero e rosso"
+        ],
+        "réponse": "Blu e bianco",
+        "anecdote": "L'emblema del marchio BMW riprende il cerchio nero del logo Rapp, con al centro i colori che simboleggiano la Baviera."
+      },
+      {
+        "id": 3,
+        "question": "Quale produttore di automobili ha prodotto i modelli Diablo e Countach ?",
+        "propositions": [
+          "Maserati",
+          "Porsche",
+          "Ferrari",
+          "Lamborghini"
+        ],
+        "réponse": "Lamborghini",
+        "anecdote": "La Lamborghini Diablo succede alla mitica Lamborghini Countach dopo sedici anni di carriera e 2.200 esempi prodotti."
+      },
+      {
+        "id": 4,
+        "question": "Quale di queste auto è un modello del produttore Nissan ?",
+        "propositions": [
+          "Fiesta",
+          "Qashqai",
+          "Diablo",
+          "Elantra"
+        ],
+        "réponse": "Qashqai",
+        "anecdote": "Nel maggio 2007, la Nissan Qashqai ha ottenuto il punteggio più alto possibile nei crash test Euro NCAP, vale a dire cinque stelle."
+      },
+      {
+        "id": 5,
+        "question": "Quale produttore di fascia alta ha come spirito lo spirito dell'estasi ?",
+        "propositions": [
+          "Mercedes",
+          "Jaguar",
+          "Porsche",
+          "Rolls-Royce"
+        ],
+        "réponse": "Rolls-Royce",
+        "anecdote": "Spirit of Ecstasy, il famoso tappo del radiatore del marchio Rolls-Royce, è stato creato nel 1911 dall'artista inglese Charles Sykes."
+      },
+      {
+        "id": 6,
+        "question": "Quale di questi modelli Volkswagen rimane oggi il più venduto al mondo ?",
+        "propositions": [
+          "Jetta",
+          "Passat",
+          "Scarabeo",
+          "Golf"
+        ],
+        "réponse": "Golf",
+        "anecdote": "Questo concetto di piccola auto sportiva con berlina e trazione con un motore a iniezione è in contrasto con i motori a carburatore."
+      },
+      {
+        "id": 7,
+        "question": "Quale produttore ha prodotto il famosissimo Maggiolino ?",
+        "propositions": [
+          "Volvo",
+          "Nissan",
+          "Volkswagen",
+          "Suzuki"
+        ],
+        "réponse": "Volkswagen",
+        "anecdote": "Prodotto nel 1938, il Maggiolino fu progettato dall'ingegnere austriaco Ferdinand Porsche su richiesta del cancelliere Adolf Hitler."
+      },
+      {
+        "id": 8,
+        "question": "Quanti passeggeri può ospitare un modello Tesla S 2014 ?",
+        "propositions": [
+          "Uno",
+          "Cinque",
+          "Tre",
+          "Sette"
+        ],
+        "réponse": "Sette",
+        "anecdote": "Oltre a ricaricare sulle normali stazioni di ricarica, il Modello S beneficia anche di stazioni di ricarica ultra veloci gratuite chiamate Superchargers."
+      },
+      {
+        "id": 9,
+        "question": "Quale produttore di automobili ha creato il modello Cayenne ?",
+        "propositions": [
+          "Lamborghini",
+          "Porsche",
+          "Maserati",
+          "Ferrari"
+        ],
+        "réponse": "Porsche",
+        "anecdote": "La Cayenne è stata prodotta in collaborazione con la Volkswagen con la quale condivide la stessa piattaforma del suo Touareg 4x4."
+      },
+      {
+        "id": 10,
+        "question": "Quale produttore ha prodotto un'auto ibrida chiamata Civic ?",
+        "propositions": [
+          "Honda",
+          "Tesla",
+          "Ford",
+          "Jaguar"
+        ],
+        "réponse": "Honda",
+        "anecdote": "Il termine Civic esprime l'ambizione del marchio Honda di ridurre le emissioni inquinanti e di offrire un'auto pulita."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "In quale anno Citroën DS fu venduto per la prima volta ?",
+        "propositions": [
+          "1964",
+          "1971",
+          "1947",
+          "1955"
+        ],
+        "réponse": "1955",
+        "anecdote": "La D verrebbe dall'uso del motore più recente quindi da Citroën, il motore della serie D, che montava la trazione 11 D."
+      },
+      {
+        "id": 12,
+        "question": "Quale produttore americano ha prodotto il modello Chieftain ?",
+        "propositions": [
+          "Pontiac",
+          "Chrysler",
+          "Ford",
+          "Lotus"
+        ],
+        "réponse": "Pontiac",
+        "anecdote": "Il Chieftain del 1949 segna il primissimo nuovo design dei modelli Pontiac rilasciato dopo la seconda guerra mondiale."
+      },
+      {
+        "id": 13,
+        "question": "Dacia è un produttore di automobili di quale paese ?",
+        "propositions": [
+          "Polonia",
+          "Grecia",
+          "Romania",
+          "Bulgaria"
+        ],
+        "réponse": "Romania",
+        "anecdote": "I veicoli prodotti sono commercializzati con il marchio Dacia in Europa e con il marchio Renault nel resto del mondo."
+      },
+      {
+        "id": 14,
+        "question": "Quale costruttore ha lo slogan del potere dei sogni ?",
+        "propositions": [
+          "Land Rover",
+          "Honda",
+          "Skoda",
+          "Jaguar"
+        ],
+        "réponse": "Honda",
+        "anecdote": "Nel 2008, Honda ha venduto oltre 17 milioni di motori a quattro tempi, rendendolo il più grande produttore al mondo."
+      },
+      {
+        "id": 15,
+        "question": "Quale stato degli Stati Uniti è stato scelto per ospitare il Tesla « Gigafactory 1 » ?",
+        "propositions": [
+          "Illinois",
+          "Nevada",
+          "Washington",
+          "New York"
+        ],
+        "réponse": "Nevada",
+        "anecdote": "Questa fabbrica è stata progettata con l'obiettivo di produrre energia rinnovabile sufficiente per soddisfare il suo consumo."
+      },
+      {
+        "id": 16,
+        "question": "Quale produttore possiede il marchio Jaguar dal 1990 al 2008 ?",
+        "propositions": [
+          "Ford",
+          "BMW",
+          "Honda",
+          "Nissan"
+        ],
+        "réponse": "Ford",
+        "anecdote": "La compagnia SSC, fondata nel 1922, prese il nome di Jaguar nel 1945 per non evocare le SS tedesche dalla memoria sinistra."
+      },
+      {
+        "id": 17,
+        "question": "Il Bel Air era un tempo un modello molto popolare offerto da quale produttore ?",
+        "propositions": [
+          "Chevrolet",
+          "American Motors",
+          "Volkswagen",
+          "Chrysler"
+        ],
+        "réponse": "Chevrolet",
+        "anecdote": "Il nome Bel Air deriva da un quartiere di lusso nella città di Los Angeles, situato a 27 chilometri a ovest del centro di Los Angeles."
+      },
+      {
+        "id": 18,
+        "question": "Quale costruttore ha lo slogan performance art ?",
+        "propositions": [
+          "Jaguar",
+          "Mini Cooper",
+          "Chevrolet",
+          "Peugeot"
+        ],
+        "réponse": "Jaguar",
+        "anecdote": "Il 26 marzo 2008, nell'ambito di uno smantellamento, Ford vendette Jaguar alla società indiana Tata Motors."
+      },
+      {
+        "id": 19,
+        "question": "Quale modello di auto Ford è stato rilasciato per la prima volta negli anni '60 ?",
+        "propositions": [
+          "Ford Mustang",
+          "Ford Gelding",
+          "Stallone Ford",
+          "Ford Mare"
+        ],
+        "réponse": "Ford Mustang",
+        "anecdote": "Unico per il marchio Ford, tutti i modelli Mustang hanno il proprio logo della griglia (un Mustang al galoppo)."
+      },
+      {
+        "id": 20,
+        "question": "In quale città italiana si trova la sede del produttore Fiat ?",
+        "propositions": [
+          "Milano",
+          "Genova",
+          "Napoli",
+          "Torino"
+        ],
+        "réponse": "Torino",
+        "anecdote": "La società FIAT fu creata l'11 luglio 1899 a Palazzo Bricherasio da trenta azionisti, tra cui Giovanni Agnelli."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Da quale azienda è stato progettato il motore della Chevrolet Corvette C4 ZR1 ?",
+        "propositions": [
+          "Lotus",
+          "Nissan",
+          "BMW",
+          "Saab"
+        ],
+        "réponse": "Lotus",
+        "anecdote": "Se la Corvette C4 apparve nel 1983, la sua versione sportiva ?ZR1 apparirà solo al Motor Show di Ginevra del 1989."
+      },
+      {
+        "id": 22,
+        "question": "Qual era il nome del meccanico e fondatore della Chrysler Company ?",
+        "propositions": [
+          "Wade",
+          "Wilfried",
+          "William",
+          "Walter"
+        ],
+        "réponse": "Walter",
+        "anecdote": "Dal 1928 al 1930, Walter P. Chrysler costruì un edificio in onore del suo marchio automobilistico : il Chrysler Building."
+      },
+      {
+        "id": 23,
+        "question": "Quale veicolo rimane l'auto più piccola mai prodotta finora ?",
+        "propositions": [
+          "Isetta",
+          "Mini Cooper",
+          "Peel P50",
+          "Chevrolet Camaro"
+        ],
+        "réponse": "Peel P50",
+        "anecdote": "La Peel P50 è una mini automobile a tre ruote prodotta dal 1962 al 1965 dalla società Peel Engineering Company sull'isola di Man."
+      },
+      {
+        "id": 24,
+        "question": "Herald, Vitesse e Spitfire sono modelli realizzati da quale azienda ?",
+        "propositions": [
+          "Peugeot",
+          "Vauxhall",
+          "Triumph",
+          "Austin"
+        ],
+        "réponse": "Triumph",
+        "anecdote": "Lo scopo di Spitfire era quello di creare una piccola auto sportiva economica, situata a un livello inferiore a quella dei roadster TR."
+      },
+      {
+        "id": 25,
+        "question": "Fino a che anno il marchio Duesenberg ha progettato le auto ?",
+        "propositions": [
+          "1927",
+          "1947",
+          "1937",
+          "1917"
+        ],
+        "réponse": "1937",
+        "anecdote": "Dopo la seconda guerra mondiale, l'americano August Duesenberg ha provato in qualche modo a rilanciare il marchio, senza successo."
+      },
+      {
+        "id": 26,
+        "question": "Quale produttore ha scelto lo slogan per innovare in modo diverso ?",
+        "propositions": [
+          "Nissan",
+          "Lexus",
+          "Volkswagen",
+          "Jaguar"
+        ],
+        "réponse": "Nissan",
+        "anecdote": "Nissan Motor Company, Limited o Nissan è una casa automobilistica giapponese nata nel 1932 con il nome di Datsun."
+      },
+      {
+        "id": 27,
+        "question": "In quale città tedesca ha sede la Audi ?",
+        "propositions": [
+          "Frankfort",
+          "Kiel",
+          "Ingolstadt",
+          "Dortmund"
+        ],
+        "réponse": "Ingolstadt",
+        "anecdote": "Stabilito in 55 paesi in tutto il mondo, il marchio Audi è presente nella maggior parte dei segmenti del mercato delle autovetture."
+      },
+      {
+        "id": 28,
+        "question": "A quale azienda appartiene la divisione Smart Automobile ?",
+        "propositions": [
+          "General Motors",
+          "Chrysler",
+          "Daimler AG",
+          "BMW"
+        ],
+        "réponse": "Daimler AG",
+        "anecdote": "Smart (derivato dal nome del progetto Watch Mercedes Art car) è un marchio creato nel 1994 sotto la guida del gruppo di orologeria Swatch."
+      },
+      {
+        "id": 29,
+        "question": "Quale compagnia automobilistica ha un modello chiamato Forester ?",
+        "propositions": [
+          "Subaru",
+          "Ford",
+          "Hyundai",
+          "Toyota"
+        ],
+        "réponse": "Subaru",
+        "anecdote": "Nel 2009 e 2014, è stato eletto miglior SUV dell'anno da Motor Trend e migliore auto da acquistare nel 2014 da Car Connection."
+      },
+      {
+        "id": 30,
+        "question": "Quale modello di auto è riuscito direttamente alla Porsche 944 ?",
+        "propositions": [
+          "956",
+          "968",
+          "945",
+          "977"
+        ],
+        "réponse": "968",
+        "anecdote": "A livello estetico, la Porsche 944 assume le caratteristiche della 924, le sue ali gonfie che ricordano quelle della 924 Carrera GT."
+      }
+    ]
+    },
+    "nl": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Welke autofabrikant heeft de slogan van rijplezier ?",
+        "propositions": [
+          "BMW",
+          "Lotus",
+          "Mercedes",
+          "Lexus"
+        ],
+        "réponse": "BMW",
+        "anecdote": "In 2016 verkocht de BMW-groep 2.117.965 motorvoertuigen (BMW, Mini en Rolls-Royce) en 123.495 tweewielers."
+      },
+      {
+        "id": 2,
+        "question": "Welke kleuren zijn aanwezig op het ronde BMW merklogo ?",
+        "propositions": [
+          "Rood en blauw",
+          "Groen en geel",
+          "Blauw en wit",
+          "Zwart en rood"
+        ],
+        "réponse": "Blauw en wit",
+        "anecdote": "Het merkembleem van BMW neemt de zwarte cirkel van het Rapp-logo over, met in het midden de kleuren die Beieren symboliseren."
+      },
+      {
+        "id": 3,
+        "question": "Welke autofabrikant heeft de modellen Diablo en Countach geproduceerd ?",
+        "propositions": [
+          "Lamborghini",
+          "Porsche",
+          "Ferrari",
+          "Maserati"
+        ],
+        "réponse": "Lamborghini",
+        "anecdote": "De Lamborghini Diablo volgt de legendarische Lamborghini Countach op na zestien jaar carrière en 2.200 geproduceerde exemplaren."
+      },
+      {
+        "id": 4,
+        "question": "Welke van deze auto's is een model van de fabrikant Nissan ?",
+        "propositions": [
+          "Qashqai",
+          "Elantra",
+          "Diablo",
+          "Fiesta"
+        ],
+        "réponse": "Qashqai",
+        "anecdote": "In mei 2007 behaalde de Nissan Qashqai de hoogst mogelijke score in de Euro NCAP-crashtests, namelijk vijf sterren."
+      },
+      {
+        "id": 5,
+        "question": "Welke high-end fabrikant heeft de geest van extase als ornament ?",
+        "propositions": [
+          "Mercedes",
+          "Jaguar",
+          "Rolls-Royce",
+          "Porsche"
+        ],
+        "réponse": "Rolls-Royce",
+        "anecdote": "Spirit of Ecstasy, de beroemde radiateurdop van het merk Rolls-Royce, werd in 1911 gemaakt door de Engelse kunstenaar Charles Sykes."
+      },
+      {
+        "id": 6,
+        "question": "Welke van deze Volkswagen-modellen blijft vandaag de dag de best verkochte ter wereld ?",
+        "propositions": [
+          "Kever",
+          "Jetta",
+          "Golf",
+          "Passat"
+        ],
+        "réponse": "Golf",
+        "anecdote": "Dit concept van een kleine sportwagen met hatchback en tractie met injectiemotor staat in contrast met carburateurmotoren."
+      },
+      {
+        "id": 7,
+        "question": "Welke fabrikant heeft de zeer populaire Kever geproduceerd ?",
+        "propositions": [
+          "Volvo",
+          "Nissan",
+          "Suzuki",
+          "Volkswagen"
+        ],
+        "réponse": "Volkswagen",
+        "anecdote": "Geproduceerd in 1938, werd de Kever ontworpen door de Oostenrijkse ingenieur Ferdinand Porsche op verzoek van de kanselier Adolf Hitler."
+      },
+      {
+        "id": 8,
+        "question": "Hoeveel passagiers is geschikt voor een Tesla S-model uit 2014 ?",
+        "propositions": [
+          "Zeven",
+          "Vijf",
+          "Een",
+          "Drie"
+        ],
+        "réponse": "Zeven",
+        "anecdote": "Naast het opladen op gewone laadstations, profiteert de Model S ook van gratis ultrasnelle laadstations genaamd Superchargers."
+      },
+      {
+        "id": 9,
+        "question": "Welke autofabrikant heeft het Cayenne-model gemaakt ?",
+        "propositions": [
+          "Porsche",
+          "Maserati",
+          "Lamborghini",
+          "Ferrari"
+        ],
+        "réponse": "Porsche",
+        "anecdote": "De Cayenne is vervaardigd in samenwerking met Volkswagen waarmee hij hetzelfde platform deelt als zijn Touareg 4x4."
+      },
+      {
+        "id": 10,
+        "question": "Welke fabrikant produceerde een hybride auto genaamd Civic ?",
+        "propositions": [
+          "Honda",
+          "Jaguar",
+          "Ford",
+          "Tesla"
+        ],
+        "réponse": "Honda",
+        "anecdote": "De term Civic drukt de ambitie van het merk Honda uit om de vervuilende uitstoot te verminderen en een schone auto aan te bieden."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "In welk jaar werd de Citroën DS voor het eerst verkocht ?",
+        "propositions": [
+          "1964",
+          "1947",
+          "1971",
+          "1955"
+        ],
+        "réponse": "1955",
+        "anecdote": "De D zou voortkomen uit het gebruik van de meest recente motor en vervolgens uit Citroën, de motor uit de D-serie, die de Traction 11 D."
+      },
+      {
+        "id": 12,
+        "question": "Welke Amerikaanse fabrikant heeft het Chieftain-model geproduceerd ?",
+        "propositions": [
+          "Lotus",
+          "Ford",
+          "Chrysler",
+          "Pontiac"
+        ],
+        "réponse": "Pontiac",
+        "anecdote": "De Chieftain uit 1949 markeert het allereerste nieuwe ontwerp van de Pontiac-modellen die na de Tweede Wereldoorlog zijn uitgebracht."
+      },
+      {
+        "id": 13,
+        "question": "Dacia is een autofabrikant uit welk land ?",
+        "propositions": [
+          "Polen",
+          "Roemenië",
+          "Bulgarije",
+          "Griekenland"
+        ],
+        "réponse": "Roemenië",
+        "anecdote": "De geproduceerde voertuigen worden op de markt gebracht onder het merk Dacia in Europa en onder het merk Renault in de rest van de wereld."
+      },
+      {
+        "id": 14,
+        "question": "Welke bouwer heeft de slogan van de kracht van dromen ?",
+        "propositions": [
+          "Jaguar",
+          "Skoda",
+          "Land Rover",
+          "Honda"
+        ],
+        "réponse": "Honda",
+        "anecdote": "In 2008 verkocht Honda meer dan 17 miljoen viertaktmotoren, waarmee het de grootste producent ter wereld is."
+      },
+      {
+        "id": 15,
+        "question": "In welke staat van de Verenigde Staten is Tesla's « Gigafactory 1 » gehost ?",
+        "propositions": [
+          "Washington",
+          "Nevada",
+          "Illinois",
+          "New York"
+        ],
+        "réponse": "Nevada",
+        "anecdote": "Deze fabriek is ontworpen met het doel uiteindelijk genoeg hernieuwbare energie te produceren om aan het verbruik te voldoen."
+      },
+      {
+        "id": 16,
+        "question": "Welke fabrikant was van 1990 tot 2008 eigenaar van het merk Jaguar ?",
+        "propositions": [
+          "Nissan",
+          "BMW",
+          "Ford",
+          "Honda"
+        ],
+        "réponse": "Ford",
+        "anecdote": "Het SSC-bedrijf, opgericht in 1922, nam in 1945 de naam Jaguar aan om de Duitse SS geen sinistere herinnering op te roepen."
+      },
+      {
+        "id": 17,
+        "question": "De Bel Air was ooit een zeer populair model van welke fabrikant ?",
+        "propositions": [
+          "Volkswagen",
+          "Chrysler",
+          "Chevrolet",
+          "American Motors"
+        ],
+        "réponse": "Chevrolet",
+        "anecdote": "De naam Bel Air komt uit een chique wijk in de stad Los Angeles, 27 kilometer ten westen van Downtown Los Angeles."
+      },
+      {
+        "id": 18,
+        "question": "Welke bouwer heeft de slogan performance art ?",
+        "propositions": [
+          "Jaguar",
+          "Peugeot",
+          "Chevrolet",
+          "Mini Cooper"
+        ],
+        "réponse": "Jaguar",
+        "anecdote": "Op 26 maart 2008 verkocht Ford, als onderdeel van een ontmanteling, Jaguar aan het Indiase bedrijf Tata Motors."
+      },
+      {
+        "id": 19,
+        "question": "Welk Ford-automodel werd voor het eerst uitgebracht in de jaren zestig ?",
+        "propositions": [
+          "Ford Mustang",
+          "Ford Hengst",
+          "Ford Mare",
+          "Ford Ruin"
+        ],
+        "réponse": "Ford Mustang",
+        "anecdote": "Uniek voor het merk Ford, alle Mustang-modellen hebben hun eigen grille-logo (een galopperende Mustang)."
+      },
+      {
+        "id": 20,
+        "question": "In welke Italiaanse stad is het hoofdkantoor van de fabrikant Fiat gevestigd ?",
+        "propositions": [
+          "Genua",
+          "Turijn",
+          "Napels",
+          "Milaan"
+        ],
+        "réponse": "Turijn",
+        "anecdote": "Het FIAT-bedrijf werd opgericht op 11 juli 1899 in Palazzo Bricherasio door dertig aandeelhouders, waaronder Giovanni Agnelli."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Door welk bedrijf is de motor van de Chevrolet Corvette C4 ZR1 ontworpen ?",
+        "propositions": [
+          "Saab",
+          "Lotus",
+          "BMW",
+          "Nissan"
+        ],
+        "réponse": "Lotus",
+        "anecdote": "Als de Corvette C4 in 1983 verscheen, verschijnt zijn sportieve versie ?ZR1 alleen op het autosalon van Genève 1989."
+      },
+      {
+        "id": 22,
+        "question": "Wat was de voornaam van de monteur en oprichter van de Chrysler Company ?",
+        "propositions": [
+          "Wilfried",
+          "Walter",
+          "William",
+          "Waden"
+        ],
+        "réponse": "Walter",
+        "anecdote": "Van 1928 tot 1930 bouwde Walter P. Chrysler een gebouw ter ere van het automerk van zijn naam : het Chrysler Building."
+      },
+      {
+        "id": 23,
+        "question": "Welk voertuig blijft de kleinste auto die ooit is geproduceerd ?",
+        "propositions": [
+          "Isetta",
+          "Chevrolet Camaro",
+          "Peel P50",
+          "Mini Cooper"
+        ],
+        "réponse": "Peel P50",
+        "anecdote": "De Peel P50 is een driewielige miniauto die van 1962 tot 1965 is geproduceerd door het bedrijf Peel Engineering Company op het eiland Man."
+      },
+      {
+        "id": 24,
+        "question": "De Herald, Vitesse en Spitfire zijn modellen van welk bedrijf ?",
+        "propositions": [
+          "Austin",
+          "Vauxhall",
+          "Triumph",
+          "Peugeot"
+        ],
+        "réponse": "Triumph",
+        "anecdote": "Het doel van de Spitfire was om een kleine, goedkope sportwagen te maken, een niveau lager dan dat van de TR roadsters."
+      },
+      {
+        "id": 25,
+        "question": "Tot welk jaar ontwierp het merk Duesenberg auto's ?",
+        "propositions": [
+          "1927",
+          "1947",
+          "1937",
+          "1917"
+        ],
+        "réponse": "1937",
+        "anecdote": "Na de Tweede Wereldoorlog probeerde de Amerikaan August Duesenberg op de een of andere manier het merk opnieuw te lanceren, zonder succes."
+      },
+      {
+        "id": 26,
+        "question": "Welke fabrikant heeft de slogan gekozen om anders te innoveren ?",
+        "propositions": [
+          "Volkswagen",
+          "Lexus",
+          "Jaguar",
+          "Nissan"
+        ],
+        "réponse": "Nissan",
+        "anecdote": "Nissan Motor Company, Limited of Nissan is een Japanse autofabrikant geboren in 1932 onder de naam Datsun."
+      },
+      {
+        "id": 27,
+        "question": "In welke Duitse stad is het hoofdkantoor van Audi gevestigd ?",
+        "propositions": [
+          "Dortmund",
+          "Ingolstadt",
+          "Frankfort",
+          "Kiel"
+        ],
+        "réponse": "Ingolstadt",
+        "anecdote": "Gevestigd in 55 landen over de hele wereld, is het merk Audi aanwezig in de meeste segmenten van de personenautomarkt."
+      },
+      {
+        "id": 28,
+        "question": "Tot welk bedrijf behoort de divisie Smart Automobile ?",
+        "propositions": [
+          "Chrysler",
+          "BMW",
+          "Daimler AG",
+          "General Motors"
+        ],
+        "réponse": "Daimler AG",
+        "anecdote": "Smart (afgeleid van de projectnaam Swatch Mercedes Art car) is een merk dat in 1994 is opgericht onder leiding van de horlogegroep Swatch."
+      },
+      {
+        "id": 29,
+        "question": "Welk autobedrijf heeft een model genaamd Forester ?",
+        "propositions": [
+          "Toyota",
+          "Hyundai",
+          "Subaru",
+          "Ford"
+        ],
+        "réponse": "Subaru",
+        "anecdote": "In 2009 en 2014 werd het door Motor Trend verkozen tot beste SUV van het jaar en in 2014 door Car Connection tot beste auto."
+      },
+      {
+        "id": 30,
+        "question": "Welk automodel slaagde direct bij de Porsche 944 ?",
+        "propositions": [
+          "945",
+          "956",
+          "968",
+          "977"
+        ],
+        "réponse": "968",
+        "anecdote": "Op esthetisch vlak neemt de Porsche 944 de kenmerken van de 924 over, de gezwollen vleugels doen denken aan die van de 924 Carrera GT."
+      }
+    ]
+    }
+  }
+}

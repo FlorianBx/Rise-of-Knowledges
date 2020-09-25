@@ -1,0 +1,2216 @@
+{                                     
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Tintin (L'univers du jeune reporter)",         
+  "difficulté": "2 / 5",
+  "quizz": {
+    "fr": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Dans quelle aventure Tintin se retrouve-t-il face à un impressionnant Yeti ?",
+        "propositions": [
+          "Tintin au Tibet",
+          "Tintin au Congo",
+          "Coke en Stock",
+          "Le Lotus bleu"
+        ],
+        "réponse": "Tintin au Tibet",
+        "anecdote": "Le film « La Neige en deuil », d'Edward Dmytryk, comporte des séquences qui ont probablement dû marquer la mémoire d'Hergé."
+      },
+      {
+        "id": 2,
+        "question": "Quel est le juron préféré du capitaine Haddock, meilleur ami de Tintin ?",
+        "propositions": [
+          "Tonnerre du diable",
+          "Nom de Zeus",
+          "Boursicot",
+          "Mille sabords"
+        ],
+        "réponse": "Mille sabords",
+        "anecdote": "Le capitaine Haddock est un impulsif qui se laisse souvent entraîner par son enthousiasme ou son découragement."
+      },
+      {
+        "id": 3,
+        "question": "De qui est amoureuse la cantatrice italienne Bianca Castafiore ?",
+        "propositions": [
+          "Tournesol",
+          "Nestor",
+          "Haddock",
+          "Tintin"
+        ],
+        "réponse": "Haddock",
+        "anecdote": "Très rarement mise en valeur, la Castafiore est le seul personnage féminin de premier plan de la série « Tintin »."
+      },
+      {
+        "id": 4,
+        "question": "Dans Tintin, quelle est la différence visuelle entre Dupond et Dupont ?",
+        "propositions": [
+          "Le costume",
+          "La moustache",
+          "Le nez",
+          "Le chapeau"
+        ],
+        "réponse": "La moustache",
+        "anecdote": "Celle de Dupond est droite ou en forme de D incliné, alors que celle de Dupont est en forme de T épais renversé."
+      },
+      {
+        "id": 5,
+        "question": "Quel personnage est en lévitation sur la couverture des « Sept Boules de cristal » ?",
+        "propositions": [
+          "Tintin",
+          "Milou",
+          "Tournesol",
+          "Haddock"
+        ],
+        "réponse": "Tournesol",
+        "anecdote": "L'allusion aux découvreurs de la tombe de Toutankhamon est clairement définie dans cet ouvrage grand public."
+      },
+      {
+        "id": 6,
+        "question": "Dans quelle ville Tintin se fait-il enlever dans « Tintin en Amérique » ?",
+        "propositions": [
+          "New York",
+          "Texas",
+          "Chicago",
+          "Detroit"
+        ],
+        "réponse": "Chicago",
+        "anecdote": "À l'époque de la Prohibition, Tintin se retrouve emmené à Chicago juste après son voyage au Congo."
+      },
+      {
+        "id": 7,
+        "question": "Qui a volé les Bijoux de la Castafiore, dont une émeraude de grande valeur ?",
+        "propositions": [
+          "Une pie",
+          "Tryphon Tournesol",
+          "Les bohémiens",
+          "Les frères Loiseau"
+        ],
+        "réponse": "Une pie",
+        "anecdote": "La Castafiore est une cantatrice italienne de renommée internationale, surnommée le Rossignol milanais."
+      },
+      {
+        "id": 8,
+        "question": "Quelle est la suite de l'album « Les Sept Boules de cristal » ?",
+        "propositions": [
+          "Le Lotus bleu",
+          "Tintin au Tibet",
+          "Coke en stock",
+          "Le Temple du Soleil"
+        ],
+        "réponse": "Le Temple du Soleil",
+        "anecdote": "Cet album a amené Hergé à effectuer de multiples recherches dans des documents s'intéressant à la civilisation inca."
+      },
+      {
+        "id": 9,
+        "question": "De qui le pirate Rackham le Rouge est-il un lointain ancêtre ?",
+        "propositions": [
+          "Tournesol",
+          "Tintin",
+          "Nestor",
+          "Haddock"
+        ],
+        "réponse": "Haddock",
+        "anecdote": "Le personnage est un redoutable pirate, inspiré par le pirate anglais du XVIIIe siècle Jack Rackham."
+      },
+      {
+        "id": 10,
+        "question": "Dans quel album Tintin se rend-il dans une colonie belge ?",
+        "propositions": [
+          "Tintin en Amérique",
+          "Tintin au Congo",
+          "Coke en stock",
+          "Tintin au Tibet"
+        ],
+        "réponse": "Tintin au Congo",
+        "anecdote": "En 1946, Hergé s'adjoint les services d'Edgar P. Jacobs et réécrivent l'album dans un format plus court et en couleurs."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Quel phénomène spectaculaire sauve Tintin et ses amis dans « Le temple du soleil » ?",
+        "propositions": [
+          "Séisme",
+          "Avalanche",
+          "Ouragan",
+          "Éclipse de soleil"
+        ],
+        "réponse": "Éclipse de soleil",
+        "anecdote": "L'intrigue de l'album est inspirée du roman sous forme de feuilleton de Gaston Leroux, « L'Épouse du soleil »."
+      },
+      {
+        "id": 12,
+        "question": "Le dernier album de Tintin achevé par Hergé est paru en 1976. Quel en était le titre ?",
+        "propositions": [
+          "Tintin au Tibet",
+          "Tintin et les Picaros",
+          "Tintin au Congo",
+          "Vol 714 pour Sydney"
+        ],
+        "réponse": "Tintin et les Picaros",
+        "anecdote": "Une page a dû être retirée lors de l'édition finale de l'album, car il devait en contenir au maximum 62 (comme à l'habitude)."
+      },
+      {
+        "id": 13,
+        "question": "Quel métier Roberto Rastapopoulos exerce-t-il dans « Les Cigares du pharaon » ?",
+        "propositions": [
+          "Assureur",
+          "Producteur",
+          "Scientifique",
+          "Banquier"
+        ],
+        "réponse": "Producteur",
+        "anecdote": "« Les Cigares du pharaon » est le premier album de Tintin directement imprimé par les Éditions Casterman."
+      },
+      {
+        "id": 14,
+        "question": "Dans Tintin, le château de Moulinsart apparaît pour la première fois dans « Le »...",
+        "propositions": [
+          "Lotus bleu",
+          "Sceptre d'Ottokar",
+          "Secret de la Licorne",
+          "Temple du Soleil"
+        ],
+        "réponse": "Secret de la Licorne",
+        "anecdote": "Pour beaucoup, le château de Moulinsart serait une réplique fort similaire du château de Cheverny."
+      },
+      {
+        "id": 15,
+        "question": "Quelle est la marque de whisky préférée du Capitaine Haddock ?",
+        "propositions": [
+          "Loch Fields",
+          "Loch Lomond",
+          "Loch Ness",
+          "Loch Mahouss"
+        ],
+        "réponse": "Loch Lomond",
+        "anecdote": "Aujourd'hui, cette marque de whisky est plus connue par les tintinophiles que par les amateurs de cet alcool."
+      },
+      {
+        "id": 16,
+        "question": "Quel est le prénom du Professeur Tournesol dans les aventures de Tintin ?",
+        "propositions": [
+          "Séraphin",
+          "Tryphon",
+          "Hyppolite",
+          "Archibald"
+        ],
+        "réponse": "Tryphon",
+        "anecdote": "Le Professeur Tournesol est un scientifique assez âgé, dur d'oreille, portant une barbichette et des lunettes rondes."
+      },
+      {
+        "id": 17,
+        "question": "Que désigne le mot « coke » dans la bande dessinée « Coke en stock » ?",
+        "propositions": [
+          "Des esclaves",
+          "De la drogue",
+          "Des boissons",
+          "Du charbon"
+        ],
+        "réponse": "Des esclaves",
+        "anecdote": "Le premier titre envisagé par Hergé pour cet album était d'abord « Les requins de la mer rouge »."
+      },
+      {
+        "id": 18,
+        "question": "Sur la couverture de quel album Tintin est-il représenté une arme à la main ?",
+        "propositions": [
+          "Tintin au Congo",
+          "Le lotus bleu",
+          "Vol 714 pour Sydney",
+          "Tintin en Amérique"
+        ],
+        "réponse": "Vol 714 pour Sydney",
+        "anecdote": "Cet album qui relève de la science-fiction marque la dernière confrontation entre Tintin et Rastapopoulos."
+      },
+      {
+        "id": 19,
+        "question": "Quelle est la nationalité du milliardaire Rastapopoulos ?",
+        "propositions": [
+          "Indienne",
+          "Anglaise",
+          "Grecque",
+          "Marocaine"
+        ],
+        "réponse": "Grecque",
+        "anecdote": "Roberto Rastapopoulos est un milliardaire connu sous le faux nom de Marquis di Gorgonzola."
+      },
+      {
+        "id": 20,
+        "question": "À quoi est attaché Tintin sur la couverture de « Tintin en Amérique » ?",
+        "propositions": [
+          "Un tonneau",
+          "Un taureau",
+          "Un chariot",
+          "Un totem indien"
+        ],
+        "réponse": "Un totem indien",
+        "anecdote": "La trame de l'histoire se déroule aux États-Unis, pendant la Prohibition, où Tintin lutte contre les gangsters de la ville."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quel château de la Loire a servi de modèle pour le château de Moulinsart ?",
+        "propositions": [
+          "Chambord",
+          "Chaumont",
+          "Cheverny",
+          "Chenonceau"
+        ],
+        "réponse": "Cheverny",
+        "anecdote": "Le château de Moulinsart serait une réplique de Cheverny, auquel on aurait retiré les deux ailes externes."
+      },
+      {
+        "id": 22,
+        "question": "Comment se nomme le moine qui a des visions dans « Tintin au Tibet » ?",
+        "propositions": [
+          "Grand Précieux",
+          "Foudre Bénie",
+          "Savoir Infini",
+          "Grand Pachacamac"
+        ],
+        "réponse": "Foudre Bénie",
+        "anecdote": "En touchant l'écharpe de Tchang, Foudre-Bénie a une vision et voit ce dernier dans une grotte avec le yéti."
+      },
+      {
+        "id": 23,
+        "question": "Dans les aventures de Tintin, quelle est la profession de Séraphin Lampion ?",
+        "propositions": [
+          "Policier",
+          "Assureur",
+          "Banquier",
+          "Journaliste"
+        ],
+        "réponse": "Assureur",
+        "anecdote": "Lampion semble à l'aise dans tous les milieux, ne voyant pas qu'il exaspère son « public » et se croyant bienvenu partout."
+      },
+      {
+        "id": 24,
+        "question": "Quel est le prénom de Haddock, capitaine de marine marchande ?",
+        "propositions": [
+          "Isidore",
+          "Gustave",
+          "Archibald",
+          "Mauricien"
+        ],
+        "réponse": "Archibald",
+        "anecdote": "Le prénom du capitaine Haddock est mentionné pour la première fois dans l'album « Tintin et les Picaros »."
+      },
+      {
+        "id": 25,
+        "question": "Dans « Les Bijoux de la Castafiore », quel journal annonce les noces de la diva ?",
+        "propositions": [
+          "Jours de Paris",
+          "Ici Pour Vous",
+          "Stars de France",
+          "Paris-Flash"
+        ],
+        "réponse": "Paris-Flash",
+        "anecdote": "Trois ans après le succès de « Tintin au Tibet », Hergé semble ici être à l'apogée de son oeuvre sur le plan narratif."
+      },
+      {
+        "id": 26,
+        "question": "Quel personnage a inspiré Hergé pour créer le Professeur Tournesol ?",
+        "propositions": [
+          "Auguste Piccard",
+          "Graham Bell",
+          "Thomas Edison",
+          "Albert Einstein"
+        ],
+        "réponse": "Auguste Piccard",
+        "anecdote": "Auguste Piccard est un physicien suisse, explorateur de la haute atmosphère et des grandes profondeurs."
+      },
+      {
+        "id": 27,
+        "question": "Avant de devenir le domestique du Capitaine Haddock, pour qui travaillait Nestor ?",
+        "propositions": [
+          "Les frères Loiseau",
+          "La Castafiore",
+          "Rastapopoulos",
+          "Müller"
+        ],
+        "réponse": "Les frères Loiseau",
+        "anecdote": "D'allure très soignée, portant une livrée, Nestor est devenu dans la culture francophone l'archétype du majordome."
+      },
+      {
+        "id": 28,
+        "question": "Quel acteur joua le rôle de Tintin au cinéma dans les années 1960 ?",
+        "propositions": [
+          "Jean-Pierre Talbot",
+          "Serge Marquand",
+          "André Marie",
+          "Max Elloy"
+        ],
+        "réponse": "Jean-Pierre Talbot",
+        "anecdote": "Jean-Pierre Talbot est le seul acteur à avoir physiquement incarné le personnage de Tintin au cinéma."
+      },
+      {
+        "id": 29,
+        "question": "Dans Tintin, quel est le numéro de téléphone de Moulinsart ?",
+        "propositions": [
+          "641",
+          "441",
+          "246",
+          "421"
+        ],
+        "réponse": "421",
+        "anecdote": "Le nom de Moulinsart a été inventé par Hergé en inversant celui d'un hameau de Braine-l'Alleud, Sart-Moulin, au sud de Bruxelles."
+      },
+      {
+        "id": 30,
+        "question": "Quel artiste aurait inspiré Hergé pour le personnage de Tchang ?",
+        "propositions": [
+          "Liu Xiaodong",
+          "Fang Lijun",
+          "Zhang Chongren",
+          "Wang Shiyan"
+        ],
+        "réponse": "Zhang Chongren",
+        "anecdote": "Zhang, artiste et sculpteur chinois qui recevra la nationalité française en 1985, meurt à Paris le 8 octobre 1998."
+      }
+    ]
+    },
+    "en": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "In what adventure does Tintin find himself facing an impressive Yeti ?",
+        "propositions": [
+          "Tintin in Tibet",
+          "Coke in Stock",
+          "Tintin in the Congo",
+          "The Blue Lotus"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "The film « The Snow in Mourning », by Edward Dmytryk, contains sequences which probably must have marked Hergé's memory."
+      },
+      {
+        "id": 2,
+        "question": "In what adventure does Tintin find himself facing an impressive Yeti ?",
+        "propositions": [
+          "Coke in Stock",
+          "Tintin in the Congo",
+          "The Blue Lotus",
+          "Tintin in Tibet"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "The film « The Snow in Mourning », by Edward Dmytryk, contains sequences which probably must have marked Hergé's memory."
+      },
+      {
+        "id": 3,
+        "question": "In what adventure does Tintin find himself facing an impressive Yeti ?",
+        "propositions": [
+          "Coke in Stock",
+          "The Blue Lotus",
+          "Tintin in Tibet",
+          "Tintin in the Congo"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "The film « The Snow in Mourning », by Edward Dmytryk, contains sequences which probably must have marked Hergé's memory."
+      },
+      {
+        "id": 4,
+        "question": "In what adventure does Tintin find himself facing an impressive Yeti ?",
+        "propositions": [
+          "Coke in Stock",
+          "Tintin in the Congo",
+          "Tintin in Tibet",
+          "The Blue Lotus"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "The film « The Snow in Mourning », by Edward Dmytryk, contains sequences which probably must have marked Hergé's memory."
+      },
+      {
+        "id": 5,
+        "question": "In what adventure does Tintin find himself facing an impressive Yeti ?",
+        "propositions": [
+          "The Blue Lotus",
+          "Tintin in the Congo",
+          "Coke in Stock",
+          "Tintin in Tibet"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "The film « The Snow in Mourning », by Edward Dmytryk, contains sequences which probably must have marked Hergé's memory."
+      },
+      {
+        "id": 6,
+        "question": "In what adventure does Tintin find himself facing an impressive Yeti ?",
+        "propositions": [
+          "Coke in Stock",
+          "Tintin in Tibet",
+          "The Blue Lotus",
+          "Tintin in the Congo"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "The film « The Snow in Mourning », by Edward Dmytryk, contains sequences which probably must have marked Hergé's memory."
+      },
+      {
+        "id": 7,
+        "question": "In what adventure does Tintin find himself facing an impressive Yeti ?",
+        "propositions": [
+          "Tintin in Tibet",
+          "The Blue Lotus",
+          "Coke in Stock",
+          "Tintin in the Congo"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "The film « The Snow in Mourning », by Edward Dmytryk, contains sequences which probably must have marked Hergé's memory."
+      },
+      {
+        "id": 8,
+        "question": "In what adventure does Tintin find himself facing an impressive Yeti ?",
+        "propositions": [
+          "Tintin in the Congo",
+          "The Blue Lotus",
+          "Coke in Stock",
+          "Tintin in Tibet"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "The film « The Snow in Mourning », by Edward Dmytryk, contains sequences which probably must have marked Hergé's memory."
+      },
+      {
+        "id": 9,
+        "question": "In what adventure does Tintin find himself facing an impressive Yeti ?",
+        "propositions": [
+          "Tintin in the Congo",
+          "The Blue Lotus",
+          "Tintin in Tibet",
+          "Coke in Stock"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "The film « The Snow in Mourning », by Edward Dmytryk, contains sequences which probably must have marked Hergé's memory."
+      },
+      {
+        "id": 10,
+        "question": "In what adventure does Tintin find himself facing an impressive Yeti ?",
+        "propositions": [
+          "Tintin in Tibet",
+          "The Blue Lotus",
+          "Tintin in the Congo",
+          "Coke in Stock"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "The film « The Snow in Mourning », by Edward Dmytryk, contains sequences which probably must have marked Hergé's memory."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "In what adventure does Tintin find himself facing an impressive Yeti ?",
+        "propositions": [
+          "Coke in Stock",
+          "Tintin in the Congo",
+          "Tintin in Tibet",
+          "The Blue Lotus"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "The film « The Snow in Mourning », by Edward Dmytryk, contains sequences which probably must have marked Hergé's memory."
+      },
+      {
+        "id": 12,
+        "question": "In what adventure does Tintin find himself facing an impressive Yeti ?",
+        "propositions": [
+          "Tintin in Tibet",
+          "The Blue Lotus",
+          "Coke in Stock",
+          "Tintin in the Congo"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "The film « The Snow in Mourning », by Edward Dmytryk, contains sequences which probably must have marked Hergé's memory."
+      },
+      {
+        "id": 13,
+        "question": "In what adventure does Tintin find himself facing an impressive Yeti ?",
+        "propositions": [
+          "Tintin in Tibet",
+          "Coke in Stock",
+          "The Blue Lotus",
+          "Tintin in the Congo"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "The film « The Snow in Mourning », by Edward Dmytryk, contains sequences which probably must have marked Hergé's memory."
+      },
+      {
+        "id": 14,
+        "question": "In what adventure does Tintin find himself facing an impressive Yeti ?",
+        "propositions": [
+          "Coke in Stock",
+          "Tintin in Tibet",
+          "Tintin in the Congo",
+          "The Blue Lotus"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "The film « The Snow in Mourning », by Edward Dmytryk, contains sequences which probably must have marked Hergé's memory."
+      },
+      {
+        "id": 15,
+        "question": "In what adventure does Tintin find himself facing an impressive Yeti ?",
+        "propositions": [
+          "The Blue Lotus",
+          "Coke in Stock",
+          "Tintin in the Congo",
+          "Tintin in Tibet"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "The film « The Snow in Mourning », by Edward Dmytryk, contains sequences which probably must have marked Hergé's memory."
+      },
+      {
+        "id": 16,
+        "question": "In what adventure does Tintin find himself facing an impressive Yeti ?",
+        "propositions": [
+          "Tintin in the Congo",
+          "Tintin in Tibet",
+          "Coke in Stock",
+          "The Blue Lotus"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "The film « The Snow in Mourning », by Edward Dmytryk, contains sequences which probably must have marked Hergé's memory."
+      },
+      {
+        "id": 17,
+        "question": "In what adventure does Tintin find himself facing an impressive Yeti ?",
+        "propositions": [
+          "The Blue Lotus",
+          "Tintin in the Congo",
+          "Tintin in Tibet",
+          "Coke in Stock"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "The film « The Snow in Mourning », by Edward Dmytryk, contains sequences which probably must have marked Hergé's memory."
+      },
+      {
+        "id": 18,
+        "question": "In what adventure does Tintin find himself facing an impressive Yeti ?",
+        "propositions": [
+          "The Blue Lotus",
+          "Tintin in the Congo",
+          "Tintin in Tibet",
+          "Coke in Stock"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "The film « The Snow in Mourning », by Edward Dmytryk, contains sequences which probably must have marked Hergé's memory."
+      },
+      {
+        "id": 19,
+        "question": "In what adventure does Tintin find himself facing an impressive Yeti ?",
+        "propositions": [
+          "Coke in Stock",
+          "Tintin in the Congo",
+          "The Blue Lotus",
+          "Tintin in Tibet"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "The film « The Snow in Mourning », by Edward Dmytryk, contains sequences which probably must have marked Hergé's memory."
+      },
+      {
+        "id": 20,
+        "question": "In what adventure does Tintin find himself facing an impressive Yeti ?",
+        "propositions": [
+          "Tintin in Tibet",
+          "Coke in Stock",
+          "The Blue Lotus",
+          "Tintin in the Congo"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "The film « The Snow in Mourning », by Edward Dmytryk, contains sequences which probably must have marked Hergé's memory."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "In what adventure does Tintin find himself facing an impressive Yeti ?",
+        "propositions": [
+          "The Blue Lotus",
+          "Tintin in the Congo",
+          "Tintin in Tibet",
+          "Coke in Stock"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "The film « The Snow in Mourning », by Edward Dmytryk, contains sequences which probably must have marked Hergé's memory."
+      },
+      {
+        "id": 22,
+        "question": "In what adventure does Tintin find himself facing an impressive Yeti ?",
+        "propositions": [
+          "Tintin in the Congo",
+          "Tintin in Tibet",
+          "The Blue Lotus",
+          "Coke in Stock"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "The film « The Snow in Mourning », by Edward Dmytryk, contains sequences which probably must have marked Hergé's memory."
+      },
+      {
+        "id": 23,
+        "question": "In what adventure does Tintin find himself facing an impressive Yeti ?",
+        "propositions": [
+          "Tintin in Tibet",
+          "Tintin in the Congo",
+          "Coke in Stock",
+          "The Blue Lotus"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "The film « The Snow in Mourning », by Edward Dmytryk, contains sequences which probably must have marked Hergé's memory."
+      },
+      {
+        "id": 24,
+        "question": "In what adventure does Tintin find himself facing an impressive Yeti ?",
+        "propositions": [
+          "Coke in Stock",
+          "Tintin in Tibet",
+          "Tintin in the Congo",
+          "The Blue Lotus"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "The film « The Snow in Mourning », by Edward Dmytryk, contains sequences which probably must have marked Hergé's memory."
+      },
+      {
+        "id": 25,
+        "question": "In « Les Bijoux de la Castafiore », which newspaper announces the diva's wedding ?",
+        "propositions": [
+          "Paris-Flash",
+          "Jours de Paris",
+          "Ici Pour Vous",
+          "Stars de France"
+        ],
+        "réponse": "Paris-Flash",
+        "anecdote": "Three years after the success of « Tintin in Tibet », Hergé seems here to be at the peak of his work on the narrative level."
+      },
+      {
+        "id": 26,
+        "question": "In « Les Bijoux de la Castafiore », which newspaper announces the diva's wedding ?",
+        "propositions": [
+          "Stars de France",
+          "Ici Pour Vous",
+          "Jours de Paris",
+          "Paris-Flash"
+        ],
+        "réponse": "Paris-Flash",
+        "anecdote": "Three years after the success of « Tintin in Tibet », Hergé seems here to be at the peak of his work on the narrative level."
+      },
+      {
+        "id": 27,
+        "question": "In « Les Bijoux de la Castafiore », which newspaper announces the diva's wedding ?",
+        "propositions": [
+          "Paris-Flash",
+          "Stars de France",
+          "Ici Pour Vous",
+          "Jours de Paris"
+        ],
+        "réponse": "Paris-Flash",
+        "anecdote": "Three years after the success of « Tintin in Tibet », Hergé seems here to be at the peak of his work on the narrative level."
+      },
+      {
+        "id": 28,
+        "question": "In « Les Bijoux de la Castafiore », which newspaper announces the diva's wedding ?",
+        "propositions": [
+          "Ici Pour Vous",
+          "Stars de France",
+          "Jours de Paris",
+          "Paris-Flash"
+        ],
+        "réponse": "Paris-Flash",
+        "anecdote": "Three years after the success of « Tintin in Tibet », Hergé seems here to be at the peak of his work on the narrative level."
+      },
+      {
+        "id": 29,
+        "question": "In « Les Bijoux de la Castafiore », which newspaper announces the diva's wedding ?",
+        "propositions": [
+          "Paris-Flash",
+          "Stars de France",
+          "Jours de Paris",
+          "Ici Pour Vous"
+        ],
+        "réponse": "Paris-Flash",
+        "anecdote": "Three years after the success of « Tintin in Tibet », Hergé seems here to be at the peak of his work on the narrative level."
+      },
+      {
+        "id": 30,
+        "question": "In « Les Bijoux de la Castafiore », which newspaper announces the diva's wedding ?",
+        "propositions": [
+          "Jours de Paris",
+          "Paris-Flash",
+          "Stars de France",
+          "Ici Pour Vous"
+        ],
+        "réponse": "Paris-Flash",
+        "anecdote": "Three years after the success of « Tintin in Tibet », Hergé seems here to be at the peak of his work on the narrative level."
+      }
+    ]
+    },
+    "de": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "In welchem Abenteuer sieht sich Tim und Struppi einem beeindruckenden Yeti gegenüber ?",
+        "propositions": [
+          "Tim und Struppi in Tibet",
+          "Tim und Struppi im Kongo",
+          "Cola auf Lager",
+          "Der blaue Lotus"
+        ],
+        "réponse": "Tim und Struppi in Tibet",
+        "anecdote": "Der Film « Der Schnee in Trauer » von Edward Dmytryk enthält Sequenzen, die wahrscheinlich Hergés Erinnerung geprägt haben müssen."
+      },
+      {
+        "id": 2,
+        "question": "In welchem Abenteuer sieht sich Tim und Struppi einem beeindruckenden Yeti gegenüber ?",
+        "propositions": [
+          "Der blaue Lotus",
+          "Cola auf Lager",
+          "Tim und Struppi im Kongo",
+          "Tim und Struppi in Tibet"
+        ],
+        "réponse": "Tim und Struppi in Tibet",
+        "anecdote": "Der Film « Der Schnee in Trauer » von Edward Dmytryk enthält Sequenzen, die wahrscheinlich Hergés Erinnerung geprägt haben müssen."
+      },
+      {
+        "id": 3,
+        "question": "In welchem Abenteuer sieht sich Tim und Struppi einem beeindruckenden Yeti gegenüber ?",
+        "propositions": [
+          "Cola auf Lager",
+          "Der blaue Lotus",
+          "Tim und Struppi in Tibet",
+          "Tim und Struppi im Kongo"
+        ],
+        "réponse": "Tim und Struppi in Tibet",
+        "anecdote": "Der Film « Der Schnee in Trauer » von Edward Dmytryk enthält Sequenzen, die wahrscheinlich Hergés Erinnerung geprägt haben müssen."
+      },
+      {
+        "id": 4,
+        "question": "In welchem Abenteuer sieht sich Tim und Struppi einem beeindruckenden Yeti gegenüber ?",
+        "propositions": [
+          "Cola auf Lager",
+          "Der blaue Lotus",
+          "Tim und Struppi im Kongo",
+          "Tim und Struppi in Tibet"
+        ],
+        "réponse": "Tim und Struppi in Tibet",
+        "anecdote": "Der Film « Der Schnee in Trauer » von Edward Dmytryk enthält Sequenzen, die wahrscheinlich Hergés Erinnerung geprägt haben müssen."
+      },
+      {
+        "id": 5,
+        "question": "In welchem Abenteuer sieht sich Tim und Struppi einem beeindruckenden Yeti gegenüber ?",
+        "propositions": [
+          "Der blaue Lotus",
+          "Cola auf Lager",
+          "Tim und Struppi in Tibet",
+          "Tim und Struppi im Kongo"
+        ],
+        "réponse": "Tim und Struppi in Tibet",
+        "anecdote": "Der Film « Der Schnee in Trauer » von Edward Dmytryk enthält Sequenzen, die wahrscheinlich Hergés Erinnerung geprägt haben müssen."
+      },
+      {
+        "id": 6,
+        "question": "In welchem Abenteuer sieht sich Tim und Struppi einem beeindruckenden Yeti gegenüber ?",
+        "propositions": [
+          "Der blaue Lotus",
+          "Tim und Struppi in Tibet",
+          "Tim und Struppi im Kongo",
+          "Cola auf Lager"
+        ],
+        "réponse": "Tim und Struppi in Tibet",
+        "anecdote": "Der Film « Der Schnee in Trauer » von Edward Dmytryk enthält Sequenzen, die wahrscheinlich Hergés Erinnerung geprägt haben müssen."
+      },
+      {
+        "id": 7,
+        "question": "In welchem Abenteuer sieht sich Tim und Struppi einem beeindruckenden Yeti gegenüber ?",
+        "propositions": [
+          "Tim und Struppi in Tibet",
+          "Cola auf Lager",
+          "Der blaue Lotus",
+          "Tim und Struppi im Kongo"
+        ],
+        "réponse": "Tim und Struppi in Tibet",
+        "anecdote": "Der Film « Der Schnee in Trauer » von Edward Dmytryk enthält Sequenzen, die wahrscheinlich Hergés Erinnerung geprägt haben müssen."
+      },
+      {
+        "id": 8,
+        "question": "In welchem Abenteuer sieht sich Tim und Struppi einem beeindruckenden Yeti gegenüber ?",
+        "propositions": [
+          "Tim und Struppi im Kongo",
+          "Tim und Struppi in Tibet",
+          "Der blaue Lotus",
+          "Cola auf Lager"
+        ],
+        "réponse": "Tim und Struppi in Tibet",
+        "anecdote": "Der Film « Der Schnee in Trauer » von Edward Dmytryk enthält Sequenzen, die wahrscheinlich Hergés Erinnerung geprägt haben müssen."
+      },
+      {
+        "id": 9,
+        "question": "In welchem Abenteuer sieht sich Tim und Struppi einem beeindruckenden Yeti gegenüber ?",
+        "propositions": [
+          "Tim und Struppi in Tibet",
+          "Tim und Struppi im Kongo",
+          "Cola auf Lager",
+          "Der blaue Lotus"
+        ],
+        "réponse": "Tim und Struppi in Tibet",
+        "anecdote": "Der Film « Der Schnee in Trauer » von Edward Dmytryk enthält Sequenzen, die wahrscheinlich Hergés Erinnerung geprägt haben müssen."
+      },
+      {
+        "id": 10,
+        "question": "In welchem Abenteuer sieht sich Tim und Struppi einem beeindruckenden Yeti gegenüber ?",
+        "propositions": [
+          "Tim und Struppi im Kongo",
+          "Cola auf Lager",
+          "Der blaue Lotus",
+          "Tim und Struppi in Tibet"
+        ],
+        "réponse": "Tim und Struppi in Tibet",
+        "anecdote": "Der Film « Der Schnee in Trauer » von Edward Dmytryk enthält Sequenzen, die wahrscheinlich Hergés Erinnerung geprägt haben müssen."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "In welchem Abenteuer sieht sich Tim und Struppi einem beeindruckenden Yeti gegenüber ?",
+        "propositions": [
+          "Der blaue Lotus",
+          "Tim und Struppi in Tibet",
+          "Cola auf Lager",
+          "Tim und Struppi im Kongo"
+        ],
+        "réponse": "Tim und Struppi in Tibet",
+        "anecdote": "Der Film « Der Schnee in Trauer » von Edward Dmytryk enthält Sequenzen, die wahrscheinlich Hergés Erinnerung geprägt haben müssen."
+      },
+      {
+        "id": 12,
+        "question": "In welchem Abenteuer sieht sich Tim und Struppi einem beeindruckenden Yeti gegenüber ?",
+        "propositions": [
+          "Tim und Struppi in Tibet",
+          "Der blaue Lotus",
+          "Tim und Struppi im Kongo",
+          "Cola auf Lager"
+        ],
+        "réponse": "Tim und Struppi in Tibet",
+        "anecdote": "Der Film « Der Schnee in Trauer » von Edward Dmytryk enthält Sequenzen, die wahrscheinlich Hergés Erinnerung geprägt haben müssen."
+      },
+      {
+        "id": 13,
+        "question": "In welchem Abenteuer sieht sich Tim und Struppi einem beeindruckenden Yeti gegenüber ?",
+        "propositions": [
+          "Cola auf Lager",
+          "Tim und Struppi im Kongo",
+          "Der blaue Lotus",
+          "Tim und Struppi in Tibet"
+        ],
+        "réponse": "Tim und Struppi in Tibet",
+        "anecdote": "Der Film « Der Schnee in Trauer » von Edward Dmytryk enthält Sequenzen, die wahrscheinlich Hergés Erinnerung geprägt haben müssen."
+      },
+      {
+        "id": 14,
+        "question": "In welchem Abenteuer sieht sich Tim und Struppi einem beeindruckenden Yeti gegenüber ?",
+        "propositions": [
+          "Cola auf Lager",
+          "Der blaue Lotus",
+          "Tim und Struppi in Tibet",
+          "Tim und Struppi im Kongo"
+        ],
+        "réponse": "Tim und Struppi in Tibet",
+        "anecdote": "Der Film « Der Schnee in Trauer » von Edward Dmytryk enthält Sequenzen, die wahrscheinlich Hergés Erinnerung geprägt haben müssen."
+      },
+      {
+        "id": 15,
+        "question": "In welchem Abenteuer sieht sich Tim und Struppi einem beeindruckenden Yeti gegenüber ?",
+        "propositions": [
+          "Der blaue Lotus",
+          "Tim und Struppi in Tibet",
+          "Cola auf Lager",
+          "Tim und Struppi im Kongo"
+        ],
+        "réponse": "Tim und Struppi in Tibet",
+        "anecdote": "Der Film « Der Schnee in Trauer » von Edward Dmytryk enthält Sequenzen, die wahrscheinlich Hergés Erinnerung geprägt haben müssen."
+      },
+      {
+        "id": 16,
+        "question": "In welchem Abenteuer sieht sich Tim und Struppi einem beeindruckenden Yeti gegenüber ?",
+        "propositions": [
+          "Cola auf Lager",
+          "Der blaue Lotus",
+          "Tim und Struppi im Kongo",
+          "Tim und Struppi in Tibet"
+        ],
+        "réponse": "Tim und Struppi in Tibet",
+        "anecdote": "Der Film « Der Schnee in Trauer » von Edward Dmytryk enthält Sequenzen, die wahrscheinlich Hergés Erinnerung geprägt haben müssen."
+      },
+      {
+        "id": 17,
+        "question": "In welchem Abenteuer sieht sich Tim und Struppi einem beeindruckenden Yeti gegenüber ?",
+        "propositions": [
+          "Tim und Struppi in Tibet",
+          "Cola auf Lager",
+          "Der blaue Lotus",
+          "Tim und Struppi im Kongo"
+        ],
+        "réponse": "Tim und Struppi in Tibet",
+        "anecdote": "Der Film « Der Schnee in Trauer » von Edward Dmytryk enthält Sequenzen, die wahrscheinlich Hergés Erinnerung geprägt haben müssen."
+      },
+      {
+        "id": 18,
+        "question": "In welchem Abenteuer sieht sich Tim und Struppi einem beeindruckenden Yeti gegenüber ?",
+        "propositions": [
+          "Tim und Struppi in Tibet",
+          "Der blaue Lotus",
+          "Cola auf Lager",
+          "Tim und Struppi im Kongo"
+        ],
+        "réponse": "Tim und Struppi in Tibet",
+        "anecdote": "Der Film « Der Schnee in Trauer » von Edward Dmytryk enthält Sequenzen, die wahrscheinlich Hergés Erinnerung geprägt haben müssen."
+      },
+      {
+        "id": 19,
+        "question": "In welchem Abenteuer sieht sich Tim und Struppi einem beeindruckenden Yeti gegenüber ?",
+        "propositions": [
+          "Cola auf Lager",
+          "Tim und Struppi im Kongo",
+          "Tim und Struppi in Tibet",
+          "Der blaue Lotus"
+        ],
+        "réponse": "Tim und Struppi in Tibet",
+        "anecdote": "Der Film « Der Schnee in Trauer » von Edward Dmytryk enthält Sequenzen, die wahrscheinlich Hergés Erinnerung geprägt haben müssen."
+      },
+      {
+        "id": 20,
+        "question": "In welchem Abenteuer sieht sich Tim und Struppi einem beeindruckenden Yeti gegenüber ?",
+        "propositions": [
+          "Der blaue Lotus",
+          "Cola auf Lager",
+          "Tim und Struppi in Tibet",
+          "Tim und Struppi im Kongo"
+        ],
+        "réponse": "Tim und Struppi in Tibet",
+        "anecdote": "Der Film « Der Schnee in Trauer » von Edward Dmytryk enthält Sequenzen, die wahrscheinlich Hergés Erinnerung geprägt haben müssen."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "In welchem Abenteuer sieht sich Tim und Struppi einem beeindruckenden Yeti gegenüber ?",
+        "propositions": [
+          "Cola auf Lager",
+          "Tim und Struppi in Tibet",
+          "Tim und Struppi im Kongo",
+          "Der blaue Lotus"
+        ],
+        "réponse": "Tim und Struppi in Tibet",
+        "anecdote": "Der Film « Der Schnee in Trauer » von Edward Dmytryk enthält Sequenzen, die wahrscheinlich Hergés Erinnerung geprägt haben müssen."
+      },
+      {
+        "id": 22,
+        "question": "In welchem Abenteuer sieht sich Tim und Struppi einem beeindruckenden Yeti gegenüber ?",
+        "propositions": [
+          "Tim und Struppi in Tibet",
+          "Der blaue Lotus",
+          "Tim und Struppi im Kongo",
+          "Cola auf Lager"
+        ],
+        "réponse": "Tim und Struppi in Tibet",
+        "anecdote": "Der Film « Der Schnee in Trauer » von Edward Dmytryk enthält Sequenzen, die wahrscheinlich Hergés Erinnerung geprägt haben müssen."
+      },
+      {
+        "id": 23,
+        "question": "In welchem Abenteuer sieht sich Tim und Struppi einem beeindruckenden Yeti gegenüber ?",
+        "propositions": [
+          "Tim und Struppi in Tibet",
+          "Der blaue Lotus",
+          "Cola auf Lager",
+          "Tim und Struppi im Kongo"
+        ],
+        "réponse": "Tim und Struppi in Tibet",
+        "anecdote": "Der Film « Der Schnee in Trauer » von Edward Dmytryk enthält Sequenzen, die wahrscheinlich Hergés Erinnerung geprägt haben müssen."
+      },
+      {
+        "id": 24,
+        "question": "In welchem Abenteuer sieht sich Tim und Struppi einem beeindruckenden Yeti gegenüber ?",
+        "propositions": [
+          "Cola auf Lager",
+          "Tim und Struppi im Kongo",
+          "Der blaue Lotus",
+          "Tim und Struppi in Tibet"
+        ],
+        "réponse": "Tim und Struppi in Tibet",
+        "anecdote": "Der Film « Der Schnee in Trauer » von Edward Dmytryk enthält Sequenzen, die wahrscheinlich Hergés Erinnerung geprägt haben müssen."
+      },
+      {
+        "id": 25,
+        "question": "Welche Zeitung kündigt in « Les Bijoux de la Castafiore » die Hochzeit der Diva an ?",
+        "propositions": [
+          "Ici Pour Vous",
+          "Stars of France",
+          "Paris-Flash",
+          "Jours de Paris"
+        ],
+        "réponse": "Paris-Flash",
+        "anecdote": "Drei Jahre nach dem Erfolg von « Tim und Struppi in Tibet » scheint Hergé hier auf dem Höhepunkt seiner Arbeit auf narrativer Ebene zu stehen."
+      },
+      {
+        "id": 26,
+        "question": "Welche Zeitung kündigt in « Les Bijoux de la Castafiore » die Hochzeit der Diva an ?",
+        "propositions": [
+          "Stars of France",
+          "Jours de Paris",
+          "Paris-Flash",
+          "Ici Pour Vous"
+        ],
+        "réponse": "Paris-Flash",
+        "anecdote": "Drei Jahre nach dem Erfolg von « Tim und Struppi in Tibet » scheint Hergé hier auf dem Höhepunkt seiner Arbeit auf narrativer Ebene zu stehen."
+      },
+      {
+        "id": 27,
+        "question": "Welche Zeitung kündigt in « Les Bijoux de la Castafiore » die Hochzeit der Diva an ?",
+        "propositions": [
+          "Stars of France",
+          "Paris-Flash",
+          "Jours de Paris",
+          "Ici Pour Vous"
+        ],
+        "réponse": "Paris-Flash",
+        "anecdote": "Drei Jahre nach dem Erfolg von « Tim und Struppi in Tibet » scheint Hergé hier auf dem Höhepunkt seiner Arbeit auf narrativer Ebene zu stehen."
+      },
+      {
+        "id": 28,
+        "question": "Welche Zeitung kündigt in « Les Bijoux de la Castafiore » die Hochzeit der Diva an ?",
+        "propositions": [
+          "Paris-Flash",
+          "Jours de Paris",
+          "Ici Pour Vous",
+          "Stars of France"
+        ],
+        "réponse": "Paris-Flash",
+        "anecdote": "Drei Jahre nach dem Erfolg von « Tim und Struppi in Tibet » scheint Hergé hier auf dem Höhepunkt seiner Arbeit auf narrativer Ebene zu stehen."
+      },
+      {
+        "id": 29,
+        "question": "Welche Zeitung kündigt in « Les Bijoux de la Castafiore » die Hochzeit der Diva an ?",
+        "propositions": [
+          "Paris-Flash",
+          "Ici Pour Vous",
+          "Jours de Paris",
+          "Stars of France"
+        ],
+        "réponse": "Paris-Flash",
+        "anecdote": "Drei Jahre nach dem Erfolg von « Tim und Struppi in Tibet » scheint Hergé hier auf dem Höhepunkt seiner Arbeit auf narrativer Ebene zu stehen."
+      },
+      {
+        "id": 30,
+        "question": "Welche Zeitung kündigt in « Les Bijoux de la Castafiore » die Hochzeit der Diva an ?",
+        "propositions": [
+          "Ici Pour Vous",
+          "Paris-Flash",
+          "Stars of France",
+          "Jours de Paris"
+        ],
+        "réponse": "Paris-Flash",
+        "anecdote": "Drei Jahre nach dem Erfolg von « Tim und Struppi in Tibet » scheint Hergé hier auf dem Höhepunkt seiner Arbeit auf narrativer Ebene zu stehen."
+      }
+    ]
+    },
+    "es": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "¿En qué aventura se encuentra Tintín frente a un impresionante Yeti ?",
+        "propositions": [
+          "Tintín en el Tíbet",
+          "El loto azul",
+          "Tintín en el Congo",
+          "Coca-Cola en stock"
+        ],
+        "réponse": "Tintín en el Tíbet",
+        "anecdote": "La película « The Snow in Mourning », de Edward Dmytryk, contiene secuencias que probablemente deben haber marcado la memoria de Hergé."
+      },
+      {
+        "id": 2,
+        "question": "¿En qué aventura se encuentra Tintín frente a un impresionante Yeti ?",
+        "propositions": [
+          "El loto azul",
+          "Coca-Cola en stock",
+          "Tintín en el Congo",
+          "Tintín en el Tíbet"
+        ],
+        "réponse": "Tintín en el Tíbet",
+        "anecdote": "La película « The Snow in Mourning », de Edward Dmytryk, contiene secuencias que probablemente deben haber marcado la memoria de Hergé."
+      },
+      {
+        "id": 3,
+        "question": "¿En qué aventura se encuentra Tintín frente a un impresionante Yeti ?",
+        "propositions": [
+          "Tintín en el Tíbet",
+          "Tintín en el Congo",
+          "El loto azul",
+          "Coca-Cola en stock"
+        ],
+        "réponse": "Tintín en el Tíbet",
+        "anecdote": "La película « The Snow in Mourning », de Edward Dmytryk, contiene secuencias que probablemente deben haber marcado la memoria de Hergé."
+      },
+      {
+        "id": 4,
+        "question": "¿En qué aventura se encuentra Tintín frente a un impresionante Yeti ?",
+        "propositions": [
+          "Coca-Cola en stock",
+          "Tintín en el Congo",
+          "Tintín en el Tíbet",
+          "El loto azul"
+        ],
+        "réponse": "Tintín en el Tíbet",
+        "anecdote": "La película « The Snow in Mourning », de Edward Dmytryk, contiene secuencias que probablemente deben haber marcado la memoria de Hergé."
+      },
+      {
+        "id": 5,
+        "question": "¿En qué aventura se encuentra Tintín frente a un impresionante Yeti ?",
+        "propositions": [
+          "Tintín en el Tíbet",
+          "El loto azul",
+          "Coca-Cola en stock",
+          "Tintín en el Congo"
+        ],
+        "réponse": "Tintín en el Tíbet",
+        "anecdote": "La película « The Snow in Mourning », de Edward Dmytryk, contiene secuencias que probablemente deben haber marcado la memoria de Hergé."
+      },
+      {
+        "id": 6,
+        "question": "¿En qué aventura se encuentra Tintín frente a un impresionante Yeti ?",
+        "propositions": [
+          "Coca-Cola en stock",
+          "El loto azul",
+          "Tintín en el Tíbet",
+          "Tintín en el Congo"
+        ],
+        "réponse": "Tintín en el Tíbet",
+        "anecdote": "La película « The Snow in Mourning », de Edward Dmytryk, contiene secuencias que probablemente deben haber marcado la memoria de Hergé."
+      },
+      {
+        "id": 7,
+        "question": "¿En qué aventura se encuentra Tintín frente a un impresionante Yeti ?",
+        "propositions": [
+          "El loto azul",
+          "Tintín en el Congo",
+          "Coca-Cola en stock",
+          "Tintín en el Tíbet"
+        ],
+        "réponse": "Tintín en el Tíbet",
+        "anecdote": "La película « The Snow in Mourning », de Edward Dmytryk, contiene secuencias que probablemente deben haber marcado la memoria de Hergé."
+      },
+      {
+        "id": 8,
+        "question": "¿En qué aventura se encuentra Tintín frente a un impresionante Yeti ?",
+        "propositions": [
+          "Tintín en el Tíbet",
+          "Coca-Cola en stock",
+          "El loto azul",
+          "Tintín en el Congo"
+        ],
+        "réponse": "Tintín en el Tíbet",
+        "anecdote": "La película « The Snow in Mourning », de Edward Dmytryk, contiene secuencias que probablemente deben haber marcado la memoria de Hergé."
+      },
+      {
+        "id": 9,
+        "question": "¿En qué aventura se encuentra Tintín frente a un impresionante Yeti ?",
+        "propositions": [
+          "El loto azul",
+          "Coca-Cola en stock",
+          "Tintín en el Congo",
+          "Tintín en el Tíbet"
+        ],
+        "réponse": "Tintín en el Tíbet",
+        "anecdote": "La película « The Snow in Mourning », de Edward Dmytryk, contiene secuencias que probablemente deben haber marcado la memoria de Hergé."
+      },
+      {
+        "id": 10,
+        "question": "¿En qué aventura se encuentra Tintín frente a un impresionante Yeti ?",
+        "propositions": [
+          "Coca-Cola en stock",
+          "El loto azul",
+          "Tintín en el Congo",
+          "Tintín en el Tíbet"
+        ],
+        "réponse": "Tintín en el Tíbet",
+        "anecdote": "La película « The Snow in Mourning », de Edward Dmytryk, contiene secuencias que probablemente deben haber marcado la memoria de Hergé."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "¿En qué aventura se encuentra Tintín frente a un impresionante Yeti ?",
+        "propositions": [
+          "Coca-Cola en stock",
+          "El loto azul",
+          "Tintín en el Congo",
+          "Tintín en el Tíbet"
+        ],
+        "réponse": "Tintín en el Tíbet",
+        "anecdote": "La película « The Snow in Mourning », de Edward Dmytryk, contiene secuencias que probablemente deben haber marcado la memoria de Hergé."
+      },
+      {
+        "id": 12,
+        "question": "¿En qué aventura se encuentra Tintín frente a un impresionante Yeti ?",
+        "propositions": [
+          "Tintín en el Tíbet",
+          "Tintín en el Congo",
+          "El loto azul",
+          "Coca-Cola en stock"
+        ],
+        "réponse": "Tintín en el Tíbet",
+        "anecdote": "La película « The Snow in Mourning », de Edward Dmytryk, contiene secuencias que probablemente deben haber marcado la memoria de Hergé."
+      },
+      {
+        "id": 13,
+        "question": "¿En qué aventura se encuentra Tintín frente a un impresionante Yeti ?",
+        "propositions": [
+          "Tintín en el Tíbet",
+          "El loto azul",
+          "Tintín en el Congo",
+          "Coca-Cola en stock"
+        ],
+        "réponse": "Tintín en el Tíbet",
+        "anecdote": "La película « The Snow in Mourning », de Edward Dmytryk, contiene secuencias que probablemente deben haber marcado la memoria de Hergé."
+      },
+      {
+        "id": 14,
+        "question": "¿En qué aventura se encuentra Tintín frente a un impresionante Yeti ?",
+        "propositions": [
+          "Coca-Cola en stock",
+          "Tintín en el Congo",
+          "Tintín en el Tíbet",
+          "El loto azul"
+        ],
+        "réponse": "Tintín en el Tíbet",
+        "anecdote": "La película « The Snow in Mourning », de Edward Dmytryk, contiene secuencias que probablemente deben haber marcado la memoria de Hergé."
+      },
+      {
+        "id": 15,
+        "question": "¿En qué aventura se encuentra Tintín frente a un impresionante Yeti ?",
+        "propositions": [
+          "El loto azul",
+          "Coca-Cola en stock",
+          "Tintín en el Congo",
+          "Tintín en el Tíbet"
+        ],
+        "réponse": "Tintín en el Tíbet",
+        "anecdote": "La película « The Snow in Mourning », de Edward Dmytryk, contiene secuencias que probablemente deben haber marcado la memoria de Hergé."
+      },
+      {
+        "id": 16,
+        "question": "¿En qué aventura se encuentra Tintín frente a un impresionante Yeti ?",
+        "propositions": [
+          "Tintín en el Tíbet",
+          "Tintín en el Congo",
+          "El loto azul",
+          "Coca-Cola en stock"
+        ],
+        "réponse": "Tintín en el Tíbet",
+        "anecdote": "La película « The Snow in Mourning », de Edward Dmytryk, contiene secuencias que probablemente deben haber marcado la memoria de Hergé."
+      },
+      {
+        "id": 17,
+        "question": "¿En qué aventura se encuentra Tintín frente a un impresionante Yeti ?",
+        "propositions": [
+          "Coca-Cola en stock",
+          "Tintín en el Congo",
+          "El loto azul",
+          "Tintín en el Tíbet"
+        ],
+        "réponse": "Tintín en el Tíbet",
+        "anecdote": "La película « The Snow in Mourning », de Edward Dmytryk, contiene secuencias que probablemente deben haber marcado la memoria de Hergé."
+      },
+      {
+        "id": 18,
+        "question": "¿En qué aventura se encuentra Tintín frente a un impresionante Yeti ?",
+        "propositions": [
+          "Coca-Cola en stock",
+          "Tintín en el Congo",
+          "Tintín en el Tíbet",
+          "El loto azul"
+        ],
+        "réponse": "Tintín en el Tíbet",
+        "anecdote": "La película « The Snow in Mourning », de Edward Dmytryk, contiene secuencias que probablemente deben haber marcado la memoria de Hergé."
+      },
+      {
+        "id": 19,
+        "question": "¿En qué aventura se encuentra Tintín frente a un impresionante Yeti ?",
+        "propositions": [
+          "El loto azul",
+          "Coca-Cola en stock",
+          "Tintín en el Tíbet",
+          "Tintín en el Congo"
+        ],
+        "réponse": "Tintín en el Tíbet",
+        "anecdote": "La película « The Snow in Mourning », de Edward Dmytryk, contiene secuencias que probablemente deben haber marcado la memoria de Hergé."
+      },
+      {
+        "id": 20,
+        "question": "¿En qué aventura se encuentra Tintín frente a un impresionante Yeti ?",
+        "propositions": [
+          "El loto azul",
+          "Coca-Cola en stock",
+          "Tintín en el Tíbet",
+          "Tintín en el Congo"
+        ],
+        "réponse": "Tintín en el Tíbet",
+        "anecdote": "La película « The Snow in Mourning », de Edward Dmytryk, contiene secuencias que probablemente deben haber marcado la memoria de Hergé."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "¿En qué aventura se encuentra Tintín frente a un impresionante Yeti ?",
+        "propositions": [
+          "El loto azul",
+          "Tintín en el Tíbet",
+          "Coca-Cola en stock",
+          "Tintín en el Congo"
+        ],
+        "réponse": "Tintín en el Tíbet",
+        "anecdote": "La película « The Snow in Mourning », de Edward Dmytryk, contiene secuencias que probablemente deben haber marcado la memoria de Hergé."
+      },
+      {
+        "id": 22,
+        "question": "¿En qué aventura se encuentra Tintín frente a un impresionante Yeti ?",
+        "propositions": [
+          "El loto azul",
+          "Tintín en el Congo",
+          "Tintín en el Tíbet",
+          "Coca-Cola en stock"
+        ],
+        "réponse": "Tintín en el Tíbet",
+        "anecdote": "La película « The Snow in Mourning », de Edward Dmytryk, contiene secuencias que probablemente deben haber marcado la memoria de Hergé."
+      },
+      {
+        "id": 23,
+        "question": "¿En qué aventura se encuentra Tintín frente a un impresionante Yeti ?",
+        "propositions": [
+          "El loto azul",
+          "Tintín en el Congo",
+          "Tintín en el Tíbet",
+          "Coca-Cola en stock"
+        ],
+        "réponse": "Tintín en el Tíbet",
+        "anecdote": "La película « The Snow in Mourning », de Edward Dmytryk, contiene secuencias que probablemente deben haber marcado la memoria de Hergé."
+      },
+      {
+        "id": 24,
+        "question": "¿En qué aventura se encuentra Tintín frente a un impresionante Yeti ?",
+        "propositions": [
+          "Tintín en el Tíbet",
+          "Tintín en el Congo",
+          "Coca-Cola en stock",
+          "El loto azul"
+        ],
+        "réponse": "Tintín en el Tíbet",
+        "anecdote": "La película « The Snow in Mourning », de Edward Dmytryk, contiene secuencias que probablemente deben haber marcado la memoria de Hergé."
+      },
+      {
+        "id": 25,
+        "question": "En « Les Bijoux de la Castafiore », ¿qué periódico anuncia la boda de la diva ?",
+        "propositions": [
+          "Jours de Paris",
+          "Ici Pour Vous",
+          "Paris-Flash",
+          "Stars de France"
+        ],
+        "réponse": "Paris-Flash",
+        "anecdote": "Tres años después del éxito de « Tintin in Tibet », Hergé parece estar aquí en la cima de su trabajo a nivel narrativo."
+      },
+      {
+        "id": 26,
+        "question": "En « Les Bijoux de la Castafiore », ¿qué periódico anuncia la boda de la diva ?",
+        "propositions": [
+          "Jours de Paris",
+          "Stars de France",
+          "Paris-Flash",
+          "Ici Pour Vous"
+        ],
+        "réponse": "Paris-Flash",
+        "anecdote": "Tres años después del éxito de « Tintin in Tibet », Hergé parece estar aquí en la cima de su trabajo a nivel narrativo."
+      },
+      {
+        "id": 27,
+        "question": "En « Les Bijoux de la Castafiore », ¿qué periódico anuncia la boda de la diva ?",
+        "propositions": [
+          "Ici Pour Vous",
+          "Jours de Paris",
+          "Paris-Flash",
+          "Stars de France"
+        ],
+        "réponse": "Paris-Flash",
+        "anecdote": "Tres años después del éxito de « Tintin in Tibet », Hergé parece estar aquí en la cima de su trabajo a nivel narrativo."
+      },
+      {
+        "id": 28,
+        "question": "En « Les Bijoux de la Castafiore », ¿qué periódico anuncia la boda de la diva ?",
+        "propositions": [
+          "Ici Pour Vous",
+          "Paris-Flash",
+          "Stars de France",
+          "Jours de Paris"
+        ],
+        "réponse": "Paris-Flash",
+        "anecdote": "Tres años después del éxito de « Tintin in Tibet », Hergé parece estar aquí en la cima de su trabajo a nivel narrativo."
+      },
+      {
+        "id": 29,
+        "question": "En « Les Bijoux de la Castafiore », ¿qué periódico anuncia la boda de la diva ?",
+        "propositions": [
+          "Jours de Paris",
+          "Stars de France",
+          "Paris-Flash",
+          "Ici Pour Vous"
+        ],
+        "réponse": "Paris-Flash",
+        "anecdote": "Tres años después del éxito de « Tintin in Tibet », Hergé parece estar aquí en la cima de su trabajo a nivel narrativo."
+      },
+      {
+        "id": 30,
+        "question": "En « Les Bijoux de la Castafiore », ¿qué periódico anuncia la boda de la diva ?",
+        "propositions": [
+          "Paris-Flash",
+          "Stars de France",
+          "Jours de Paris",
+          "Ici Pour Vous"
+        ],
+        "réponse": "Paris-Flash",
+        "anecdote": "Tres años después del éxito de « Tintin in Tibet », Hergé parece estar aquí en la cima de su trabajo a nivel narrativo."
+      }
+    ]
+    },
+    "it": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "In quale avventura Tintin si trova di fronte a un impressionante Yeti ?",
+        "propositions": [
+          "Coca-Cola in stock",
+          "Tintin in Tibet",
+          "The Blue Lotus",
+          "Tintin in Congo"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "Il film « The Snow in Mourning », di Edward Dmytryk, contiene sequenze che probabilmente devono aver segnato la memoria di Hergé."
+      },
+      {
+        "id": 2,
+        "question": "In quale avventura Tintin si trova di fronte a un impressionante Yeti ?",
+        "propositions": [
+          "Tintin in Congo",
+          "Tintin in Tibet",
+          "Coca-Cola in stock",
+          "The Blue Lotus"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "Il film « The Snow in Mourning », di Edward Dmytryk, contiene sequenze che probabilmente devono aver segnato la memoria di Hergé."
+      },
+      {
+        "id": 3,
+        "question": "In quale avventura Tintin si trova di fronte a un impressionante Yeti ?",
+        "propositions": [
+          "Tintin in Tibet",
+          "Coca-Cola in stock",
+          "Tintin in Congo",
+          "The Blue Lotus"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "Il film « The Snow in Mourning », di Edward Dmytryk, contiene sequenze che probabilmente devono aver segnato la memoria di Hergé."
+      },
+      {
+        "id": 4,
+        "question": "In quale avventura Tintin si trova di fronte a un impressionante Yeti ?",
+        "propositions": [
+          "Tintin in Congo",
+          "The Blue Lotus",
+          "Coca-Cola in stock",
+          "Tintin in Tibet"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "Il film « The Snow in Mourning », di Edward Dmytryk, contiene sequenze che probabilmente devono aver segnato la memoria di Hergé."
+      },
+      {
+        "id": 5,
+        "question": "In quale avventura Tintin si trova di fronte a un impressionante Yeti ?",
+        "propositions": [
+          "Tintin in Tibet",
+          "Tintin in Congo",
+          "The Blue Lotus",
+          "Coca-Cola in stock"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "Il film « The Snow in Mourning », di Edward Dmytryk, contiene sequenze che probabilmente devono aver segnato la memoria di Hergé."
+      },
+      {
+        "id": 6,
+        "question": "In quale avventura Tintin si trova di fronte a un impressionante Yeti ?",
+        "propositions": [
+          "Tintin in Tibet",
+          "Tintin in Congo",
+          "The Blue Lotus",
+          "Coca-Cola in stock"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "Il film « The Snow in Mourning », di Edward Dmytryk, contiene sequenze che probabilmente devono aver segnato la memoria di Hergé."
+      },
+      {
+        "id": 7,
+        "question": "In quale avventura Tintin si trova di fronte a un impressionante Yeti ?",
+        "propositions": [
+          "The Blue Lotus",
+          "Tintin in Congo",
+          "Tintin in Tibet",
+          "Coca-Cola in stock"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "Il film « The Snow in Mourning », di Edward Dmytryk, contiene sequenze che probabilmente devono aver segnato la memoria di Hergé."
+      },
+      {
+        "id": 8,
+        "question": "In quale avventura Tintin si trova di fronte a un impressionante Yeti ?",
+        "propositions": [
+          "The Blue Lotus",
+          "Tintin in Tibet",
+          "Tintin in Congo",
+          "Coca-Cola in stock"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "Il film « The Snow in Mourning », di Edward Dmytryk, contiene sequenze che probabilmente devono aver segnato la memoria di Hergé."
+      },
+      {
+        "id": 9,
+        "question": "In quale avventura Tintin si trova di fronte a un impressionante Yeti ?",
+        "propositions": [
+          "Tintin in Tibet",
+          "The Blue Lotus",
+          "Tintin in Congo",
+          "Coca-Cola in stock"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "Il film « The Snow in Mourning », di Edward Dmytryk, contiene sequenze che probabilmente devono aver segnato la memoria di Hergé."
+      },
+      {
+        "id": 10,
+        "question": "In quale avventura Tintin si trova di fronte a un impressionante Yeti ?",
+        "propositions": [
+          "The Blue Lotus",
+          "Tintin in Tibet",
+          "Coca-Cola in stock",
+          "Tintin in Congo"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "Il film « The Snow in Mourning », di Edward Dmytryk, contiene sequenze che probabilmente devono aver segnato la memoria di Hergé."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "In quale avventura Tintin si trova di fronte a un impressionante Yeti ?",
+        "propositions": [
+          "Tintin in Congo",
+          "Tintin in Tibet",
+          "The Blue Lotus",
+          "Coca-Cola in stock"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "Il film « The Snow in Mourning », di Edward Dmytryk, contiene sequenze che probabilmente devono aver segnato la memoria di Hergé."
+      },
+      {
+        "id": 12,
+        "question": "In quale avventura Tintin si trova di fronte a un impressionante Yeti ?",
+        "propositions": [
+          "Coca-Cola in stock",
+          "The Blue Lotus",
+          "Tintin in Congo",
+          "Tintin in Tibet"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "Il film « The Snow in Mourning », di Edward Dmytryk, contiene sequenze che probabilmente devono aver segnato la memoria di Hergé."
+      },
+      {
+        "id": 13,
+        "question": "In quale avventura Tintin si trova di fronte a un impressionante Yeti ?",
+        "propositions": [
+          "The Blue Lotus",
+          "Coca-Cola in stock",
+          "Tintin in Tibet",
+          "Tintin in Congo"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "Il film « The Snow in Mourning », di Edward Dmytryk, contiene sequenze che probabilmente devono aver segnato la memoria di Hergé."
+      },
+      {
+        "id": 14,
+        "question": "In quale avventura Tintin si trova di fronte a un impressionante Yeti ?",
+        "propositions": [
+          "The Blue Lotus",
+          "Tintin in Congo",
+          "Coca-Cola in stock",
+          "Tintin in Tibet"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "Il film « The Snow in Mourning », di Edward Dmytryk, contiene sequenze che probabilmente devono aver segnato la memoria di Hergé."
+      },
+      {
+        "id": 15,
+        "question": "In quale avventura Tintin si trova di fronte a un impressionante Yeti ?",
+        "propositions": [
+          "Coca-Cola in stock",
+          "Tintin in Congo",
+          "Tintin in Tibet",
+          "The Blue Lotus"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "Il film « The Snow in Mourning », di Edward Dmytryk, contiene sequenze che probabilmente devono aver segnato la memoria di Hergé."
+      },
+      {
+        "id": 16,
+        "question": "In quale avventura Tintin si trova di fronte a un impressionante Yeti ?",
+        "propositions": [
+          "Tintin in Congo",
+          "The Blue Lotus",
+          "Coca-Cola in stock",
+          "Tintin in Tibet"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "Il film « The Snow in Mourning », di Edward Dmytryk, contiene sequenze che probabilmente devono aver segnato la memoria di Hergé."
+      },
+      {
+        "id": 17,
+        "question": "In quale avventura Tintin si trova di fronte a un impressionante Yeti ?",
+        "propositions": [
+          "Coca-Cola in stock",
+          "Tintin in Congo",
+          "Tintin in Tibet",
+          "The Blue Lotus"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "Il film « The Snow in Mourning », di Edward Dmytryk, contiene sequenze che probabilmente devono aver segnato la memoria di Hergé."
+      },
+      {
+        "id": 18,
+        "question": "In quale avventura Tintin si trova di fronte a un impressionante Yeti ?",
+        "propositions": [
+          "Coca-Cola in stock",
+          "Tintin in Tibet",
+          "The Blue Lotus",
+          "Tintin in Congo"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "Il film « The Snow in Mourning », di Edward Dmytryk, contiene sequenze che probabilmente devono aver segnato la memoria di Hergé."
+      },
+      {
+        "id": 19,
+        "question": "In quale avventura Tintin si trova di fronte a un impressionante Yeti ?",
+        "propositions": [
+          "Tintin in Tibet",
+          "Tintin in Congo",
+          "Coca-Cola in stock",
+          "The Blue Lotus"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "Il film « The Snow in Mourning », di Edward Dmytryk, contiene sequenze che probabilmente devono aver segnato la memoria di Hergé."
+      },
+      {
+        "id": 20,
+        "question": "In quale avventura Tintin si trova di fronte a un impressionante Yeti ?",
+        "propositions": [
+          "Coca-Cola in stock",
+          "The Blue Lotus",
+          "Tintin in Tibet",
+          "Tintin in Congo"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "Il film « The Snow in Mourning », di Edward Dmytryk, contiene sequenze che probabilmente devono aver segnato la memoria di Hergé."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "In quale avventura Tintin si trova di fronte a un impressionante Yeti ?",
+        "propositions": [
+          "Coca-Cola in stock",
+          "The Blue Lotus",
+          "Tintin in Tibet",
+          "Tintin in Congo"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "Il film « The Snow in Mourning », di Edward Dmytryk, contiene sequenze che probabilmente devono aver segnato la memoria di Hergé."
+      },
+      {
+        "id": 22,
+        "question": "In quale avventura Tintin si trova di fronte a un impressionante Yeti ?",
+        "propositions": [
+          "The Blue Lotus",
+          "Coca-Cola in stock",
+          "Tintin in Tibet",
+          "Tintin in Congo"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "Il film « The Snow in Mourning », di Edward Dmytryk, contiene sequenze che probabilmente devono aver segnato la memoria di Hergé."
+      },
+      {
+        "id": 23,
+        "question": "In quale avventura Tintin si trova di fronte a un impressionante Yeti ?",
+        "propositions": [
+          "Tintin in Tibet",
+          "The Blue Lotus",
+          "Coca-Cola in stock",
+          "Tintin in Congo"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "Il film « The Snow in Mourning », di Edward Dmytryk, contiene sequenze che probabilmente devono aver segnato la memoria di Hergé."
+      },
+      {
+        "id": 24,
+        "question": "In quale avventura Tintin si trova di fronte a un impressionante Yeti ?",
+        "propositions": [
+          "The Blue Lotus",
+          "Tintin in Tibet",
+          "Tintin in Congo",
+          "Coca-Cola in stock"
+        ],
+        "réponse": "Tintin in Tibet",
+        "anecdote": "Il film « The Snow in Mourning », di Edward Dmytryk, contiene sequenze che probabilmente devono aver segnato la memoria di Hergé."
+      },
+      {
+        "id": 25,
+        "question": "In « Les Bijoux de la Castafiore », quale giornale annuncia il matrimonio della diva ?",
+        "propositions": [
+          "Jours de Paris",
+          "Stars de France",
+          "Paris-Flash",
+          "Ici Pour Vous"
+        ],
+        "réponse": "Paris-Flash",
+        "anecdote": "Tre anni dopo il successo di « Tintin in Tibet », Hergé sembra essere al culmine del suo lavoro a livello narrativo."
+      },
+      {
+        "id": 26,
+        "question": "In « Les Bijoux de la Castafiore », quale giornale annuncia il matrimonio della diva ?",
+        "propositions": [
+          "Jours de Paris",
+          "Ici Pour Vous",
+          "Paris-Flash",
+          "Stars de France"
+        ],
+        "réponse": "Paris-Flash",
+        "anecdote": "Tre anni dopo il successo di « Tintin in Tibet », Hergé sembra essere al culmine del suo lavoro a livello narrativo."
+      },
+      {
+        "id": 27,
+        "question": "In « Les Bijoux de la Castafiore », quale giornale annuncia il matrimonio della diva ?",
+        "propositions": [
+          "Jours de Paris",
+          "Paris-Flash",
+          "Stars de France",
+          "Ici Pour Vous"
+        ],
+        "réponse": "Paris-Flash",
+        "anecdote": "Tre anni dopo il successo di « Tintin in Tibet », Hergé sembra essere al culmine del suo lavoro a livello narrativo."
+      },
+      {
+        "id": 28,
+        "question": "In « Les Bijoux de la Castafiore », quale giornale annuncia il matrimonio della diva ?",
+        "propositions": [
+          "Jours de Paris",
+          "Ici Pour Vous",
+          "Paris-Flash",
+          "Stars de France"
+        ],
+        "réponse": "Paris-Flash",
+        "anecdote": "Tre anni dopo il successo di « Tintin in Tibet », Hergé sembra essere al culmine del suo lavoro a livello narrativo."
+      },
+      {
+        "id": 29,
+        "question": "In « Les Bijoux de la Castafiore », quale giornale annuncia il matrimonio della diva ?",
+        "propositions": [
+          "Stars de France",
+          "Jours de Paris",
+          "Ici Pour Vous",
+          "Paris-Flash"
+        ],
+        "réponse": "Paris-Flash",
+        "anecdote": "Tre anni dopo il successo di « Tintin in Tibet », Hergé sembra essere al culmine del suo lavoro a livello narrativo."
+      },
+      {
+        "id": 30,
+        "question": "In « Les Bijoux de la Castafiore », quale giornale annuncia il matrimonio della diva ?",
+        "propositions": [
+          "Jours de Paris",
+          "Stars de France",
+          "Paris-Flash",
+          "Ici Pour Vous"
+        ],
+        "réponse": "Paris-Flash",
+        "anecdote": "Tre anni dopo il successo di « Tintin in Tibet », Hergé sembra essere al culmine del suo lavoro a livello narrativo."
+      }
+    ]
+    },
+    "nl": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "In welk avontuur wordt Kuifje geconfronteerd met een indrukwekkende Yeti ?",
+        "propositions": [
+          "Kuifje in Congo",
+          "Coke op voorraad",
+          "De blauwe lotus",
+          "Kuifje in Tibet"
+        ],
+        "réponse": "Kuifje in Tibet",
+        "anecdote": "De film « The Snow in Mourning » van Edward Dmytryk bevat sequenties die waarschijnlijk het geheugen van Hergé hebben gemarkeerd."
+      },
+      {
+        "id": 2,
+        "question": "In welk avontuur wordt Kuifje geconfronteerd met een indrukwekkende Yeti ?",
+        "propositions": [
+          "Kuifje in Congo",
+          "De blauwe lotus",
+          "Coke op voorraad",
+          "Kuifje in Tibet"
+        ],
+        "réponse": "Kuifje in Tibet",
+        "anecdote": "De film « The Snow in Mourning » van Edward Dmytryk bevat sequenties die waarschijnlijk het geheugen van Hergé hebben gemarkeerd."
+      },
+      {
+        "id": 3,
+        "question": "In welk avontuur wordt Kuifje geconfronteerd met een indrukwekkende Yeti ?",
+        "propositions": [
+          "Kuifje in Tibet",
+          "Coke op voorraad",
+          "Kuifje in Congo",
+          "De blauwe lotus"
+        ],
+        "réponse": "Kuifje in Tibet",
+        "anecdote": "De film « The Snow in Mourning » van Edward Dmytryk bevat sequenties die waarschijnlijk het geheugen van Hergé hebben gemarkeerd."
+      },
+      {
+        "id": 4,
+        "question": "In welk avontuur wordt Kuifje geconfronteerd met een indrukwekkende Yeti ?",
+        "propositions": [
+          "Kuifje in Tibet",
+          "De blauwe lotus",
+          "Coke op voorraad",
+          "Kuifje in Congo"
+        ],
+        "réponse": "Kuifje in Tibet",
+        "anecdote": "De film « The Snow in Mourning » van Edward Dmytryk bevat sequenties die waarschijnlijk het geheugen van Hergé hebben gemarkeerd."
+      },
+      {
+        "id": 5,
+        "question": "In welk avontuur wordt Kuifje geconfronteerd met een indrukwekkende Yeti ?",
+        "propositions": [
+          "De blauwe lotus",
+          "Coke op voorraad",
+          "Kuifje in Tibet",
+          "Kuifje in Congo"
+        ],
+        "réponse": "Kuifje in Tibet",
+        "anecdote": "De film « The Snow in Mourning » van Edward Dmytryk bevat sequenties die waarschijnlijk het geheugen van Hergé hebben gemarkeerd."
+      },
+      {
+        "id": 6,
+        "question": "In welk avontuur wordt Kuifje geconfronteerd met een indrukwekkende Yeti ?",
+        "propositions": [
+          "Kuifje in Congo",
+          "Kuifje in Tibet",
+          "Coke op voorraad",
+          "De blauwe lotus"
+        ],
+        "réponse": "Kuifje in Tibet",
+        "anecdote": "De film « The Snow in Mourning » van Edward Dmytryk bevat sequenties die waarschijnlijk het geheugen van Hergé hebben gemarkeerd."
+      },
+      {
+        "id": 7,
+        "question": "In welk avontuur wordt Kuifje geconfronteerd met een indrukwekkende Yeti ?",
+        "propositions": [
+          "Kuifje in Tibet",
+          "Kuifje in Congo",
+          "Coke op voorraad",
+          "De blauwe lotus"
+        ],
+        "réponse": "Kuifje in Tibet",
+        "anecdote": "De film « The Snow in Mourning » van Edward Dmytryk bevat sequenties die waarschijnlijk het geheugen van Hergé hebben gemarkeerd."
+      },
+      {
+        "id": 8,
+        "question": "In welk avontuur wordt Kuifje geconfronteerd met een indrukwekkende Yeti ?",
+        "propositions": [
+          "De blauwe lotus",
+          "Kuifje in Tibet",
+          "Kuifje in Congo",
+          "Coke op voorraad"
+        ],
+        "réponse": "Kuifje in Tibet",
+        "anecdote": "De film « The Snow in Mourning » van Edward Dmytryk bevat sequenties die waarschijnlijk het geheugen van Hergé hebben gemarkeerd."
+      },
+      {
+        "id": 9,
+        "question": "In welk avontuur wordt Kuifje geconfronteerd met een indrukwekkende Yeti ?",
+        "propositions": [
+          "De blauwe lotus",
+          "Coke op voorraad",
+          "Kuifje in Congo",
+          "Kuifje in Tibet"
+        ],
+        "réponse": "Kuifje in Tibet",
+        "anecdote": "De film « The Snow in Mourning » van Edward Dmytryk bevat sequenties die waarschijnlijk het geheugen van Hergé hebben gemarkeerd."
+      },
+      {
+        "id": 10,
+        "question": "In welk avontuur wordt Kuifje geconfronteerd met een indrukwekkende Yeti ?",
+        "propositions": [
+          "Kuifje in Tibet",
+          "De blauwe lotus",
+          "Kuifje in Congo",
+          "Coke op voorraad"
+        ],
+        "réponse": "Kuifje in Tibet",
+        "anecdote": "De film « The Snow in Mourning » van Edward Dmytryk bevat sequenties die waarschijnlijk het geheugen van Hergé hebben gemarkeerd."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "In welk avontuur wordt Kuifje geconfronteerd met een indrukwekkende Yeti ?",
+        "propositions": [
+          "De blauwe lotus",
+          "Coke op voorraad",
+          "Kuifje in Congo",
+          "Kuifje in Tibet"
+        ],
+        "réponse": "Kuifje in Tibet",
+        "anecdote": "De film « The Snow in Mourning » van Edward Dmytryk bevat sequenties die waarschijnlijk het geheugen van Hergé hebben gemarkeerd."
+      },
+      {
+        "id": 12,
+        "question": "In welk avontuur wordt Kuifje geconfronteerd met een indrukwekkende Yeti ?",
+        "propositions": [
+          "De blauwe lotus",
+          "Coke op voorraad",
+          "Kuifje in Congo",
+          "Kuifje in Tibet"
+        ],
+        "réponse": "Kuifje in Tibet",
+        "anecdote": "De film « The Snow in Mourning » van Edward Dmytryk bevat sequenties die waarschijnlijk het geheugen van Hergé hebben gemarkeerd."
+      },
+      {
+        "id": 13,
+        "question": "In welk avontuur wordt Kuifje geconfronteerd met een indrukwekkende Yeti ?",
+        "propositions": [
+          "Coke op voorraad",
+          "Kuifje in Congo",
+          "Kuifje in Tibet",
+          "De blauwe lotus"
+        ],
+        "réponse": "Kuifje in Tibet",
+        "anecdote": "De film « The Snow in Mourning » van Edward Dmytryk bevat sequenties die waarschijnlijk het geheugen van Hergé hebben gemarkeerd."
+      },
+      {
+        "id": 14,
+        "question": "In welk avontuur wordt Kuifje geconfronteerd met een indrukwekkende Yeti ?",
+        "propositions": [
+          "De blauwe lotus",
+          "Kuifje in Tibet",
+          "Coke op voorraad",
+          "Kuifje in Congo"
+        ],
+        "réponse": "Kuifje in Tibet",
+        "anecdote": "De film « The Snow in Mourning » van Edward Dmytryk bevat sequenties die waarschijnlijk het geheugen van Hergé hebben gemarkeerd."
+      },
+      {
+        "id": 15,
+        "question": "In welk avontuur wordt Kuifje geconfronteerd met een indrukwekkende Yeti ?",
+        "propositions": [
+          "Kuifje in Tibet",
+          "Kuifje in Congo",
+          "De blauwe lotus",
+          "Coke op voorraad"
+        ],
+        "réponse": "Kuifje in Tibet",
+        "anecdote": "De film « The Snow in Mourning » van Edward Dmytryk bevat sequenties die waarschijnlijk het geheugen van Hergé hebben gemarkeerd."
+      },
+      {
+        "id": 16,
+        "question": "In welk avontuur wordt Kuifje geconfronteerd met een indrukwekkende Yeti ?",
+        "propositions": [
+          "Coke op voorraad",
+          "Kuifje in Tibet",
+          "Kuifje in Congo",
+          "De blauwe lotus"
+        ],
+        "réponse": "Kuifje in Tibet",
+        "anecdote": "De film « The Snow in Mourning » van Edward Dmytryk bevat sequenties die waarschijnlijk het geheugen van Hergé hebben gemarkeerd."
+      },
+      {
+        "id": 17,
+        "question": "In welk avontuur wordt Kuifje geconfronteerd met een indrukwekkende Yeti ?",
+        "propositions": [
+          "Kuifje in Congo",
+          "Coke op voorraad",
+          "Kuifje in Tibet",
+          "De blauwe lotus"
+        ],
+        "réponse": "Kuifje in Tibet",
+        "anecdote": "De film « The Snow in Mourning » van Edward Dmytryk bevat sequenties die waarschijnlijk het geheugen van Hergé hebben gemarkeerd."
+      },
+      {
+        "id": 18,
+        "question": "In welk avontuur wordt Kuifje geconfronteerd met een indrukwekkende Yeti ?",
+        "propositions": [
+          "Coke op voorraad",
+          "Kuifje in Congo",
+          "Kuifje in Tibet",
+          "De blauwe lotus"
+        ],
+        "réponse": "Kuifje in Tibet",
+        "anecdote": "De film « The Snow in Mourning » van Edward Dmytryk bevat sequenties die waarschijnlijk het geheugen van Hergé hebben gemarkeerd."
+      },
+      {
+        "id": 19,
+        "question": "In welk avontuur wordt Kuifje geconfronteerd met een indrukwekkende Yeti ?",
+        "propositions": [
+          "Kuifje in Congo",
+          "De blauwe lotus",
+          "Kuifje in Tibet",
+          "Coke op voorraad"
+        ],
+        "réponse": "Kuifje in Tibet",
+        "anecdote": "De film « The Snow in Mourning » van Edward Dmytryk bevat sequenties die waarschijnlijk het geheugen van Hergé hebben gemarkeerd."
+      },
+      {
+        "id": 20,
+        "question": "In welk avontuur wordt Kuifje geconfronteerd met een indrukwekkende Yeti ?",
+        "propositions": [
+          "De blauwe lotus",
+          "Kuifje in Congo",
+          "Coke op voorraad",
+          "Kuifje in Tibet"
+        ],
+        "réponse": "Kuifje in Tibet",
+        "anecdote": "De film « The Snow in Mourning » van Edward Dmytryk bevat sequenties die waarschijnlijk het geheugen van Hergé hebben gemarkeerd."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "In welk avontuur wordt Kuifje geconfronteerd met een indrukwekkende Yeti ?",
+        "propositions": [
+          "Coke op voorraad",
+          "Kuifje in Congo",
+          "Kuifje in Tibet",
+          "De blauwe lotus"
+        ],
+        "réponse": "Kuifje in Tibet",
+        "anecdote": "De film « The Snow in Mourning » van Edward Dmytryk bevat sequenties die waarschijnlijk het geheugen van Hergé hebben gemarkeerd."
+      },
+      {
+        "id": 22,
+        "question": "In welk avontuur wordt Kuifje geconfronteerd met een indrukwekkende Yeti ?",
+        "propositions": [
+          "Kuifje in Tibet",
+          "De blauwe lotus",
+          "Kuifje in Congo",
+          "Coke op voorraad"
+        ],
+        "réponse": "Kuifje in Tibet",
+        "anecdote": "De film « The Snow in Mourning » van Edward Dmytryk bevat sequenties die waarschijnlijk het geheugen van Hergé hebben gemarkeerd."
+      },
+      {
+        "id": 23,
+        "question": "In welk avontuur wordt Kuifje geconfronteerd met een indrukwekkende Yeti ?",
+        "propositions": [
+          "Kuifje in Tibet",
+          "Coke op voorraad",
+          "De blauwe lotus",
+          "Kuifje in Congo"
+        ],
+        "réponse": "Kuifje in Tibet",
+        "anecdote": "De film « The Snow in Mourning » van Edward Dmytryk bevat sequenties die waarschijnlijk het geheugen van Hergé hebben gemarkeerd."
+      },
+      {
+        "id": 24,
+        "question": "In welk avontuur wordt Kuifje geconfronteerd met een indrukwekkende Yeti ?",
+        "propositions": [
+          "Coke op voorraad",
+          "De blauwe lotus",
+          "Kuifje in Tibet",
+          "Kuifje in Congo"
+        ],
+        "réponse": "Kuifje in Tibet",
+        "anecdote": "De film « The Snow in Mourning » van Edward Dmytryk bevat sequenties die waarschijnlijk het geheugen van Hergé hebben gemarkeerd."
+      },
+      {
+        "id": 25,
+        "question": "Welke krant kondigt in « Les Bijoux de la Castafiore » de bruiloft van de diva aan ?",
+        "propositions": [
+          "Jours de Paris",
+          "Ici Pour Vous",
+          "Paris-Flash",
+          "Stars de France"
+        ],
+        "réponse": "Paris-Flash",
+        "anecdote": "Drie jaar na het succes van « Kuifje in Tibet » lijkt Hergé hier op het hoogtepunt van zijn werk op narratief niveau te zijn."
+      },
+      {
+        "id": 26,
+        "question": "Welke krant kondigt in « Les Bijoux de la Castafiore » de bruiloft van de diva aan ?",
+        "propositions": [
+          "Paris-Flash",
+          "Ici Pour Vous",
+          "Stars de France",
+          "Jours de Paris"
+        ],
+        "réponse": "Paris-Flash",
+        "anecdote": "Drie jaar na het succes van « Kuifje in Tibet » lijkt Hergé hier op het hoogtepunt van zijn werk op narratief niveau te zijn."
+      },
+      {
+        "id": 27,
+        "question": "Welke krant kondigt in « Les Bijoux de la Castafiore » de bruiloft van de diva aan ?",
+        "propositions": [
+          "Paris-Flash",
+          "Ici Pour Vous",
+          "Jours de Paris",
+          "Stars de France"
+        ],
+        "réponse": "Paris-Flash",
+        "anecdote": "Drie jaar na het succes van « Kuifje in Tibet » lijkt Hergé hier op het hoogtepunt van zijn werk op narratief niveau te zijn."
+      },
+      {
+        "id": 28,
+        "question": "Welke krant kondigt in « Les Bijoux de la Castafiore » de bruiloft van de diva aan ?",
+        "propositions": [
+          "Stars de France",
+          "Jours de Paris",
+          "Paris-Flash",
+          "Ici Pour Vous"
+        ],
+        "réponse": "Paris-Flash",
+        "anecdote": "Drie jaar na het succes van « Kuifje in Tibet » lijkt Hergé hier op het hoogtepunt van zijn werk op narratief niveau te zijn."
+      },
+      {
+        "id": 29,
+        "question": "Welke krant kondigt in « Les Bijoux de la Castafiore » de bruiloft van de diva aan ?",
+        "propositions": [
+          "Ici Pour Vous",
+          "Stars de France",
+          "Paris-Flash",
+          "Jours de Paris"
+        ],
+        "réponse": "Paris-Flash",
+        "anecdote": "Drie jaar na het succes van « Kuifje in Tibet » lijkt Hergé hier op het hoogtepunt van zijn werk op narratief niveau te zijn."
+      },
+      {
+        "id": 30,
+        "question": "Welke krant kondigt in « Les Bijoux de la Castafiore » de bruiloft van de diva aan ?",
+        "propositions": [
+          "Jours de Paris",
+          "Ici Pour Vous",
+          "Paris-Flash",
+          "Stars de France"
+        ],
+        "réponse": "Paris-Flash",
+        "anecdote": "Drie jaar na het succes van « Kuifje in Tibet » lijkt Hergé hier op het hoogtepunt van zijn werk op narratief niveau te zijn."
+      }
+    ]
+    }
+  }
+}

@@ -2,6 +2,14 @@ import express from 'express';
 import bodyParser from 'body-parser';
 import morgan from 'morgan';
 import cookieParser from 'cookie-parser';
+<<<<<<< HEAD
+
+const app = express();
+=======
+>>>>>>> master
+
+
+// setting up morgan for debuging will not be present in production
 
 const app = express();
 
@@ -46,4 +54,8 @@ app.get('/', (req, res) => {
 
 app.listen(process.env.PORT, () => console.log('serveur is running on port : ' + process.env.PORT));
 
+<<<<<<< HEAD
 module.exports = app;
+=======
+module.exports = app;
+>>>>>>> master

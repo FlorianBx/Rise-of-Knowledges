@@ -1,5 +1,9 @@
 //Parsing all json file to create a mongo schema
 // require Quizz Schemas
+<<<<<<< HEAD
+=======
+
+>>>>>>> master
 import mongoose from 'mongoose';
 import Quizz from '../api/modele/Quizz';
 

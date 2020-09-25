@@ -1,7 +1,7 @@
 //Parsing all json file to create a mongo schema
 // require Quizz Schemas
 import Quizz from '../api/modele/Quizz';
-
+import mongoose from 'mongoose';
 // getting all datas
 let data1 = require('./Datajson/openquizzdb_111.json');
 let data2 = require('./Datajson/openquizzdb_154.json');

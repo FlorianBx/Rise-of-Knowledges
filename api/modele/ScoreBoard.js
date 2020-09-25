@@ -1,8 +1,12 @@
 import mongoose from 'mongoose';
 
 const ObjectId = mongoose.Schema.Types.ObjectId;
-const LeaderBoardSchema = new mongoose.Schema({
+const ScoreBoardSchema = new mongoose.Schema({
     id: {type: ObjectId},
+    rank: {
+        type: Number,
+        default: 0
+    },
     name: {
         type: String,
         unique: true,
@@ -11,4 +15,4 @@ const LeaderBoardSchema = new mongoose.Schema({
     score: {type: Number}
 })
 
-module.exports = mongoose.model('leaderBoardSchema', LeaderBoardSchema);
+module.exports = mongoose.model('scoreboardschema', ScoreBoardSchema);

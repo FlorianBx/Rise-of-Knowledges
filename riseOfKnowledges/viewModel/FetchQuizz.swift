@@ -7,13 +7,12 @@
 //
 
 import Foundation
-import SwiftUI
 
 class FetchQuizz : ObservableObject {
     
     @Published var quizz: [QuizzModel] = []
     
-    let url = "http://192.168.1.43:3000/getQuizz/\(Locale.current.languageCode!)"
+    let url = "http://192.168.1.43:3000/getQuizz/fr"
     
     func fetchQuizzDatas() {
         let urlSession = URLSession(configuration: .default)
@@ -27,9 +26,8 @@ class FetchQuizz : ObservableObject {
                     self.quizz = decoder
                 }
             } catch {
-                print("JE CRASH HERE ! \(error.localizedDescription)")
+                print("Crash fetch question \(error.localizedDescription)")
             }
         }.resume()
-        
     }
 }

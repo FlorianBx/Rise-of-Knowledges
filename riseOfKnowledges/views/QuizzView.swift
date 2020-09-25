@@ -19,13 +19,6 @@ struct QuizzView: View {
         VStack {
             if self.quizzDatas.quizz.isEmpty {
                 Indicator()
-            } else if questionNumber > self.quizzDatas.quizz.endIndex {
-                VStack {
-                    EmptyView()
-                }
-                .fullScreenCover(isPresented: $showScoreView, content: {
-                    ScoreView()
-                })
             } else {
                 VStack {
                     Spacer()
@@ -44,11 +37,11 @@ struct QuizzView: View {
                         )
                         Spacer()
                     }
+                    Spacer()
                 }
             }
         }.onAppear() {
             self.quizzDatas.fetchQuizzDatas()
-            print(String(questionNumber))
         }
         .background(Color("NightBlue"))
         .edgesIgnoringSafeArea(.all)

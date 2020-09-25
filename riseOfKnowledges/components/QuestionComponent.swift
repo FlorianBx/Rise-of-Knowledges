@@ -17,15 +17,15 @@ struct QuestionComponent: View {
             VStack {
                 Rectangle()
                     .fill(Color.blue)
-                    .frame(width: 300, height: 200, alignment: .center)
                     .cornerRadius(15)
                     .opacity(0.2)
                     .frame(minWidth: 0, maxWidth: .infinity, minHeight: 0, maxHeight: 200)
+//                    .background(Color.red)
             }
             Text(question)
                 .tracking(0.5)
                 .foregroundColor(Color.white)
-                .frame(width: 280, height: 200, alignment: .center)
+                .frame(minWidth: 0, maxWidth: .infinity)
                 .lineSpacing(4)
         }
         .padding(.bottom, -40)

@@ -18,6 +18,13 @@ struct ResultView: View {
     var anecdote: String
     var questionNumber: Int
     
+    func redirect(_ questionNumb: Int) -> some View {
+        if questionNumb >= 19 {
+            return AnyView(ScoreView())
+        }
+        return AnyView(QuizzView(questionNumber: questionNumber + 1))
+    }
+    
     var body: some View {
         ZStack {
             VStack {
@@ -38,10 +45,11 @@ struct ResultView: View {
                         .frame(width: 300, height: 80, alignment: .center)
                         .background(Color.green)
                 }
+                .onAppear() { print(String(questionNumber)) }
                 .cornerRadius(10)
                 .opacity(0.8)
                 .fullScreenCover(isPresented: $showQuizzView, content: {
-                    QuizzView(questionNumber: questionNumber + 1)
+                    redirect(questionNumber)
                 })
                 Spacer()
             }

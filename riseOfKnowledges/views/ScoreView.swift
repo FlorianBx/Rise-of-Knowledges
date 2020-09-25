@@ -9,8 +9,36 @@
 import SwiftUI
 
 struct ScoreView: View {
+    
+    @ObservedObject var scoreDatas = FetchScoreboard()
+    
     var body: some View {
-        Text("Hey it's finish !!")
+        VStack {
+            if self.scoreDatas.scoreb.isEmpty {
+                Indicator()
+            } else {
+                VStack {
+                    Spacer()
+                    Spacer()
+                    Text("🏆 LEADERBOARD 🏆")
+                        .font(.largeTitle)
+                        .font(.system(size: 46))
+                        .fontWeight(.bold)
+                    List(self.scoreDatas.scoreb) { scoreData in
+                        HStack {
+                            Text(String(scoreData.rank))
+                            Text(scoreData.name)
+                            Spacer()
+                            Text(String(scoreData.score))
+                        }
+                    }
+                }
+            }
+        }
+        .onAppear() {
+            self.scoreDatas.fetchScoreBoard()
+        }
+        .background(Color("DarkBlue"))
     }
 }
 

@@ -14,18 +14,16 @@ struct AnswerComponent: View {
     @State private var isCorrect: Bool = false
     
     var questionNumber: Int
-    var suggestions: Array<String>
-    var question: String
-    var answer: String
-    var anecdote: String
+    var apiQuizDatas: FetchQuizz
+    
     
     var body: some View {
         VStack {
-            ForEach(suggestions, id: \.self) { item in
+            ForEach(apiQuizDatas.quizz[questionNumber].suggestion, id: \.self) { item in
                 ZStack {
                     VStack {
                         Button(action: {
-                            isCorrect = item == answer ? true : false
+                            isCorrect = item == apiQuizDatas.quizz[questionNumber].answer ? true : false
                             self.showResultView = true
                         }) {
                             Text(item)
@@ -36,10 +34,8 @@ struct AnswerComponent: View {
                         .fullScreenCover(isPresented: $showResultView, content: {
                             ResultView(
                                 isCorrect: self.$isCorrect,
-                                question: question,
-                                answer: answer,
-                                anecdote: anecdote,
-                                questionNumber: questionNumber
+                                questionNumber: questionNumber,
+                                apiQuizDatas: apiQuizDatas
                             )
                         })
                         .cornerRadius(15)

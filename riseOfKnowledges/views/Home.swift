@@ -10,6 +10,8 @@ import SwiftUI
 
 struct Home: View {
     
+    @ObservedObject var quizzDatas = FetchQuizz()
+    
     @State private var username: String = ""
     @State private var showQuizzView: Bool = false
     
@@ -17,7 +19,7 @@ struct Home: View {
         ZStack {
             NavigationView {
                 VStack(alignment: .center, spacing: 15) {
-                    NavigationLink(destination: QuizzView(), isActive: $showQuizzView) {
+                    NavigationLink(destination: QuizzView(apiDatas: self.quizzDatas), isActive: $showQuizzView) {
                         EmptyView()
                     }
                     Image("rok")
@@ -33,10 +35,10 @@ struct Home: View {
                         TextField("Username", text: $username)
                             .foregroundColor(.white)
                             .frame(width: 270, height: 50)
-                        if username != "" {
+                        if username.isEmpty {
                             Image(systemName: "xmark.circle.fill")
                                 .imageScale(.large)
-                                .foregroundColor(Color(.systemGray6))
+                                .foregroundColor(Color(.white))
                                 .onTapGesture {
                                     self.username = ""
                                 }
@@ -54,11 +56,19 @@ struct Home: View {
                             .foregroundColor(.white)
                             .padding()
                             .frame(width: 300, height: 50)
-                            .background(LinearGradient(gradient: Gradient(colors: [.pink, .purple]), startPoint: .leading, endPoint: .trailing))
+                            .background(username.isEmpty || quizzDatas.quizz.isEmpty ?
+                                            LinearGradient(gradient: Gradient(colors: [.gray, .gray]), startPoint: .leading, endPoint: .trailing) :
+                                            LinearGradient(gradient: Gradient(colors: [.pink, .purple]), startPoint: .leading, endPoint: .trailing))
                             .opacity(70.0)
                             .cornerRadius(20)
                     }
+                    .disabled(username.isEmpty || quizzDatas.quizz.isEmpty)
+                    VStack {
+                        quizzDatas.quizz.isEmpty ? Indicator() : nil
+                    }
                     Spacer()
+                }.onAppear() {
+                    self.quizzDatas.fetchQuizzDatas()
                 }
                 .background(Color("NightBlue"))
                 .edgesIgnoringSafeArea(.all)

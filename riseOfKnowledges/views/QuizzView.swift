@@ -10,41 +10,30 @@ import SwiftUI
 
 struct QuizzView: View {
     
-    @ObservedObject var quizzDatas = FetchQuizz()
     @State private var showScoreView: Bool = false
     
+    var apiDatas: FetchQuizz?
     var questionNumber: Int = 0
     
     var body: some View {
-        VStack {
-            if self.quizzDatas.quizz.isEmpty {
-                Indicator()
-            } else {
-                VStack {
-                    Spacer()
-                    VStack {
-                        Spacer()
-                        QuestionComponent(
-                            question: self.quizzDatas.quizz[questionNumber].question
-                        )
-                        Spacer()
-                        AnswerComponent(
-                            questionNumber: questionNumber,
-                            suggestions: self.quizzDatas.quizz[questionNumber].suggestion,
-                            question: self.quizzDatas.quizz[questionNumber].question,
-                            answer: self.quizzDatas.quizz[questionNumber].answer,
-                            anecdote: self.quizzDatas.quizz[questionNumber].anecdote
-                        )
-                        Spacer()
-                    }
-                    Spacer()
-                }
-            }
-        }.onAppear() {
-            self.quizzDatas.fetchQuizzDatas()
+        guard let apiQuizDatas = apiDatas else {
+            return AnyView(Home())
         }
-        .background(Color("NightBlue"))
-        .edgesIgnoringSafeArea(.all)
-        .navigationBarBackButtonHidden(true)
+        return AnyView(
+            VStack {
+                Spacer()
+                QuestionComponent(
+                    question: apiQuizDatas.quizz[questionNumber].question
+                )
+                AnswerComponent(
+                    questionNumber: questionNumber,
+                    apiQuizDatas: apiQuizDatas
+                )
+                Spacer()
+            }
+            .background(Color("NightBlue"))
+            .edgesIgnoringSafeArea(.all)
+            .navigationBarBackButtonHidden(true)
+        )
     }
 }

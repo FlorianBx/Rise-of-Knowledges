@@ -14,20 +14,21 @@ struct QuestionComponent: View {
     
     var body: some View {
         ZStack {
+            Spacer()
             VStack {
                 Rectangle()
                     .fill(Color.blue)
                     .cornerRadius(15)
                     .opacity(0.2)
+                    .padding()
                     .frame(minWidth: 0, maxWidth: .infinity, minHeight: 0, maxHeight: 200)
-//                    .background(Color.red)
             }
             Text(question)
-                .tracking(0.5)
                 .foregroundColor(Color.white)
-                .frame(minWidth: 0, maxWidth: .infinity)
-                .lineSpacing(4)
+                .frame(minWidth: 0, maxWidth: 300, minHeight: 200, maxHeight: 400)
+                .minimumScaleFactor(0.5)
+            Spacer()
         }
-        .padding(.bottom, -40)
+        .edgesIgnoringSafeArea(.all)
     }
 }

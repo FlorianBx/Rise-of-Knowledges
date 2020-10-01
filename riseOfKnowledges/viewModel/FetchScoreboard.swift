@@ -26,7 +26,7 @@ class FetchScoreboard: ObservableObject {
                     self.scoreb = decoder
                 }
             } catch {
-                print("Crash fetch scoreboard: \(error.localizedDescription)")
+                fatalError(error.localizedDescription)
             }
         }.resume()
     }

@@ -13,30 +13,43 @@ struct ResultView: View {
     @State private var showQuizzView: Bool = false
     @Binding var isCorrect: Bool
     
-    var question: String
-    var answer: String
-    var anecdote: String
     var questionNumber: Int
+    var apiQuizDatas: FetchQuizz
     
     func redirect(_ questionNumb: Int) -> some View {
         if questionNumb >= 19 {
             return AnyView(ScoreView())
         }
-        return AnyView(QuizzView(questionNumber: questionNumber + 1))
+        return AnyView(QuizzView(apiDatas: apiQuizDatas, questionNumber: questionNumber + 1))
     }
     
     var body: some View {
         ZStack {
             VStack {
                 Spacer()
-                Text(String(question))
+                VStack {
+                    Text("Question:")
+                        .font(.headline)
+                        .padding(.bottom)
+                    Text(String(apiQuizDatas.quizz[questionNumber].question))
+                }
                 Spacer()
                 
-                Text("Answer is: \(answer)")
-                    .foregroundColor(isCorrect ? Color.green : Color.red)
-                    .frame(minWidth: 100, idealWidth: 300, maxWidth: .infinity)
+                VStack {
+                    Text("Answer:")
+                        .font(.headline)
+                        .padding(.bottom)
+                    Text(apiQuizDatas.quizz[questionNumber].answer)
+                        .foregroundColor(isCorrect ? Color.green : Color.red)
+                        .frame(minWidth: 100, idealWidth: 300, maxWidth: .infinity)
+                }
                 Spacer()
-                Text("Anecdote: \(anecdote)")
+                VStack {
+                    Text("Anecdote:")
+                        .font(.headline)
+                        .padding(.bottom)
+                    Text(apiQuizDatas.quizz[questionNumber].anecdote)
+                }
                 Spacer()
                 Spacer()
                 Button(action: { showQuizzView = true }) {
@@ -54,10 +67,10 @@ struct ResultView: View {
                 Spacer()
             }
             .padding()
-            .edgesIgnoringSafeArea(.all)
-            .foregroundColor(Color.white)
             .background(Color("NightBlue"))
             .navigationBarBackButtonHidden(true)
         }
+        .edgesIgnoringSafeArea(.all)
+        .foregroundColor(Color.white)
     }
 }

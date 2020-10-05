@@ -21,6 +21,8 @@
 		1722DDBB2512817900300699 /* QuestionComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1722DDBA2512817900300699 /* QuestionComponent.swift */; };
 		172CB45A251B973600E589C1 /* ScoreView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 172CB459251B973600E589C1 /* ScoreView.swift */; };
 		174508E32518ECE4008A129B /* ResultView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 174508E22518ECE4008A129B /* ResultView.swift */; };
+		1760DD9C252B3CD600E606F2 /* UserSetting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1760DD9B252B3CD600E606F2 /* UserSetting.swift */; };
+		1760DDA1252B40B900E606F2 /* ScorePostModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1760DDA0252B40B900E606F2 /* ScorePostModel.swift */; };
 		176A4BCA251E614100311859 /* FetchScoreboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 176A4BC9251E614100311859 /* FetchScoreboard.swift */; };
 		176A4BCF251E616E00311859 /* ScoreModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 176A4BCE251E616E00311859 /* ScoreModel.swift */; };
 		17E3ACD12513880000B8C82F /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17E3ACD02513880000B8C82F /* Home.swift */; };
@@ -67,6 +69,8 @@
 		1722DDBA2512817900300699 /* QuestionComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionComponent.swift; sourceTree = "<group>"; };
 		172CB459251B973600E589C1 /* ScoreView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreView.swift; sourceTree = "<group>"; };
 		174508E22518ECE4008A129B /* ResultView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultView.swift; sourceTree = "<group>"; };
+		1760DD9B252B3CD600E606F2 /* UserSetting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserSetting.swift; sourceTree = "<group>"; };
+		1760DDA0252B40B900E606F2 /* ScorePostModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScorePostModel.swift; sourceTree = "<group>"; };
 		176A4BC9251E614100311859 /* FetchScoreboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FetchScoreboard.swift; sourceTree = "<group>"; };
 		176A4BCE251E616E00311859 /* ScoreModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreModel.swift; sourceTree = "<group>"; };
 		17E3ACD02513880000B8C82F /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
@@ -191,6 +195,7 @@
 			children = (
 				17E3ACD8251388C500B8C82F /* QuizzModel.swift */,
 				176A4BCE251E616E00311859 /* ScoreModel.swift */,
+				1760DDA0252B40B900E606F2 /* ScorePostModel.swift */,
 			);
 			path = models;
 			sourceTree = "<group>";
@@ -200,6 +205,7 @@
 			children = (
 				17E3ACDD25138A4900B8C82F /* FetchQuizz.swift */,
 				176A4BC9251E614100311859 /* FetchScoreboard.swift */,
+				1760DD9B252B3CD600E606F2 /* UserSetting.swift */,
 			);
 			path = viewModel;
 			sourceTree = "<group>";
@@ -344,8 +350,10 @@
 				174508E32518ECE4008A129B /* ResultView.swift in Sources */,
 				1722DDBB2512817900300699 /* QuestionComponent.swift in Sources */,
 				1722DD81251280D900300699 /* SceneDelegate.swift in Sources */,
+				1760DD9C252B3CD600E606F2 /* UserSetting.swift in Sources */,
 				1722DDB92512815C00300699 /* AnswerComponent.swift in Sources */,
 				1722DD86251280D900300699 /* ContentView.swift in Sources */,
+				1760DDA1252B40B900E606F2 /* ScorePostModel.swift in Sources */,
 				17E3ACD12513880000B8C82F /* Home.swift in Sources */,
 				172CB45A251B973600E589C1 /* ScoreView.swift in Sources */,
 				176A4BCA251E614100311859 /* FetchScoreboard.swift in Sources */,

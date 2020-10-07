@@ -1,5 +1,5 @@
 //
-//  AnswerComponent.swift
+//  AnswerView.swift
 //  riseOfKnowledges
 //
 //  Created by Florian Beaumont on 9/15/20.
@@ -8,13 +8,13 @@
 
 import SwiftUI
 
-struct AnswerComponent: View {
+struct AnswerView: View {
     
     @State private var showResultView: Bool = false
     @State private var isCorrect: Bool = false
     
     var questionNumber: Int
-    var apiQuizDatas: FetchQuizz
+    var apiQuizDatas: QuizzViewModel
     
     
     var body: some View {

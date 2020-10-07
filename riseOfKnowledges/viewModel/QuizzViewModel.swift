@@ -1,5 +1,5 @@
 //
-//  FetchQuizz.swift
+//  QuizzViewModel.swift
 //  riseOfKnowledges
 //
 //  Created by Florian Beaumont on 9/17/20.
@@ -8,7 +8,7 @@
 
 import Foundation
 
-class FetchQuizz : ObservableObject {
+class QuizzViewModel : ObservableObject {
     
     @Published var quizz: [QuizzModel] = []
     

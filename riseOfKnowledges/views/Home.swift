@@ -10,7 +10,8 @@ import SwiftUI
 
 struct Home: View {
     
-    @ObservedObject var quizzDatas = FetchQuizz()
+    @ObservedObject var quizzDatas = QuizzViewModel()
+    @ObservedObject var userDatas = ScoreViewModel()
     
     @State private var username: String = ""
     @State private var showQuizzView: Bool = false
@@ -74,5 +75,12 @@ struct Home: View {
                 .edgesIgnoringSafeArea(.all)
             }
         }
+    }
+}
+
+struct Home_Previews: PreviewProvider {
+    static var previews: some View {
+        Home()
+            .previewDevice("iPhone 11 Pro")
     }
 }

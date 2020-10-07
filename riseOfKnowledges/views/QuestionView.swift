@@ -1,5 +1,5 @@
 //
-//  QuestionComponent.swift
+//  QuestionView.swift
 //  riseOfKnowledges
 //
 //  Created by Florian Beaumont on 9/15/20.
@@ -8,7 +8,7 @@
 
 import SwiftUI
 
-struct QuestionComponent: View {
+struct QuestionView: View {
     
     var question :String
     

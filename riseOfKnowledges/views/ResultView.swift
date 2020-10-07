@@ -14,7 +14,7 @@ struct ResultView: View {
     @Binding var isCorrect: Bool
     
     var questionNumber: Int
-    var apiQuizDatas: FetchQuizz
+    var apiQuizDatas: QuizzViewModel
     
     func redirect(_ questionNumb: Int) -> some View {
         if questionNumb >= 19 {

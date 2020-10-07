@@ -10,7 +10,7 @@ import SwiftUI
 
 struct ScoreView: View {
     
-    @ObservedObject var scoreDatas = FetchScoreboard()
+    @ObservedObject var scoreDatas = ScoreViewModel()
     
     var body: some View {
         VStack {
@@ -36,7 +36,7 @@ struct ScoreView: View {
             }
         }
         .onAppear() {
-            self.scoreDatas.fetchScoreBoard()
+            self.scoreDatas.getScore()
         }
         .background(Color("DarkBlue"))
     }

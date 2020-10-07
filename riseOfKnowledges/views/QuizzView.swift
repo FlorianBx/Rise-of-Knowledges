@@ -12,7 +12,7 @@ struct QuizzView: View {
     
     @State private var showScoreView: Bool = false
     
-    var apiDatas: FetchQuizz?
+    var apiDatas: QuizzViewModel?
     var questionNumber: Int = 0
     
     var body: some View {
@@ -22,10 +22,10 @@ struct QuizzView: View {
         return AnyView(
             VStack {
                 Spacer()
-                QuestionComponent(
+                QuestionView(
                     question: apiQuizDatas.quizz[questionNumber].question
                 )
-                AnswerComponent(
+                AnswerView(
                     questionNumber: questionNumber,
                     apiQuizDatas: apiQuizDatas
                 )

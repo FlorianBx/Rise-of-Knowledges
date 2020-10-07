@@ -1,5 +1,5 @@
 //
-//  Home.swift
+//  HomeView.swift
 //  riseOfKnowledges
 //
 //  Created by Florian Beaumont on 9/17/20.
@@ -8,7 +8,7 @@
 
 import SwiftUI
 
-struct Home: View {
+struct HomeView: View {
     
     @ObservedObject var quizzDatas = QuizzViewModel()
     @ObservedObject var userDatas = ScoreViewModel()
@@ -80,7 +80,7 @@ struct Home: View {
 
 struct Home_Previews: PreviewProvider {
     static var previews: some View {
-        Home()
+        HomeView()
             .previewDevice("iPhone 11 Pro")
     }
 }

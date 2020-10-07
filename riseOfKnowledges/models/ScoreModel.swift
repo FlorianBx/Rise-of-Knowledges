@@ -9,14 +9,14 @@
 import SwiftUI
 
 struct ScoreModel: Codable, Identifiable {
-    var id: String
+    var id: UUID
     var rank: Int
     var name: String
     var score: Int
 }
 
-struct ScorePostModel: Encodable {
-    var rank: Int
-    var name: String
-    var score: Int
-}
+//struct ScorePostModel: Encodable {
+//    var rank: Int
+//    var name: String
+//    var score: Int
+//}

@@ -1,29 +1,41 @@
 import ScoreBoard from '../modele/ScoreBoard';
 import mongoose from 'mongoose';
 
-const defineScore = ({name, question, answer, difficulty}) => {
-    
+const defineScore = (data) => {
+    const score = [];
+
+    data.map(value => {
+        if (value.answer === value.userAnswer) {
+            if (value.difficulty === '0') {
+                score.push(2);
+            }
+            return value.difficulty === '1' ? score.push(5) : score.push(15);
+        }
+    })
+    return score.reduce((a, b) => { return a + b});
 }
 
 const getScore = async (req, res) => {
     const getAllScore = await ScoreBoard.find().sort({score: -1})
+    console.log(getAllScore)
     return !getAllScore ? res.status(500).json({error: 'cannot get All score did you fetch the table ?'})
     : res.status(200).json(getAllScore);
 }
 
-const postScore = async (req, res) => {
-    const finalScore = [];
-    const {name, score} = req.body;
-    const getAllScore = await ScoreBoard.find().sort({score: -1});
-    let alreadyAdded = false;
-    getAllScore.map((value, index) => {
-        if(score > value.score && alreadyAdded === false) {
-            alreadyAdded = true;
-            finalScore.push({id: new mongoose.Types.ObjectId, rank: index, name: name, score: score});
-        }
-        finalScore.push(value);
-    })
-    return res.status(200).json(finalScore);
+const postAnswers = async (req, res) => {
+    const {name, data} = req.body;
+    const userScore = defineScore(data);
+    const isAlreadyAdded = await ScoreBoard.findOne({name: name});
+    if (!isAlreadyAdded) {
+        const addScore = await new ScoreBoard({name: name, score: userScore});
+        addScore.save()
+        .then(resolve => { return res.status(200).json({message: 'users : ' +  name + ' score successfully added ' + resolve})})
+        .catch((err) => { return res.status(500).json({error : err})});
+    }
+    return isAlreadyAdded && isAlreadyAdded.update({score: userScore}, (err, result) => {
+        if (err || !result) return res.status(500).json({error: 'cannot update user score'});
+        return res.status(200).json({message: 'updating successfully the user score'});
+    });
 }
 
-module.exports = {getScore, postScore};
+module.exports = {getScore, postAnswers};

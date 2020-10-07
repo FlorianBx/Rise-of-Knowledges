@@ -10,7 +10,6 @@
 		1722DD7F251280D900300699 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1722DD7E251280D900300699 /* AppDelegate.swift */; };
 		1722DD81251280D900300699 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1722DD80251280D900300699 /* SceneDelegate.swift */; };
 		1722DD84251280D900300699 /* riseOfKnowledges.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 1722DD82251280D900300699 /* riseOfKnowledges.xcdatamodeld */; };
-		1722DD86251280D900300699 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1722DD85251280D900300699 /* ContentView.swift */; };
 		1722DD88251280DA00300699 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1722DD87251280DA00300699 /* Assets.xcassets */; };
 		1722DD8B251280DA00300699 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1722DD8A251280DA00300699 /* Preview Assets.xcassets */; };
 		1722DD8E251280DA00300699 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1722DD8C251280DA00300699 /* LaunchScreen.storyboard */; };
@@ -23,7 +22,7 @@
 		174508E32518ECE4008A129B /* ResultView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 174508E22518ECE4008A129B /* ResultView.swift */; };
 		176A4BCA251E614100311859 /* ScoreViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 176A4BC9251E614100311859 /* ScoreViewModel.swift */; };
 		176A4BCF251E616E00311859 /* ScoreModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 176A4BCE251E616E00311859 /* ScoreModel.swift */; };
-		17E3ACD12513880000B8C82F /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17E3ACD02513880000B8C82F /* Home.swift */; };
+		17E3ACD12513880000B8C82F /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17E3ACD02513880000B8C82F /* HomeView.swift */; };
 		17E3ACD9251388C500B8C82F /* QuizzModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17E3ACD8251388C500B8C82F /* QuizzModel.swift */; };
 		17E3ACDE25138A4900B8C82F /* QuizzViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17E3ACDD25138A4900B8C82F /* QuizzViewModel.swift */; };
 		17EB070C2514E9C4008B6ECF /* Indicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17EB070B2514E9C4008B6ECF /* Indicator.swift */; };
@@ -51,7 +50,6 @@
 		1722DD7E251280D900300699 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1722DD80251280D900300699 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		1722DD83251280D900300699 /* riseOfKnowledges.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = riseOfKnowledges.xcdatamodel; sourceTree = "<group>"; };
-		1722DD85251280D900300699 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		1722DD87251280DA00300699 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1722DD8A251280DA00300699 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1722DD8D251280DA00300699 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -69,7 +67,7 @@
 		174508E22518ECE4008A129B /* ResultView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultView.swift; sourceTree = "<group>"; };
 		176A4BC9251E614100311859 /* ScoreViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreViewModel.swift; sourceTree = "<group>"; };
 		176A4BCE251E616E00311859 /* ScoreModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreModel.swift; sourceTree = "<group>"; };
-		17E3ACD02513880000B8C82F /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		17E3ACD02513880000B8C82F /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		17E3ACD8251388C500B8C82F /* QuizzModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizzModel.swift; sourceTree = "<group>"; };
 		17E3ACDD25138A4900B8C82F /* QuizzViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizzViewModel.swift; sourceTree = "<group>"; };
 		17EB070B2514E9C4008B6ECF /* Indicator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Indicator.swift; sourceTree = "<group>"; };
@@ -168,9 +166,8 @@
 			children = (
 				1722DDBA2512817900300699 /* QuestionView.swift */,
 				1722DDB82512815C00300699 /* AnswerView.swift */,
-				1722DD85251280D900300699 /* ContentView.swift */,
 				1722DDB62512813100300699 /* QuizzView.swift */,
-				17E3ACD02513880000B8C82F /* Home.swift */,
+				17E3ACD02513880000B8C82F /* HomeView.swift */,
 				17EB070B2514E9C4008B6ECF /* Indicator.swift */,
 				174508E22518ECE4008A129B /* ResultView.swift */,
 				172CB459251B973600E589C1 /* ScoreView.swift */,
@@ -337,8 +334,7 @@
 				1722DDBB2512817900300699 /* QuestionView.swift in Sources */,
 				1722DD81251280D900300699 /* SceneDelegate.swift in Sources */,
 				1722DDB92512815C00300699 /* AnswerView.swift in Sources */,
-				1722DD86251280D900300699 /* ContentView.swift in Sources */,
-				17E3ACD12513880000B8C82F /* Home.swift in Sources */,
+				17E3ACD12513880000B8C82F /* HomeView.swift in Sources */,
 				172CB45A251B973600E589C1 /* ScoreView.swift in Sources */,
 				176A4BCA251E614100311859 /* ScoreViewModel.swift in Sources */,
 				1722DD84251280D900300699 /* riseOfKnowledges.xcdatamodeld in Sources */,

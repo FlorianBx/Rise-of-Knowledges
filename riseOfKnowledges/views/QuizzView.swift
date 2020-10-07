@@ -17,7 +17,7 @@ struct QuizzView: View {
     
     var body: some View {
         guard let apiQuizDatas = apiDatas else {
-            return AnyView(Home())
+            return AnyView(HomeView())
         }
         return AnyView(
             VStack {

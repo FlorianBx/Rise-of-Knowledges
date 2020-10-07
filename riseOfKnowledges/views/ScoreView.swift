@@ -14,7 +14,7 @@ struct ScoreView: View {
     
     var body: some View {
         VStack {
-            if self.scoreDatas.scoreb.isEmpty {
+            if self.scoreDatas.allScore.isEmpty {
                 Indicator()
             } else {
                 VStack {
@@ -24,7 +24,7 @@ struct ScoreView: View {
                         .font(.largeTitle)
                         .font(.system(size: 46))
                         .fontWeight(.bold)
-                    List(self.scoreDatas.scoreb) { scoreData in
+                    List(self.scoreDatas.allScore) { scoreData in
                         HStack {
                             Text(String(scoreData.rank))
                             Text(scoreData.name)

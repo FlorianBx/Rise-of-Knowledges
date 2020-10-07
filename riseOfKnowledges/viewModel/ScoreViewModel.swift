@@ -10,12 +10,12 @@ import Foundation
 
 class ScoreViewModel: ObservableObject {
     
-    @Published var scoreb: [ScoreModel] = []
-    @Published var userScore: [ScorePostModel] = []
-    
-    let url = "http://192.168.1.43:3000/getScore"
+    @Published var allScore: [ScoreModel] = []
+    @Published var userScore: [ScoreModel] = []
     
     func getScore() {
+        let url = "http://192.168.1.43:3000/getScore"
+        
         let urlSession = URLSession(configuration: .default)
         urlSession.dataTask(with: URL(string: url)!) { (response, _, _) in
             guard let scoreDatas = response else { return }
@@ -24,7 +24,7 @@ class ScoreViewModel: ObservableObject {
                 let decoder = try JSONDecoder().decode([ScoreModel].self, from: scoreDatas)
                 print("API SCOREBOARD -> \(decoder)")
                 DispatchQueue.main.async {
-                    self.scoreb = decoder
+                    self.allScore = decoder
                 }
             } catch {
                 fatalError(error.localizedDescription)

@@ -22,7 +22,7 @@ const getScore = async (req, res) => {
     : res.status(200).json(getAllScore);
 }
 
-const postAnswers = async (req, res) => {
+const PostScore = async (req, res) => {
     const {name, datas} = req.body;
     const userScore = defineScore(datas);
     const isAlreadyAdded = await ScoreBoard.findOne({name: name});

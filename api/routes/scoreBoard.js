@@ -38,4 +38,4 @@ const PostScore = async (req, res) => {
     });
 }
 
-module.exports = {getScore, postAnswers};
+module.exports = {getScore, PostScore};

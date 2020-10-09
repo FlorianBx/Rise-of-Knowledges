@@ -1,10 +1,10 @@
 import ScoreBoard from '../modele/ScoreBoard';
 import mongoose from 'mongoose';
 
-const defineScore = (data) => {
+const defineScore = (datas) => {
     const score = [];
 
-    data.map(value => {
+    datas.map(value => {
         if (value.answer === value.userAnswer) {
             if (value.difficulty === '0') {
                 score.push(2);
@@ -23,8 +23,8 @@ const getScore = async (req, res) => {
 }
 
 const postAnswers = async (req, res) => {
-    const {name, data} = req.body;
-    const userScore = defineScore(data);
+    const {name, datas} = req.body;
+    const userScore = defineScore(datas);
     const isAlreadyAdded = await ScoreBoard.findOne({name: name});
     if (!isAlreadyAdded) {
         const addScore = await new ScoreBoard({name: name, score: userScore});

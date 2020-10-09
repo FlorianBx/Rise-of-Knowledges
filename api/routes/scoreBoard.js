@@ -12,12 +12,11 @@ const defineScore = (datas) => {
             return value.difficulty === '1' ? score.push(5) : score.push(15);
         }
     })
-    return score.reduce((a, b) => { return a + b});
+    return score != [] ? score.reduce((a, b) => { return a + b}) : 0;
 }
 
 const getScore = async (req, res) => {
     const getAllScore = await ScoreBoard.find().sort({score: -1})
-    console.log(getAllScore)
     return !getAllScore ? res.status(500).json({error: 'cannot get All score did you fetch the table ?'})
     : res.status(200).json(getAllScore);
 }

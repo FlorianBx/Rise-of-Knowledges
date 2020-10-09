@@ -22,7 +22,7 @@ class ScoreViewModel: ObservableObject {
             guard let scoreDatas = data else { return }
             do {
                 let decoder = try JSONDecoder().decode([OverallScoreModel].self, from: scoreDatas)
-                print("API SCOREBOARD -> \(decoder)")
+//                print("API SCOREBOARD -> \(decoder)")
                 DispatchQueue.main.async {
                     self.allScore = decoder
                 }

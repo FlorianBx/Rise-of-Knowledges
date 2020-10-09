@@ -52,7 +52,7 @@ struct HomeView: View {
                     .frame(minWidth: 0, maxWidth: .infinity, minHeight: 0, maxHeight: 100, alignment: .center)
                     
                     Button(action: {
-                        userDatas.userScore.append(UserScoreModel(id: "2398472847239842378uifwf", name: self.username, datas: []))
+                        userDatas.userScore.append(UserScoreModel(name: self.username, datas: []))
                         self.showQuizzView = true
                     }) {
                         Text("Play")

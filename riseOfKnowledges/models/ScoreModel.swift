@@ -20,8 +20,7 @@ struct datasScoreModel: Encodable {
     var userAnswer: String
 }
 
-struct UserScoreModel: Encodable, Identifiable {
-    var id: String
+struct UserScoreModel: Encodable {
     var name: String
     var datas: [datasScoreModel]
 }

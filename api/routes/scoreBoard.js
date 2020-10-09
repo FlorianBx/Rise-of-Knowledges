@@ -22,11 +22,14 @@ const getScore = async (req, res) => {
 }
 
 const PostScore = async (req, res) => {
+console.log("Hello world")
     const {name, datas} = req.body;
+console.log(req.body)
     const userScore = defineScore(datas);
+    const ObjectId = mongoose.Schema.Types.ObjectId;
     const isAlreadyAdded = await ScoreBoard.findOne({name: name});
     if (!isAlreadyAdded) {
-        const addScore = await new ScoreBoard({name: name, score: userScore});
+        const addScore = await new ScoreBoard({id: ObjectId, name: name, score: userScore});
         addScore.save()
         .then(resolve => { return res.status(200).json({message: 'users : ' +  name + ' score successfully added ' + resolve})})
         .catch((err) => { return res.status(500).json({error : err})});

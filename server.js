@@ -25,7 +25,7 @@ import {login, register} from './api/routes/users';
 import getAllData from './database/create_quizz';
 import getAllScore from './database/insertFakeDataToLeaderBoard';
 import getQuizz from './api/routes/quizz';
-import {getScore, postAnswers} from './api/routes/scoreBoard';
+import {getScore, PostScore} from './api/routes/scoreBoard';
 
 // require dotenv to use env variable
 
@@ -39,7 +39,7 @@ require('./database/config.js');
 
 app.post('/login', login);
 app.post('/register', register);
-app.post('/postAnswers', postAnswers)
+app.post('/postScore', PostScore)
 //getting data
 app.get('/getAllData', getAllData);
 app.get('/getAllScore', getAllScore)

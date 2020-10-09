@@ -18,30 +18,29 @@ class ScoreViewModel: ObservableObject {
         let url = "http://192.168.1.3:3000/getScore"
         
         let urlSession = URLSession(configuration: .default)
-        urlSession.dataTask(with: URL(string: url)!) { (response, _, _) in
-            guard let scoreDatas = response else { return }
-            
+        urlSession.dataTask(with: URL(string: url)!) { data, _, _ in
+            guard let scoreDatas = data else { return }
             do {
                 let decoder = try JSONDecoder().decode([OverallScoreModel].self, from: scoreDatas)
-//                print("API SCOREBOARD -> \(decoder)")
+                print("API SCOREBOARD -> \(decoder)")
                 DispatchQueue.main.async {
                     self.allScore = decoder
                 }
             } catch {
-                fatalError(error.localizedDescription)
+                print(error.localizedDescription)
             }
         }.resume()
     }
     
     func postScore() {
-        let url = URL(string: "http://192.168.1.3:3000/postAnswer")!
-        print("DATA POAST: \(userScore)")
-        guard let encoded = try? JSONEncoder().encode(userScore)
+        let url = URL(string: "http://192.168.1.3:3000/postScore")!
+
+        guard let encoded = try? JSONEncoder().encode(userScore[0])
         else {
             print("Failed to encode newScore")
             return
         }
-        print(encoded)
+
         var request = URLRequest(url: url)
         request.setValue("application/json", forHTTPHeaderField: "Content-Type")
         request.httpMethod = "POST"

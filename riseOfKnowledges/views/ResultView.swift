@@ -75,7 +75,7 @@ struct ResultView: View {
                             userAnswer: self.userAnswer
                         )
                     )
-                    print("DEBUG NEW OBJECT: \(userDatas.userScore)")
+//                    print("DEBUG NEW OBJECT: \(userDatas.userScore)")
                 }
                 .cornerRadius(10)
                 .opacity(0.8)

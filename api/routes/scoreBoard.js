@@ -12,7 +12,7 @@ const defineScore = (datas) => {
             return value.difficulty === '1' ? score.push(5) : score.push(15);
         }
     })
-    return score != [] ? score.reduce((a, b) => { return a + b}) : 0;
+    return score !== [] && score.length > 1 ? score.reduce((a, b) => { return a + b}) : 0;
 }
 
 const getScore = async (req, res) => {

@@ -12,9 +12,11 @@ struct AnswerView: View {
     
     @State private var showResultView: Bool = false
     @State private var isCorrect: Bool = false
+    @State private var userAnswer: String = ""
     
     var questionNumber: Int
     var apiQuizDatas: QuizzViewModel
+    var userDatas: ScoreViewModel
     
     
     var body: some View {
@@ -23,6 +25,7 @@ struct AnswerView: View {
                 ZStack {
                     VStack {
                         Button(action: {
+                            userAnswer = item
                             isCorrect = item == apiQuizDatas.quizz[questionNumber].answer ? true : false
                             self.showResultView = true
                         }) {
@@ -34,8 +37,10 @@ struct AnswerView: View {
                         .fullScreenCover(isPresented: $showResultView, content: {
                             ResultView(
                                 isCorrect: self.$isCorrect,
+                                userAnswer: $userAnswer,
                                 questionNumber: questionNumber,
-                                apiQuizDatas: apiQuizDatas
+                                apiQuizDatas: apiQuizDatas,
+                                userDatas: self.userDatas
                             )
                         })
                         .cornerRadius(15)

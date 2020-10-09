@@ -20,7 +20,7 @@ struct HomeView: View {
         ZStack {
             NavigationView {
                 VStack(alignment: .center, spacing: 15) {
-                    NavigationLink(destination: QuizzView(apiDatas: self.quizzDatas), isActive: $showQuizzView) {
+                    NavigationLink(destination: QuizzView(apiDatas: self.quizzDatas, userDatas: self.userDatas), isActive: $showQuizzView) {
                         EmptyView()
                     }
                     Image("rok")
@@ -51,7 +51,10 @@ struct HomeView: View {
                     .padding(.vertical, 10)
                     .frame(minWidth: 0, maxWidth: .infinity, minHeight: 0, maxHeight: 100, alignment: .center)
                     
-                    Button(action: { self.showQuizzView = true }) {
+                    Button(action: {
+                        userDatas.userScore.append(UserScoreModel(name: self.username, datas: []))
+                        self.showQuizzView = true
+                    }) {
                         Text("Play")
                             .font(.headline)
                             .foregroundColor(.white)
@@ -69,7 +72,7 @@ struct HomeView: View {
                     }
                     Spacer()
                 }.onAppear() {
-                    self.quizzDatas.fetchQuizzDatas()
+                    self.quizzDatas.getQuizz()
                 }
                 .background(Color("NightBlue"))
                 .edgesIgnoringSafeArea(.all)

@@ -12,16 +12,15 @@ class QuizzViewModel : ObservableObject {
     
     @Published var quizz: [QuizzModel] = []
     
-    let url = "http://192.168.1.43:3000/getQuizz/fr"
+    let url = "http://192.168.1.3:3000/getQuizz/fr"
     
-    func fetchQuizzDatas() {
+    func getQuizz() {
         let urlSession = URLSession(configuration: .default)
         urlSession.dataTask(with: URL(string: url)!) { (response, _, _) in
             guard let quizzDatas = response else { return }
-            
             do {
                 let decoder = try JSONDecoder().decode([QuizzModel].self, from: quizzDatas)
-                print("API -> \(decoder)")
+//                print("API -> \(decoder)")
                 DispatchQueue.main.async {
                     self.quizz = decoder
                 }

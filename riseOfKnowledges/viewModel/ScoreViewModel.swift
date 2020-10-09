@@ -10,19 +10,20 @@ import Foundation
 
 class ScoreViewModel: ObservableObject {
     
-    @Published var allScore: [ScoreModel] = []
-    @Published var userScore: [ScoreModel] = []
+    @Published var allScore: [OverallScoreModel] = []
+    @Published var userScore: [UserScoreModel] = []
+
     
     func getScore() {
-        let url = "http://192.168.1.43:3000/getScore"
+        let url = "http://192.168.1.3:3000/getScore"
         
         let urlSession = URLSession(configuration: .default)
         urlSession.dataTask(with: URL(string: url)!) { (response, _, _) in
             guard let scoreDatas = response else { return }
             
             do {
-                let decoder = try JSONDecoder().decode([ScoreModel].self, from: scoreDatas)
-                print("API SCOREBOARD -> \(decoder)")
+                let decoder = try JSONDecoder().decode([OverallScoreModel].self, from: scoreDatas)
+//                print("API SCOREBOARD -> \(decoder)")
                 DispatchQueue.main.async {
                     self.allScore = decoder
                 }
@@ -33,16 +34,51 @@ class ScoreViewModel: ObservableObject {
     }
     
     func postScore() {
-        let url = URL(string: "http://192.168.1.43:3000/postQuiz")!
-        
+        let url = URL(string: "http://192.168.1.3:3000/postAnswer")!
+        print("DATA POAST: \(userScore)")
         guard let encoded = try? JSONEncoder().encode(userScore)
         else {
             print("Failed to encode newScore")
             return
         }
+        print(encoded)
         var request = URLRequest(url: url)
         request.setValue("application/json", forHTTPHeaderField: "Content-Type")
         request.httpMethod = "POST"
         request.httpBody = encoded
+        URLSession.shared.dataTask(with: request) { data, response, error in
+            guard error == nil else {
+                print("Error: error calling POST")
+                print(error!)
+                return
+            }
+            guard let data = data else {
+                print("Error: Did not receive data")
+                return
+            }
+            guard let response = response as? HTTPURLResponse, (200 ..< 299) ~= response.statusCode else {
+                print("Error: HTTP request failed")
+                return
+            }
+            do {
+                guard let jsonObject = try JSONSerialization.jsonObject(with: data) as? [String: Any] else {
+                    print("Error: Cannot convert data to JSON object")
+                    return
+                }
+                guard let prettyJsonData = try? JSONSerialization.data(withJSONObject: jsonObject, options: .prettyPrinted) else {
+                    print("Error: Cannot convert JSON object to Pretty JSON data")
+                    return
+                }
+                guard let prettyPrintedJson = String(data: prettyJsonData, encoding: .utf8) else {
+                    print("Error: Couldn't print JSON in String")
+                    return
+                }
+                
+                print(prettyPrintedJson)
+            } catch {
+                print("Error: Trying to convert JSON data to string")
+                return
+            }
+        }.resume()
     }
 }

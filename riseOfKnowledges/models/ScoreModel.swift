@@ -8,15 +8,20 @@
 
 import SwiftUI
 
-struct ScoreModel: Codable, Identifiable {
-    var id: UUID
+struct OverallScoreModel: Codable, Identifiable {
+    var id: String
     var rank: Int
     var name: String
     var score: Int
 }
 
-//struct ScorePostModel: Encodable {
-//    var rank: Int
-//    var name: String
-//    var score: Int
-//}
+struct datasScoreModel: Encodable {
+    var answer: String
+    var difficulty: String
+    var userAnswer: String
+}
+
+struct UserScoreModel: Encodable {
+    var name: String
+    var datas: [datasScoreModel]
+}

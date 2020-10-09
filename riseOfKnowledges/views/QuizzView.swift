@@ -13,6 +13,7 @@ struct QuizzView: View {
     @State private var showScoreView: Bool = false
     
     var apiDatas: QuizzViewModel?
+    var userDatas: ScoreViewModel
     var questionNumber: Int = 0
     
     var body: some View {
@@ -27,7 +28,8 @@ struct QuizzView: View {
                 )
                 AnswerView(
                     questionNumber: questionNumber,
-                    apiQuizDatas: apiQuizDatas
+                    apiQuizDatas: apiQuizDatas,
+                    userDatas: self.userDatas
                 )
                 Spacer()
             }

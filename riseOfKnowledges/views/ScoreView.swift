@@ -12,6 +12,8 @@ struct ScoreView: View {
     
     @ObservedObject var scoreDatas = ScoreViewModel()
     
+    var userDatas: ScoreViewModel
+    
     var body: some View {
         VStack {
             if self.scoreDatas.allScore.isEmpty {
@@ -31,19 +33,15 @@ struct ScoreView: View {
                             Spacer()
                             Text(String(scoreData.score))
                         }
+                        .foregroundColor(Color.black)
                     }
                 }
             }
         }
         .onAppear() {
+            self.userDatas.postScore()
             self.scoreDatas.getScore()
         }
         .background(Color("DarkBlue"))
-    }
-}
-
-struct ScoreView_Previews: PreviewProvider {
-    static var previews: some View {
-        ScoreView()
     }
 }

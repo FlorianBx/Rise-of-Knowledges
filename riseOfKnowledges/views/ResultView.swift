@@ -11,16 +11,25 @@ import SwiftUI
 struct ResultView: View {
     
     @State private var showQuizzView: Bool = false
+    
     @Binding var isCorrect: Bool
+    @Binding var userAnswer: String
     
     var questionNumber: Int
     var apiQuizDatas: QuizzViewModel
+    var userDatas: ScoreViewModel
     
     func redirect(_ questionNumb: Int) -> some View {
-        if questionNumb >= 19 {
-            return AnyView(ScoreView())
+        if questionNumb >= 1 {
+            return AnyView(ScoreView(userDatas: self.userDatas))
         }
-        return AnyView(QuizzView(apiDatas: apiQuizDatas, questionNumber: questionNumber + 1))
+        return AnyView(
+            QuizzView(
+                apiDatas: apiQuizDatas,
+                userDatas: self.userDatas,
+                questionNumber: questionNumber + 1
+            )
+        )
     }
     
     var body: some View {
@@ -58,7 +67,16 @@ struct ResultView: View {
                         .frame(width: 300, height: 80, alignment: .center)
                         .background(Color.green)
                 }
-                .onAppear() { print(String(questionNumber)) }
+                .onAppear() {
+                    userDatas.userScore[0].datas.append(
+                        datasScoreModel(
+                            answer: apiQuizDatas.quizz[questionNumber].answer,
+                            difficulty: apiQuizDatas.quizz[questionNumber].difficulty,
+                            userAnswer: self.userAnswer
+                        )
+                    )
+                    print("DEBUG NEW OBJECT: \(userDatas.userScore)")
+                }
                 .cornerRadius(10)
                 .opacity(0.8)
                 .fullScreenCover(isPresented: $showQuizzView, content: {

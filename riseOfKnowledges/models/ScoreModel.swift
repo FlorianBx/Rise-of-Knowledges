@@ -10,7 +10,6 @@ import SwiftUI
 
 struct OverallScoreModel: Codable, Identifiable {
     var id: String
-    var rank: Int
     var name: String
     var score: Int
 }
@@ -21,7 +20,8 @@ struct datasScoreModel: Encodable {
     var userAnswer: String
 }
 
-struct UserScoreModel: Encodable {
+struct UserScoreModel: Encodable, Identifiable {
+    var id: String
     var name: String
     var datas: [datasScoreModel]
 }

@@ -28,7 +28,7 @@ struct ScoreView: View {
                         .fontWeight(.bold)
                     List(self.scoreDatas.allScore) { scoreData in
                         HStack {
-                            Text(String(scoreData.rank))
+                            Text(String(1))
                             Text(scoreData.name)
                             Spacer()
                             Text(String(scoreData.score))

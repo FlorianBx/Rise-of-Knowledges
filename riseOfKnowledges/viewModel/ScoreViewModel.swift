@@ -72,7 +72,7 @@ class ScoreViewModel: ObservableObject {
                     print("Error: Couldn't print JSON in String")
                     return
                 }
-                
+                self.getScore()
                 print(prettyPrintedJson)
             } catch {
                 print("Error: Trying to convert JSON data to string")

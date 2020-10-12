@@ -12,19 +12,19 @@ const defineScore = (datas) => {
             return value.difficulty === '1' ? score.push(5) : score.push(15);
         }
     })
-    return score != [] ? score.reduce((a, b) => { return a + b}) : 0;
+    return score !== [] && score.length > 1 ? score.reduce((a, b) => { return a + b}) : 0;
 }
 
 const getScore = async (req, res) => {
     const getAllScore = await ScoreBoard.find().sort({score: -1})
+console.log(getAllScore) //DEBUG
     return !getAllScore ? res.status(500).json({error: 'cannot get All score did you fetch the table ?'})
     : res.status(200).json(getAllScore);
 }
 
 const PostScore = async (req, res) => {
-console.log("Hello world")
     const {name, datas} = req.body;
-console.log(req.body)
+console.log(req.body) //DEBUG
     const userScore = defineScore(datas);
     const ObjectId = mongoose.Schema.Types.ObjectId;
     const isAlreadyAdded = await ScoreBoard.findOne({name: name});

@@ -1,6 +1,6 @@
 import mongoose from 'mongoose';
 
-const ObjectId = mongoose.Schema.Types.ObjectId;
+const ObjectId = mongoose.Types.ObjectId;
 const ScoreBoardSchema = new mongoose.Schema({
     id: {type: ObjectId},
     name: {

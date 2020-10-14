@@ -14,21 +14,20 @@ struct QuestionView: View {
     
     var body: some View {
         ZStack {
-            Spacer()
-            VStack {
-                Rectangle()
-                    .fill(Color.blue)
-                    .cornerRadius(15)
-                    .opacity(0.2)
-                    .padding()
-                    .frame(minWidth: 0, maxWidth: .infinity, minHeight: 0, maxHeight: 200)
-            }
+            GeometryReader { geometry in
+//            VStack {
+//                Rectangle()
+//                    .fill(Color.blue)
+//                    .cornerRadius(15)
+//                    .opacity(0.2)
+//                    .frame(width: geometry.size.width, height: 200)
+//            }
             Text(question)
                 .foregroundColor(Color.white)
-                .frame(minWidth: 0, maxWidth: 300, minHeight: 200, maxHeight: 400)
+                .frame(width: geometry.size.width, height: 200, alignment: .center)
                 .minimumScaleFactor(0.5)
-            Spacer()
+            }
         }
-        .edgesIgnoringSafeArea(.all)
+        .padding(10)
     }
 }

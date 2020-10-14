@@ -40,7 +40,9 @@ struct ScoreView: View {
         }
         .onAppear() {
             self.userDatas.postScore()
-            self.scoreDatas.getScore()
+            DispatchQueue.main.asyncAfter(deadline: .now() + 0.1) {
+                self.scoreDatas.getScore()
+            }
         }
         .background(Color("DarkBlue"))
     }

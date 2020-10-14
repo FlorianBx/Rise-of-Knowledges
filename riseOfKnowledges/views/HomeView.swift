@@ -31,12 +31,11 @@ struct HomeView: View {
                     
                     HStack (alignment: .center) {
                         Image(systemName: "person")
-                            .foregroundColor(.gray)
+                            .foregroundColor(.black)
                             .opacity(0.1)
                         TextField("Username", text: $username)
                             .foregroundColor(.white)
-                            .frame(width: 270, height: 50)
-                        if username.isEmpty {
+                        if !username.isEmpty {
                             Image(systemName: "xmark.circle.fill")
                                 .imageScale(.large)
                                 .foregroundColor(Color(.white))
@@ -45,11 +44,10 @@ struct HomeView: View {
                                 }
                         }
                     }
-                    .padding()
-                    .background(Color("DarkBlue"))
-                    .cornerRadius(20.0)
-                    .padding(.vertical, 10)
-                    .frame(minWidth: 0, maxWidth: .infinity, minHeight: 0, maxHeight: 100, alignment: .center)
+                    .frame(width: 260, height: 50)
+                    .padding(.horizontal, 20)
+                    .background(Color("cyanQuizz"))
+                    .cornerRadius(10.0)
                     
                     Button(action: {
                         userDatas.userScore.append(UserScoreModel(name: self.username, datas: []))
@@ -62,19 +60,20 @@ struct HomeView: View {
                             .frame(width: 300, height: 50)
                             .background(username.isEmpty || quizzDatas.quizz.isEmpty ?
                                             LinearGradient(gradient: Gradient(colors: [.gray, .gray]), startPoint: .leading, endPoint: .trailing) :
-                                            LinearGradient(gradient: Gradient(colors: [.pink, .purple]), startPoint: .leading, endPoint: .trailing))
+                                            LinearGradient(gradient: Gradient(colors: [Color("cyanQuizz"), .purple]), startPoint: .leading, endPoint: .trailing))
                             .opacity(70.0)
-                            .cornerRadius(20)
+                            .cornerRadius(10)
                     }
                     .disabled(username.isEmpty || quizzDatas.quizz.isEmpty)
                     VStack {
                         quizzDatas.quizz.isEmpty ? Indicator() : nil
                     }
+                    .frame(minWidth: 0, maxWidth: .infinity, minHeight: 0, maxHeight: .infinity)
                     Spacer()
                 }.onAppear() {
                     self.quizzDatas.getQuizz()
                 }
-                .background(Color("NightBlue"))
+                .background(Color("blueQuizz"))
                 .edgesIgnoringSafeArea(.all)
             }
         }

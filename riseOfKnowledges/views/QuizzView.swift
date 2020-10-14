@@ -23,6 +23,25 @@ struct QuizzView: View {
         return AnyView(
             VStack {
                 Spacer()
+                GeometryReader { geometry in
+                    HStack {
+                        Text("Question")
+                            .fontWeight(.heavy)
+                            .foregroundColor(.white)
+                            .font(.title)
+                        Text(questionNumber + 1 < 10 ? "0\(questionNumber + 1)" : "\(questionNumber + 1)")
+                            .fontWeight(.black)
+                            .foregroundColor(.white)
+                            .font(.largeTitle)
+                        Text("/20")
+                            .fontWeight(.light)
+                            .foregroundColor(.gray)
+                            .font(.title)
+                    }
+                    .frame(width: geometry.size.width - 10, height: 100, alignment: .leading)
+                    .padding(8)
+                }
+                .frame(minWidth: 0, maxWidth: .infinity, minHeight: 0, maxHeight: 100)
                 QuestionView(
                     question: apiQuizDatas.quizz[questionNumber].question
                 )
@@ -33,7 +52,7 @@ struct QuizzView: View {
                 )
                 Spacer()
             }
-            .background(Color("NightBlue"))
+            .background(Color("blueQuizz"))
             .edgesIgnoringSafeArea(.all)
             .navigationBarBackButtonHidden(true)
         )

@@ -20,7 +20,7 @@ struct ResultView: View {
     var userDatas: ScoreViewModel
     
     func redirect(_ questionNumb: Int) -> some View {
-        if questionNumb >= 1 {
+        if questionNumb >= 19 {
             return AnyView(ScoreView(userDatas: self.userDatas))
         }
         return AnyView(
@@ -38,28 +38,33 @@ struct ResultView: View {
                 Spacer()
                 VStack {
                     Text("Question:")
-                        .font(.headline)
+                        .font(.largeTitle)
+                        .bold()
                         .padding(.bottom)
                     Text(String(apiQuizDatas.quizz[questionNumber].question))
                 }
-                Spacer()
-                
+                Divider()
+                    .background(Color.white)
+                    .padding()
                 VStack {
                     Text("Answer:")
-                        .font(.headline)
+                        .font(.largeTitle)
+                        .bold()
                         .padding(.bottom)
                     Text(apiQuizDatas.quizz[questionNumber].answer)
                         .foregroundColor(isCorrect ? Color.green : Color.red)
                         .frame(minWidth: 100, idealWidth: 300, maxWidth: .infinity)
                 }
-                Spacer()
+                Divider()
+                    .background(Color.white)
+                    .padding()
                 VStack {
                     Text("Anecdote:")
-                        .font(.headline)
+                        .font(.largeTitle)
+                        .bold()
                         .padding(.bottom)
                     Text(apiQuizDatas.quizz[questionNumber].anecdote)
                 }
-                Spacer()
                 Spacer()
                 Button(action: { showQuizzView = true }) {
                     Text("Next")
@@ -75,7 +80,6 @@ struct ResultView: View {
                             userAnswer: self.userAnswer
                         )
                     )
-//                    print("DEBUG NEW OBJECT: \(userDatas.userScore)")
                 }
                 .cornerRadius(10)
                 .opacity(0.8)
@@ -85,7 +89,7 @@ struct ResultView: View {
                 Spacer()
             }
             .padding()
-            .background(Color("NightBlue"))
+            .background(Color("blueQuizz"))
             .navigationBarBackButtonHidden(true)
         }
         .edgesIgnoringSafeArea(.all)

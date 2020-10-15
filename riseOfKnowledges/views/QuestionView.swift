@@ -13,21 +13,12 @@ struct QuestionView: View {
     var question :String
     
     var body: some View {
-        ZStack {
-            GeometryReader { geometry in
-//            VStack {
-//                Rectangle()
-//                    .fill(Color.blue)
-//                    .cornerRadius(15)
-//                    .opacity(0.2)
-//                    .frame(width: geometry.size.width, height: 200)
-//            }
+        VStack {
             Text(question)
                 .foregroundColor(Color.white)
-                .frame(width: geometry.size.width, height: 200, alignment: .center)
+                .frame(minWidth: 100, idealWidth: 300, maxWidth: .infinity)
                 .minimumScaleFactor(0.5)
-            }
         }
-        .padding(10)
+        .padding()
     }
 }

@@ -23,33 +23,31 @@ struct QuizzView: View {
         return AnyView(
             VStack {
                 Spacer()
-                GeometryReader { geometry in
-                    HStack {
-                        Text("Question")
-                            .fontWeight(.heavy)
-                            .foregroundColor(.white)
-                            .font(.title)
-                        Text(questionNumber + 1 < 10 ? "0\(questionNumber + 1)" : "\(questionNumber + 1)")
-                            .fontWeight(.black)
-                            .foregroundColor(.white)
-                            .font(.largeTitle)
-                        Text("/20")
-                            .fontWeight(.light)
-                            .foregroundColor(.gray)
-                            .font(.title)
-                    }
-                    .frame(width: geometry.size.width - 10, height: 100, alignment: .leading)
-                    .padding(8)
+                HStack {
+                    Text("Question")
+                        .fontWeight(.heavy)
+                        .foregroundColor(.white)
+                        .font(.title)
+                    Text(questionNumber + 1 < 10 ? "0\(questionNumber + 1)" : "\(questionNumber + 1)")
+                        .fontWeight(.black)
+                        .foregroundColor(Color("cyanQuizz"))
+                        .font(.largeTitle)
+                    Text("/20")
+                        .fontWeight(.light)
+                        .foregroundColor(.gray)
+                        .font(.title)
                 }
-                .frame(minWidth: 0, maxWidth: .infinity, minHeight: 0, maxHeight: 100)
-                QuestionView(
-                    question: apiQuizDatas.quizz[questionNumber].question
-                )
-                AnswerView(
-                    questionNumber: questionNumber,
-                    apiQuizDatas: apiQuizDatas,
-                    userDatas: self.userDatas
-                )
+                .frame(minWidth: 250, idealWidth: 300, maxWidth: .infinity, minHeight: 100, idealHeight: 100, maxHeight: 100, alignment: .center)
+                VStack {
+                    QuestionView(
+                        question: apiQuizDatas.quizz[questionNumber].question
+                    )
+                    AnswerView(
+                        questionNumber: questionNumber,
+                        apiQuizDatas: apiQuizDatas,
+                        userDatas: self.userDatas
+                    )
+                }
                 Spacer()
             }
             .background(Color("blueQuizz"))

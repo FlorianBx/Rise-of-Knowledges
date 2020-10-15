@@ -26,14 +26,16 @@ struct ScoreView: View {
                         .font(.largeTitle)
                         .font(.system(size: 46))
                         .fontWeight(.bold)
-                    List(self.scoreDatas.allScore) { scoreData in
-                        HStack {
-                            Text(String(1))
-                            Text(scoreData.name)
-                            Spacer()
-                            Text(String(scoreData.score))
+                    List {
+                        ForEach(Array(self.scoreDatas.allScore.enumerated()), id: \.1.id) { (index, scoreData) in
+                            HStack {
+                                Text(String(index + 1))
+                                Text(scoreData.name)
+                                Spacer()
+                                Text(String(scoreData.score))
+                            }
                         }
-                        .foregroundColor(Color.black)
+                        .foregroundColor(Color("basicFont"))
                     }
                 }
             }
@@ -44,6 +46,6 @@ struct ScoreView: View {
                 self.scoreDatas.getScore()
             }
         }
-        .background(Color("DarkBlue"))
+        .background(Color("blueQuizz"))
     }
 }

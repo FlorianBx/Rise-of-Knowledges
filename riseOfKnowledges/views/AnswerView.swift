@@ -21,43 +21,36 @@ struct AnswerView: View {
     
     var body: some View {
         VStack {
-                ForEach(apiQuizDatas.quizz[questionNumber].suggestion, id: \.self) { item in
-                    GeometryReader { geometry in
-                    ZStack {
-                        VStack {
-                            Button(action: {
-                                userAnswer = item
-                                isCorrect = item == apiQuizDatas.quizz[questionNumber].answer ? true : false
-                                self.showResultView = true
-                            }) {
-                                Text(item)
-                                    .foregroundColor(.white)
-                                    .frame(width: geometry.size.width, height: 50)
-//                                    .background(Color.pink)
-                                    .overlay(
-                                         RoundedRectangle(cornerRadius: 8)
-                                             .stroke(Color.white, lineWidth: 1)
-                                    )
-                            }
-                            .fullScreenCover(isPresented: $showResultView, content: {
-                                ResultView(
-                                    isCorrect: self.$isCorrect,
-                                    userAnswer: $userAnswer,
-                                    questionNumber: questionNumber,
-                                    apiQuizDatas: apiQuizDatas,
-                                    userDatas: self.userDatas
-                                )
-                            })
-                            .cornerRadius(8)
-                            .opacity(0.6)
-                        }
-                        Spacer()
+            ForEach(apiQuizDatas.quizz[questionNumber].suggestion, id: \.self) { item in
+                VStack {
+                    Button(action: {
+                        userAnswer = item
+                        isCorrect = item == apiQuizDatas.quizz[questionNumber].answer ? true : false
+                        self.showResultView = true
+                    }) {
+                        Text(item)
+                            .foregroundColor(.white)
+                            .frame(minWidth: 100, idealWidth: 300, maxWidth: .infinity)
+                            .padding()
+                            .overlay(
+                                RoundedRectangle(cornerRadius: 8)
+                                    .stroke(Color.white, lineWidth: 1)
+                            )
                     }
-                    .frame(width: geometry.size.width, height: geometry.size.height, alignment: .center)
+                    .fullScreenCover(isPresented: $showResultView, content: {
+                        ResultView(
+                            isCorrect: self.$isCorrect,
+                            userAnswer: $userAnswer,
+                            questionNumber: questionNumber,
+                            apiQuizDatas: apiQuizDatas,
+                            userDatas: self.userDatas
+                        )
+                    })
+                    .padding()
+                    .cornerRadius(8)
+                    .opacity(0.6)
                 }
-                .padding()
             }
         }
-        .padding(.bottom, 40)
     }
 }

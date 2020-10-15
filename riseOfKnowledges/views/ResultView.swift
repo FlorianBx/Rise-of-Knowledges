@@ -21,7 +21,7 @@ struct ResultView: View {
     
     func redirect(_ questionNumb: Int) -> some View {
         if questionNumb >= 19 {
-            return AnyView(ScoreView(userDatas: self.userDatas))
+            return AnyView(ScoreView(score: userDatas, userDatas: self.userDatas))
         }
         return AnyView(
             QuizzView(

@@ -10,6 +10,8 @@ import SwiftUI
 
 struct AnswerView: View {
     
+    @ObservedObject var score: ScoreViewModel
+    
     @State private var showResultView: Bool = false
     @State private var isCorrect: Bool = false
     @State private var userAnswer: String = ""
@@ -25,7 +27,10 @@ struct AnswerView: View {
                 VStack {
                     Button(action: {
                         userAnswer = item
-                        isCorrect = item == apiQuizDatas.quizz[questionNumber].answer ? true : false
+                        if item == apiQuizDatas.quizz[questionNumber].answer {
+                            self.isCorrect.toggle()
+                            self.score.correctAnswer += 1
+                        }
                         self.showResultView = true
                     }) {
                         Text(item)
@@ -46,6 +51,7 @@ struct AnswerView: View {
                             userDatas: self.userDatas
                         )
                     })
+                    .frame(minHeight: 0, idealHeight: 40, maxHeight: 40)
                     .padding()
                     .cornerRadius(8)
                     .opacity(0.6)

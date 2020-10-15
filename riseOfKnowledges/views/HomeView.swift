@@ -34,7 +34,7 @@ struct HomeView: View {
                             .foregroundColor(.black)
                             .opacity(0.1)
                         TextField("Username", text: $username)
-                            .foregroundColor(.white)
+                            .foregroundColor(Color("basicFont"))
                         if !username.isEmpty {
                             Image(systemName: "xmark.circle.fill")
                                 .imageScale(.large)

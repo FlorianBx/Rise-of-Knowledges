@@ -12,6 +12,8 @@ class ScoreViewModel: ObservableObject {
     
     @Published var allScore: [OverallScoreModel] = []
     @Published var userScore: [UserScoreModel] = []
+    
+    @Published var correctAnswer: Int = 0
 
     
     func getScore() {

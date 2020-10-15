@@ -43,6 +43,7 @@ struct QuizzView: View {
                         question: apiQuizDatas.quizz[questionNumber].question
                     )
                     AnswerView(
+                        score: userDatas,
                         questionNumber: questionNumber,
                         apiQuizDatas: apiQuizDatas,
                         userDatas: self.userDatas

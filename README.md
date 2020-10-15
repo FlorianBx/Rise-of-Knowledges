@@ -1,5 +1,4 @@
 # Rise of Knowledges
 
-![Image 1](./images/IMG_2397.png =200x)
 
-
+<img src="./images/IMG_2397" width="200">

@@ -1,3 +1,3 @@
 # Rise of Knowledges
 
-![1][./images/IMG_2397]
+![](./images/IMG_2397)

@@ -1,4 +1,5 @@
 # Rise of Knowledges
 
-
-<img src="./images/IMG_2397" width="200">
+<p align="center">
+  <img width="140px" src="./images/IMG_2397" />
+</p>

@@ -17,7 +17,7 @@ The app stores the scores of the users who complete the quiz and displays them o
 The app uses an API to fetch the questions for the quiz. The API is reliable and provides a wide variety of questions, ensuring that the quiz is always fresh and challenging.
 
 ## Requirements
-SwiftUI 5.1 or later  
+SwiftUI  
 iOS 12.0 or later
 
 ## Installation
